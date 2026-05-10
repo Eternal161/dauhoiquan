@@ -11,18 +11,17 @@ from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 from playwright_stealth import Stealth
 
 # =========================================================
-# CONFIG HỘI QUÁN TV
+# CONFIG
 # =========================================================
-TARGET_SITE  = "https://sv2.hoiquan3.live/lich-thi-dau/bong-da"
-BASE_URL     = "https://sv2.hoiquan3.live"
-FILE_PATH    = "bongda.json"
+TARGET_SITE = "https://sv2.hoiquan3.live/lich-thi-dau/bong-da"
+BASE_URL = "https://sv2.hoiquan3.live"
+FILE_PATH = "bongda.json"
 WAITING_VIDEO_URL = "https://example.com/waiting.mp4"
-LIMIT_MATCHES = 10
+LIMIT_MATCHES = 15
 
 VN_TZ = datetime.timezone(datetime.timedelta(hours=7))
-
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
-REPO_NAME    = os.getenv("GH_REPO", "Eternal161/dauhoiquan")
+REPO_NAME = os.getenv("GH_REPO", "Eternal161/dauhoiquan")
 
 _HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
@@ -31,9 +30,6 @@ _HEADERS = {
 
 LOGO_CACHE = {}
 
-# =========================================================
-# LOGO
-# =========================================================
 def normalize_team_name(name):
     name = re.sub(r"\bFc\b$", "FC", name)
     return name.strip()
@@ -54,39 +50,38 @@ def get_team_logo(team_name):
     return f"https://ui-avatars.com/api/?name={requests.utils.quote(team_name[:2])}&size=200&background=1565C0&color=ffffff&bold=true"
 
 # =========================================================
-# PARSE MATCH TỪ URL (AN TOÀN HƠN PARSE TỪ HTML)
+# PARSE MATCH TỪ URL 
 # =========================================================
 def parse_url_to_info(url):
     try:
-        parts = url.rstrip('/').split('/')
-        slug = ""
-        for p in reversed(parts):
-            if "-vs-" in p:
-                slug = p.split('?')[0].split('#')[0]
-                break
-        if not slug: return "Unknown", "Unknown", "Chưa có lịch"
+        slug = url.rstrip('/').split('/')[-1].split('?')[0].split('#')[0]
+        if "-vs-" not in slug: 
+            return "Unknown", "Unknown", "LIVE"
 
-        # Loại bỏ các chuỗi id ở cuối (ví dụ: /601445470)
+        slug = re.sub(r'\.[a-zA-Z0-9_]+$', '', slug)
         slug = re.sub(r'-\d{6,}$', '', slug)
-        
-        # Bắt cụm thời gian theo định dạng dd-mm-yyyy-HHmm
-        time_match = re.search(r"-(\d{4}-\d{2}-\d{2}-\d{4})$", slug)
+
+        time_match = re.search(r"-(\d{4}-\d{2}-\d{2}-\d{4}|\d{2}-\d{2}-\d{4})$", slug)
         if time_match:
             t = time_match.group(1)
-            thoi_gian = f"{t[0:2]}:{t[2:4]} {t[5:7]}/{t[8:10]}/{t[11:15]}"
+            if len(t) > 10:
+                thoi_gian = f"{t[0:2]}:{t[2:4]} {t[5:7]}/{t[8:10]}/{t[11:15]}"
+            else:
+                thoi_gian = f"00:00 {t.replace('-', '/')}"
             teams_slug = slug[:slug.rfind("-" + t)]
         else:
-            thoi_gian, teams_slug = "Unknown", slug
+            thoi_gian = "LIVE"
+            teams_slug = slug
 
         teams = teams_slug.split("-vs-", 1)
         doi_nha = teams[0].replace("-", " ").title().strip()
         doi_khach = teams[1].replace("-", " ").title().strip() if len(teams) > 1 else "Unknown"
         return doi_nha, doi_khach, thoi_gian
     except:
-        return "Unknown", "Unknown", "Unknown"
+        return "Unknown", "Unknown", "LIVE"
 
 # =========================================================
-# CAPTURE STREAM (SÁT THỦ BẮT LINK HỘI QUÁN)
+# CAPTURE STREAM 
 # =========================================================
 def capture_stream(context, match_url):
     page = context.new_page()
@@ -95,15 +90,24 @@ def capture_stream(context, match_url):
 
     def process_url(url):
         u = url.lower()
-        if any(bad in u for bad in [".mp4", ".jpg", ".png", "waiting", "loop", "saba.m3u8", "/ad/", "/ads/", "/vast/", "quangcao", "banner"]):
+        if any(bad in u for bad in [".mp4", ".jpg", ".png", ".gif", "waiting", "loop", "saba.m3u8", "/ad/", "/ads/", "/vast/", "quangcao", "banner"]):
             return
-        # Tóm chặt các tên miền liên quan đến Hội Quán TV
-        if ".m3u8" in u or "100ycdn.com" in u or "edgemaxcdn.org" in u or "hqtv" in u:
+        if ".m3u8" in u:
             streams.add(url)
             print(f"      🎯 TÓM ĐƯỢC: {url[:70]}...")
 
+    def handle_response(res):
+        try:
+            url, ct = res.url, res.headers.get("content-type", "").lower()
+            if "json" in ct:
+                found = re.findall(r'(https?://[^\s"\'<>]+m3u8[^\s"\'<>]*)', res.text())
+                for f in found: process_url(f.replace('\\/', '/'))
+            if ".m3u8" in url.lower() or "mpegurl" in ct:
+                process_url(url)
+        except: pass
+
     page.on("request", lambda req: process_url(req.url))
-    page.on("response", lambda res: process_url(res.url))
+    page.on("response", handle_response)
 
     try:
         page.add_init_script("""
@@ -119,24 +123,15 @@ def capture_stream(context, match_url):
         page.goto(match_url, wait_until="load", timeout=60000)
         page.wait_for_timeout(3000)
 
-        # Cào mã HTML để phòng hờ web giấu link
         try:
-            html_content = page.content()
-            found = re.findall(r'(https?://[^\s"\'<>]+(?:m3u8|edgemaxcdn\.org|100ycdn\.com|hqtv)[^\s"\'<>]*)', html_content)
-            for f in found: process_url(f.replace('\\/', '/'))
+            found_in_html = re.findall(r'(https?://[^\s"\'<>]+m3u8[^\s"\'<>]*)', page.content())
+            for f in found_in_html: process_url(f.replace('\\/', '/'))
         except: pass
 
-        # Xóa popup chặn click
         try:
-            page.evaluate("""
-            document.querySelectorAll('*').forEach(el => {
-                const s = window.getComputedStyle(el);
-                if (s.position === 'fixed' && parseInt(s.zIndex) > 900) el.remove();
-            });
-            """)
+            page.evaluate("document.querySelectorAll('*').forEach(el => { const s = window.getComputedStyle(el); if (s.position === 'fixed' && parseInt(s.zIndex) > 900) el.remove(); });")
         except: pass
 
-        # Click phá quảng cáo
         try:
             vp = page.viewport_size
             if vp:
@@ -146,28 +141,19 @@ def capture_stream(context, match_url):
                     page.wait_for_timeout(800)
         except: pass
 
-        # Ép tất cả Iframe phát video
         for frame in page.frames:
-            try:
-                frame.evaluate("""
-                document.querySelectorAll('video').forEach(v => {
-                    v.muted = true; v.play().catch(()=>{});
-                });
-                """)
+            try: frame.evaluate("document.querySelectorAll('video').forEach(v => { v.muted = true; v.play().catch(()=>{}); });")
             except: pass
 
         deadline = time.time() + 15
         while time.time() < deadline:
-            # Nhận thấy token xịn của Hội Quán là ngắt luôn vòng lặp cho tiết kiệm thời gian
-            if any("100ycdn" in s.lower() or "edgemaxcdn" in s.lower() or "wssession=" in s.lower() for s in streams):
-                break
+            if any("100ycdn" in s.lower() or "edgemaxcdn" in s.lower() or "wssession=" in s.lower() for s in streams): break
             time.sleep(1)
 
     except PWTimeout: print("      ⚠️ TIMEOUT TRANG")
     except Exception as e: print("      ❌ STREAM ERROR:", e)
     finally: page.close()
 
-    # BỘ LỌC ĐIỂM CHUYÊN TRỊ HỘI QUÁN
     if streams:
         priority = []
         for s in streams:
@@ -187,13 +173,8 @@ def capture_stream(context, match_url):
         if best_score > -5000:
             print(f"      ✅ CHỐT LINK CHUẨN: {best_url[:70]}...")
             return best_url
-        else:
-            print("      ⚠️ CHỈ TÌM THẤY LUỒNG CHỜ/RÁC")
     return None
 
-# =========================================================
-# JSON & GITHUB
-# =========================================================
 def create_json(matches):
     total_live = sum(1 for m in matches if m.get("is_live"))
     total_streams = sum(1 for m in matches if m.get("stream_url") and m["stream_url"] != WAITING_VIDEO_URL)
@@ -223,11 +204,7 @@ def push_to_github(content):
             print(f"✅ Đã TẠO MỚI trên Github: {FILE_PATH}")
     except Exception as e:
         print(f"❌ LỖI ĐẨY GITHUB: {e}")
-        with open(FILE_PATH, "w", encoding="utf-8") as f: f.write(content)
 
-# =========================================================
-# MAIN - HỘI QUÁN TV
-# =========================================================
 def scrape_and_push():
     matches_data = []
     print("=" * 70)
@@ -251,14 +228,12 @@ def scrape_and_push():
                 page.wait_for_timeout(4000)
             except: pass
 
-            # Cuộn trang load ảnh
             for _ in range(4):
                 page.mouse.wheel(0, 3000)
                 page.wait_for_timeout(1000)
 
             links, seen = [], set()
-            
-            # Quét tìm URL trận đấu (Chắc chắn đúng 100%)
+            # Có thể Hội Quán dùng link /truc-tiep/ hoặc /bong-da/
             for el in page.locator("a[href*='-vs-']").all():
                 href = el.get_attribute("href")
                 if not href or "-vs-" not in href or href in seen: continue
@@ -272,14 +247,19 @@ def scrape_and_push():
             for idx, href in enumerate(links):
                 doi_nha, doi_khach, thoi_gian = parse_url_to_info(href)
                 is_live, status = False, "Chưa đá ⏳"
-                try:
-                    match_time = datetime.datetime.strptime(thoi_gian, "%H:%M %d/%m/%Y").replace(tzinfo=VN_TZ)
-                    diff_minutes = (datetime.datetime.now(VN_TZ) - match_time).total_seconds() / 60
-                    if -10 <= diff_minutes <= 120: is_live, status = True, "Đang trực tiếp 🔴"
-                    elif diff_minutes > 120: status = "Đã kết thúc 🏁"
-                except: pass
+                
+                if thoi_gian == "LIVE":
+                    is_live, status = True, "Đang trực tiếp 🔴"
+                else:
+                    try:
+                        match_time = datetime.datetime.strptime(thoi_gian, "%H:%M %d/%m/%Y").replace(tzinfo=VN_TZ)
+                        diff_minutes = (datetime.datetime.now(VN_TZ) - match_time).total_seconds() / 60
+                        if -10 <= diff_minutes <= 120: is_live, status = True, "Đang trực tiếp 🔴"
+                        elif diff_minutes > 120: status = "Đã kết thúc 🏁"
+                    except: 
+                        is_live, status = True, "Đang trực tiếp 🔴"
 
-                print(f"   [{idx+1}] {'🔴' if is_live else '⚪'} {doi_nha} vs {doi_khach}")
+                print(f"   [{idx+1}] {'🔴' if is_live else '⚪'} {doi_nha} vs {doi_khach} | {thoi_gian}")
                 matches_data.append({
                     "id": str(idx + 1), "title": f"{doi_nha} vs {doi_khach}", "doi_nha": doi_nha, "doi_khach": doi_khach,
                     "thoi_gian": thoi_gian, "trang_thai": status, "is_live": is_live,
@@ -298,7 +278,7 @@ def scrape_and_push():
             browser.close()
             
     except Exception as err:
-        print(f"❌ LỖI NGHIÊM TRỌNG: {err}")
+        print(f"❌ LỖI NGHIÊM TRỌNG TRONG QUÁ TRÌNH CHẠY: {err}")
         traceback.print_exc()
         
     finally:
