@@ -1,0 +1,442 @@
+{
+  "id": "hoiquan",
+  "url": "https://raw.githubusercontent.com/Eternal161/dauhoiquan/main/hoiquan.json",
+  "name": "Hội Quán TV",
+  "color": "#1cb57a",
+  "grid_number": 3,
+  "image": {
+    "type": "cover",
+    "url": "https://kaytee1012.github.io/hoiquan_logo.png"
+  },
+  "groups": [
+    {
+      "id": "live",
+      "name": "🔴 Live bóng đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-a785e3ecc9d8",
+          "name": "⚽ Dbu Pokalen vs Unknown | 15:0014/05/2026",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://ui-avatars.com/api/?name=Db&size=200&background=1565C0&color=ffffff&bold=true",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a785e3ecc9d8",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a785e3ecc9d8",
+                  "name": "Dbu Pokalen vs Unknown",
+                  "streams": [
+                    {
+                      "id": "kaytee-a785e3ecc9d8",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0e583f00ce20",
+          "name": "⚽ Premier League 2 Division One vs Unknown | 15:0014/05/2026",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://ui-avatars.com/api/?name=Pr&size=200&background=1565C0&color=ffffff&bold=true",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0e583f00ce20",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0e583f00ce20",
+                  "name": "Premier League 2 Division One vs Unknown",
+                  "streams": [
+                    {
+                      "id": "kaytee-0e583f00ce20",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-4c7d1ec44bcc",
+          "name": "⚽ Pro League vs Unknown | 15:5514/05/2026",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://ui-avatars.com/api/?name=Pr&size=200&background=1565C0&color=ffffff&bold=true",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4c7d1ec44bcc",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4c7d1ec44bcc",
+                  "name": "Pro League vs Unknown",
+                  "streams": [
+                    {
+                      "id": "kaytee-4c7d1ec44bcc",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-5ae5310f416f",
+          "name": "⚽ La Liga vs Unknown | 17:0014/05/2026",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://ui-avatars.com/api/?name=La&size=200&background=1565C0&color=ffffff&bold=true",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-5ae5310f416f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-5ae5310f416f",
+                  "name": "La Liga vs Unknown",
+                  "streams": [
+                    {
+                      "id": "kaytee-5ae5310f416f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-9ef10ef2989b",
+          "name": "⚽ La Liga vs Unknown | 18:0014/05/2026",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://ui-avatars.com/api/?name=La&size=200&background=1565C0&color=ffffff&bold=true",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-9ef10ef2989b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-9ef10ef2989b",
+                  "name": "La Liga vs Unknown",
+                  "streams": [
+                    {
+                      "id": "kaytee-9ef10ef2989b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-4631f395c072",
+          "name": "⚽ La Liga vs Unknown | 19:3014/05/2026",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://ui-avatars.com/api/?name=La&size=200&background=1565C0&color=ffffff&bold=true",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4631f395c072",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4631f395c072",
+                  "name": "La Liga vs Unknown",
+                  "streams": [
+                    {
+                      "id": "kaytee-4631f395c072",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e025f17ceb89",
+          "name": "⚽ La Liga vs Unknown | 19:3014/05/2026",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://ui-avatars.com/api/?name=La&size=200&background=1565C0&color=ffffff&bold=true",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e025f17ceb89",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e025f17ceb89",
+                  "name": "La Liga vs Unknown",
+                  "streams": [
+                    {
+                      "id": "kaytee-e025f17ceb89",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c8cb127efaf7",
+          "name": "⚽ Copa Do Brasil vs Unknown | 00:0015/05/2026",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://ui-avatars.com/api/?name=Co&size=200&background=1565C0&color=ffffff&bold=true",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c8cb127efaf7",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c8cb127efaf7",
+                  "name": "Copa Do Brasil vs Unknown",
+                  "streams": [
+                    {
+                      "id": "kaytee-c8cb127efaf7",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-88270a6c494e",
+          "name": "⚽ Liga Mx vs Unknown | 01:0015/05/2026",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://ui-avatars.com/api/?name=Li&size=200&background=1565C0&color=ffffff&bold=true",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-88270a6c494e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-88270a6c494e",
+                  "name": "Liga Mx vs Unknown",
+                  "streams": [
+                    {
+                      "id": "kaytee-88270a6c494e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6cda92a99abc",
+          "name": "⚽ Liga 1 vs Unknown | 08:3015/05/2026",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://ui-avatars.com/api/?name=Li&size=200&background=1565C0&color=ffffff&bold=true",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6cda92a99abc",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6cda92a99abc",
+                  "name": "Liga 1 vs Unknown",
+                  "streams": [
+                    {
+                      "id": "kaytee-6cda92a99abc",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
