@@ -67,10 +67,22 @@ def get_team_logo(team_name: str) -> str:
 # PARSE
 # =========================================================
 def parse_teams(title: str):
-    clean = re.sub(r'\.[A-Za-z0-9_\- ]{3,15}$', '', title).strip()
+    # Loại bỏ cụm ngày giờ ở đuôi nếu title được lấy từ URL (vd: -2024-05-14-2030)
+    clean = re.sub(r'-\d{4}-\d{2}-\d{2}-\d{2}\d{2}$', '', title)
+    clean = re.sub(r'\.[A-Za-z0-9_\- ]{3,15}$', '', clean).strip()
+
+    # Chuyển đổi định dạng URL (doi-a-vs-doi-b) thành có khoảng trắng để dễ cắt chuỗi
+    if '-vs-' in clean.lower():
+        clean = clean.replace('-', ' ')
+
+    # Cắt chuỗi dựa trên " vs " hoặc " - "
     if ' vs ' in clean.lower():
         parts = re.split(r'\s+vs\s+', clean, flags=re.IGNORECASE)
         return parts[0].strip().title(), parts[1].strip().title() if len(parts) > 1 else "Unknown"
+    elif ' - ' in clean:
+        parts = re.split(r'\s+-\s+', clean)
+        return parts[0].strip().title(), parts[1].strip().title() if len(parts) > 1 else "Unknown"
+
     return clean.title(), "Unknown"
 
 def parse_time_from_url(url: str) -> str:
@@ -407,12 +419,21 @@ def scrape_and_push():
                         if pt:
                             lines = [l.strip() for l in pt.split('\n') if l.strip()]
                             if lines:
-                                title = lines[0]
-                            for line in lines:
-                                if re.search(r'\d{1,2}:\d{2}', line):
-                                    thoi_gian = line.strip()
-                                if any(kw in line.lower() for kw in ['live', 'trực tiếp', 'đang phát']):
-                                    is_live = True
+                                # Ưu tiên tìm dòng có chứa chữ "vs" hoặc " - " làm tên trận
+                                for line in lines:
+                                    if ' vs ' in line.lower() or ' - ' in line:
+                                        title = line
+                                        break
+                                # Nếu không tìm thấy dấu hiệu nhận biết, dự phòng lấy dòng đầu
+                                if not title:
+                                    title = lines[0]
+
+                                # Quét tìm thời gian và trạng thái live
+                                for line in lines:
+                                    if re.search(r'\d{1,2}:\d{2}', line):
+                                        thoi_gian = line.strip()
+                                    if any(kw in line.lower() for kw in ['live', 'trực tiếp', 'đang phát']):
+                                        is_live = True
                     except:
                         pass
 
