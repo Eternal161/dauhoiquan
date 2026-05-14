@@ -1,71 +1,35 @@
-name: ⚽ Scrape Bóng Đá M3U8 HOIQUAN
+name: Hội Quán Bot
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
-
+    - cron: "*/30 * * * *"   # mỗi 30 phút
   workflow_dispatch:
 
 jobs:
-
   scrape:
-
     runs-on: ubuntu-22.04
-
-    timeout-minutes: 20
+    timeout-minutes: 15
 
     steps:
+      - uses: actions/checkout@v4
 
-    - name: 📥 Checkout
-      uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-    - name: 🐍 Setup Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.12'
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
 
-    - name: 🌐 Install Chrome
-      uses: browser-actions/setup-chrome@v1
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium --with-deps
 
-    - name: 💾 Cache Playwright
-      uses: actions/cache@v4
-      with:
-        path: ~/.cache/ms-playwright
-        key: ${{ runner.os }}-playwright
-
-    - name: 📦 Install dependencies
-      run: |
-
-        python -m pip install --upgrade pip
-
-        pip install -r requirements.txt
-
-        playwright install --with-deps chromium
-
-    - name: 🚀 Run bot
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        GH_REPO: Eternal161/dauhoiquan
-
-      run: |
-
-        python main.py
-
-    - name: 📄 Show output
-      run: |
-
-        ls -la
-
-        if [ -f bongda.json ]; then
-
-          echo "✅ bongda.json created"
-
-          cat bongda.json | head -20
-
-        else
-
-          echo "❌ bongda.json missing"
-
-          exit 1
-
-        fi
+      - name: Run bot
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_REPO:  ${{ github.repository }}
+        run: python main.py
