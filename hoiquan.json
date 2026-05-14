@@ -18,7 +18,7 @@
       "channels": [
         {
           "id": "kaytee-a785e3ecc9d8",
-          "name": "⚽ Dbu Pokalen vs Unknown | 15:0014/05/2026",
+          "name": "⚽ H1 vs 40' | 15:0014/05/2026",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -26,7 +26,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://ui-avatars.com/api/?name=Db&size=200&background=1565C0&color=ffffff&bold=true",
+            "url": "https://ui-avatars.com/api/?name=H1&size=200&background=1565C0&color=ffffff&bold=true",
             "width": 1600,
             "height": 1200
           },
@@ -45,7 +45,7 @@
               "contents": [
                 {
                   "id": "kaytee-a785e3ecc9d8",
-                  "name": "Dbu Pokalen vs Unknown",
+                  "name": "H1 vs 40'",
                   "streams": [
                     {
                       "id": "kaytee-a785e3ecc9d8",
@@ -59,50 +59,8 @@
           ]
         },
         {
-          "id": "kaytee-0e583f00ce20",
-          "name": "⚽ Premier League 2 Division One vs Unknown | 15:0014/05/2026",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://ui-avatars.com/api/?name=Pr&size=200&background=1565C0&color=ffffff&bold=true",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-0e583f00ce20",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-0e583f00ce20",
-                  "name": "Premier League 2 Division One vs Unknown",
-                  "streams": [
-                    {
-                      "id": "kaytee-0e583f00ce20",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-4c7d1ec44bcc",
-          "name": "⚽ Pro League vs Unknown | 15:5514/05/2026",
+          "name": "⚽ Sắp Bắt Đầu vs Null' | 15:5514/05/2026",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -110,7 +68,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://ui-avatars.com/api/?name=Pr&size=200&background=1565C0&color=ffffff&bold=true",
+            "url": "https://ui-avatars.com/api/?name=S%E1%BA%AF&size=200&background=1565C0&color=ffffff&bold=true",
             "width": 1600,
             "height": 1200
           },
@@ -129,7 +87,7 @@
               "contents": [
                 {
                   "id": "kaytee-4c7d1ec44bcc",
-                  "name": "Pro League vs Unknown",
+                  "name": "Sắp Bắt Đầu vs Null'",
                   "streams": [
                     {
                       "id": "kaytee-4c7d1ec44bcc",
@@ -427,6 +385,48 @@
                   "streams": [
                     {
                       "id": "kaytee-6cda92a99abc",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-06cbbfc31860",
+          "name": "⚽ Super League vs Unknown | 09:0015/05/2026",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://ui-avatars.com/api/?name=Su&size=200&background=1565C0&color=ffffff&bold=true",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-06cbbfc31860",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-06cbbfc31860",
+                  "name": "Super League vs Unknown",
+                  "streams": [
+                    {
+                      "id": "kaytee-06cbbfc31860",
                       "name": "F",
                       "stream_links": []
                     }
