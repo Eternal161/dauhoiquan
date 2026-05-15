@@ -28,6 +28,8 @@ _HEADERS = {
     "Accept-Language": "vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7",
 }
 
+LOGO_CACHE = {}
+
 # =========================================================
 # HELPER
 # =========================================================
@@ -40,12 +42,41 @@ def make_link_id() -> str:
     return "lnk-" + hashlib.md5(str(time.time_ns()).encode()).hexdigest()[:10]
 
 # =========================================================
-# LOGO 
+# LOGO (HỆ THỐNG LỌC 3 LỚP HOÀN HẢO)
 # =========================================================
-def get_logo_fallback(team_name: str, site_logo: str) -> str:
-    if site_logo and site_logo.startswith("http"):
-        return site_logo
+def get_api_logo(team_name: str) -> str:
+    """Lớp 1: Gọi API quốc tế (Logo siêu nét)"""
+    if not team_name or team_name == "Unknown": return ""
+    team_name = re.sub(r"\bFc\b$", "FC", team_name).strip()
     
+    if team_name in LOGO_CACHE: return LOGO_CACHE[team_name]
+    try:
+        slug = team_name.lower().replace(" ", "-")
+        r = requests.get(f"https://football-logos.cc/{slug}/", headers=_HEADERS, timeout=5)
+        m = re.search(r'https://football-logos\.cc/logos/[^"]+\.png', r.text)
+        if m:
+            LOGO_CACHE[team_name] = m.group(0)
+            return m.group(0)
+    except: pass
+    
+    LOGO_CACHE[team_name] = ""
+    return ""
+
+def get_final_logo(team_name: str, site_logo: str) -> str:
+    """Xử lý kết hợp 3 lớp để ra Logo xịn nhất"""
+    # 1. Thử gọi API trước
+    api_logo = get_api_logo(team_name)
+    if api_logo:
+        return api_logo
+        
+    # 2. Nếu API không có (Ví dụ đội Việt Nam), dùng logo cào từ web
+    if site_logo and site_logo.startswith("http"):
+        lo = site_logo.lower()
+        # Lọc sạch các ảnh rác, ảnh quả bóng mặc định
+        if not any(x in lo for x in ["default", "avatar", "icon", "user", "bong-da", "ball"]):
+            return site_logo
+            
+    # 3. Chốt chặn cuối cùng: Ảnh chữ cái (UI Avatars)
     initials = requests.utils.quote(team_name[:2] if len(team_name) >= 2 else "FC")
     return f"https://ui-avatars.com/api/?name={initials}&size=200&background=1565C0&color=ffffff&bold=true"
 
@@ -73,7 +104,7 @@ def parse_time_from_url(url: str) -> str:
     return ""
 
 # =========================================================
-# JS: EXTRACT MATCH DATA TRỰC TIẾP TỪ DOM (ĐÃ FIX LỖI LOGO)
+# JS: EXTRACT MATCH DATA TRỰC TIẾP TỪ DOM
 # =========================================================
 JS_EXTRACT = """
 () => {
@@ -149,24 +180,21 @@ JS_EXTRACT = """
             }
         }
 
-        // BỘ LỌC LOGO ĐỘI BÓNG THÔNG MINH
+        // BỘ LỌC ẢNH JS: Cắt bỏ các ảnh giải đấu, avatar rác ngay từ trình duyệt
         let homeLogo = '', awayLogo = '';
-        const allImgs = Array.from(a.querySelectorAll('img')).filter(i => i.src && !i.src.includes('gif') && !i.src.includes('svg'));
+        const cleanImgs = Array.from(a.querySelectorAll('img')).filter(i => {
+            const s = i.src.toLowerCase();
+            return s && !s.includes('gif') && !s.includes('svg') 
+                     && !s.includes('avatar') && !s.includes('user') 
+                     && !s.includes('default') && !s.includes('icon');
+        });
         
-        if (allImgs.length >= 4) {
-            // Có 4 ảnh: [0] Giải đấu, [1] Đội nhà, [2] Đội khách, [3] BLV
-            homeLogo = allImgs[1].src;
-            awayLogo = allImgs[2].src;
-        } else if (allImgs.length === 3) {
-            // Có 3 ảnh: [0] Giải đấu, [1] Đội nhà, [2] Đội khách
-            homeLogo = allImgs[1].src;
-            awayLogo = allImgs[2].src;
-        } else if (allImgs.length === 2) {
-            // Có 2 ảnh thì chắc chắn là đội nhà và đội khách
-            homeLogo = allImgs[0].src;
-            awayLogo = allImgs[1].src;
-        } else if (allImgs.length === 1) {
-            homeLogo = allImgs[0].src;
+        if (cleanImgs.length >= 2) {
+            // LUÔN LẤY 2 ẢNH CUỐI (Ảnh đầu thường là giải đấu, nếu nó lọt qua lưới lọc)
+            awayLogo = cleanImgs[cleanImgs.length - 1].src;
+            homeLogo = cleanImgs[cleanImgs.length - 2].src;
+        } else if (cleanImgs.length === 1) {
+            homeLogo = cleanImgs[0].src;
         }
 
         let timeStr = '';
@@ -486,8 +514,9 @@ def scrape_and_push():
         is_live   = m.get("isLive", False)
         league    = (m.get("league") or "").strip()
         
-        logo_nha   = get_logo_fallback(home, m.get("homeLogo"))
-        logo_khach = get_logo_fallback(away, m.get("awayLogo"))
+        # Chạy qua bộ lọc 3 lớp
+        logo_nha   = get_final_logo(home, m.get("homeLogo"))
+        logo_khach = get_final_logo(away, m.get("awayLogo"))
 
         ch = build_channel(
             home=home, away=away,
