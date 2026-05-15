@@ -7,65 +7,6 @@
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-6cda92a99abc",
-          "name": "⚽ Semen Padang vs Persebaya Surabaya | 15:30 15/05",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/min/1/1e/Semen_Padang_FC.png",
-          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuTyY0tUDghwoKecafyCjgfqvW_fzYBPga7A&s",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/min/1/1e/Semen_Padang_FC.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-6cda92a99abc",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-6cda92a99abc",
-                  "name": "Semen Padang vs Persebaya Surabaya",
-                  "streams": [
-                    {
-                      "id": "kaytee-6cda92a99abc",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2ec03d8eae",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvw1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=98564028407255a9ad484c9d-177884045808842&wsIPSercert=5f28e9cab1c9c63afadb389bdff8d29f&wsBindIP=2&wsserid=1172580915177615204"
-                        },
-                        {
-                          "id": "lnk-6d31c5c789",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-c357a11cf884",
           "name": "⚽ Adelaide United vs Auckland | 16:35 15/05",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3zrZ0HFvG9-HWKYsCOLXgZJ1y7d2zLCzmQ&s",
@@ -103,14 +44,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5babad1f9f",
+                          "id": "lnk-89b700860e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvw1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c7d52785bccab35145c6d0c8-177884046672891&wsIPSercert=5f28e9cab1c9c63afadb389bdff8d29f&wsBindIP=2&wsserid=1172580915182858212"
+                          "url": "https://tfvw1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=4162c49958e88f60cbf8d2bd-177884105495674&wsIPSercert=d2435574619b63cd8df734f7a87aca15&wsBindIP=2&wsserid=1168278313570948617"
                         },
                         {
-                          "id": "lnk-c76a7a080d",
+                          "id": "lnk-0f555d6a2f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -230,10 +171,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -248,7 +189,22 @@
                     {
                       "id": "kaytee-190f2d823976",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-19e6203403",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvw1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=ddf97ae7f08cbf1470eed1b8-177884107989309&wsIPSercert=d2435574619b63cd8df734f7a87aca15&wsBindIP=2&wsserid=1168282035622980969"
+                        },
+                        {
+                          "id": "lnk-9cd8da41ad",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -467,6 +423,50 @@
                   "streams": [
                     {
                       "id": "kaytee-bf5cd3539035",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-afc64ece960c",
+          "name": "⚽ Aston Villa vs Liverpool | 02:00 16/05",
+          "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
+          "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/nGfV05dipbAc7zzojivKew_96x96.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-afc64ece960c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-afc64ece960c",
+                  "name": "Aston Villa vs Liverpool",
+                  "streams": [
+                    {
+                      "id": "kaytee-afc64ece960c",
                       "name": "F",
                       "stream_links": []
                     }
