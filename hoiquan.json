@@ -8,7 +8,7 @@
       "channels": [
         {
           "id": "kaytee-6cda92a99abc",
-          "name": "⚽ Semen Padang vs Persebaya Surabaya",
+          "name": "⚽ Semen Padang vs Persebaya Surabaya | 08:30 15/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/min/1/1e/Semen_Padang_FC.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuTyY0tUDghwoKecafyCjgfqvW_fzYBPga7A&s",
           "type": "single",
@@ -44,14 +44,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5643e27b4b",
+                          "id": "lnk-ba1180863b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvw1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=63df5090efafaf6992db5545-177883570358515&wsIPSercert=38434defe3721faee71cd656a01497c7&wsBindIP=2&wsserid=1168243256620077470"
+                          "url": "https://tfvw1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=ddf97ae7f08cbf1470eed1b8-177883622960884&wsIPSercert=77c913c023671b5c98cfc7927c73f3f6&wsBindIP=2&wsserid=1168282035622980969"
                         },
                         {
-                          "id": "lnk-52b261a15c",
+                          "id": "lnk-4c4892a792",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -67,7 +67,7 @@
         },
         {
           "id": "kaytee-c357a11cf884",
-          "name": "⚽ Adelaide United vs Auckland",
+          "name": "⚽ Adelaide United vs Auckland | 09:35 15/05/2026",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3zrZ0HFvG9-HWKYsCOLXgZJ1y7d2zLCzmQ&s",
           "logo_khach": "https://media.api-sports.io/football/teams/24608.png",
           "type": "single",
@@ -83,10 +83,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -101,7 +101,22 @@
                     {
                       "id": "kaytee-c357a11cf884",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-f9db26cbcd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvw1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=4162c49958e88f60cbf8d2bd-177883623790136&wsIPSercert=77c913c023671b5c98cfc7927c73f3f6&wsBindIP=2&wsserid=1168278313570948617"
+                        },
+                        {
+                          "id": "lnk-6adbffa9c6",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -111,7 +126,7 @@
         },
         {
           "id": "kaytee-58c1caa8d9a2",
-          "name": "⚽ Ho Chi Minh vs Da Nang",
+          "name": "⚽ Ho Chi Minh vs Da Nang | 11:00 15/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/thumb/4/47/Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg/250px-Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3669.png",
           "type": "single",
@@ -155,7 +170,7 @@
         },
         {
           "id": "kaytee-055de2c8f7a3",
-          "name": "⚽ Shanghai Sipg vs Hangzhou Greentown",
+          "name": "⚽ Shanghai Sipg vs Hangzhou Greentown | 11:35 15/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/836.png",
           "logo_khach": "https://media.api-sports.io/football/teams/848.png",
           "type": "single",
@@ -198,8 +213,8 @@
           ]
         },
         {
-          "id": "kaytee-8dd7425e242e",
-          "name": "⚽ Tianjin Teda vs Chengdu Better City",
+          "id": "kaytee-190f2d823976",
+          "name": "⚽ Tianjin Teda vs Chengdu Better City | 11:35 15/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/837.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5648.png",
           "type": "single",
@@ -223,15 +238,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-8dd7425e242e",
+              "id": "kaytee-190f2d823976",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-8dd7425e242e",
+                  "id": "kaytee-190f2d823976",
                   "name": "Tianjin Teda vs Chengdu Better City",
                   "streams": [
                     {
-                      "id": "kaytee-8dd7425e242e",
+                      "id": "kaytee-190f2d823976",
                       "name": "F",
                       "stream_links": []
                     }
@@ -242,8 +257,8 @@
           ]
         },
         {
-          "id": "kaytee-263eb8dd9c28",
-          "name": "⚽ Beijing Guoan vs Qingdao Jonoon",
+          "id": "kaytee-8beae9dcd98f",
+          "name": "⚽ Beijing Guoan vs Qingdao Jonoon | 12:00 15/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/1431.png",
           "type": "single",
@@ -267,15 +282,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-263eb8dd9c28",
+              "id": "kaytee-8beae9dcd98f",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-263eb8dd9c28",
+                  "id": "kaytee-8beae9dcd98f",
                   "name": "Beijing Guoan vs Qingdao Jonoon",
                   "streams": [
                     {
-                      "id": "kaytee-263eb8dd9c28",
+                      "id": "kaytee-8beae9dcd98f",
                       "name": "F",
                       "stream_links": []
                     }
@@ -287,7 +302,7 @@
         },
         {
           "id": "kaytee-3e17da9c9462",
-          "name": "⚽ Japan U17 vs Tajikistan U17",
+          "name": "⚽ Japan U17 vs Tajikistan U17 | 16:00 15/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/12511.png",
           "logo_khach": "https://media.api-sports.io/football/teams/12521.png",
           "type": "single",
@@ -331,7 +346,7 @@
         },
         {
           "id": "kaytee-7621d29bdea4",
-          "name": "⚽ Fc Minsk vs Belshina",
+          "name": "⚽ Fc Minsk vs Belshina | 16:45 15/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/380.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3384.png",
           "type": "single",
@@ -375,7 +390,7 @@
         },
         {
           "id": "kaytee-5634db8bf31a",
-          "name": "⚽ Rizespor vs Beşiktaş",
+          "name": "⚽ Rizespor vs Beşiktaş | 17:00 15/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/tr/f/f6/%C3%87aykur_Rizespor_Logo.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/d/da/BesiktasJK-Logo.svg",
           "type": "single",
@@ -419,7 +434,7 @@
         },
         {
           "id": "kaytee-bf5cd3539035",
-          "name": "⚽ Saudi Arabia U17 vs China Pr U17",
+          "name": "⚽ Saudi Arabia U17 vs China Pr U17 | 17:00 15/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/21449.png",
           "type": "single",
