@@ -16,7 +16,7 @@ from playwright_stealth import Stealth
 TARGET_SITE   = "https://sv2.hoiquan3.live/lich-thi-dau/bong-da"
 BASE_URL      = "https://sv2.hoiquan3.live"
 FILE_PATH     = "hoiquan.json"
-LIMIT_MATCHES = 10
+LIMIT_MATCHES = 15
 
 VN_TZ = datetime.timezone(datetime.timedelta(hours=7))
 
@@ -27,8 +27,6 @@ _HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
     "Accept-Language": "vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7",
 }
-
-LOGO_CACHE = {}
 
 # =========================================================
 # HELPER
@@ -42,26 +40,15 @@ def make_link_id() -> str:
     return "lnk-" + hashlib.md5(str(time.time_ns()).encode()).hexdigest()[:10]
 
 # =========================================================
-# LOGO
+# LOGO (NÂNG CẤP LẤY TRỰC TIẾP TỪ WEB)
 # =========================================================
-def get_team_logo(team_name: str) -> str:
-    if not team_name:
-        return ""
-    if team_name in LOGO_CACHE:
-        return LOGO_CACHE[team_name]
-    try:
-        slug = team_name.lower().replace(" ", "-")
-        r = requests.get(f"https://football-logos.cc/{slug}/", headers=_HEADERS, timeout=5)
-        m = re.search(r'https://football-logos\.cc/logos/[^"]+\.png', r.text)
-        if m:
-            LOGO_CACHE[team_name] = m.group(0)
-            return m.group(0)
-    except:
-        pass
-    initials = requests.utils.quote(team_name[:2])
-    url = f"https://ui-avatars.com/api/?name={initials}&size=200&background=1565C0&color=ffffff&bold=true"
-    LOGO_CACHE[team_name] = url
-    return url
+def get_logo_fallback(team_name: str, site_logo: str) -> str:
+    if site_logo and site_logo.startswith("http"):
+        return site_logo
+    
+    # Rớt mạng thì tự động tạo ảnh avatar chữ
+    initials = requests.utils.quote(team_name[:2] if len(team_name) >= 2 else "FC")
+    return f"https://ui-avatars.com/api/?name={initials}&size=200&background=1565C0&color=ffffff&bold=true"
 
 # =========================================================
 # PARSE TÊN ĐỘI TỪ SLUG URL (fallback)
@@ -88,22 +75,14 @@ def parse_time_from_url(url: str) -> str:
 
 # =========================================================
 # JS: EXTRACT MATCH DATA TRỰC TIẾP TỪ DOM
-# Dựa trên cấu trúc thực tế quan sát từ ảnh chụp màn hình:
-#   - Mỗi card có tên giải ở header
-#   - Tên đội nhà + đội khách nằm dưới logo tương ứng
-#   - Giờ đấu nằm ở giữa card
 # =========================================================
 JS_EXTRACT = """
 () => {
     const results = [];
     const seen = new Set();
-
     const clean = t => (t || '').replace(/\\s+/g, ' ').trim();
-
-    // Từ khoá cần BỎ QUA khi tìm tên đội
     const SKIP = /^(vs\\.?|live|blv|bóng đá|sắp diễn ra|đang phát|đặt cược|bảng|giải|\\d+[:\\-\\/]\\d+|\\d+$)/i;
 
-    // ── Tìm tất cả <a> trỏ đến trang trận đấu ─────────────────────────────
     const anchors = Array.from(document.querySelectorAll('a[href]')).filter(a => {
         const h = a.href || '';
         return (
@@ -121,19 +100,16 @@ JS_EXTRACT = """
         if (seen.has(href)) continue;
         seen.add(href);
 
-        // ── 1. Lấy tên giải TRƯỚC — để loại khỏi tìm kiếm tên đội ──────────
         let league = '';
         const leagueSelectors = [
             '[class*="league" i]', '[class*="tournament" i]',
             '[class*="competition" i]', '[class*="category" i]',
-            '[class*="sport-name" i]', '[class*="title" i]',
-            'h3', 'h4', 'h5',
+            '[class*="sport-name" i]', '[class*="title" i]', 'h3', 'h4', 'h5',
         ];
         for (const sel of leagueSelectors) {
             const el = a.querySelector(sel);
             if (el) {
                 const t = clean(el.innerText);
-                // Tên giải thường ngắn (< 40 ký tự) và không chứa số tỷ số
                 if (t && t.length < 40 && !/\\d+\\s*[-:]\\s*\\d+/.test(t)) {
                     league = t;
                     break;
@@ -141,36 +117,25 @@ JS_EXTRACT = """
             }
         }
 
-        // ── 2. Trạng thái live ────────────────────────────────────────────
         const cardText = clean(a.innerText).toLowerCase();
-        const isLive = /live|trực tiếp|đang phát/.test(cardText)
-                    || !!a.querySelector('[class*="live" i]');
+        const isLive = /live|trực tiếp|đang phát/.test(cardText) || !!a.querySelector('[class*="live" i]');
 
-        // ── 3. Tên đội ────────────────────────────────────────────────────
         let home = '', away = '';
-
-        // Chiến lược A (ƯU TIÊN): parse slug URL
-        // Site luôn có dạng: doi-nha-vs-doi-khach.HASH/ID
-        // Ví dụ: vitoria-vs-flamengo.zbbShYsKYF/7435
         for (const seg of href.split('/').reverse()) {
             const base = seg.split('.')[0];
             const vm = base.match(/^(.+?)-vs-(.+)$/i);
             if (vm) {
-                const toTitle = s => s.replace(/-/g, ' ')
-                    .replace(/\b\w/g, c => c.toUpperCase());
+                const toTitle = s => s.replace(/-/g, ' ').replace(/\\b\\w/g, c => c.toUpperCase());
                 home = toTitle(vm[1]);
                 away = toTitle(vm[2]);
                 break;
             }
         }
 
-        // Chiến lược B: CSS selector (fallback)
         if (!home || !away) {
             const nameSelectors = [
-                '.team-name', '.club-name',
-                '[class*="team-name"]', '[class*="teamName"]',
-                '[class*="home-name"]', '[class*="away-name"]',
-                '[class*="team_name"]', '[class*="club_name"]',
+                '.team-name', '.club-name', '[class*="team-name"]', '[class*="teamName"]',
+                '[class*="home-name"]', '[class*="away-name"]', '[class*="team_name"]', '[class*="club_name"]',
                 '.home .name', '.away .name',
             ];
             for (const sel of nameSelectors) {
@@ -185,37 +150,19 @@ JS_EXTRACT = """
             }
         }
 
-        // Chiến lược C: text node lá, loại bỏ tên giải (fallback cuối)
-        if (!home || !away) {
-            const leafTexts = [];
-            const walker = document.createTreeWalker(a, NodeFilter.SHOW_TEXT);
-            let node;
-            while ((node = walker.nextNode())) {
-                const t = clean(node.textContent);
-                if (
-                    t.length >= 2 &&
-                    t.length <= 45 &&
-                    !SKIP.test(t) &&
-                    t !== league &&
-                    !/^[\\d\\s:\\/\\-\\.]+$/.test(t)
-                ) {
-                    leafTexts.push(t);
-                }
-            }
-            if (leafTexts.length >= 2) {
-                home = home || leafTexts[0];
-                away = away || leafTexts[leafTexts.length - 1];
-            } else if (leafTexts.length === 1) {
-                home = home || leafTexts[0];
-            }
+        // CÀO TRỰC TIẾP URL ẢNH LOGO TỪ WEB
+        let homeLogo = '', awayLogo = '';
+        const imgs = Array.from(a.querySelectorAll('img')).filter(i => i.src && !i.src.includes('gif') && !i.src.includes('svg'));
+        if (imgs.length >= 2) {
+            homeLogo = imgs[0].src;
+            awayLogo = imgs[imgs.length - 1].src;
+        } else if (imgs.length === 1) {
+            homeLogo = imgs[0].src;
+            awayLogo = imgs[0].src;
         }
 
-        // ── 4. Giờ đấu ───────────────────────────────────────────────────
         let timeStr = '';
-        const timeEl = a.querySelector(
-            '[class*="time" i], [class*="date" i], [class*="hour" i], ' +
-            '[class*="schedule" i], [class*="kickoff" i]'
-        );
+        const timeEl = a.querySelector('[class*="time" i], [class*="date" i], [class*="hour" i], [class*="schedule" i], [class*="kickoff" i]');
         if (timeEl) {
             timeStr = clean(timeEl.innerText);
         }
@@ -224,9 +171,8 @@ JS_EXTRACT = """
             if (tm) timeStr = tm[0].trim();
         }
 
-        results.push({ href, home, away, timeStr, isLive, league });
+        results.push({ href, home, away, timeStr, isLive, league, homeLogo, awayLogo });
     }
-
     return results;
 }
 """
@@ -236,10 +182,8 @@ JS_EXTRACT = """
 # =========================================================
 def capture_stream(context, match_url: str) -> list:
     page = context.new_page()
-    try:
-        Stealth().apply_stealth_sync(page)
-    except:
-        pass
+    try: Stealth().apply_stealth_sync(page)
+    except: pass
 
     streams = set()
     BAD = [
@@ -251,10 +195,8 @@ def capture_stream(context, match_url: str) -> list:
 
     def process_url(url):
         u = url.lower()
-        if ".m3u8" not in u:
-            return
-        if any(b in u for b in BAD):
-            return
+        if ".m3u8" not in u: return
+        if any(b in u for b in BAD): return
         streams.add(url)
         print(f"      🎯 {url[:90]}")
 
@@ -278,15 +220,10 @@ def capture_stream(context, match_url: str) -> list:
         """)
         page.goto(match_url, wait_until="load", timeout=60000)
         page.wait_for_timeout(3000)
-        try:
-            page.evaluate("""
-            document.querySelectorAll('*').forEach(el => {
-                const s = window.getComputedStyle(el);
-                if (s.position === 'fixed' && parseInt(s.zIndex||0) > 900) el.remove();
-            });
-            """)
-        except:
-            pass
+        
+        try: page.evaluate("document.querySelectorAll('*').forEach(el => { const s = window.getComputedStyle(el); if (s.position === 'fixed' && parseInt(s.zIndex||0) > 900) el.remove(); });")
+        except: pass
+        
         try:
             vp = page.viewport_size
             if vp:
@@ -294,40 +231,28 @@ def capture_stream(context, match_url: str) -> list:
                 for _ in range(2):
                     page.mouse.click(cx, cy)
                     page.wait_for_timeout(1000)
-        except:
-            pass
+        except: pass
+        
         for frame in page.frames:
-            try:
-                frame.evaluate("document.querySelectorAll('video').forEach(v => { v.muted=true; v.play().catch(()=>{}); });")
-            except:
-                pass
+            try: frame.evaluate("document.querySelectorAll('video').forEach(v => { v.muted=true; v.play().catch(()=>{}); });")
+            except: pass
+            
         deadline = time.time() + 20
         while time.time() < deadline:
-            if any("100ycdn" in s.lower() or "edgemaxcdn" in s.lower() for s in streams):
+            if any("100ycdn" in s.lower() or "edgemaxcdn" in s.lower() or "wssession=" in s.lower() for s in streams):
                 break
             time.sleep(1)
+            
         try:
             for url in re.findall(r'https?://[^\s"\'<>]+\.m3u8(?:[^\s"\'<>]*)?', page.content(), re.I):
                 process_url(url)
-        except:
-            pass
-        for iframe in page.query_selector_all("iframe"):
-            try:
-                frame = iframe.content_frame()
-                if frame:
-                    for url in re.findall(r'https?://[^\s"\'<>]+\.m3u8(?:[^\s"\'<>]*)?', frame.content(), re.I):
-                        process_url(url)
-            except:
-                pass
-    except PWTimeout:
-        print("      ⚠️ TIMEOUT")
-    except Exception as e:
-        print(f"      ❌ {e}")
-    finally:
-        page.close()
+        except: pass
+        
+    except PWTimeout: print("      ⚠️ TIMEOUT")
+    except Exception as e: print(f"      ❌ {e}")
+    finally: page.close()
 
-    if not streams:
-        return []
+    if not streams: return []
 
     scored = []
     for s in streams:
@@ -354,16 +279,13 @@ def capture_stream(context, match_url: str) -> list:
 # BUILD JSON
 # =========================================================
 def build_channel(home: str, away: str, thoi_gian: str, is_live: bool,
-                  stream_urls: list, match_url: str, thumb_url: str,
+                  stream_urls: list, match_url: str, logo_nha: str, logo_khach: str,
                   league: str = "") -> dict:
     cid = make_id(match_url)
     title_clean  = f"{home} vs {away}"
-    # Hiển thị: "⚽ Vitoria vs Flamengo | Copa Do Brasil | 07:00 15/05/2026"
     parts = ["⚽ " + title_clean]
-    if league:
-        parts.append(league)
-    if thoi_gian:
-        parts.append(thoi_gian)
+    if league: parts.append(league)
+    if thoi_gian: parts.append(thoi_gian)
     display_name = " | ".join(parts)
 
     if is_live and stream_urls:
@@ -386,6 +308,8 @@ def build_channel(home: str, away: str, thoi_gian: str, is_live: bool,
     return {
         "id": cid,
         "name": display_name,
+        "logo_nha": logo_nha,       # CHUYỀN RA NGOÀI ĐỂ APP FLUTTER ĐỌC
+        "logo_khach": logo_khach,   # CHUYỀN RA NGOÀI ĐỂ APP FLUTTER ĐỌC
         "type": "single",
         "display": "thumbnail-only",
         "enable_detail": False,
@@ -393,32 +317,25 @@ def build_channel(home: str, away: str, thoi_gian: str, is_live: bool,
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": thumb_url,
+            "url": logo_nha,
             "width": 1600,
             "height": 1200,
         },
         "labels": [label],
-        "sources": [
-            {
+        "sources": [{
+            "id": cid,
+            "name": "Hội Quán",
+            "contents": [{
                 "id": cid,
-                "name": "Hội Quán",
-                "contents": [
-                    {
-                        "id": cid,
-                        "name": title_clean,
-                        "streams": [
-                            {
-                                "id": cid,
-                                "name": "F",
-                                "stream_links": stream_links,
-                            }
-                        ],
-                    }
-                ],
-            }
-        ],
+                "name": title_clean,
+                "streams": [{
+                    "id": cid,
+                    "name": "F",
+                    "stream_links": stream_links,
+                }]
+            }]
+        }],
     }
-
 
 def build_json(channels: list) -> dict:
     return {
@@ -431,16 +348,14 @@ def build_json(channels: list) -> dict:
             "type": "cover",
             "url": "https://kaytee1012.github.io/hoiquan_logo.png",
         },
-        "groups": [
-            {
-                "id": "live",
-                "name": "🔴 Live bóng đá",
-                "display": "vertical",
-                "grid_number": 2,
-                "enable_detail": False,
-                "channels": channels,
-            }
-        ],
+        "groups": [{
+            "id": "live",
+            "name": "🔴 Live bóng đá",
+            "display": "vertical",
+            "grid_number": 2,
+            "enable_detail": False,
+            "channels": channels,
+        }],
     }
 
 # =========================================================
@@ -487,40 +402,25 @@ def scrape_and_push():
             viewport={"width": 1920, "height": 1080},
             user_agent=_HEADERS["User-Agent"],
             ignore_https_errors=True,
+            timezone_id="Asia/Ho_Chi_Minh", # FIX LỖI MÚI GIỜ
         )
 
-        # ── Bước 1: Quét trang lịch ──────────────────────────────────────────
         print(f"\n📺 QUÉT: {TARGET_SITE}")
         page = context.new_page()
-        try:
-            Stealth().apply_stealth_sync(page)
-        except:
-            pass
+        try: Stealth().apply_stealth_sync(page)
+        except: pass
 
-        try:
-            page.goto(TARGET_SITE, wait_until="networkidle", timeout=60000)
-        except:
-            try:
-                page.goto(TARGET_SITE, wait_until="domcontentloaded", timeout=60000)
-            except:
-                pass
+        try: page.goto(TARGET_SITE, wait_until="networkidle", timeout=60000)
+        except: 
+            try: page.goto(TARGET_SITE, wait_until="domcontentloaded", timeout=60000)
+            except: pass
 
         page.wait_for_timeout(5000)
 
-        # Scroll để lazy load
         for _ in range(5):
             page.mouse.wheel(0, 3000)
             page.wait_for_timeout(700)
 
-        # Lưu HTML debug để xem cấu trúc (bỏ comment sau khi ổn)
-        try:
-            with open("debug_page.html", "w", encoding="utf-8") as f:
-                f.write(page.content())
-            print("   📝 Saved debug_page.html")
-        except:
-            pass
-
-        # ── Extract bằng JS ───────────────────────────────────────────────────
         try:
             raw_matches = page.evaluate(JS_EXTRACT)
             print(f"   JS extract: {len(raw_matches)} trận")
@@ -528,14 +428,8 @@ def scrape_and_push():
             print(f"   ❌ JS lỗi: {e}")
             raw_matches = []
 
-        # Debug print
-        for i, m in enumerate(raw_matches[:LIMIT_MATCHES]):
-            print(f"   [{i+1}] {repr(m.get('home',''))} vs {repr(m.get('away',''))} "
-                  f"| {m.get('timeStr','')} | live={m.get('isLive')} | {m['href'][-50:]}")
-
         page.close()
 
-        # ── Fallback: nếu tên đội trống → parse từ URL ────────────────────────
         for m in raw_matches:
             h = (m.get("home") or "").strip()
             a = (m.get("away") or "").strip()
@@ -544,12 +438,10 @@ def scrape_and_push():
                 fh, fa = parse_teams_from_title(slug)
                 m["home"] = fh
                 m["away"] = fa
-                print(f"   ⚠️ URL fallback: {fh} vs {fa}")
 
         if LIMIT_MATCHES:
             raw_matches = raw_matches[:LIMIT_MATCHES]
 
-        # ── Bước 2: Xác định is_live theo giờ ────────────────────────────────
         for m in raw_matches:
             tg = m.get("timeStr") or parse_time_from_url(m["href"])
             m["timeStr"] = tg
@@ -561,18 +453,14 @@ def scrape_and_push():
                             mt = mt.replace(year=datetime.datetime.now(VN_TZ).year)
                         mt = mt.replace(tzinfo=VN_TZ)
                         diff = (datetime.datetime.now(VN_TZ) - mt).total_seconds() / 60
-                        if -10 <= diff <= 120:
-                            m["isLive"] = True
+                        if -10 <= diff <= 120: m["isLive"] = True
                         break
-                    except:
-                        pass
+                    except: pass
 
-        # ── Bước 3: Bắt stream cho trận live ─────────────────────────────────
         live = [m for m in raw_matches if m.get("isLive")]
         print(f"\n🎥 BẮT STREAM {len(live)} TRẬN LIVE...")
 
-        for m in raw_matches:
-            m["streams"] = []
+        for m in raw_matches: m["streams"] = []
 
         for idx, m in enumerate(live, 1):
             print(f"\n   [{idx}/{len(live)}] {m['home']} vs {m['away']}")
@@ -582,7 +470,6 @@ def scrape_and_push():
 
         browser.close()
 
-    # ── Bước 4: Build JSON ────────────────────────────────────────────────────
     channels = []
     for m in raw_matches:
         home      = (m.get("home") or "Unknown").strip().title()
@@ -590,18 +477,20 @@ def scrape_and_push():
         thoi_gian = m.get("timeStr") or "Không rõ"
         is_live   = m.get("isLive", False)
         league    = (m.get("league") or "").strip()
-        thumb     = get_team_logo(home)
+        
+        logo_nha   = get_logo_fallback(home, m.get("homeLogo"))
+        logo_khach = get_logo_fallback(away, m.get("awayLogo"))
 
         ch = build_channel(
             home=home, away=away,
             thoi_gian=thoi_gian, is_live=is_live,
             stream_urls=m["streams"],
             match_url=m["href"],
-            thumb_url=thumb,
+            logo_nha=logo_nha,
+            logo_khach=logo_khach,
             league=league,
         )
         channels.append(ch)
-        print(f"   ✔ {home} vs {away} | {league} | live={is_live} | streams={len(m['streams'])}")
 
     output  = build_json(channels)
     content = json.dumps(output, indent=2, ensure_ascii=False)
@@ -612,7 +501,6 @@ def scrape_and_push():
     total_streams = sum(1 for m in raw_matches if m.get("streams"))
     print(f"✅ HOÀN TẤT: {len(channels)} trận | {total_live} live | {total_streams} có stream")
     print("=" * 70)
-
 
 if __name__ == "__main__":
     scrape_and_push()
