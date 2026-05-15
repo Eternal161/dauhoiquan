@@ -42,13 +42,11 @@ def make_link_id() -> str:
     return "lnk-" + hashlib.md5(str(time.time_ns()).encode()).hexdigest()[:10]
 
 # =========================================================
-# LOGO (HỆ THỐNG LỌC 3 LỚP HOÀN HẢO)
+# LOGO
 # =========================================================
 def get_api_logo(team_name: str) -> str:
-    """Lớp 1: Gọi API quốc tế (Logo siêu nét)"""
     if not team_name or team_name == "Unknown": return ""
     team_name = re.sub(r"\bFc\b$", "FC", team_name).strip()
-    
     if team_name in LOGO_CACHE: return LOGO_CACHE[team_name]
     try:
         slug = team_name.lower().replace(" ", "-")
@@ -58,25 +56,20 @@ def get_api_logo(team_name: str) -> str:
             LOGO_CACHE[team_name] = m.group(0)
             return m.group(0)
     except: pass
-    
     LOGO_CACHE[team_name] = ""
     return ""
 
 def get_final_logo(team_name: str, site_logo: str) -> str:
-    """Xử lý kết hợp 3 lớp để ra Logo xịn nhất"""
     # 1. Thử gọi API trước
     api_logo = get_api_logo(team_name)
     if api_logo:
         return api_logo
         
-    # 2. Nếu API không có (Ví dụ đội Việt Nam), dùng logo cào từ web
+    # 2. Lấy logo cào từ web (đã lọc cực chuẩn qua JS)
     if site_logo and site_logo.startswith("http"):
-        lo = site_logo.lower()
-        # Lọc sạch các ảnh rác, ảnh quả bóng mặc định
-        if not any(x in lo for x in ["default", "avatar", "icon", "user", "bong-da", "ball"]):
-            return site_logo
+        return site_logo
             
-    # 3. Chốt chặn cuối cùng: Ảnh chữ cái (UI Avatars)
+    # 3. Chốt chặn: Ảnh chữ cái
     initials = requests.utils.quote(team_name[:2] if len(team_name) >= 2 else "FC")
     return f"https://ui-avatars.com/api/?name={initials}&size=200&background=1565C0&color=ffffff&bold=true"
 
@@ -104,7 +97,7 @@ def parse_time_from_url(url: str) -> str:
     return ""
 
 # =========================================================
-# JS: EXTRACT MATCH DATA TRỰC TIẾP TỪ DOM
+# JS: EXTRACT MATCH DATA TRỰC TIẾP TỪ DOM (BẢN VÀNG)
 # =========================================================
 JS_EXTRACT = """
 () => {
@@ -180,21 +173,37 @@ JS_EXTRACT = """
             }
         }
 
-        // BỘ LỌC ẢNH JS: Cắt bỏ các ảnh giải đấu, avatar rác ngay từ trình duyệt
+        // =======================================================
+        // TUYỆT CHIÊU LẤY LOGO THEO CẤU TRÚC F12 CỦA DẬU
+        // =======================================================
         let homeLogo = '', awayLogo = '';
-        const cleanImgs = Array.from(a.querySelectorAll('img')).filter(i => {
-            const s = i.src.toLowerCase();
-            return s && !s.includes('gif') && !s.includes('svg') 
-                     && !s.includes('avatar') && !s.includes('user') 
-                     && !s.includes('default') && !s.includes('icon');
-        });
         
-        if (cleanImgs.length >= 2) {
-            // LUÔN LẤY 2 ẢNH CUỐI (Ảnh đầu thường là giải đấu, nếu nó lọt qua lưới lọc)
-            awayLogo = cleanImgs[cleanImgs.length - 1].src;
-            homeLogo = cleanImgs[cleanImgs.length - 2].src;
-        } else if (cleanImgs.length === 1) {
-            homeLogo = cleanImgs[0].src;
+        // 1. Nhắm thẳng vào khung chứa 2 đội bóng
+        const gridBox = a.querySelector('div[class*="grid-cols-[1fr_auto_1fr]"]');
+        if (gridBox && gridBox.children.length >= 3) {
+            // Cột 1 là đội nhà
+            const imgNha = gridBox.children[0].querySelector('img');
+            // Cột 3 là đội khách
+            const imgKhach = gridBox.children[2].querySelector('img');
+            
+            if (imgNha) homeLogo = imgNha.src;
+            if (imgKhach) awayLogo = imgKhach.src;
+        } 
+        
+        // 2. Dự phòng: Nếu web nó đổi class, ta dùng bộ lọc kích thước
+        if (!homeLogo || !awayLogo) {
+            const validImgs = Array.from(a.querySelectorAll('img')).filter(img => {
+                const c = (img.className || '').toLowerCase();
+                const s = (img.src || '').toLowerCase();
+                // Bỏ qua ảnh giải (thường w-6) và ảnh avatar BLV (thường bo tròn rounded-full)
+                return !c.includes('w-6') && !c.includes('rounded-full') &&
+                       !s.includes('gif') && !s.includes('avatar') && !s.includes('user');
+            });
+            
+            if (validImgs.length >= 2) {
+                homeLogo = validImgs[0].src;
+                awayLogo = validImgs[1].src;
+            }
         }
 
         let timeStr = '';
@@ -234,7 +243,6 @@ def capture_stream(context, match_url: str) -> list:
         if ".m3u8" not in u: return
         if any(b in u for b in BAD): return
         streams.add(url)
-        print(f"      🎯 {url[:90]}")
 
     page.on("request",  lambda req: process_url(req.url))
     page.on("response", lambda res: process_url(res.url))
@@ -514,7 +522,6 @@ def scrape_and_push():
         is_live   = m.get("isLive", False)
         league    = (m.get("league") or "").strip()
         
-        # Chạy qua bộ lọc 3 lớp
         logo_nha   = get_final_logo(home, m.get("homeLogo"))
         logo_khach = get_final_logo(away, m.get("awayLogo"))
 
