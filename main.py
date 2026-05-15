@@ -67,23 +67,33 @@ def get_team_logo(team_name: str) -> str:
 # PARSE
 # =========================================================
 def parse_teams(title: str):
-    # Loại bỏ cụm ngày giờ ở đuôi nếu title được lấy từ URL (vd: -2024-05-14-2030)
-    clean = re.sub(r'-\d{4}-\d{2}-\d{2}-\d{2}\d{2}$', '', title)
-    clean = re.sub(r'\.[A-Za-z0-9_\- ]{3,15}$', '', clean).strip()
+    """
+    Trả về (doi_nha, doi_khach).
+    Ưu tiên: dòng có 'vs' → cắt theo 'vs'.
+    Fallback: cắt theo ' - '.
+    Nếu không có gì → trả về title gốc + "Unknown".
+    """
+    # Bỏ cụm ngày giờ ở cuối slug URL
+    clean = re.sub(r'[-_]\d{4}-\d{2}-\d{2}[-_]\d{4}$', '', title)
+    # Bỏ phần mở rộng kiểu ".Liga 1", ".Premier League" v.v.
+    clean = re.sub(r'\.\s*[A-Za-z0-9 \-]{3,30}$', '', clean).strip()
 
-    # Chuyển đổi định dạng URL (doi-a-vs-doi-b) thành có khoảng trắng để dễ cắt chuỗi
-    if '-vs-' in clean.lower():
+    # Nếu là slug URL (dấu gạch ngang), đổi thành dấu cách
+    if re.fullmatch(r'[a-z0-9\-]+', clean):
         clean = clean.replace('-', ' ')
 
-    # Cắt chuỗi dựa trên " vs " hoặc " - "
-    if ' vs ' in clean.lower():
-        parts = re.split(r'\s+vs\s+', clean, flags=re.IGNORECASE)
-        return parts[0].strip().title(), parts[1].strip().title() if len(parts) > 1 else "Unknown"
-    elif ' - ' in clean:
-        parts = re.split(r'\s+-\s+', clean)
-        return parts[0].strip().title(), parts[1].strip().title() if len(parts) > 1 else "Unknown"
+    # Cắt theo " vs " (case-insensitive)
+    m = re.split(r'\s+vs\.?\s+', clean, maxsplit=1, flags=re.IGNORECASE)
+    if len(m) == 2 and m[0].strip() and m[1].strip():
+        return m[0].strip().title(), m[1].strip().title()
 
-    return clean.title(), "Unknown"
+    # Cắt theo " - " (tránh cắt nhầm khi chỉ có 1 phần)
+    m2 = re.split(r'\s+-\s+', clean, maxsplit=1)
+    if len(m2) == 2 and m2[0].strip() and m2[1].strip():
+        return m2[0].strip().title(), m2[1].strip().title()
+
+    # Không nhận ra định dạng → giữ nguyên, báo unknown
+    return clean.strip().title(), "Unknown"
 
 def parse_time_from_url(url: str) -> str:
     slug = url.rstrip('/').split('/')[-1]
@@ -413,29 +423,49 @@ def scrape_and_push():
                     thoi_gian = ""
                     is_live = False
                     try:
-                        pt = el.evaluate(
-                            "el => { const p = el.closest('.match-item,.event-item,tr,.match-card,.schedule-item,li,.item'); return p ? p.innerText : el.innerText; }"
-                        )
-                        if pt:
-                            lines = [l.strip() for l in pt.split('\n') if l.strip()]
-                            if lines:
-                                # Ưu tiên tìm dòng có chứa chữ "vs" hoặc " - " làm tên trận
-                                for line in lines:
-                                    if ' vs ' in line.lower() or ' - ' in line:
-                                        title = line
-                                        break
-                                # Nếu không tìm thấy dấu hiệu nhận biết, dự phòng lấy dòng đầu
-                                if not title:
-                                    title = lines[0]
+    pt = el.evaluate(
+        "el => { const p = el.closest('.match-item,.event-item,tr,.match-card,.schedule-item,li,.item'); return p ? p.innerText : el.innerText; }"
+    )
+    if pt:
+        lines = [l.strip() for l in pt.split('\n') if l.strip()]
 
-                                # Quét tìm thời gian và trạng thái live
-                                for line in lines:
-                                    if re.search(r'\d{1,2}:\d{2}', line):
-                                        thoi_gian = line.strip()
-                                    if any(kw in line.lower() for kw in ['live', 'trực tiếp', 'đang phát']):
-                                        is_live = True
-                    except:
-                        pass
+        title = ""
+        thoi_gian = ""
+        is_live = False
+
+        # ── Tìm tên trận: ưu tiên dòng có " vs " hoặc có ít nhất 2 từ ngăn bởi " - "
+        VS_RE   = re.compile(r'\bvs\.?\b', re.IGNORECASE)
+        DASH_RE = re.compile(r'^.{2,}\s+-\s+.{2,}$')           # "A - B"
+        LEAGUE_KEYWORDS = re.compile(                           # tên giải đấu thuần tuý
+            r'^(copa|liga|league|cup|serie|bundesliga|ligue|'
+            r'super league|pro league|a-league|v\.?league|afc|uefa|fifa)',
+            re.IGNORECASE,
+        )
+
+        for line in lines:
+            if VS_RE.search(line):
+                title = line
+                break
+
+        if not title:
+            for line in lines:
+                if DASH_RE.match(line) and not LEAGUE_KEYWORDS.match(line):
+                    title = line
+                    break
+
+        # Fallback: dùng slug URL (parse_teams sẽ xử lý)
+        if not title:
+            title = href.split('/')[-1]
+
+        # Tìm thời gian và trạng thái
+        for line in lines:
+            if re.search(r'\d{1,2}:\d{2}', line):
+                thoi_gian = line.strip()
+            if any(kw in line.lower() for kw in ['live', 'trực tiếp', 'đang phát']):
+                is_live = True
+
+except Exception:
+    pass
 
                     matches_raw.append({
                         "href": href,
