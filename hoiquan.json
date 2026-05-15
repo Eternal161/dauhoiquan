@@ -17,58 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-c8cb127efaf7",
-          "name": "⚽ Vitoria vs Flamengo | 07:0015/05/2026",
-          "logo_nha": "https://i.imgur.com/30aaqin.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://i.imgur.com/30aaqin.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c8cb127efaf7",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c8cb127efaf7",
-                  "name": "Vitoria vs Flamengo",
-                  "streams": [
-                    {
-                      "id": "kaytee-c8cb127efaf7",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a3bf497dd5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-6cda92a99abc",
           "name": "⚽ Semen Padang vs Persebaya Surabaya | 15:3015/05/2026",
           "logo_nha": "https://i.imgur.com/30aaqin.png",
@@ -675,6 +623,50 @@
                   "streams": [
                     {
                       "id": "kaytee-0e4a214525d1",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-257d0a3b0dfd",
+          "name": "⚽ Mito Hollyhock vs Tokyo Verdy | 12:0016/05/2026",
+          "logo_nha": "https://media.api-sports.io/football/teams/305.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/id/a/a0/Tokyo_Verdy_2020_logo.webp",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/305.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-257d0a3b0dfd",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-257d0a3b0dfd",
+                  "name": "Mito Hollyhock vs Tokyo Verdy",
+                  "streams": [
+                    {
+                      "id": "kaytee-257d0a3b0dfd",
                       "name": "F",
                       "stream_links": []
                     }
