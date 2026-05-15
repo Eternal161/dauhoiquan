@@ -7,124 +7,6 @@
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-055de2c8f7a3",
-          "name": "⚽ Shanghai Sipg vs Hangzhou Greentown | 18:35 15/05",
-          "logo_nha": "https://media.api-sports.io/football/teams/836.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/848.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/836.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-055de2c8f7a3",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-055de2c8f7a3",
-                  "name": "Shanghai Sipg vs Hangzhou Greentown",
-                  "streams": [
-                    {
-                      "id": "kaytee-055de2c8f7a3",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-608fb31209",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvw1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=63df5090efafaf6992db5545-177885185752763&wsIPSercert=36d00a707d4ae2b910b315bd1b0d5656&wsBindIP=2&wsserid=1168243256620077470"
-                        },
-                        {
-                          "id": "lnk-918e583377",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-190f2d823976",
-          "name": "⚽ Tianjin Teda vs Chengdu Better City | 18:35 15/05",
-          "logo_nha": "https://media.api-sports.io/football/teams/837.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/5648.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/837.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-190f2d823976",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-190f2d823976",
-                  "name": "Tianjin Teda vs Chengdu Better City",
-                  "streams": [
-                    {
-                      "id": "kaytee-190f2d823976",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9b73a55d35",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvw1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=63df5090efafaf6992db5545-177885186613429&wsIPSercert=36d00a707d4ae2b910b315bd1b0d5656&wsBindIP=2&wsserid=1168243256620077470"
-                        },
-                        {
-                          "id": "lnk-baceb62bf0",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-8beae9dcd98f",
           "name": "⚽ Beijing Guoan vs Qingdao Jonoon | 19:00 15/05",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
@@ -162,14 +44,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6f642e440d",
+                          "id": "lnk-7b09033725",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvw1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=63df5090efafaf6992db5545-177885187471151&wsIPSercert=36d00a707d4ae2b910b315bd1b0d5656&wsBindIP=2&wsserid=1168243256620077470"
+                          "url": "https://tfvw1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=c1a2045cc687bfa89d743f00-177885246246844&wsIPSercert=f32800b2abc8280f31389cbfe5e18119&wsBindIP=2&wsserid=1168283323367736366"
                         },
                         {
-                          "id": "lnk-dd65c806b9",
+                          "id": "lnk-f9ca6599df",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -482,6 +364,94 @@
                   "streams": [
                     {
                       "id": "kaytee-c0469559efd5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d427a61f6c24",
+          "name": "⚽ Daejeon Citizen vs Fc Seoul | 14:30 16/05",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYS2zEFbeFBg_XqzrgQPETiHdzD2yAXqh8wQ&s",
+          "logo_khach": "https://media.api-sports.io/football/teams/2766.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYS2zEFbeFBg_XqzrgQPETiHdzD2yAXqh8wQ&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d427a61f6c24",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d427a61f6c24",
+                  "name": "Daejeon Citizen vs Fc Seoul",
+                  "streams": [
+                    {
+                      "id": "kaytee-d427a61f6c24",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-13b8ff8ee1be",
+          "name": "⚽ Yokohama F. Marinos vs Kashiwa Reysol | 15:00 16/05",
+          "logo_nha": "https://media.api-sports.io/football/teams/296.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/e/e6/KashiwaReysol.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/296.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-13b8ff8ee1be",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-13b8ff8ee1be",
+                  "name": "Yokohama F. Marinos vs Kashiwa Reysol",
+                  "streams": [
+                    {
+                      "id": "kaytee-13b8ff8ee1be",
                       "name": "F",
                       "stream_links": []
                     }
