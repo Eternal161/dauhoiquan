@@ -502,17 +502,27 @@ def scrape_and_push():
                     except: pass
 
         live = [m for m in raw_matches if m.get("isLive")]
-        print(f"\n🎥 BẮT STREAM {len(live)} TRẬN LIVE...")
+        # BỎ QUA VIỆC LỌC LIVE - QUÉT TẤT CẢ CÁC TRẬN ĐỂ TÌM LINK
+        print(f"\n🎥 ĐANG QUÉT TÌM LINK CHO TẤT CẢ {len(raw_matches)} TRẬN...")
 
-        for m in raw_matches: m["streams"] = []
-
-        for idx, m in enumerate(live, 1):
-            print(f"\n   [{idx}/{len(live)}] {m['home']} vs {m['away']}")
+        for idx, m in enumerate(raw_matches, 1):
+            m["streams"] = [] # Khởi tạo danh sách trống
+        
+            # In thông tin trận đang xử lý để Dậu dễ theo dõi
+            print(f"\n   [{idx}/{len(raw_matches)}] Đang kiểm tra: {m['home']} vs {m['away']}")
+        
+            # Ép Bot truy cập vào link trận đấu để "rình" link m3u8
             streams = capture_stream(context, m["href"])
             m["streams"] = streams
-            print(f"      {'✅' if streams else '⚠️'} {len(streams)} stream")
+        
+            if streams:
+                print(f"      ✅ ĐÃ BẮT ĐƯỢC {len(streams)} LINK M3U8!")
+                # Nếu tìm thấy link, ta tự động coi như trận này đang LIVE
+                m["isLive"] = True 
+            else:
+                print(f"      ⚠️ Không tìm thấy link m3u8 nào.")
 
-        browser.close()
+    browser.close()
 
     channels = []
     for m in raw_matches:
