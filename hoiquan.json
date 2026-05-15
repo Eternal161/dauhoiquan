@@ -24,10 +24,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -42,7 +42,22 @@
                     {
                       "id": "kaytee-3e17da9c9462",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-dd9dfc59ce",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvw1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=0b8259debbb8356faffa8a59-177885907424667&wsIPSercert=bc41a0b657dbedf88c8bd1df0167ccd2&wsBindIP=2&wsserid=1172580915180761012"
+                        },
+                        {
+                          "id": "lnk-49bd67bd12",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -271,7 +286,7 @@
           ]
         },
         {
-          "id": "kaytee-c0469559efd5",
+          "id": "kaytee-fb32600dd55b",
           "name": "⚽ Urawa vs Fc Tokyo | 14:00 16/05",
           "logo_nha": "https://media.api-sports.io/football/teams/287.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/1/15/FC_Tokyo_Logo.svg",
@@ -296,15 +311,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-c0469559efd5",
+              "id": "kaytee-fb32600dd55b",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-c0469559efd5",
+                  "id": "kaytee-fb32600dd55b",
                   "name": "Urawa vs Fc Tokyo",
                   "streams": [
                     {
-                      "id": "kaytee-c0469559efd5",
+                      "id": "kaytee-fb32600dd55b",
                       "name": "F",
                       "stream_links": []
                     }
