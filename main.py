@@ -98,13 +98,12 @@ JS_EXTRACT = """
     const results = [];
     const seen = new Set();
 
-    // Hàm làm sạch text: bỏ khoảng trắng thừa, newline
     const clean = t => (t || '').replace(/\\s+/g, ' ').trim();
 
-    // Các text cần bỏ qua khi tìm tên đội
+    // Từ khoá cần BỎ QUA khi tìm tên đội
     const SKIP = /^(vs\\.?|live|blv|bóng đá|sắp diễn ra|đang phát|đặt cược|bảng|giải|\\d+[:\\-\\/]\\d+|\\d+$)/i;
 
-    // ── Tìm tất cả <a> có href trỏ đến trang trận đấu ──────────────────────
+    // ── Tìm tất cả <a> trỏ đến trang trận đấu ─────────────────────────────
     const anchors = Array.from(document.querySelectorAll('a[href]')).filter(a => {
         const h = a.href || '';
         return (
@@ -122,26 +121,46 @@ JS_EXTRACT = """
         if (seen.has(href)) continue;
         seen.add(href);
 
-        // ── Trạng thái live ───────────────────────────────────────────────
+        // ── 1. Lấy tên giải TRƯỚC — để loại khỏi tìm kiếm tên đội ──────────
+        let league = '';
+        const leagueSelectors = [
+            '[class*="league" i]', '[class*="tournament" i]',
+            '[class*="competition" i]', '[class*="category" i]',
+            '[class*="sport-name" i]', '[class*="title" i]',
+            'h3', 'h4', 'h5',
+        ];
+        for (const sel of leagueSelectors) {
+            const el = a.querySelector(sel);
+            if (el) {
+                const t = clean(el.innerText);
+                // Tên giải thường ngắn (< 40 ký tự) và không chứa số tỷ số
+                if (t && t.length < 40 && !/\\d+\\s*[-:]\\s*\\d+/.test(t)) {
+                    league = t;
+                    break;
+                }
+            }
+        }
+
+        // ── 2. Trạng thái live ────────────────────────────────────────────
         const cardText = clean(a.innerText).toLowerCase();
         const isLive = /live|trực tiếp|đang phát/.test(cardText)
                     || !!a.querySelector('[class*="live" i]');
 
-        // ── Tên đội: thử nhiều chiến lược ─────────────────────────────────
-
+        // ── 3. Tên đội ────────────────────────────────────────────────────
         let home = '', away = '';
 
-        // Chiến lược A: selector tên đội phổ biến
+        // Chiến lược A: selector tên đội trực tiếp
         const nameSelectors = [
-            '.team-name', '.club-name', '.home .name', '.away .name',
+            '.team-name', '.club-name',
             '[class*="team-name"]', '[class*="teamName"]',
             '[class*="home-name"]', '[class*="away-name"]',
             '[class*="team_name"]', '[class*="club_name"]',
+            '.home .name', '.away .name',
         ];
         for (const sel of nameSelectors) {
             const els = Array.from(a.querySelectorAll(sel))
-                            .map(el => clean(el.innerText))
-                            .filter(t => t.length > 1 && !SKIP.test(t));
+                .map(el => clean(el.innerText))
+                .filter(t => t.length > 1 && !SKIP.test(t));
             if (els.length >= 2) {
                 home = els[0];
                 away = els[els.length - 1];
@@ -149,8 +168,7 @@ JS_EXTRACT = """
             }
         }
 
-        // Chiến lược B: đọc tất cả text node lá (không có children là text)
-        // Lọc lấy những cái trông giống tên đội (2–40 ký tự, không phải số/giờ/từ khoá)
+        // Chiến lược B: duyệt text node lá, loại bỏ text của tên giải
         if (!home || !away) {
             const leafTexts = [];
             const walker = document.createTreeWalker(a, NodeFilter.SHOW_TEXT);
@@ -159,14 +177,15 @@ JS_EXTRACT = """
                 const t = clean(node.textContent);
                 if (
                     t.length >= 2 &&
-                    t.length <= 40 &&
+                    t.length <= 45 &&
                     !SKIP.test(t) &&
-                    !/^[\\d\\s:\\/\\-]+$/.test(t)   // không phải chuỗi số/ký hiệu thuần
+                    t !== league &&                          // ← loại tên giải
+                    !/^[\\d\\s:\\/\\-\\.]+$/.test(t)          // không phải số/giờ thuần
                 ) {
                     leafTexts.push(t);
                 }
             }
-            // Lấy text đầu tiên và cuối cùng (thường là đội nhà và đội khách)
+            // Đội nhà = đầu tiên, đội khách = cuối cùng
             if (leafTexts.length >= 2) {
                 home = home || leafTexts[0];
                 away = away || leafTexts[leafTexts.length - 1];
@@ -175,7 +194,7 @@ JS_EXTRACT = """
             }
         }
 
-        // Chiến lược C: parse từ slug URL nếu có "-vs-"
+        // Chiến lược C: parse slug URL nếu có "-vs-"
         if (!home || !away || home === away) {
             const slug = href.split('/').pop() || '';
             const m = slug.match(/^(.+?)-vs-(.+?)(-\\d{4}-\\d{2}-\\d{2}|$)/i);
@@ -187,9 +206,8 @@ JS_EXTRACT = """
             }
         }
 
-        // ── Giờ đấu ───────────────────────────────────────────────────────
+        // ── 4. Giờ đấu ───────────────────────────────────────────────────
         let timeStr = '';
-        // Tìm element có class liên quan đến thời gian
         const timeEl = a.querySelector(
             '[class*="time" i], [class*="date" i], [class*="hour" i], ' +
             '[class*="schedule" i], [class*="kickoff" i]'
@@ -197,19 +215,10 @@ JS_EXTRACT = """
         if (timeEl) {
             timeStr = clean(timeEl.innerText);
         }
-        // Nếu không có element, quét text toàn card
         if (!timeStr) {
             const tm = cardText.match(/(\\d{1,2}:\\d{2})\\s*(\\d{1,2}\\/\\d{1,2}(?:\\/\\d{2,4})?)?/);
             if (tm) timeStr = tm[0].trim();
         }
-
-        // ── Tên giải ──────────────────────────────────────────────────────
-        let league = '';
-        const leagueEl = a.querySelector(
-            '[class*="league" i], [class*="tournament" i], [class*="competition" i], ' +
-            '[class*="category" i], h3, h4'
-        );
-        if (leagueEl) league = clean(leagueEl.innerText);
 
         results.push({ href, home, away, timeStr, isLive, league });
     }
@@ -341,10 +350,17 @@ def capture_stream(context, match_url: str) -> list:
 # BUILD JSON
 # =========================================================
 def build_channel(home: str, away: str, thoi_gian: str, is_live: bool,
-                  stream_urls: list, match_url: str, thumb_url: str) -> dict:
+                  stream_urls: list, match_url: str, thumb_url: str,
+                  league: str = "") -> dict:
     cid = make_id(match_url)
     title_clean  = f"{home} vs {away}"
-    display_name = f"⚽ {title_clean} | {thoi_gian}" if thoi_gian else f"⚽ {title_clean}"
+    # Hiển thị: "⚽ Vitoria vs Flamengo | Copa Do Brasil | 07:00 15/05/2026"
+    parts = ["⚽ " + title_clean]
+    if league:
+        parts.append(league)
+    if thoi_gian:
+        parts.append(thoi_gian)
+    display_name = " | ".join(parts)
 
     if is_live and stream_urls:
         label = {"text": "● Live", "position": "top-left", "color": "#00ffffff", "text_color": "#ff0000"}
@@ -569,6 +585,7 @@ def scrape_and_push():
         away      = (m.get("away") or "Unknown").strip().title()
         thoi_gian = m.get("timeStr") or "Không rõ"
         is_live   = m.get("isLive", False)
+        league    = (m.get("league") or "").strip()
         thumb     = get_team_logo(home)
 
         ch = build_channel(
@@ -577,9 +594,10 @@ def scrape_and_push():
             stream_urls=m["streams"],
             match_url=m["href"],
             thumb_url=thumb,
+            league=league,
         )
         channels.append(ch)
-        print(f"   ✔ {home} vs {away} | live={is_live} | streams={len(m['streams'])}")
+        print(f"   ✔ {home} vs {away} | {league} | live={is_live} | streams={len(m['streams'])}")
 
     output  = build_json(channels)
     content = json.dumps(output, indent=2, ensure_ascii=False)
