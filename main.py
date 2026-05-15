@@ -40,13 +40,12 @@ def make_link_id() -> str:
     return "lnk-" + hashlib.md5(str(time.time_ns()).encode()).hexdigest()[:10]
 
 # =========================================================
-# LOGO (NÂNG CẤP LẤY TRỰC TIẾP TỪ WEB)
+# LOGO 
 # =========================================================
 def get_logo_fallback(team_name: str, site_logo: str) -> str:
     if site_logo and site_logo.startswith("http"):
         return site_logo
     
-    # Rớt mạng thì tự động tạo ảnh avatar chữ
     initials = requests.utils.quote(team_name[:2] if len(team_name) >= 2 else "FC")
     return f"https://ui-avatars.com/api/?name={initials}&size=200&background=1565C0&color=ffffff&bold=true"
 
@@ -74,7 +73,7 @@ def parse_time_from_url(url: str) -> str:
     return ""
 
 # =========================================================
-# JS: EXTRACT MATCH DATA TRỰC TIẾP TỪ DOM
+# JS: EXTRACT MATCH DATA TRỰC TIẾP TỪ DOM (ĐÃ FIX LỖI LOGO)
 # =========================================================
 JS_EXTRACT = """
 () => {
@@ -150,15 +149,24 @@ JS_EXTRACT = """
             }
         }
 
-        // CÀO TRỰC TIẾP URL ẢNH LOGO TỪ WEB
+        // BỘ LỌC LOGO ĐỘI BÓNG THÔNG MINH
         let homeLogo = '', awayLogo = '';
-        const imgs = Array.from(a.querySelectorAll('img')).filter(i => i.src && !i.src.includes('gif') && !i.src.includes('svg'));
-        if (imgs.length >= 2) {
-            homeLogo = imgs[0].src;
-            awayLogo = imgs[imgs.length - 1].src;
-        } else if (imgs.length === 1) {
-            homeLogo = imgs[0].src;
-            awayLogo = imgs[0].src;
+        const allImgs = Array.from(a.querySelectorAll('img')).filter(i => i.src && !i.src.includes('gif') && !i.src.includes('svg'));
+        
+        if (allImgs.length >= 4) {
+            // Có 4 ảnh: [0] Giải đấu, [1] Đội nhà, [2] Đội khách, [3] BLV
+            homeLogo = allImgs[1].src;
+            awayLogo = allImgs[2].src;
+        } else if (allImgs.length === 3) {
+            // Có 3 ảnh: [0] Giải đấu, [1] Đội nhà, [2] Đội khách
+            homeLogo = allImgs[1].src;
+            awayLogo = allImgs[2].src;
+        } else if (allImgs.length === 2) {
+            // Có 2 ảnh thì chắc chắn là đội nhà và đội khách
+            homeLogo = allImgs[0].src;
+            awayLogo = allImgs[1].src;
+        } else if (allImgs.length === 1) {
+            homeLogo = allImgs[0].src;
         }
 
         let timeStr = '';
@@ -308,8 +316,8 @@ def build_channel(home: str, away: str, thoi_gian: str, is_live: bool,
     return {
         "id": cid,
         "name": display_name,
-        "logo_nha": logo_nha,       # CHUYỀN RA NGOÀI ĐỂ APP FLUTTER ĐỌC
-        "logo_khach": logo_khach,   # CHUYỀN RA NGOÀI ĐỂ APP FLUTTER ĐỌC
+        "logo_nha": logo_nha,      
+        "logo_khach": logo_khach,  
         "type": "single",
         "display": "thumbnail-only",
         "enable_detail": False,
@@ -402,7 +410,7 @@ def scrape_and_push():
             viewport={"width": 1920, "height": 1080},
             user_agent=_HEADERS["User-Agent"],
             ignore_https_errors=True,
-            timezone_id="Asia/Ho_Chi_Minh", # FIX LỖI MÚI GIỜ
+            timezone_id="Asia/Ho_Chi_Minh", 
         )
 
         print(f"\n📺 QUÉT: {TARGET_SITE}")
