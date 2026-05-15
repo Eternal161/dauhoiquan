@@ -1,8 +1,10 @@
 name: Hội Quán Bot
 
 on:
+  repository_dispatch:
+    types: [cron-trigger]   # ← thêm dòng này
   schedule:
-    - cron: "*/30 * * * *"   # mỗi 30 phút
+    - cron: "*/30 * * * *"   # mỗi 30 phút (giữ lại hoặc xóa tùy bạn)
   workflow_dispatch:
 
 jobs:
