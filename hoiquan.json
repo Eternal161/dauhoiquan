@@ -44,14 +44,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6a3ba8de42",
+                          "id": "lnk-9f8b9271f7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvw1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=d78f47d79b6bb296d97aa035-177886271949916&wsIPSercert=c6563ec8d11f04e3ad0eb3a242009fd1&wsBindIP=2&wsserid=1168278313568844709"
+                          "url": "https://tfvw1gr3uomttgr31hcji8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=8a84d023e1d097c74b2358fe-177886326157908&wsIPSercert=051cba96a1756d76e5abac9c54d77e54&wsBindIP=2&wsserid=1172665344093863980"
                         },
                         {
-                          "id": "lnk-189353e07a",
+                          "id": "lnk-4ca0a62fd8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -83,10 +83,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -101,7 +101,22 @@
                     {
                       "id": "kaytee-5634db8bf31a",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-b22a22d1b6",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvw1gr3uomttgr31hcji8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c6433cbabbc927c22ab07627-177886327077008&wsIPSercert=051cba96a1756d76e5abac9c54d77e54&wsBindIP=2&wsserid=1172665350473402856"
+                        },
+                        {
+                          "id": "lnk-5fe365dade",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -127,10 +142,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -145,7 +160,22 @@
                     {
                       "id": "kaytee-bf5cd3539035",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-765cae31ee",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvw1gr3uomttgr31hcji8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=079a068756bdf32cc79831b8-177886327874488&wsIPSercert=051cba96a1756d76e5abac9c54d77e54&wsBindIP=2&wsserid=1172665343356714795"
+                        },
+                        {
+                          "id": "lnk-06b2703529",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
