@@ -7,117 +7,6 @@
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-5634db8bf31a",
-          "name": "⚽ Rizespor vs Beşiktaş | 00:00 16/05",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/tr/f/f6/%C3%87aykur_Rizespor_Logo.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/d/da/BesiktasJK-Logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/tr/f/f6/%C3%87aykur_Rizespor_Logo.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-5634db8bf31a",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-5634db8bf31a",
-                  "name": "Rizespor vs Beşiktaş",
-                  "streams": [
-                    {
-                      "id": "kaytee-5634db8bf31a",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bf895c1e72",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvw0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=7eb8d13858194515a23689e7-177887166078434&wsIPSercert=aed35e28719f1fea145d1fc6e4bdc7d7&wsBindIP=2&wsserid=1168283319001564024"
-                        },
-                        {
-                          "id": "lnk-fe5706f333",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-bf5cd3539035",
-          "name": "⚽ Saudi Arabia U17 vs China Pr U17 | 00:00 16/05",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/21449.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-bf5cd3539035",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-bf5cd3539035",
-                  "name": "Saudi Arabia U17 vs China Pr U17",
-                  "streams": [
-                    {
-                      "id": "kaytee-bf5cd3539035",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-907682bb18",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-afc64ece960c",
           "name": "⚽ Aston Villa vs Liverpool | 02:00 16/05",
           "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
@@ -155,14 +44,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-493cd5de26",
+                          "id": "lnk-4d6a9d938f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvw0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0f37f10de6ecd86c29415b60-177887167781937&wsIPSercert=aed35e28719f1fea145d1fc6e4bdc7d7&wsBindIP=2&wsserid=1168283476522828939"
+                          "url": "https://tfvw1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=5eaf10336ca0b8d2d1fbb677-177887228462154&wsIPSercert=88052017caecd05392fe2bbd42da5713&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-2dc0a47d6e",
+                          "id": "lnk-0efed66dad",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -214,14 +103,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-60615ba44b",
+                          "id": "lnk-7a168c64ff",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvw0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=2f0033c08ae5b45df4929078-177887168660490&wsIPSercert=aed35e28719f1fea145d1fc6e4bdc7d7&wsBindIP=2&wsserid=1168283319030924262"
+                          "url": "https://tfvw1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=8caf23b1cfd0e780fba22da5-177887229334088&wsIPSercert=88052017caecd05392fe2bbd42da5713&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-76de51ab07",
+                          "id": "lnk-335b228318",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -490,6 +379,94 @@
                   "streams": [
                     {
                       "id": "kaytee-c0d2df68b7e8",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-424b909f18a8",
+          "name": "⚽ Hai Phong vs Binh Duong | 18:00 16/05",
+          "logo_nha": "https://vpf.vn/wp-content/uploads/2018/10/haiphongfc.jpg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://vpf.vn/wp-content/uploads/2018/10/haiphongfc.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-424b909f18a8",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-424b909f18a8",
+                  "name": "Hai Phong vs Binh Duong",
+                  "streams": [
+                    {
+                      "id": "kaytee-424b909f18a8",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6f52cc168415",
+          "name": "⚽ Song Lam Nghe An vs Phu Dong | 18:00 16/05",
+          "logo_nha": "https://media.api-sports.io/football/teams/3678.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/9167.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3678.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6f52cc168415",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6f52cc168415",
+                  "name": "Song Lam Nghe An vs Phu Dong",
+                  "streams": [
+                    {
+                      "id": "kaytee-6f52cc168415",
                       "name": "F",
                       "stream_links": []
                     }
