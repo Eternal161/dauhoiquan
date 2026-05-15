@@ -30,8 +30,16 @@ _HEADERS = {
 
 LOGO_CACHE = {}
 
+# Regex nhận diện tên giải đấu thuần tuý (không phải tên trận)
+LEAGUE_KEYWORDS = re.compile(
+    r'^(copa|liga|league|cup|serie|bundesliga|ligue|super league|'
+    r'pro league|a-league|v\.?league|afc|uefa|fifa|premier|champions|'
+    r'laliga|eredivisie|ekstraklasa|allsvenskan|mls|j\.?league)',
+    re.IGNORECASE,
+)
+
 # =========================================================
-# HELPER: tạo ID kiểu kaytee- xxxxxxxxxxxx
+# HELPER: tạo ID kiểu kaytee-xxxxxxxxxxxx
 # =========================================================
 def make_id(seed: str = "") -> str:
     raw = seed or str(uuid.uuid4())
@@ -64,7 +72,7 @@ def get_team_logo(team_name: str) -> str:
     return url
 
 # =========================================================
-# PARSE
+# PARSE TEAMS
 # =========================================================
 def parse_teams(title: str):
     """
@@ -73,16 +81,16 @@ def parse_teams(title: str):
     Fallback: cắt theo ' - '.
     Nếu không có gì → trả về title gốc + "Unknown".
     """
-    # Bỏ cụm ngày giờ ở cuối slug URL
+    # Bỏ cụm ngày giờ ở cuối slug URL (vd: -2024-05-14-2030)
     clean = re.sub(r'[-_]\d{4}-\d{2}-\d{2}[-_]\d{4}$', '', title)
     # Bỏ phần mở rộng kiểu ".Liga 1", ".Premier League" v.v.
     clean = re.sub(r'\.\s*[A-Za-z0-9 \-]{3,30}$', '', clean).strip()
 
-    # Nếu là slug URL (dấu gạch ngang), đổi thành dấu cách
+    # Nếu là slug URL toàn chữ thường + gạch ngang → đổi thành dấu cách
     if re.fullmatch(r'[a-z0-9\-]+', clean):
         clean = clean.replace('-', ' ')
 
-    # Cắt theo " vs " (case-insensitive)
+    # Cắt theo " vs " (case-insensitive), kể cả "vs."
     m = re.split(r'\s+vs\.?\s+', clean, maxsplit=1, flags=re.IGNORECASE)
     if len(m) == 2 and m[0].strip() and m[1].strip():
         return m[0].strip().title(), m[1].strip().title()
@@ -92,8 +100,9 @@ def parse_teams(title: str):
     if len(m2) == 2 and m2[0].strip() and m2[1].strip():
         return m2[0].strip().title(), m2[1].strip().title()
 
-    # Không nhận ra định dạng → giữ nguyên, báo unknown
+    # Không nhận ra định dạng → giữ nguyên
     return clean.strip().title(), "Unknown"
+
 
 def parse_time_from_url(url: str) -> str:
     slug = url.rstrip('/').split('/')[-1]
@@ -103,9 +112,36 @@ def parse_time_from_url(url: str) -> str:
     return ""
 
 # =========================================================
+# CHỌN TITLE TỪ DANH SÁCH DÒNG VĂN BẢN
+# =========================================================
+def pick_match_title(lines: list, fallback_href: str = "") -> str:
+    """
+    Tìm dòng text chứa tên trận (có 'vs' hoặc dạng 'A - B').
+    Bỏ qua các dòng chỉ là tên giải đấu.
+    """
+    VS_RE   = re.compile(r'\bvs\.?\b', re.IGNORECASE)
+    DASH_RE = re.compile(r'^.{2,}\s+-\s+.{2,}$')
+
+    # Ưu tiên dòng có " vs "
+    for line in lines:
+        if VS_RE.search(line) and not LEAGUE_KEYWORDS.match(line.strip()):
+            return line.strip()
+
+    # Fallback: dòng dạng "Đội A - Đội B" nhưng không phải tên giải
+    for line in lines:
+        if DASH_RE.match(line.strip()) and not LEAGUE_KEYWORDS.match(line.strip()):
+            return line.strip()
+
+    # Cuối cùng: dùng slug URL
+    if fallback_href:
+        return fallback_href.rstrip('/').split('/')[-1]
+
+    return lines[0] if lines else ""
+
+# =========================================================
 # CAPTURE STREAM
 # =========================================================
-def capture_stream(context, match_url: str) -> list[str]:
+def capture_stream(context, match_url: str) -> list:
     """Trả về list URL m3u8 hợp lệ, tốt nhất đứng đầu."""
     page = context.new_page()
     try:
@@ -129,7 +165,7 @@ def capture_stream(context, match_url: str) -> list[str]:
         if any(b in u for b in BAD):
             return
         streams.add(url)
-        print(f"🎯 {url[:90]}  Untitled1:110 - main.py:110")
+        print(f"      🎯 {url[:90]}")
 
     page.on("request",  lambda req: process_url(req.url))
     page.on("response", lambda res: process_url(res.url))
@@ -218,7 +254,7 @@ def capture_stream(context, match_url: str) -> list[str]:
     if not streams:
         return []
 
-    # Chấm điểm
+    # Chấm điểm để sắp xếp stream tốt nhất lên đầu
     scored = []
     for s in streams:
         score = 0
@@ -238,20 +274,19 @@ def capture_stream(context, match_url: str) -> list[str]:
         scored.append((score, s))
 
     scored.sort(reverse=True, key=lambda x: x[0])
-    # Trả về tất cả stream hợp lệ (score > -5000), tốt nhất trước
     return [s for sc, s in scored if sc > -5000]
 
 # =========================================================
 # BUILD JSON (format KayTee / Thập Cẩm)
 # =========================================================
 def build_channel(match_title: str, thoi_gian: str, is_live: bool,
-                  stream_urls: list[str], match_url: str, thumb_url: str) -> dict:
+                  stream_urls: list, match_url: str, thumb_url: str) -> dict:
     cid = make_id(match_url)
     doi_nha, doi_khach = parse_teams(match_title)
     title_clean = f"{doi_nha} vs {doi_khach}"
     display_name = f"⚽ {title_clean} | {thoi_gian}" if thoi_gian else f"⚽ {title_clean}"
 
-    # Label
+    # Label trạng thái
     if is_live and stream_urls:
         label = {"text": "● Live", "position": "top-left", "color": "#00ffffff", "text_color": "#ff0000"}
     elif is_live:
@@ -259,9 +294,9 @@ def build_channel(match_title: str, thoi_gian: str, is_live: bool,
     else:
         label = {"text": "⏳ Chưa live", "position": "top-left", "color": "#00ffffff", "text_color": "#d54f1a"}
 
-    # Stream links — Link 1 = edgemaxcdn thường, Link 2 = 100ycdn có token
+    # Stream links — tối đa 2 link
     stream_links = []
-    for idx, url in enumerate(stream_urls[:2], 1):  # tối đa 2 link
+    for idx, url in enumerate(stream_urls[:2], 1):
         stream_links.append({
             "id": make_link_id(),
             "name": f"Link {idx}",
@@ -307,7 +342,7 @@ def build_channel(match_title: str, thoi_gian: str, is_live: bool,
     }
 
 
-def build_json(channels: list[dict]) -> dict:
+def build_json(channels: list) -> dict:
     now = datetime.datetime.now(VN_TZ)
     return {
         "id": "hoiquan",
@@ -319,13 +354,6 @@ def build_json(channels: list[dict]) -> dict:
             "type": "cover",
             "url": "https://kaytee1012.github.io/hoiquan_logo.png",
         },
-        # "notice": {
-        #     "closeable": True,
-        #     "icon": "https://kaytee1012.github.io/pngegg.png",
-        #     "id": "notice",
-        #     "link": "https://t.me/dqstore1",
-        #     "text": f"Cập nhật: {now.strftime('%H:%M %d/%m/%Y')}",
-        # },
         "groups": [
             {
                 "id": "live",
@@ -419,59 +447,35 @@ def scrape_and_push():
                         continue
                     seen.add(href)
 
-                    title = ""
+                    title     = ""
                     thoi_gian = ""
-                    is_live = False
+                    is_live   = False
+
                     try:
-    pt = el.evaluate(
-        "el => { const p = el.closest('.match-item,.event-item,tr,.match-card,.schedule-item,li,.item'); return p ? p.innerText : el.innerText; }"
-    )
-    if pt:
-        lines = [l.strip() for l in pt.split('\n') if l.strip()]
+                        pt = el.evaluate(
+                            "el => { const p = el.closest('.match-item,.event-item,tr,.match-card,.schedule-item,li,.item'); return p ? p.innerText : el.innerText; }"
+                        )
+                        if pt:
+                            lines = [l.strip() for l in pt.split('\n') if l.strip()]
 
-        title = ""
-        thoi_gian = ""
-        is_live = False
+                            # ── Chọn tên trận thông minh ──
+                            title = pick_match_title(lines, fallback_href=href)
 
-        # ── Tìm tên trận: ưu tiên dòng có " vs " hoặc có ít nhất 2 từ ngăn bởi " - "
-        VS_RE   = re.compile(r'\bvs\.?\b', re.IGNORECASE)
-        DASH_RE = re.compile(r'^.{2,}\s+-\s+.{2,}$')           # "A - B"
-        LEAGUE_KEYWORDS = re.compile(                           # tên giải đấu thuần tuý
-            r'^(copa|liga|league|cup|serie|bundesliga|ligue|'
-            r'super league|pro league|a-league|v\.?league|afc|uefa|fifa)',
-            re.IGNORECASE,
-        )
-
-        for line in lines:
-            if VS_RE.search(line):
-                title = line
-                break
-
-        if not title:
-            for line in lines:
-                if DASH_RE.match(line) and not LEAGUE_KEYWORDS.match(line):
-                    title = line
-                    break
-
-        # Fallback: dùng slug URL (parse_teams sẽ xử lý)
-        if not title:
-            title = href.split('/')[-1]
-
-        # Tìm thời gian và trạng thái
-        for line in lines:
-            if re.search(r'\d{1,2}:\d{2}', line):
-                thoi_gian = line.strip()
-            if any(kw in line.lower() for kw in ['live', 'trực tiếp', 'đang phát']):
-                is_live = True
-
-except Exception:
-    pass
+                            # ── Tìm thời gian và trạng thái ──
+                            for line in lines:
+                                if re.search(r'\d{1,2}:\d{2}', line) and not thoi_gian:
+                                    thoi_gian = line.strip()
+                                if any(kw in line.lower() for kw in ['live', 'trực tiếp', 'đang phát']):
+                                    is_live = True
+                    except:
+                        # Nếu không lấy được text từ DOM, dùng slug URL
+                        title = href.rstrip('/').split('/')[-1]
 
                     matches_raw.append({
-                        "href": href,
-                        "title": title,
+                        "href":      href,
+                        "title":     title,
                         "thoi_gian": thoi_gian,
-                        "is_live": is_live,
+                        "is_live":   is_live,
                     })
             except:
                 pass
@@ -523,7 +527,7 @@ except Exception:
         title_clean = f"{doi_nha} vs {doi_khach}"
         thoi_gian = m["thoi_gian"] or "Không rõ"
 
-        # Thumbnail: dùng logo đội nhà làm thumbnail
+        # Thumbnail: dùng logo đội nhà
         thumb = get_team_logo(doi_nha)
 
         ch = build_channel(
@@ -537,7 +541,7 @@ except Exception:
         channels.append(ch)
         print(f"   ✔ {title_clean} | live={m['is_live']} | streams={len(m['streams'])}")
 
-    output = build_json(channels)
+    output  = build_json(channels)
     content = json.dumps(output, indent=2, ensure_ascii=False)
 
     push_to_github(content)
