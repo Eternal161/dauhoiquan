@@ -16,7 +16,7 @@ from playwright_stealth import Stealth
 TARGET_SITE   = "https://sv2.hoiquan3.live/lich-thi-dau/bong-da"
 BASE_URL      = "https://sv2.hoiquan3.live"
 FILE_PATH     = "hoiquan.json"
-LIMIT_MATCHES = 20 # Bạn có thể chỉnh số lượng trận muốn quét ở đây
+LIMIT_MATCHES = 10 # Bạn có thể chỉnh số lượng trận muốn quét ở đây
 
 VN_TZ = datetime.timezone(datetime.timedelta(hours=7))
 
