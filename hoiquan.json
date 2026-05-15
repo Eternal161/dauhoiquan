@@ -7,65 +7,6 @@
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-8beae9dcd98f",
-          "name": "⚽ Beijing Guoan vs Qingdao Jonoon | 19:00 15/05",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/1431.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-8beae9dcd98f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-8beae9dcd98f",
-                  "name": "Beijing Guoan vs Qingdao Jonoon",
-                  "streams": [
-                    {
-                      "id": "kaytee-8beae9dcd98f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d286c9e0fb",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvw0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=d71baf70863c443203ee03e4-177885308821597&wsIPSercert=2bb3f8786ab04bac75991592d41d6d30&wsBindIP=2&wsserid=1168231884021661304"
-                        },
-                        {
-                          "id": "lnk-4b3bb90162",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-3e17da9c9462",
           "name": "⚽ Japan U17 vs Tajikistan U17 | 23:00 15/05",
           "logo_nha": "https://media.api-sports.io/football/teams/12511.png",
@@ -452,6 +393,50 @@
                   "streams": [
                     {
                       "id": "kaytee-13b8ff8ee1be",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a20f4ddd1562",
+          "name": "⚽ Newcastle Jets vs Sydney | 16:40 16/05",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Newcastle_United_Jets_Logo.svg/960px-Newcastle_United_Jets_Logo.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/943.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Newcastle_United_Jets_Logo.svg/960px-Newcastle_United_Jets_Logo.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a20f4ddd1562",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a20f4ddd1562",
+                  "name": "Newcastle Jets vs Sydney",
+                  "streams": [
+                    {
+                      "id": "kaytee-a20f4ddd1562",
                       "name": "F",
                       "stream_links": []
                     }
