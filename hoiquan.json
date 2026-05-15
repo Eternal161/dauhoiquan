@@ -44,14 +44,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8f0f4ee651",
+                          "id": "lnk-7050a5848c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvw0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c53c13e0f921081fdfef68c5-177886986787381&wsIPSercert=fb2c6f6287f2dda856d867e240a9b804&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfvw1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e4f69114631439412414c86a-177887045342955&wsIPSercert=ff8ff30fc52217a69f8e6fd0de7dd5ba&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-568015cb6a",
+                          "id": "lnk-9941eff388",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -103,14 +103,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-830a53cb82",
+                          "id": "lnk-e1cbdb0ddc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvw0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=3e74063e3b2354b14bc96cc2-177886987624518&wsIPSercert=fb2c6f6287f2dda856d867e240a9b804&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfvw1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=e4f69114631439412414c86a-177887046181176&wsIPSercert=ff8ff30fc52217a69f8e6fd0de7dd5ba&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-f7f1826939",
+                          "id": "lnk-8892579ce2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -162,14 +162,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d9d5a612ac",
+                          "id": "lnk-58e976ca51",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvw0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3e74063e3b2354b14bc96cc2-177886988457245&wsIPSercert=fb2c6f6287f2dda856d867e240a9b804&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfvw1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e4f69114631439412414c86a-177887047003364&wsIPSercert=ff8ff30fc52217a69f8e6fd0de7dd5ba&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-a6e478cc4c",
+                          "id": "lnk-53f045bd34",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -201,10 +201,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -219,7 +219,22 @@
                     {
                       "id": "kaytee-0e4a214525d1",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-4fd2c8f4f0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvw1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=2855847004dc39745a33faac-177887047885625&wsIPSercert=ff8ff30fc52217a69f8e6fd0de7dd5ba&wsBindIP=2&wsserid=1168283476606715287"
+                        },
+                        {
+                          "id": "lnk-0652b792f2",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
