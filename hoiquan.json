@@ -7,65 +7,6 @@
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-3e17da9c9462",
-          "name": "⚽ Japan U17 vs Tajikistan U17 | 23:00 15/05",
-          "logo_nha": "https://media.api-sports.io/football/teams/12511.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/12521.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/12511.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3e17da9c9462",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3e17da9c9462",
-                  "name": "Japan U17 vs Tajikistan U17",
-                  "streams": [
-                    {
-                      "id": "kaytee-3e17da9c9462",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-246099b684",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvw1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=79dc5b583daa148c6122bc59-177886745172901&wsIPSercert=66e59fb954a733b7dfd23f6622ccfe23&wsBindIP=2&wsserid=1168243256613785902"
-                        },
-                        {
-                          "id": "lnk-e6448ffc5b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-5634db8bf31a",
           "name": "⚽ Rizespor vs Beşiktaş | 00:00 16/05",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/tr/f/f6/%C3%87aykur_Rizespor_Logo.png",
@@ -103,14 +44,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b4edd0b4e0",
+                          "id": "lnk-5106b87887",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvw1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=96cbfedaf555cbc17b990844-177886746057538&wsIPSercert=66e59fb954a733b7dfd23f6622ccfe23&wsBindIP=2&wsserid=1168243256604348444"
+                          "url": "https://tfvw1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=96cbfedaf555cbc17b990844-177886808369855&wsIPSercert=3b9697b933c6e8b6addc87af41d1f570&wsBindIP=2&wsserid=1168243256604348444"
                         },
                         {
-                          "id": "lnk-68775c4089",
+                          "id": "lnk-1197bef5b5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -162,14 +103,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cf4fc06f67",
+                          "id": "lnk-ee2c89b065",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvw1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=79dc5b583daa148c6122bc59-177886746874615&wsIPSercert=66e59fb954a733b7dfd23f6622ccfe23&wsBindIP=2&wsserid=1168243256613785902"
+                          "url": "https://tfvw1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=79dc5b583daa148c6122bc59-177886809216938&wsIPSercert=3b9697b933c6e8b6addc87af41d1f570&wsBindIP=2&wsserid=1168243256613785902"
                         },
                         {
-                          "id": "lnk-9153e78070",
+                          "id": "lnk-f780394ee8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -482,6 +423,50 @@
                   "streams": [
                     {
                       "id": "kaytee-a20f4ddd1562",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c0d2df68b7e8",
+          "name": "⚽ Incheon United vs Gwangju Fc | 17:00 16/05",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Emblem_of_Incheon_United.svg/960px-Emblem_of_Incheon_United.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/6/65/Gwangju_FC.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Emblem_of_Incheon_United.svg/960px-Emblem_of_Incheon_United.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c0d2df68b7e8",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c0d2df68b7e8",
+                  "name": "Incheon United vs Gwangju Fc",
+                  "streams": [
+                    {
+                      "id": "kaytee-c0d2df68b7e8",
                       "name": "F",
                       "stream_links": []
                     }
