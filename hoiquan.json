@@ -1,24 +1,14 @@
 {
   "id": "hoiquan",
-  "url": "https://raw.githubusercontent.com/Eternal161/dauhoiquan/main/hoiquan.json",
   "name": "Hội Quán TV",
-  "color": "#1cb57a",
-  "grid_number": 3,
-  "image": {
-    "type": "cover",
-    "url": "https://kaytee1012.github.io/hoiquan_logo.png"
-  },
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
       "channels": [
         {
           "id": "kaytee-6cda92a99abc",
-          "name": "⚽ Semen Padang vs Persebaya Surabaya | 15:3015/05/2026",
+          "name": "⚽ Semen Padang vs Persebaya Surabaya",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/min/1/1e/Semen_Padang_FC.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuTyY0tUDghwoKecafyCjgfqvW_fzYBPga7A&s",
           "type": "single",
@@ -34,10 +24,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -52,7 +42,22 @@
                     {
                       "id": "kaytee-6cda92a99abc",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-b54b25d4a6",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvw1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=9594d27090c663bfa87a11a8-177883549702848&wsIPSercert=f7b8f01d7bff3971a9fa08887e1bb433&wsBindIP=2&wsserid=1168283323221983365"
+                        },
+                        {
+                          "id": "lnk-7588641763",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -62,7 +67,7 @@
         },
         {
           "id": "kaytee-c357a11cf884",
-          "name": "⚽ Adelaide United vs Auckland | 16:3515/05/2026",
+          "name": "⚽ Adelaide United vs Auckland",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3zrZ0HFvG9-HWKYsCOLXgZJ1y7d2zLCzmQ&s",
           "logo_khach": "https://media.api-sports.io/football/teams/24608.png",
           "type": "single",
@@ -106,7 +111,7 @@
         },
         {
           "id": "kaytee-58c1caa8d9a2",
-          "name": "⚽ Ho Chi Minh vs Da Nang | 18:0015/05/2026",
+          "name": "⚽ Ho Chi Minh vs Da Nang",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/thumb/4/47/Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg/250px-Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3669.png",
           "type": "single",
@@ -150,7 +155,7 @@
         },
         {
           "id": "kaytee-055de2c8f7a3",
-          "name": "⚽ Shanghai Sipg vs Hangzhou Greentown | 18:3515/05/2026",
+          "name": "⚽ Shanghai Sipg vs Hangzhou Greentown",
           "logo_nha": "https://media.api-sports.io/football/teams/836.png",
           "logo_khach": "https://media.api-sports.io/football/teams/848.png",
           "type": "single",
@@ -194,7 +199,7 @@
         },
         {
           "id": "kaytee-8dd7425e242e",
-          "name": "⚽ Tianjin Teda vs Chengdu Better City | 18:3515/05/2026",
+          "name": "⚽ Tianjin Teda vs Chengdu Better City",
           "logo_nha": "https://media.api-sports.io/football/teams/837.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5648.png",
           "type": "single",
@@ -238,7 +243,7 @@
         },
         {
           "id": "kaytee-263eb8dd9c28",
-          "name": "⚽ Beijing Guoan vs Qingdao Jonoon | 19:0015/05/2026",
+          "name": "⚽ Beijing Guoan vs Qingdao Jonoon",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/1431.png",
           "type": "single",
@@ -282,7 +287,7 @@
         },
         {
           "id": "kaytee-3e17da9c9462",
-          "name": "⚽ Japan U17 vs Tajikistan U17 | 23:0015/05/2026",
+          "name": "⚽ Japan U17 vs Tajikistan U17",
           "logo_nha": "https://media.api-sports.io/football/teams/12511.png",
           "logo_khach": "https://media.api-sports.io/football/teams/12521.png",
           "type": "single",
@@ -326,7 +331,7 @@
         },
         {
           "id": "kaytee-9550adbaaa52",
-          "name": "⚽ Damac vs Al Fayha | 23:1515/05/2026",
+          "name": "⚽ Damac vs Al-Fayha",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/7/7a/Damac_F.C._logo.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2944.png",
           "type": "single",
@@ -355,7 +360,7 @@
               "contents": [
                 {
                   "id": "kaytee-9550adbaaa52",
-                  "name": "Damac vs Al Fayha",
+                  "name": "Damac vs Al-Fayha",
                   "streams": [
                     {
                       "id": "kaytee-9550adbaaa52",
@@ -370,7 +375,7 @@
         },
         {
           "id": "kaytee-7621d29bdea4",
-          "name": "⚽ Fc Minsk vs Belshina | 23:4515/05/2026",
+          "name": "⚽ Fc Minsk vs Belshina",
           "logo_nha": "https://media.api-sports.io/football/teams/380.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3384.png",
           "type": "single",
@@ -414,7 +419,7 @@
         },
         {
           "id": "kaytee-5634db8bf31a",
-          "name": "⚽ Rizespor vs Besiktas | 00:0016/05/2026",
+          "name": "⚽ Rizespor vs Beşiktaş",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/tr/f/f6/%C3%87aykur_Rizespor_Logo.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/d/da/BesiktasJK-Logo.svg",
           "type": "single",
@@ -443,450 +448,10 @@
               "contents": [
                 {
                   "id": "kaytee-5634db8bf31a",
-                  "name": "Rizespor vs Besiktas",
+                  "name": "Rizespor vs Beşiktaş",
                   "streams": [
                     {
                       "id": "kaytee-5634db8bf31a",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-bf5cd3539035",
-          "name": "⚽ Saudi Arabia U17 vs China Pr U17 | 00:0016/05/2026",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/21449.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-bf5cd3539035",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-bf5cd3539035",
-                  "name": "Saudi Arabia U17 vs China Pr U17",
-                  "streams": [
-                    {
-                      "id": "kaytee-bf5cd3539035",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-afc64ece960c",
-          "name": "⚽ Aston Villa vs Liverpool | 02:0016/05/2026",
-          "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
-          "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/nGfV05dipbAc7zzojivKew_96x96.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "🔴 Chờ stream",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff6600"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-afc64ece960c",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-afc64ece960c",
-                  "name": "Aston Villa vs Liverpool",
-                  "streams": [
-                    {
-                      "id": "kaytee-afc64ece960c",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-0e4a214525d1",
-          "name": "⚽ Aston Villa vs Liverpool | 02:0016/05/2026",
-          "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
-          "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/nGfV05dipbAc7zzojivKew_96x96.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "🔴 Chờ stream",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff6600"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-0e4a214525d1",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-0e4a214525d1",
-                  "name": "Aston Villa vs Liverpool",
-                  "streams": [
-                    {
-                      "id": "kaytee-0e4a214525d1",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-257d0a3b0dfd",
-          "name": "⚽ Mito Hollyhock vs Tokyo Verdy | 12:0016/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/305.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/id/a/a0/Tokyo_Verdy_2020_logo.webp",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/305.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-257d0a3b0dfd",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-257d0a3b0dfd",
-                  "name": "Mito Hollyhock vs Tokyo Verdy",
-                  "streams": [
-                    {
-                      "id": "kaytee-257d0a3b0dfd",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-c0469559efd5",
-          "name": "⚽ Urawa vs Fc Tokyo | 14:0016/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/287.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/1/15/FC_Tokyo_Logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/287.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c0469559efd5",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c0469559efd5",
-                  "name": "Urawa vs Fc Tokyo",
-                  "streams": [
-                    {
-                      "id": "kaytee-c0469559efd5",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-d427a61f6c24",
-          "name": "⚽ Daejeon Citizen vs Fc Seoul | 14:3016/05/2026",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYS2zEFbeFBg_XqzrgQPETiHdzD2yAXqh8wQ&s",
-          "logo_khach": "https://media.api-sports.io/football/teams/2766.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYS2zEFbeFBg_XqzrgQPETiHdzD2yAXqh8wQ&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-d427a61f6c24",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-d427a61f6c24",
-                  "name": "Daejeon Citizen vs Fc Seoul",
-                  "streams": [
-                    {
-                      "id": "kaytee-d427a61f6c24",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-13b8ff8ee1be",
-          "name": "⚽ Yokohama F Marinos vs Kashiwa Reysol | 15:0016/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/296.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/e/e6/KashiwaReysol.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/296.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-13b8ff8ee1be",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-13b8ff8ee1be",
-                  "name": "Yokohama F Marinos vs Kashiwa Reysol",
-                  "streams": [
-                    {
-                      "id": "kaytee-13b8ff8ee1be",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-a20f4ddd1562",
-          "name": "⚽ Newcastle Jets vs Sydney | 16:4016/05/2026",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Newcastle_United_Jets_Logo.svg/960px-Newcastle_United_Jets_Logo.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/943.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Newcastle_United_Jets_Logo.svg/960px-Newcastle_United_Jets_Logo.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a20f4ddd1562",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a20f4ddd1562",
-                  "name": "Newcastle Jets vs Sydney",
-                  "streams": [
-                    {
-                      "id": "kaytee-a20f4ddd1562",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-c0d2df68b7e8",
-          "name": "⚽ Incheon United vs Gwangju Fc | 17:0016/05/2026",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Emblem_of_Incheon_United.svg/960px-Emblem_of_Incheon_United.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/6/65/Gwangju_FC.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Emblem_of_Incheon_United.svg/960px-Emblem_of_Incheon_United.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c0d2df68b7e8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c0d2df68b7e8",
-                  "name": "Incheon United vs Gwangju Fc",
-                  "streams": [
-                    {
-                      "id": "kaytee-c0d2df68b7e8",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-424b909f18a8",
-          "name": "⚽ Hai Phong vs Binh Duong | 18:0016/05/2026",
-          "logo_nha": "https://vpf.vn/wp-content/uploads/2018/10/haiphongfc.jpg",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://vpf.vn/wp-content/uploads/2018/10/haiphongfc.jpg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-424b909f18a8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-424b909f18a8",
-                  "name": "Hai Phong vs Binh Duong",
-                  "streams": [
-                    {
-                      "id": "kaytee-424b909f18a8",
                       "name": "F",
                       "stream_links": []
                     }
