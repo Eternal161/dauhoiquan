@@ -149,26 +149,43 @@ JS_EXTRACT = """
         // ── 3. Tên đội ────────────────────────────────────────────────────
         let home = '', away = '';
 
-        // Chiến lược A: selector tên đội trực tiếp
-        const nameSelectors = [
-            '.team-name', '.club-name',
-            '[class*="team-name"]', '[class*="teamName"]',
-            '[class*="home-name"]', '[class*="away-name"]',
-            '[class*="team_name"]', '[class*="club_name"]',
-            '.home .name', '.away .name',
-        ];
-        for (const sel of nameSelectors) {
-            const els = Array.from(a.querySelectorAll(sel))
-                .map(el => clean(el.innerText))
-                .filter(t => t.length > 1 && !SKIP.test(t));
-            if (els.length >= 2) {
-                home = els[0];
-                away = els[els.length - 1];
+        // Chiến lược A (ƯU TIÊN): parse slug URL
+        // Site luôn có dạng: doi-nha-vs-doi-khach.HASH/ID
+        // Ví dụ: vitoria-vs-flamengo.zbbShYsKYF/7435
+        for (const seg of href.split('/').reverse()) {
+            const base = seg.split('.')[0];
+            const vm = base.match(/^(.+?)-vs-(.+)$/i);
+            if (vm) {
+                const toTitle = s => s.replace(/-/g, ' ')
+                    .replace(/\b\w/g, c => c.toUpperCase());
+                home = toTitle(vm[1]);
+                away = toTitle(vm[2]);
                 break;
             }
         }
 
-        // Chiến lược B: duyệt text node lá, loại bỏ text của tên giải
+        // Chiến lược B: CSS selector (fallback)
+        if (!home || !away) {
+            const nameSelectors = [
+                '.team-name', '.club-name',
+                '[class*="team-name"]', '[class*="teamName"]',
+                '[class*="home-name"]', '[class*="away-name"]',
+                '[class*="team_name"]', '[class*="club_name"]',
+                '.home .name', '.away .name',
+            ];
+            for (const sel of nameSelectors) {
+                const els = Array.from(a.querySelectorAll(sel))
+                    .map(el => clean(el.innerText))
+                    .filter(t => t.length > 1 && !SKIP.test(t));
+                if (els.length >= 2) {
+                    home = els[0];
+                    away = els[els.length - 1];
+                    break;
+                }
+            }
+        }
+
+        // Chiến lược C: text node lá, loại bỏ tên giải (fallback cuối)
         if (!home || !away) {
             const leafTexts = [];
             const walker = document.createTreeWalker(a, NodeFilter.SHOW_TEXT);
@@ -179,30 +196,17 @@ JS_EXTRACT = """
                     t.length >= 2 &&
                     t.length <= 45 &&
                     !SKIP.test(t) &&
-                    t !== league &&                          // ← loại tên giải
-                    !/^[\\d\\s:\\/\\-\\.]+$/.test(t)          // không phải số/giờ thuần
+                    t !== league &&
+                    !/^[\\d\\s:\\/\\-\\.]+$/.test(t)
                 ) {
                     leafTexts.push(t);
                 }
             }
-            // Đội nhà = đầu tiên, đội khách = cuối cùng
             if (leafTexts.length >= 2) {
                 home = home || leafTexts[0];
                 away = away || leafTexts[leafTexts.length - 1];
             } else if (leafTexts.length === 1) {
                 home = home || leafTexts[0];
-            }
-        }
-
-        // Chiến lược C: parse slug URL nếu có "-vs-"
-        if (!home || !away || home === away) {
-            const slug = href.split('/').pop() || '';
-            const m = slug.match(/^(.+?)-vs-(.+?)(-\\d{4}-\\d{2}-\\d{2}|$)/i);
-            if (m) {
-                const toTitle = s => s.replace(/-/g, ' ')
-                    .replace(/\\b\\w/g, c => c.toUpperCase());
-                home = toTitle(m[1]);
-                away = toTitle(m[2]);
             }
         }
 
