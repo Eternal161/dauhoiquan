@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:30 16/05/2026",
+  "last_updated": "15:40 16/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-72a3d4ff6f56",
-          "name": "⚽ Urawa vs Fc Tokyo | H2 - 70' 0 - 0 14:00 16/05/2026",
+          "name": "⚽ Urawa vs Fc Tokyo | H2 - 80' 0 - 0 14:00 16/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/287.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/1/15/FC_Tokyo_Logo.svg",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-84c7c06fdc",
+                          "id": "lnk-f29a5d919f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr4uqmtt8y41hcjagyzdectppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=ccc6fa869825b4b60c778e3d-177892025515864&wsIPSercert=b9130a92c5b48061df7fa1c636786c2a&wsBindIP=2&wsserid=1168259296636511195"
+                          "url": "https://tfvx1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=7c4e4f66cc241c50ef4f07a6-177892084917296&wsIPSercert=a324fc3e0a7241c33674986668487019&wsBindIP=2&wsserid=1168194741519896389"
                         },
                         {
-                          "id": "lnk-9786ab9759",
+                          "id": "lnk-d059ce4f4e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
         },
         {
           "id": "kaytee-d427a61f6c24",
-          "name": "⚽ Daejeon Citizen vs Fc Seoul | Giữa Hiệp - 45+4' 0 - 1 14:30 16/05/2026",
+          "name": "⚽ Daejeon Citizen vs Fc Seoul | H2 - 52' 0 - 1 14:30 16/05/2026",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYS2zEFbeFBg_XqzrgQPETiHdzD2yAXqh8wQ&s",
           "logo_khach": "https://media.api-sports.io/football/teams/2766.png",
           "type": "single",
@@ -104,7 +104,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bac3b15424",
+                          "id": "lnk-af734eb5a6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -120,7 +120,7 @@
         },
         {
           "id": "kaytee-facc9ea16c0f",
-          "name": "⚽ Yokohama F. Marinos vs Kashiwa Reysol | H1 - 27' 0 - 0 15:00 16/05/2026",
+          "name": "⚽ Yokohama F. Marinos vs Kashiwa Reysol | H1 - 38' 0 - 0 15:00 16/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/296.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/e/e6/KashiwaReysol.png",
           "type": "single",
@@ -156,14 +156,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2d11cff7e7",
+                          "id": "lnk-cf91f4a01c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr4uqmtt8y41hcjagyzdectppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=d1247edf57a96fdcff5c0f37-177892027226767&wsIPSercert=b9130a92c5b48061df7fa1c636786c2a&wsBindIP=2&wsserid=1168195251501065244"
+                          "url": "https://tfvx1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=16586464f260461adb18229f-177892086630266&wsIPSercert=a324fc3e0a7241c33674986668487019&wsBindIP=2&wsserid=1168194741518847065"
                         },
                         {
-                          "id": "lnk-26e359ffe9",
+                          "id": "lnk-dac545ceb0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
