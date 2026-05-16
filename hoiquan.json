@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:40 17/05/2026",
+  "last_updated": "01:50 17/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-523a0dae6eaa",
-          "name": "⚽ Vietnam U17 vs Australia U17 | H2 - 83' 0 - 3 00:00 17/05/2026",
+          "name": "⚽ Vietnam U17 vs Australia U17 | H2 - 90+3' 0 - 3 00:00 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/21447.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19076.png",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fd75a4107c",
+                          "id": "lnk-592755a09c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c438ac6decda89126df978ec-177895686558249&wsIPSercert=fcce86a7d401261d2d216d837a6e5768&wsBindIP=2&wsserid=1168243256651535330"
+                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3d4ec92cc5aa77589788444e-177895744774960&wsIPSercert=b06fa14d4b7bed0536f15774a1e77c8e&wsBindIP=2&wsserid=1168243256607494228"
                         },
                         {
-                          "id": "lnk-fc876618fd",
+                          "id": "lnk-5cdc711aee",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
         },
         {
           "id": "kaytee-eb8acbeddcde",
-          "name": "⚽ Al-Nassr vs Gamba Osaka | Giữa Hiệp - 45+3' 0 - 1 00:45 17/05/2026",
+          "name": "⚽ Al-Nassr vs Gamba Osaka | H2 - 47' 0 - 1 00:45 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/2939.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png",
           "type": "single",
@@ -104,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cd155bb638",
+                          "id": "lnk-1633abdb8f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=78870e28641cbdb41d4e9c53-177895687381127&wsIPSercert=fcce86a7d401261d2d216d837a6e5768&wsBindIP=2&wsserid=1168243256645243746"
+                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=c3b425deceb9418dcbd56e1b-177895745626415&wsIPSercert=b06fa14d4b7bed0536f15774a1e77c8e&wsBindIP=2&wsserid=1168243256613785902"
                         },
                         {
-                          "id": "lnk-da6a6a1c35",
+                          "id": "lnk-16441850ad",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -171,7 +171,7 @@
         },
         {
           "id": "kaytee-1624bffffc3f",
-          "name": "⚽ Sporting Cp vs Gil Vicente | Sắp diễn ra vs 02:30 17/05/2026",
+          "name": "⚽ Sporting Cp vs Gil Vicente | Live 0 - 0 02:30 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/3/3e/Sporting_Clube_de_Portugal.png",
           "logo_khach": "https://imgts.sportpulseapiz.com/football/team/vjxm8ghp83dr6od/image/small",
           "type": "single",
@@ -187,10 +187,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -205,7 +205,22 @@
                     {
                       "id": "kaytee-1624bffffc3f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-ff9cf2e77b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=c3b425deceb9418dcbd56e1b-177895747302623&wsIPSercert=b06fa14d4b7bed0536f15774a1e77c8e&wsBindIP=2&wsserid=1168243256613785902"
+                        },
+                        {
+                          "id": "lnk-d1ef4e6f27",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
