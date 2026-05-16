@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:10 16/05/2026",
+  "last_updated": "16:21 16/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-d427a61f6c24",
-          "name": "⚽ Daejeon Citizen vs Fc Seoul | H2 - 82' 1 - 1 14:30 16/05/2026",
+          "name": "⚽ Daejeon Citizen vs Fc Seoul | H2 - 90+3' 1 - 2 14:30 16/05/2026",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYS2zEFbeFBg_XqzrgQPETiHdzD2yAXqh8wQ&s",
           "logo_khach": "https://media.api-sports.io/football/teams/2766.png",
           "type": "single",
@@ -25,10 +25,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -43,7 +43,22 @@
                     {
                       "id": "kaytee-d427a61f6c24",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-3522cdcf6f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvx1gr3uomttgr31hcji8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c6433cbabbc927c22ab07627-177892327404895&wsIPSercert=25fd94c12d5887b5c6fb6ba35af8a45a&wsBindIP=2&wsserid=1172665350473402856"
+                        },
+                        {
+                          "id": "lnk-62f02db8d6",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -53,7 +68,7 @@
         },
         {
           "id": "kaytee-facc9ea16c0f",
-          "name": "⚽ Yokohama F. Marinos vs Kashiwa Reysol | H2 - 51' 0 - 1 15:00 16/05/2026",
+          "name": "⚽ Yokohama F. Marinos vs Kashiwa Reysol | H2 - 61' 0 - 1 15:00 16/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/296.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/e/e6/KashiwaReysol.png",
           "type": "single",
@@ -89,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-509715a72b",
+                          "id": "lnk-b5ef0821e1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=98564028407255a9ad484c9d-177892267521595&wsIPSercert=8cfc921f655b097977fec6a961836d1d&wsBindIP=2&wsserid=1172580915177615204"
+                          "url": "https://tfvx1gr3uomttgr31hcji8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=4faa155c6f8ede14820b76cc-177892328260032&wsIPSercert=25fd94c12d5887b5c6fb6ba35af8a45a&wsBindIP=2&wsserid=1172665343356714795"
                         },
                         {
-                          "id": "lnk-239467b392",
+                          "id": "lnk-7c7c865951",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -112,7 +127,7 @@
         },
         {
           "id": "kaytee-a20f4ddd1562",
-          "name": "⚽ Newcastle Jets vs Sydney | Sắp diễn ra vs 16:40 16/05/2026",
+          "name": "⚽ Newcastle Jets vs Sydney | Sắp bắt đầu - null' 0 - 0 16:40 16/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Newcastle_United_Jets_Logo.svg/960px-Newcastle_United_Jets_Logo.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/943.png",
           "type": "single",
@@ -128,10 +143,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -146,7 +161,22 @@
                     {
                       "id": "kaytee-a20f4ddd1562",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-a8d771f5fe",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvx1gr3uomttgr31hcji8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c6433cbabbc927c22ab07627-177892329098938&wsIPSercert=25fd94c12d5887b5c6fb6ba35af8a45a&wsBindIP=2&wsserid=1172665350473402856"
+                        },
+                        {
+                          "id": "lnk-312b2754b3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -156,7 +186,7 @@
         },
         {
           "id": "kaytee-c0d2df68b7e8",
-          "name": "⚽ Incheon United vs Gwangju Fc | Sắp diễn ra vs 17:00 16/05/2026",
+          "name": "⚽ Incheon United vs Gwangju Fc | Sắp bắt đầu - null' 0 - 0 17:00 16/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Emblem_of_Incheon_United.svg/960px-Emblem_of_Incheon_United.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/6/65/Gwangju_FC.svg",
           "type": "single",
@@ -172,10 +202,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -190,7 +220,22 @@
                     {
                       "id": "kaytee-c0d2df68b7e8",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-2281126cc2",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvx1gr3uomttgr31hcji8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=8a84d023e1d097c74b2358fe-177892329920498&wsIPSercert=25fd94c12d5887b5c6fb6ba35af8a45a&wsBindIP=2&wsserid=1172665344093863980"
+                        },
+                        {
+                          "id": "lnk-983c0690d9",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
