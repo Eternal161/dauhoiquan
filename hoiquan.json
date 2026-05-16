@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:20 17/05/2026",
+  "last_updated": "03:30 17/05/2026",
   "groups": [
     {
       "id": "live",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-38f20a799e",
+                          "id": "lnk-0ca8e1c92f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=7b5ae66679f825c9d3872358-177896285085095&wsIPSercert=8c8f7e0b0cf600f8fb66b1c9501f6111&wsBindIP=2&wsserid=1168243256598056876"
+                          "url": "https://tfvx1gr3uomttgr31hcji8rzdgp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=92d0599ce21af7fbd6396928-177896344886447&wsIPSercert=65b219941dc13bb57276fe14c18869f0&wsBindIP=2&wsserid=1172665344093863980"
                         },
                         {
-                          "id": "lnk-d71482278a",
+                          "id": "lnk-7b7c306db2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -67,8 +67,8 @@
           ]
         },
         {
-          "id": "kaytee-1624bffffc3f",
-          "name": "⚽ Sporting Cp vs Gil Vicente | Live 0 - 0 02:30 17/05/2026",
+          "id": "kaytee-3bdf5883f612",
+          "name": "⚽ Sporting Cp vs Gil Vicente | Giữa Hiệp - 45+4' 2 - 0 02:30 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/3/3e/Sporting_Clube_de_Portugal.png",
           "logo_khach": "https://imgts.sportpulseapiz.com/football/team/vjxm8ghp83dr6od/image/small",
           "type": "single",
@@ -92,26 +92,26 @@
           ],
           "sources": [
             {
-              "id": "kaytee-1624bffffc3f",
+              "id": "kaytee-3bdf5883f612",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-1624bffffc3f",
+                  "id": "kaytee-3bdf5883f612",
                   "name": "Sporting Cp vs Gil Vicente",
                   "streams": [
                     {
-                      "id": "kaytee-1624bffffc3f",
+                      "id": "kaytee-3bdf5883f612",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b7316634ba",
+                          "id": "lnk-a77f6d61cb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=c3b425deceb9418dcbd56e1b-177896285901949&wsIPSercert=8c8f7e0b0cf600f8fb66b1c9501f6111&wsBindIP=2&wsserid=1168243256613785902"
+                          "url": "https://tfvx1gr3uomttgr31hcji8rzdgp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=92d0599ce21af7fbd6396928-177896345755353&wsIPSercert=65b219941dc13bb57276fe14c18869f0&wsBindIP=2&wsserid=1172665344093863980"
                         },
                         {
-                          "id": "lnk-d0aa6d1ee8",
+                          "id": "lnk-6eea63206e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
