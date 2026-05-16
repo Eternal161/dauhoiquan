@@ -1,74 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:21 16/05/2026",
+  "last_updated": "16:30 16/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-d427a61f6c24",
-          "name": "⚽ Daejeon Citizen vs Fc Seoul | H2 - 90+3' 1 - 2 14:30 16/05/2026",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYS2zEFbeFBg_XqzrgQPETiHdzD2yAXqh8wQ&s",
-          "logo_khach": "https://media.api-sports.io/football/teams/2766.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYS2zEFbeFBg_XqzrgQPETiHdzD2yAXqh8wQ&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-d427a61f6c24",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-d427a61f6c24",
-                  "name": "Daejeon Citizen vs Fc Seoul",
-                  "streams": [
-                    {
-                      "id": "kaytee-d427a61f6c24",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3522cdcf6f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvx1gr3uomttgr31hcji8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c6433cbabbc927c22ab07627-177892327404895&wsIPSercert=25fd94c12d5887b5c6fb6ba35af8a45a&wsBindIP=2&wsserid=1172665350473402856"
-                        },
-                        {
-                          "id": "lnk-62f02db8d6",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-facc9ea16c0f",
-          "name": "⚽ Yokohama F. Marinos vs Kashiwa Reysol | H2 - 61' 0 - 1 15:00 16/05/2026",
+          "name": "⚽ Yokohama F. Marinos vs Kashiwa Reysol | H2 - 70' 0 - 1 15:00 16/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/296.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/e/e6/KashiwaReysol.png",
           "type": "single",
@@ -104,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b5ef0821e1",
+                          "id": "lnk-ba76d0ad19",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr3uomttgr31hcji8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=4faa155c6f8ede14820b76cc-177892328260032&wsIPSercert=25fd94c12d5887b5c6fb6ba35af8a45a&wsBindIP=2&wsserid=1172665343356714795"
+                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=56d49c68792c5f2be57b593d-177892385446617&wsIPSercert=d51b34b76ae69962461f81e82c1b1086&wsBindIP=2&wsserid=1168243343863876729"
                         },
                         {
-                          "id": "lnk-7c7c865951",
+                          "id": "lnk-ab646bd599",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -163,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a8d771f5fe",
+                          "id": "lnk-65fe35d6c4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr3uomttgr31hcji8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c6433cbabbc927c22ab07627-177892329098938&wsIPSercert=25fd94c12d5887b5c6fb6ba35af8a45a&wsBindIP=2&wsserid=1172665350473402856"
+                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=5c956933e3963f326f3bbab2-177892386281059&wsIPSercert=d51b34b76ae69962461f81e82c1b1086&wsBindIP=2&wsserid=1168243256651535330"
                         },
                         {
-                          "id": "lnk-312b2754b3",
+                          "id": "lnk-dcc3e24890",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -222,14 +163,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2281126cc2",
+                          "id": "lnk-720d52826c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr3uomttgr31hcji8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=8a84d023e1d097c74b2358fe-177892329920498&wsIPSercert=25fd94c12d5887b5c6fb6ba35af8a45a&wsBindIP=2&wsserid=1172665344093863980"
+                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=880b1549e693e887b1c62098-177892387121726&wsIPSercert=d51b34b76ae69962461f81e82c1b1086&wsBindIP=2&wsserid=1168243256648389538"
                         },
                         {
-                          "id": "lnk-983c0690d9",
+                          "id": "lnk-8115d5ef05",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -498,6 +439,50 @@
                   "streams": [
                     {
                       "id": "kaytee-60f1fbad20b5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-45868a956711",
+          "name": "⚽ Sc Freiburg vs Rb Leipzig | Sắp diễn ra vs 20:30 16/05/2026",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/3/3c/SC_Freiburg.jpg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/d/d6/VEREINFACHTES_LOGO_-_RB_Leipzig.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/3/3c/SC_Freiburg.jpg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-45868a956711",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-45868a956711",
+                  "name": "Sc Freiburg vs Rb Leipzig",
+                  "streams": [
+                    {
+                      "id": "kaytee-45868a956711",
                       "name": "F",
                       "stream_links": []
                     }
