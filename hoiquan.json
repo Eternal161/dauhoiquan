@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:00 17/05/2026",
+  "last_updated": "06:11 17/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-72bcd4a0221f",
-          "name": "⚽ New York Red Bulls vs New York City Fc | Sắp diễn ra vs 06:30 17/05/2026",
+          "name": "⚽ New York Red Bulls vs New York City Fc | Sắp bắt đầu - null' 0 - 0 06:30 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/1602.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_New_York_City_FC_2025.svg/1280px-Logo_New_York_City_FC_2025.svg.png",
           "type": "single",
@@ -25,10 +25,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -43,7 +43,22 @@
                     {
                       "id": "kaytee-72bcd4a0221f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-7cc07c5141",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvx0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4d65f54b2ced7bd280e8ea77-177897307574134&wsIPSercert=663dd20ba3cc0a71485c1eca993b6991&wsBindIP=2&wsserid=1172666312704417830"
+                        },
+                        {
+                          "id": "lnk-e8f5da58c4",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
