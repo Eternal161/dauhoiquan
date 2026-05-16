@@ -1,74 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:40 16/05/2026",
+  "last_updated": "19:50 16/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-a20f4ddd1562",
-          "name": "⚽ Newcastle Jets vs Sydney | Kết thúc - null' 1 - 1 16:40 16/05/2026",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Newcastle_United_Jets_Logo.svg/960px-Newcastle_United_Jets_Logo.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/943.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Newcastle_United_Jets_Logo.svg/960px-Newcastle_United_Jets_Logo.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a20f4ddd1562",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a20f4ddd1562",
-                  "name": "Newcastle Jets vs Sydney",
-                  "streams": [
-                    {
-                      "id": "kaytee-a20f4ddd1562",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2fb7b4958e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=015f882d6bf28108fca60425-177893526070379&wsIPSercert=281b6b0501caa99f88c2668a89d72702&wsBindIP=2&wsserid=1168176337061519089"
-                        },
-                        {
-                          "id": "lnk-83f82020b5",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-424b909f18a8",
-          "name": "⚽ Hai Phong vs Binh Duong | H2 - 79' 4 - 2 18:00 16/05/2026",
+          "name": "⚽ Hai Phong vs Binh Duong | H2 - 89' 4 - 2 18:00 16/05/2026",
           "logo_nha": "https://vpf.vn/wp-content/uploads/2018/10/haiphongfc.jpg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
           "type": "single",
@@ -104,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2191fdd206",
+                          "id": "lnk-24b8be0057",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=95c73cdd21d768bd8f270626-177893526911484&wsIPSercert=281b6b0501caa99f88c2668a89d72702&wsBindIP=2&wsserid=1168041062945190795"
+                          "url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=08a97592fcdc472fa413e2d6-177893585184490&wsIPSercert=dcd41adb923c82ffeff163ee9d0ed784&wsBindIP=2&wsserid=1168202333420231774"
                         },
                         {
-                          "id": "lnk-b7ae4c9327",
+                          "id": "lnk-cd19b3766b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -127,7 +68,7 @@
         },
         {
           "id": "kaytee-6f52cc168415",
-          "name": "⚽ Song Lam Nghe An vs Phu Dong | H2 - 83' 1 - 0 18:00 16/05/2026",
+          "name": "⚽ Song Lam Nghe An vs Phu Dong | H2 - 90+2' 1 - 2 18:00 16/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/3678.png",
           "logo_khach": "https://media.api-sports.io/football/teams/9167.png",
           "type": "single",
@@ -163,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-61a58e7605",
+                          "id": "lnk-43a0548823",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ae5d40028ae96af9e63375e8-177893527765790&wsIPSercert=281b6b0501caa99f88c2668a89d72702&wsBindIP=2&wsserid=1168176337059421885"
+                          "url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177893586000897&wsIPSercert=dcd41adb923c82ffeff163ee9d0ed784&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-e5240af4f8",
+                          "id": "lnk-602fa1b174",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -186,7 +127,7 @@
         },
         {
           "id": "kaytee-009b0b02c3eb",
-          "name": "⚽ Wuhan Three Towns vs Shenyang Urban | H2 - 81' 2 - 1 18:00 16/05/2026",
+          "name": "⚽ Wuhan Three Towns vs Shenyang Urban | H2 - 90' 2 - 2 18:00 16/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Wuhan_Three_Towns_F.C.svg/250px-Wuhan_Three_Towns_F.C.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5684.png",
           "type": "single",
@@ -222,14 +163,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-75b266b68b",
+                          "id": "lnk-9e7f37b0b2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=015f882d6bf28108fca60425-177893528586951&wsIPSercert=281b6b0501caa99f88c2668a89d72702&wsBindIP=2&wsserid=1168176337061519089"
+                          "url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177893586858136&wsIPSercert=dcd41adb923c82ffeff163ee9d0ed784&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-d58902dd2f",
+                          "id": "lnk-35882990b6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -498,6 +439,50 @@
                   "streams": [
                     {
                       "id": "kaytee-131bb4babd43",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-367f3f12cd29",
+          "name": "⚽ Chelsea vs Manchester City | Sắp diễn ra vs 21:00 16/05/2026",
+          "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-367f3f12cd29",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-367f3f12cd29",
+                  "name": "Chelsea vs Manchester City",
+                  "streams": [
+                    {
+                      "id": "kaytee-367f3f12cd29",
                       "name": "F",
                       "stream_links": []
                     }
