@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:00 17/05/2026",
+  "last_updated": "02:10 17/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-eb8acbeddcde",
-          "name": "⚽ Al-Nassr vs Gamba Osaka | H2 - 56' 0 - 1 00:45 17/05/2026",
+          "name": "⚽ Al-Nassr vs Gamba Osaka | H2 - 67' 0 - 1 00:45 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/2939.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-afb30f3f66",
+                          "id": "lnk-74c352d135",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=78870e28641cbdb41d4e9c53-177895804658931&wsIPSercert=978d793eedd792b25aeea24938244b76&wsBindIP=2&wsserid=1168243256645243746"
+                          "url": "https://tfvx1gr4uqmtt8y41hcjagyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=75e26abb3b3d280f56592235-177895865420713&wsIPSercert=ab3601cce2171fc85cf3ebc4f9fadddd&wsBindIP=2&wsserid=1168259294120458059"
                         },
                         {
-                          "id": "lnk-dccc0a82bb",
+                          "id": "lnk-c7a27fc710",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
         },
         {
           "id": "kaytee-dd773ba78575",
-          "name": "⚽ Estoril vs Benfica | Sắp diễn ra vs 02:30 17/05/2026",
+          "name": "⚽ Estoril vs Benfica | Sắp bắt đầu - null' 0 - 0 02:30 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/de/thumb/1/14/GD_Estoril_Praia.svg/500px-GD_Estoril_Praia.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/a/ad/SL_Benfica_logo.png",
           "type": "single",
@@ -84,10 +84,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -102,7 +102,22 @@
                     {
                       "id": "kaytee-dd773ba78575",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-8380a6c613",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvx1gr4uqmtt8y41hcjagyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=5ea6b35beed3738c7bc75cad-177895866273526&wsIPSercert=ab3601cce2171fc85cf3ebc4f9fadddd&wsBindIP=2&wsserid=1168259296640705555"
+                        },
+                        {
+                          "id": "lnk-5f9b855ec7",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -148,14 +163,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5780d5ec4d",
+                          "id": "lnk-a34c40fc90",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=aedd70980ff8f6b5ab8a1bf7-177895806378198&wsIPSercert=978d793eedd792b25aeea24938244b76&wsBindIP=2&wsserid=1168243256648389538"
+                          "url": "https://tfvx1gr4uqmtt8y41hcjagyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=6207feeb35a555b4255e98dd-177895867126133&wsIPSercert=ab3601cce2171fc85cf3ebc4f9fadddd&wsBindIP=2&wsserid=1168259296643851339"
                         },
                         {
-                          "id": "lnk-49733a9a0d",
+                          "id": "lnk-2851cba3c7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
