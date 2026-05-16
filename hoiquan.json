@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:50 16/05/2026",
+  "last_updated": "19:00 16/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a20f4ddd1562",
-          "name": "⚽ Newcastle Jets vs Sydney | Kết thúc - null+9' 1 - 1 16:40 16/05/2026",
+          "name": "⚽ Newcastle Jets vs Sydney | Kết thúc - 98' 1 - 1 16:40 16/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Newcastle_United_Jets_Logo.svg/960px-Newcastle_United_Jets_Logo.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/943.png",
           "type": "single",
@@ -45,77 +45,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-31ce444eef",
+                          "id": "lnk-d2701461d8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=663c68c0b47be69a3c366ff2-177893225984573&wsIPSercert=f94545170d39d12546cc05b08eb4116d&wsBindIP=2&wsserid=1168214364742294105"
+                          "url": "https://tfvx1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=5eaf10336ca0b8d2d1fbb677-177893286112882&wsIPSercert=28b322d039b97ef6c7898cd0ea464e23&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-ac9391d75f",
+                          "id": "lnk-4de77f278e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-c0d2df68b7e8",
-          "name": "⚽ Incheon United vs Gwangju Fc | H2 - 90+3' 4 - 0 17:00 16/05/2026",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Emblem_of_Incheon_United.svg/960px-Emblem_of_Incheon_United.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/6/65/Gwangju_FC.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Emblem_of_Incheon_United.svg/960px-Emblem_of_Incheon_United.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c0d2df68b7e8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c0d2df68b7e8",
-                  "name": "Incheon United vs Gwangju Fc",
-                  "streams": [
-                    {
-                      "id": "kaytee-c0d2df68b7e8",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fec72d4715",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvx1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=ea7b0ac5560857f41f0bd230-177893226826098&wsIPSercert=f94545170d39d12546cc05b08eb4116d&wsBindIP=2&wsserid=1168214263215191710"
-                        },
-                        {
-                          "id": "lnk-785b672ecf",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
                         }
                       ]
                     }
@@ -163,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-68d3f65ffd",
+                          "id": "lnk-27a570cc2c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=b3f148b77e7b2f40aa464205-177893227662681&wsIPSercert=f94545170d39d12546cc05b08eb4116d&wsBindIP=2&wsserid=1168041062946239395"
+                          "url": "https://tfvx1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=5eaf10336ca0b8d2d1fbb677-177893286940779&wsIPSercert=28b322d039b97ef6c7898cd0ea464e23&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-a61e732498",
+                          "id": "lnk-e6db7d2586",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -222,14 +163,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ceac9445d7",
+                          "id": "lnk-0a7b4adeee",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=94bcac47cccd9c57fb9feca9-177893228486858&wsIPSercert=f94545170d39d12546cc05b08eb4116d&wsBindIP=2&wsserid=1168214263213094505"
+                          "url": "https://tfvx1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8caf23b1cfd0e780fba22da5-177893287734259&wsIPSercert=28b322d039b97ef6c7898cd0ea464e23&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-5514de6b01",
+                          "id": "lnk-3bddd04f3d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -281,14 +222,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bbc2666a62",
+                          "id": "lnk-3436d651f7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=45eeba0b39aa0ad8e710b9dd-177893229354795&wsIPSercert=f94545170d39d12546cc05b08eb4116d&wsBindIP=2&wsserid=1168214359410203488"
+                          "url": "https://tfvx1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=5eaf10336ca0b8d2d1fbb677-177893288630503&wsIPSercert=28b322d039b97ef6c7898cd0ea464e23&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-ec5938790b",
+                          "id": "lnk-f04831e1a0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -513,6 +454,50 @@
                   "streams": [
                     {
                       "id": "kaytee-95875ce6d229",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-131bb4babd43",
+          "name": "⚽ Fc St. Pauli vs Vfl Wolfsburg | Sắp diễn ra vs 20:30 16/05/2026",
+          "logo_nha": "https://media.api-sports.io/football/teams/186.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/1280px-VfL_Wolfsburg_Logo.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/186.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-131bb4babd43",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-131bb4babd43",
+                  "name": "Fc St. Pauli vs Vfl Wolfsburg",
+                  "streams": [
+                    {
+                      "id": "kaytee-131bb4babd43",
                       "name": "F",
                       "stream_links": []
                     }
