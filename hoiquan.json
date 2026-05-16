@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:00 17/05/2026",
+  "last_updated": "03:10 17/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-dd773ba78575",
-          "name": "⚽ Estoril vs Benfica | H1 - 26' 0 - 3 02:30 17/05/2026",
+          "name": "⚽ Estoril vs Benfica | H1 - 36' 0 - 3 02:30 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/de/thumb/1/14/GD_Estoril_Praia.svg/500px-GD_Estoril_Praia.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/a/ad/SL_Benfica_logo.png",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-28c60e2103",
+                          "id": "lnk-5033dc21e6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=c438ac6decda89126df978ec-177896166074877&wsIPSercert=98126e114963c21bb8693d37649ba440&wsBindIP=2&wsserid=1168243256651535330"
+                          "url": "https://tfvx1gr3uomttgr31hcji8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=92d0599ce21af7fbd6396928-177896224856290&wsIPSercert=0c9fdbcafc8d3bb2283beb80fa40a4b0&wsBindIP=2&wsserid=1172665344093863980"
                         },
                         {
-                          "id": "lnk-ea8037887d",
+                          "id": "lnk-878821d927",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -104,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ec6fa07d53",
+                          "id": "lnk-d33ff13637",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=aedd70980ff8f6b5ab8a1bf7-177896166925115&wsIPSercert=98126e114963c21bb8693d37649ba440&wsBindIP=2&wsserid=1168243256648389538"
+                          "url": "https://tfvx1gr3uomttgr31hcji8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=92d0599ce21af7fbd6396928-177896225704291&wsIPSercert=0c9fdbcafc8d3bb2283beb80fa40a4b0&wsBindIP=2&wsserid=1172665344093863980"
                         },
                         {
-                          "id": "lnk-9353a269b0",
+                          "id": "lnk-ef94eb468c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
