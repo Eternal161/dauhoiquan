@@ -1,130 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:20 17/05/2026",
+  "last_updated": "04:30 17/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-dd773ba78575",
-          "name": "⚽ Estoril vs Benfica | H2 - 85' 0 - 3 02:30 17/05/2026",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/de/thumb/1/14/GD_Estoril_Praia.svg/500px-GD_Estoril_Praia.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/a/ad/SL_Benfica_logo.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/de/thumb/1/14/GD_Estoril_Praia.svg/500px-GD_Estoril_Praia.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-dd773ba78575",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-dd773ba78575",
-                  "name": "Estoril vs Benfica",
-                  "streams": [
-                    {
-                      "id": "kaytee-dd773ba78575",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-36e5266505",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=12a0e6a99ee8910a60f02bb3-177896645129715&wsIPSercert=b2da7d7cfb4f8ad4b28dfb0dba93bd45&wsBindIP=2&wsserid=1172666162445578538"
-                        },
-                        {
-                          "id": "lnk-b29e0d16c4",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-3bdf5883f612",
-          "name": "⚽ Sporting Cp vs Gil Vicente | H2 - 85' 2 - 0 02:30 17/05/2026",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/3/3e/Sporting_Clube_de_Portugal.png",
-          "logo_khach": "https://imgts.sportpulseapiz.com/football/team/vjxm8ghp83dr6od/image/small",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/3/3e/Sporting_Clube_de_Portugal.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3bdf5883f612",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3bdf5883f612",
-                  "name": "Sporting Cp vs Gil Vicente",
-                  "streams": [
-                    {
-                      "id": "kaytee-3bdf5883f612",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-945516f949",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=12a0e6a99ee8910a60f02bb3-177896645978484&wsIPSercert=b2da7d7cfb4f8ad4b28dfb0dba93bd45&wsBindIP=2&wsserid=1172666162445578538"
-                        },
-                        {
-                          "id": "lnk-b567c9df46",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-72bcd4a0221f",
           "name": "⚽ New York Red Bulls vs New York City Fc | Sắp diễn ra vs 06:30 17/05/2026",
@@ -688,6 +570,94 @@
                   "streams": [
                     {
                       "id": "kaytee-ca284eb01645",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f3cb330fdc73",
+          "name": "⚽ Công An Nhân Dân vs Thanh Hóa | Sắp diễn ra vs 19:15 17/05/2026",
+          "logo_nha": "https://media.api-sports.io/football/teams/16400.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/16400.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f3cb330fdc73",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f3cb330fdc73",
+                  "name": "Công An Nhân Dân vs Thanh Hóa",
+                  "streams": [
+                    {
+                      "id": "kaytee-f3cb330fdc73",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-43b1e80cc2d4",
+          "name": "⚽ Inter vs Hellas Verona | Sắp diễn ra vs 20:00 17/05/2026",
+          "logo_nha": "https://media.api-sports.io/football/teams/505.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/it/9/92/Hellas_Verona_FC_logo_%282020%29.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/505.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-43b1e80cc2d4",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-43b1e80cc2d4",
+                  "name": "Inter vs Hellas Verona",
+                  "streams": [
+                    {
+                      "id": "kaytee-43b1e80cc2d4",
                       "name": "F",
                       "stream_links": []
                     }
