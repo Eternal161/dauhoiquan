@@ -1,74 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:50 16/05/2026",
+  "last_updated": "17:00 16/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-facc9ea16c0f",
-          "name": "⚽ Yokohama F. Marinos vs Kashiwa Reysol | H2 - 90+1' 0 - 1 15:00 16/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/296.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/e/e6/KashiwaReysol.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/296.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-facc9ea16c0f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-facc9ea16c0f",
-                  "name": "Yokohama F. Marinos vs Kashiwa Reysol",
-                  "streams": [
-                    {
-                      "id": "kaytee-facc9ea16c0f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c45aa3aaea",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=c53c13e0f921081fdfef68c5-177892506316194&wsIPSercert=b70c052f7faff04ffcc4e2b25a6aabd0&wsBindIP=2&wsserid=1168202392933970899"
-                        },
-                        {
-                          "id": "lnk-d2cea298fd",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-a20f4ddd1562",
-          "name": "⚽ Newcastle Jets vs Sydney | Sắp bắt đầu - null' 0 - 0 16:40 16/05/2026",
+          "name": "⚽ Newcastle Jets vs Sydney | H1 - 9' 0 - 0 16:40 16/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Newcastle_United_Jets_Logo.svg/960px-Newcastle_United_Jets_Logo.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/943.png",
           "type": "single",
@@ -104,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-15d5ffd9a2",
+                          "id": "lnk-127cde204e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3e74063e3b2354b14bc96cc2-177892507114288&wsIPSercert=b70c052f7faff04ffcc4e2b25a6aabd0&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfvx1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c7d52785bccab35145c6d0c8-177892566134690&wsIPSercert=fde4d7a6a6a8539af050d2910d4c93b4&wsBindIP=2&wsserid=1172580915182858212"
                         },
                         {
-                          "id": "lnk-8567b65ed9",
+                          "id": "lnk-74462b96b9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -127,7 +68,7 @@
         },
         {
           "id": "kaytee-c0d2df68b7e8",
-          "name": "⚽ Incheon United vs Gwangju Fc | Sắp bắt đầu - null' 0 - 0 17:00 16/05/2026",
+          "name": "⚽ Incheon United vs Gwangju Fc | H1 - 1' 0 - 0 17:00 16/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Emblem_of_Incheon_United.svg/960px-Emblem_of_Incheon_United.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/6/65/Gwangju_FC.svg",
           "type": "single",
@@ -163,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2f7245a78d",
+                          "id": "lnk-653ab1ecf4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=8f47e38e2043bf642937c2d2-177892507976970&wsIPSercert=b70c052f7faff04ffcc4e2b25a6aabd0&wsBindIP=2&wsserid=1168202333420231774"
+                          "url": "https://tfvx1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=0b8259debbb8356faffa8a59-177892566968452&wsIPSercert=fde4d7a6a6a8539af050d2910d4c93b4&wsBindIP=2&wsserid=1172580915180761012"
                         },
                         {
-                          "id": "lnk-f08ddd3d53",
+                          "id": "lnk-3f50d4c7d4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -274,7 +215,7 @@
         },
         {
           "id": "kaytee-009b0b02c3eb",
-          "name": "⚽ Wuhan Three Towns vs Shenyang Urban | Sắp diễn ra vs 18:00 16/05/2026",
+          "name": "⚽ Wuhan Three Towns vs Shenyang Urban | Sắp bắt đầu - null' 0 - 0 18:00 16/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Wuhan_Three_Towns_F.C.svg/250px-Wuhan_Three_Towns_F.C.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5684.png",
           "type": "single",
@@ -290,10 +231,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -308,7 +249,22 @@
                     {
                       "id": "kaytee-009b0b02c3eb",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-f8279c7582",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvx1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=98564028407255a9ad484c9d-177892569509214&wsIPSercert=fde4d7a6a6a8539af050d2910d4c93b4&wsBindIP=2&wsserid=1172580915177615204"
+                        },
+                        {
+                          "id": "lnk-dc3169e1fc",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -483,6 +439,50 @@
                   "streams": [
                     {
                       "id": "kaytee-45868a956711",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-95875ce6d229",
+          "name": "⚽ Werder Bremen vs Borussia Dortmund | Sắp diễn ra vs 20:30 16/05/2026",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/960px-SV-Werder-Bremen-Logo.svg.png",
+          "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/960px-SV-Werder-Bremen-Logo.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-95875ce6d229",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-95875ce6d229",
+                  "name": "Werder Bremen vs Borussia Dortmund",
+                  "streams": [
+                    {
+                      "id": "kaytee-95875ce6d229",
                       "name": "F",
                       "stream_links": []
                     }
