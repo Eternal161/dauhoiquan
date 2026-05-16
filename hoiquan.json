@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:30 16/05/2026",
+  "last_updated": "23:40 16/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a7943867b29c",
-          "name": "⚽ Al-Hilal Saudi Fc vs Neom | H1 - 22' 1 - 0 23:05 16/05/2026",
+          "name": "⚽ Al-Hilal Saudi Fc vs Neom | Live 0 - 0 23:05 16/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/2932.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10513.png",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5acf232e86",
+                          "id": "lnk-a7e894c18b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx3gr4dymttgwanhct3faauommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=cc867646ac0f694e010058a5-177894905166658&wsIPSercert=4cde5b5a939614822b6b49db795bd4c0&wsBindIP=2&wsserid=1172666312483236046"
+                          "url": "https://tfvx0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=12a0e6a99ee8910a60f02bb3-177894964695472&wsIPSercert=8194c575d40fe8a23fe518236f62a833&wsBindIP=2&wsserid=1172666162445578538"
                         },
                         {
-                          "id": "lnk-a3153d8f8a",
+                          "id": "lnk-1629fa3ad1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
         },
         {
           "id": "kaytee-523a0dae6eaa",
-          "name": "⚽ Vietnam U17 vs Australia U17 | Sắp bắt đầu - null' 0 - 0 00:00 17/05/2026",
+          "name": "⚽ Vietnam U17 vs Australia U17 | Live 0 - 0 00:00 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/21447.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19076.png",
           "type": "single",
@@ -104,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5787d2e0c4",
+                          "id": "lnk-0b6cf1cf96",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx3gr4dymttgwanhct3faauommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=cc867646ac0f694e010058a5-177894906169422&wsIPSercert=4cde5b5a939614822b6b49db795bd4c0&wsBindIP=2&wsserid=1172666312483236046"
+                          "url": "https://tfvx0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=12a0e6a99ee8910a60f02bb3-177894965562347&wsIPSercert=8194c575d40fe8a23fe518236f62a833&wsBindIP=2&wsserid=1172666162445578538"
                         },
                         {
-                          "id": "lnk-2ed8b0de34",
+                          "id": "lnk-ab4a7d47bb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
