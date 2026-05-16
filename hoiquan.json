@@ -1,74 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:50 17/05/2026",
+  "last_updated": "02:00 17/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-523a0dae6eaa",
-          "name": "⚽ Vietnam U17 vs Australia U17 | H2 - 90+3' 0 - 3 00:00 17/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/21447.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/19076.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/21447.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-523a0dae6eaa",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-523a0dae6eaa",
-                  "name": "Vietnam U17 vs Australia U17",
-                  "streams": [
-                    {
-                      "id": "kaytee-523a0dae6eaa",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-592755a09c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3d4ec92cc5aa77589788444e-177895744774960&wsIPSercert=b06fa14d4b7bed0536f15774a1e77c8e&wsBindIP=2&wsserid=1168243256607494228"
-                        },
-                        {
-                          "id": "lnk-5cdc711aee",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-eb8acbeddcde",
-          "name": "⚽ Al-Nassr vs Gamba Osaka | H2 - 47' 0 - 1 00:45 17/05/2026",
+          "name": "⚽ Al-Nassr vs Gamba Osaka | H2 - 56' 0 - 1 00:45 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/2939.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png",
           "type": "single",
@@ -104,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1633abdb8f",
+                          "id": "lnk-afb30f3f66",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=c3b425deceb9418dcbd56e1b-177895745626415&wsIPSercert=b06fa14d4b7bed0536f15774a1e77c8e&wsBindIP=2&wsserid=1168243256613785902"
+                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=78870e28641cbdb41d4e9c53-177895804658931&wsIPSercert=978d793eedd792b25aeea24938244b76&wsBindIP=2&wsserid=1168243256645243746"
                         },
                         {
-                          "id": "lnk-16441850ad",
+                          "id": "lnk-dccc0a82bb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -207,14 +148,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ff9cf2e77b",
+                          "id": "lnk-5780d5ec4d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=c3b425deceb9418dcbd56e1b-177895747302623&wsIPSercert=b06fa14d4b7bed0536f15774a1e77c8e&wsBindIP=2&wsserid=1168243256613785902"
+                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=aedd70980ff8f6b5ab8a1bf7-177895806378198&wsIPSercert=978d793eedd792b25aeea24938244b76&wsBindIP=2&wsserid=1168243256648389538"
                         },
                         {
-                          "id": "lnk-d1ef4e6f27",
+                          "id": "lnk-49733a9a0d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -703,6 +644,50 @@
                   "streams": [
                     {
                       "id": "kaytee-94a32323aca4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-dd0c51457bdc",
+          "name": "⚽ Nam Dinh vs Viettel | Sắp diễn ra vs 18:00 17/05/2026",
+          "logo_nha": "https://media.api-sports.io/football/teams/3674.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/d1/Viettel_FC_2021.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3674.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-dd0c51457bdc",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-dd0c51457bdc",
+                  "name": "Nam Dinh vs Viettel",
+                  "streams": [
+                    {
+                      "id": "kaytee-dd0c51457bdc",
                       "name": "F",
                       "stream_links": []
                     }
