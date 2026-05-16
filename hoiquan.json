@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:10 16/05/2026",
+  "last_updated": "22:20 16/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e50a76648d5b",
-          "name": "⚽ Bayer Leverkusen vs Hamburger Sv | H2 - 82' 1 - 1 20:30 16/05/2026",
+          "name": "⚽ Bayer Leverkusen vs Hamburger Sv | H2 - 90+2' 1 - 1 20:30 16/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/0/0e/Bayer_04_Leverkusen_logo.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/1280px-Hamburger_SV_logo.svg.png",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a7e29039dd",
+                          "id": "lnk-a05479ec13",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=a4af660ecdda9f1a15ddefdb-177894425553163&wsIPSercert=15007b6a1c3d905d9d5b9185c5235239&wsBindIP=2&wsserid=1168283319030924262"
+                          "url": "https://tfvx1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177894486318461&wsIPSercert=9b870d65f20543146d697c29beb40160&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-1161442682",
+                          "id": "lnk-2d787484a8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
         },
         {
           "id": "kaytee-b266a689660b",
-          "name": "⚽ Bayern München vs 1. Fc Köln | H2 - 77' 4 - 1 20:30 16/05/2026",
+          "name": "⚽ Bayern München vs 1. Fc Köln | H2 - 87' 5 - 1 20:30 16/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/157.png",
           "logo_khach": "https://media.api-sports.io/football/teams/192.png",
           "type": "single",
@@ -104,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-99348412a7",
+                          "id": "lnk-406c60a829",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=a571361e8dbdb51eb236af85-177894426428912&wsIPSercert=15007b6a1c3d905d9d5b9185c5235239&wsBindIP=2&wsserid=1168270715630357023"
+                          "url": "https://tfvx1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177894487139816&wsIPSercert=9b870d65f20543146d697c29beb40160&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-7bedf6792c",
+                          "id": "lnk-2104bdaf2f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -127,7 +127,7 @@
         },
         {
           "id": "kaytee-60f1fbad20b5",
-          "name": "⚽ Eintracht Frankfurt vs Vfb Stuttgart | H2 - 72' 0 - 2 20:30 16/05/2026",
+          "name": "⚽ Eintracht Frankfurt vs Vfb Stuttgart | H2 - 83' 1 - 2 20:30 16/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/7/7e/Eintracht_Frankfurt_crest.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/960px-VfB_Stuttgart_1893_Logo.svg.png",
           "type": "single",
@@ -143,10 +143,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -161,7 +161,22 @@
                     {
                       "id": "kaytee-60f1fbad20b5",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-caca6f5364",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvx1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177894487983901&wsIPSercert=9b870d65f20543146d697c29beb40160&wsBindIP=2&wsserid=1168176581104105640"
+                        },
+                        {
+                          "id": "lnk-cc5bcdc361",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -171,7 +186,7 @@
         },
         {
           "id": "kaytee-45868a956711",
-          "name": "⚽ Sc Freiburg vs Rb Leipzig | H2 - 80' 4 - 1 20:30 16/05/2026",
+          "name": "⚽ Sc Freiburg vs Rb Leipzig | H2 - 90' 4 - 1 20:30 16/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/3/3c/SC_Freiburg.jpg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/d/d6/VEREINFACHTES_LOGO_-_RB_Leipzig.svg",
           "type": "single",
@@ -207,14 +222,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ce6adf70f2",
+                          "id": "lnk-72d11e4736",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=a4af660ecdda9f1a15ddefdb-177894428087789&wsIPSercert=15007b6a1c3d905d9d5b9185c5235239&wsBindIP=2&wsserid=1168283319030924262"
+                          "url": "https://tfvx1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177894488805620&wsIPSercert=9b870d65f20543146d697c29beb40160&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-d63cd83d41",
+                          "id": "lnk-f1892a77fd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -230,7 +245,7 @@
         },
         {
           "id": "kaytee-95875ce6d229",
-          "name": "⚽ Werder Bremen vs Borussia Dortmund | H2 - 82' 0 - 1 20:30 16/05/2026",
+          "name": "⚽ Werder Bremen vs Borussia Dortmund | H2 - 90+2' 0 - 1 20:30 16/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/960px-SV-Werder-Bremen-Logo.svg.png",
           "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
           "type": "single",
@@ -266,14 +281,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-94003c89d8",
+                          "id": "lnk-ad4ab3de22",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=b779b2c12d9eb553cd165b82-177894429057636&wsIPSercert=15007b6a1c3d905d9d5b9185c5235239&wsBindIP=2&wsserid=1168283407512358315"
+                          "url": "https://tfvx1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177894489668344&wsIPSercert=9b870d65f20543146d697c29beb40160&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-f4aec480c8",
+                          "id": "lnk-bd3a68f4a2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -289,7 +304,7 @@
         },
         {
           "id": "kaytee-131bb4babd43",
-          "name": "⚽ Fc St. Pauli vs Vfl Wolfsburg | H2 - 82' 1 - 3 20:30 16/05/2026",
+          "name": "⚽ Fc St. Pauli vs Vfl Wolfsburg | H2 - 90+2' 1 - 3 20:30 16/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/186.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/1280px-VfL_Wolfsburg_Logo.svg.png",
           "type": "single",
@@ -325,14 +340,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9cb54997a3",
+                          "id": "lnk-9d809588f3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=a892446647eff012ef984b15-177894429874454&wsIPSercert=15007b6a1c3d905d9d5b9185c5235239&wsBindIP=2&wsserid=1168283476093891044"
+                          "url": "https://tfvx1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177894490502077&wsIPSercert=9b870d65f20543146d697c29beb40160&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-334a3c4f18",
+                          "id": "lnk-e84205094c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -348,7 +363,7 @@
         },
         {
           "id": "kaytee-367f3f12cd29",
-          "name": "⚽ Chelsea vs Manchester City | H2 - 50' 0 - 0 21:00 16/05/2026",
+          "name": "⚽ Chelsea vs Manchester City | H2 - 61' 0 - 0 21:00 16/05/2026",
           "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg",
           "type": "single",
@@ -384,14 +399,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6404d327aa",
+                          "id": "lnk-9546fe8388",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_thienloi/playlist.m3u8?wsSession=bf964661df0965898cad86c5-177894430748886&wsIPSercert=15007b6a1c3d905d9d5b9185c5235239&wsBindIP=2&wsserid=1168283476510245972"
+                          "url": "https://tfvx1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_thienloi/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177894491481303&wsIPSercert=9b870d65f20543146d697c29beb40160&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-4fb13d48db",
+                          "id": "lnk-0d9e0237ff",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
