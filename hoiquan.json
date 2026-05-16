@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "13:10 16/05/2026",
+  "last_updated": "13:20 16/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-257d0a3b0dfd",
-          "name": "⚽ Mito Hollyhock vs Tokyo Verdy | H2 - 52' 0 - 0 12:00 16/05/2026",
+          "name": "⚽ Mito Hollyhock vs Tokyo Verdy | H2 - 62' 0 - 1 12:00 16/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/305.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/id/a/a0/Tokyo_Verdy_2020_logo.webp",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6fd084ccf4",
+                          "id": "lnk-d195754203",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr3uomttgr31hcji8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c6433cbabbc927c22ab07627-177891185575410&wsIPSercert=345d918b535d7a2bf6fb210579895e91&wsBindIP=2&wsserid=1172665350473402856"
+                          "url": "https://tfvx1gr3uomttgr31hcji8rzdgp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c6433cbabbc927c22ab07627-177891244927467&wsIPSercert=6675f45621b41ea7f6599554cd352f9e&wsBindIP=2&wsserid=1172665350473402856"
                         },
                         {
-                          "id": "lnk-43401c1547",
+                          "id": "lnk-a04499789c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
