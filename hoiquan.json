@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:30 17/05/2026",
+  "last_updated": "01:40 17/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-523a0dae6eaa",
-          "name": "⚽ Vietnam U17 vs Australia U17 | H2 - 73' 0 - 2 00:00 17/05/2026",
+          "name": "⚽ Vietnam U17 vs Australia U17 | H2 - 83' 0 - 3 00:00 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/21447.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19076.png",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-79033c2a62",
+                          "id": "lnk-fd75a4107c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177895626333909&wsIPSercert=6f106c5758d6ceda7943d99302c2ce9d&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c438ac6decda89126df978ec-177895686558249&wsIPSercert=fcce86a7d401261d2d216d837a6e5768&wsBindIP=2&wsserid=1168243256651535330"
                         },
                         {
-                          "id": "lnk-5503ca8174",
+                          "id": "lnk-fc876618fd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
         },
         {
           "id": "kaytee-eb8acbeddcde",
-          "name": "⚽ Al-Nassr vs Gamba Osaka | H1 - 45' 0 - 1 00:45 17/05/2026",
+          "name": "⚽ Al-Nassr vs Gamba Osaka | Giữa Hiệp - 45+3' 0 - 1 00:45 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/2939.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png",
           "type": "single",
@@ -104,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4cf22f3b46",
+                          "id": "lnk-cd155bb638",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=08a97592fcdc472fa413e2d6-177895627195619&wsIPSercert=6f106c5758d6ceda7943d99302c2ce9d&wsBindIP=2&wsserid=1168202333420231774"
+                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=78870e28641cbdb41d4e9c53-177895687381127&wsIPSercert=fcce86a7d401261d2d216d837a6e5768&wsBindIP=2&wsserid=1168243256645243746"
                         },
                         {
-                          "id": "lnk-349a8f3456",
+                          "id": "lnk-da6a6a1c35",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
