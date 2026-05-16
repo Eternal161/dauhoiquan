@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:50 16/05/2026",
+  "last_updated": "20:00 16/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-424b909f18a8",
-          "name": "⚽ Hai Phong vs Binh Duong | H2 - 89' 4 - 2 18:00 16/05/2026",
+          "name": "⚽ Hai Phong vs Binh Duong | H2 - 90+3' 4 - 2 18:00 16/05/2026",
           "logo_nha": "https://vpf.vn/wp-content/uploads/2018/10/haiphongfc.jpg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
           "type": "single",
@@ -45,17 +45,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-24b8be0057",
+                          "id": "lnk-1da855d46d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=08a97592fcdc472fa413e2d6-177893585184490&wsIPSercert=dcd41adb923c82ffeff163ee9d0ed784&wsBindIP=2&wsserid=1168202333420231774"
-                        },
-                        {
-                          "id": "lnk-cd19b3766b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8"
                         }
                       ]
@@ -68,7 +61,7 @@
         },
         {
           "id": "kaytee-6f52cc168415",
-          "name": "⚽ Song Lam Nghe An vs Phu Dong | H2 - 90+2' 1 - 2 18:00 16/05/2026",
+          "name": "⚽ Song Lam Nghe An vs Phu Dong | H2 - 90+6' 1 - 2 18:00 16/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/3678.png",
           "logo_khach": "https://media.api-sports.io/football/teams/9167.png",
           "type": "single",
@@ -104,14 +97,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-43a0548823",
+                          "id": "lnk-6f996fa464",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177893586000897&wsIPSercert=dcd41adb923c82ffeff163ee9d0ed784&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfvx1gr3uomttgr31hcji8rzdgp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f3cce5b32309e5eab28c3924-177893646078650&wsIPSercert=cefde69d2738ebea853cf8176bdd997d&wsBindIP=2&wsserid=1172665350473402856"
                         },
                         {
-                          "id": "lnk-602fa1b174",
+                          "id": "lnk-2562f1e878",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -127,7 +120,7 @@
         },
         {
           "id": "kaytee-009b0b02c3eb",
-          "name": "⚽ Wuhan Three Towns vs Shenyang Urban | H2 - 90' 2 - 2 18:00 16/05/2026",
+          "name": "⚽ Wuhan Three Towns vs Shenyang Urban | H2 - 90+8' 2 - 2 18:00 16/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Wuhan_Three_Towns_F.C.svg/250px-Wuhan_Three_Towns_F.C.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5684.png",
           "type": "single",
@@ -163,14 +156,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9e7f37b0b2",
+                          "id": "lnk-0596e3d25d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177893586858136&wsIPSercert=dcd41adb923c82ffeff163ee9d0ed784&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfvx1gr3uomttgr31hcji8rzdgp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=4faa155c6f8ede14820b76cc-177893646923058&wsIPSercert=cefde69d2738ebea853cf8176bdd997d&wsBindIP=2&wsserid=1172665343356714795"
                         },
                         {
-                          "id": "lnk-35882990b6",
+                          "id": "lnk-cee8c2b8fa",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
