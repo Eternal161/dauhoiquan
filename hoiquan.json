@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:00 17/05/2026",
+  "last_updated": "04:10 17/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-dd773ba78575",
-          "name": "⚽ Estoril vs Benfica | H2 - 65' 0 - 3 02:30 17/05/2026",
+          "name": "⚽ Estoril vs Benfica | H2 - 75' 0 - 3 02:30 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/de/thumb/1/14/GD_Estoril_Praia.svg/500px-GD_Estoril_Praia.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/a/ad/SL_Benfica_logo.png",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2127298da2",
+                          "id": "lnk-0968a6c2a8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=7f81183aa1d540da1c3fc7f7-177896526777610&wsIPSercert=1325561d715e1b6af7335bd7ab4a5dbe&wsBindIP=2&wsserid=1168140848410257976"
+                          "url": "https://tfvx1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177896585976173&wsIPSercert=a24017c64f8e8a02d39c082a03bec713&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-c4bc1cc6a9",
+                          "id": "lnk-ac053d412b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
         },
         {
           "id": "kaytee-3bdf5883f612",
-          "name": "⚽ Sporting Cp vs Gil Vicente | H2 - 65' 2 - 0 02:30 17/05/2026",
+          "name": "⚽ Sporting Cp vs Gil Vicente | H2 - 75' 2 - 0 02:30 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/3/3e/Sporting_Clube_de_Portugal.png",
           "logo_khach": "https://imgts.sportpulseapiz.com/football/team/vjxm8ghp83dr6od/image/small",
           "type": "single",
@@ -104,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-814a69dd79",
+                          "id": "lnk-14d4a0bf37",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=e73d46884c09585b6c81760a-177896527608849&wsIPSercert=1325561d715e1b6af7335bd7ab4a5dbe&wsBindIP=2&wsserid=1168140817791296288"
+                          "url": "https://tfvx1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177896586787346&wsIPSercert=a24017c64f8e8a02d39c082a03bec713&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-44add84fe2",
+                          "id": "lnk-09291a46ad",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
