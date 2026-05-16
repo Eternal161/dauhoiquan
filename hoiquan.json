@@ -1,74 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:20 16/05/2026",
+  "last_updated": "23:30 16/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-367f3f12cd29",
-          "name": "⚽ Chelsea vs Manchester City | H2 - 90+6' 0 - 1 21:00 16/05/2026",
-          "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-367f3f12cd29",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-367f3f12cd29",
-                  "name": "Chelsea vs Manchester City",
-                  "streams": [
-                    {
-                      "id": "kaytee-367f3f12cd29",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8d3c3b08bb",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_thienloi/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177894846695817&wsIPSercert=fca6e565d701f834a83103d5e405456b&wsBindIP=2&wsserid=1168202392933970899"
-                        },
-                        {
-                          "id": "lnk-2876e9d796",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_thienloi/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-a7943867b29c",
-          "name": "⚽ Al-Hilal Saudi Fc vs Neom | Live 0 - 0 23:05 16/05/2026",
+          "name": "⚽ Al-Hilal Saudi Fc vs Neom | H1 - 22' 1 - 0 23:05 16/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/2932.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10513.png",
           "type": "single",
@@ -104,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9c52898f34",
+                          "id": "lnk-5acf232e86",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=08a97592fcdc472fa413e2d6-177894847540077&wsIPSercert=fca6e565d701f834a83103d5e405456b&wsBindIP=2&wsserid=1168202333420231774"
+                          "url": "https://tfvx3gr4dymttgwanhct3faauommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=cc867646ac0f694e010058a5-177894905166658&wsIPSercert=4cde5b5a939614822b6b49db795bd4c0&wsBindIP=2&wsserid=1172666312483236046"
                         },
                         {
-                          "id": "lnk-adc20fec74",
+                          "id": "lnk-a3153d8f8a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -127,7 +68,7 @@
         },
         {
           "id": "kaytee-523a0dae6eaa",
-          "name": "⚽ Vietnam U17 vs Australia U17 | Sắp diễn ra vs 00:00 17/05/2026",
+          "name": "⚽ Vietnam U17 vs Australia U17 | Sắp bắt đầu - null' 0 - 0 00:00 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/21447.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19076.png",
           "type": "single",
@@ -143,10 +84,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -161,7 +102,22 @@
                     {
                       "id": "kaytee-523a0dae6eaa",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-5787d2e0c4",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvx3gr4dymttgwanhct3faauommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=cc867646ac0f694e010058a5-177894906169422&wsIPSercert=4cde5b5a939614822b6b49db795bd4c0&wsBindIP=2&wsserid=1172666312483236046"
+                        },
+                        {
+                          "id": "lnk-2ed8b0de34",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -688,6 +644,50 @@
                   "streams": [
                     {
                       "id": "kaytee-c271399d15e3",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-94a32323aca4",
+          "name": "⚽ Pho Hien vs Ha Noi | Sắp diễn ra vs 18:00 17/05/2026",
+          "logo_nha": "https://media.api-sports.io/football/teams/9166.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3670.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/9166.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-94a32323aca4",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-94a32323aca4",
+                  "name": "Pho Hien vs Ha Noi",
+                  "streams": [
+                    {
+                      "id": "kaytee-94a32323aca4",
                       "name": "F",
                       "stream_links": []
                     }
