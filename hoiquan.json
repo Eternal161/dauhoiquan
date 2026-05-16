@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "14:30 16/05/2026",
+  "last_updated": "14:40 16/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-72a3d4ff6f56",
-          "name": "⚽ Urawa vs Fc Tokyo | H1 - 27' 0 - 0 14:00 16/05/2026",
+          "name": "⚽ Urawa vs Fc Tokyo | H1 - 37' 0 - 0 14:00 16/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/287.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/1/15/FC_Tokyo_Logo.svg",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a724659f11",
+                          "id": "lnk-ddbd018440",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=a80e6be5ec538b29726e6451-177891666320457&wsIPSercert=e94099ccbf69e2935974829f9f84a7f0&wsBindIP=2&wsserid=1172580915173420788"
+                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=7b5acf7836ec3fea2e21b3e1-177891724333075&wsIPSercert=b42524caffe530dbbe1ea7dfaadccebd&wsBindIP=2&wsserid=1168243256601202660"
                         },
                         {
-                          "id": "lnk-22bd3b82cb",
+                          "id": "lnk-00b0fe2b2d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
         },
         {
           "id": "kaytee-d427a61f6c24",
-          "name": "⚽ Daejeon Citizen vs Fc Seoul | H1 - 1' 0 - 0 14:30 16/05/2026",
+          "name": "⚽ Daejeon Citizen vs Fc Seoul | H1 - 11' 0 - 0 14:30 16/05/2026",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYS2zEFbeFBg_XqzrgQPETiHdzD2yAXqh8wQ&s",
           "logo_khach": "https://media.api-sports.io/football/teams/2766.png",
           "type": "single",
@@ -104,7 +104,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e70c0ada78",
+                          "id": "lnk-b2e54182d9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -120,7 +120,7 @@
         },
         {
           "id": "kaytee-facc9ea16c0f",
-          "name": "⚽ Yokohama F. Marinos vs Kashiwa Reysol | Sắp diễn ra vs 15:00 16/05/2026",
+          "name": "⚽ Yokohama F. Marinos vs Kashiwa Reysol | Sắp bắt đầu - null' 0 - 0 15:00 16/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/296.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/e/e6/KashiwaReysol.png",
           "type": "single",
@@ -136,10 +136,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -154,7 +154,22 @@
                     {
                       "id": "kaytee-facc9ea16c0f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-3f0b801f68",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvx1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=7b5acf7836ec3fea2e21b3e1-177891726031632&wsIPSercert=b42524caffe530dbbe1ea7dfaadccebd&wsBindIP=2&wsserid=1168243256601202660"
+                        },
+                        {
+                          "id": "lnk-7fc8508f0b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
