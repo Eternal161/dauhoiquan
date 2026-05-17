@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:10 17/05/2026",
+  "last_updated": "23:20 17/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-bae192f6d149",
-          "name": "⚽ Atalanta vs Bologna | H1 - 9' 0 - 0 23:00 17/05/2026",
+          "name": "⚽ Atalanta vs Bologna | H1 - 20' 0 - 0 23:00 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-330ad98dad",
+                          "id": "lnk-51475c2ffc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177903426380129&wsIPSercert=d611186e3746593bdcb1a949ca311c42&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfvy1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177903485355786&wsIPSercert=11a899e4f4ea80bd588e20d754621bde&wsBindIP=2&wsserid=1172580915182858196"
                         },
                         {
-                          "id": "lnk-3f94fab3b6",
+                          "id": "lnk-288260cc3a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -104,7 +104,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f88ef36d72",
+                          "id": "lnk-d029b4a5f4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -156,14 +156,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a528f2e525",
+                          "id": "lnk-dae1845ef4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177903428083512&wsIPSercert=d611186e3746593bdcb1a949ca311c42&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfvy1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=0e320b8560fa50aad43019c0-177903486993088&wsIPSercert=11a899e4f4ea80bd588e20d754621bde&wsBindIP=2&wsserid=1172580915177615204"
                         },
                         {
-                          "id": "lnk-a2100afdb5",
+                          "id": "lnk-8ab7fa978c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -223,7 +223,7 @@
         },
         {
           "id": "kaytee-c1e0ed461433",
-          "name": "⚽ Rayo Vallecano vs Villarreal | Sắp diễn ra vs 00:00 18/05/2026",
+          "name": "⚽ Rayo Vallecano vs Villarreal | Sắp bắt đầu - null' 0 - 0 00:00 18/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/0/03/Yyjbb92.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/7/70/Villarreal_CF_logo.svg",
           "type": "single",
@@ -239,10 +239,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -257,7 +257,22 @@
                     {
                       "id": "kaytee-c1e0ed461433",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-8575d72537",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvy1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=272d7e9fbf964c466e88e3f0-177903488673736&wsIPSercert=11a899e4f4ea80bd588e20d754621bde&wsBindIP=2&wsserid=1172580915180761012"
+                        },
+                        {
+                          "id": "lnk-96e2ea0482",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
