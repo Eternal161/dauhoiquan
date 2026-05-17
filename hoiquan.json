@@ -1,64 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "13:40 17/05/2026",
+  "last_updated": "13:50 17/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-572520c35459",
-          "name": "⚽ Kyoto Sanga vs Sanfrecce Hiroshima | Live 0 - 0 13:00 17/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/302.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/a/ad/SanfrecceHiroshima.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/302.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-572520c35459",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-572520c35459",
-                  "name": "Kyoto Sanga vs Sanfrecce Hiroshima",
-                  "streams": [
-                    {
-                      "id": "kaytee-572520c35459",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2b7b57d606",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-71e05a2467f0",
           "name": "⚽ Jeonbuk Motors vs Gimcheon Sangmu Fc | Sắp diễn ra vs 14:40 17/05/2026",
@@ -666,6 +614,50 @@
                   "streams": [
                     {
                       "id": "kaytee-2d04a72094dd",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-40b209324f5b",
+          "name": "⚽ Santos vs Coritiba | Sắp diễn ra vs 21:00 17/05/2026",
+          "logo_nha": "https://media.api-sports.io/football/teams/128.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coritiba_Foot_Ball_Club_logo.svg/500px-Coritiba_Foot_Ball_Club_logo.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/128.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-40b209324f5b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-40b209324f5b",
+                  "name": "Santos vs Coritiba",
+                  "streams": [
+                    {
+                      "id": "kaytee-40b209324f5b",
                       "name": "F",
                       "stream_links": []
                     }
