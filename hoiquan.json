@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:30 17/05/2026",
+  "last_updated": "23:40 17/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-bae192f6d149",
-          "name": "⚽ Atalanta vs Bologna | H1 - 30' 0 - 0 23:00 17/05/2026",
+          "name": "⚽ Atalanta vs Bologna | H1 - 39' 0 - 0 23:00 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c875a19834",
+                          "id": "lnk-bd4b8c42e8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd62835041fe49ebfc13d2bc-177903545487473&wsIPSercert=cf78c8f72ad31ebc2ba091d8eba1f0c1&wsBindIP=2&wsserid=1168282035622980969"
+                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177903605722386&wsIPSercert=f5a4add8b11214ebe0182cc9b8640cec&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-4d2459b8aa",
+                          "id": "lnk-891908187f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
         },
         {
           "id": "kaytee-56f2bb458a9e",
-          "name": "⚽ Newcastle vs West Ham | Sắp bắt đầu - null' 0 - 0 23:30 17/05/2026",
+          "name": "⚽ Newcastle vs West Ham | H1 - 8' 0 - 0 23:30 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/34.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1280px-West_Ham_United_FC_logo.svg.png",
           "type": "single",
@@ -104,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f4dd1ff72e",
+                          "id": "lnk-cb4c0ec1d0",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=a072ae36b41a346fd194c763-177903546327759&wsIPSercert=cf78c8f72ad31ebc2ba091d8eba1f0c1&wsBindIP=2&wsserid=1168278313568844709"
+                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=08a97592fcdc472fa413e2d6-177903606549699&wsIPSercert=f5a4add8b11214ebe0182cc9b8640cec&wsBindIP=2&wsserid=1168202333420231774"
                         },
                         {
-                          "id": "lnk-1218c6a7e5",
+                          "id": "lnk-ad18d2806f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -163,14 +163,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9b16f361ca",
+                          "id": "lnk-94c9cf96ea",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=fd62835041fe49ebfc13d2bc-177903547193183&wsIPSercert=cf78c8f72ad31ebc2ba091d8eba1f0c1&wsBindIP=2&wsserid=1168282035622980969"
+                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177903607408226&wsIPSercert=f5a4add8b11214ebe0182cc9b8640cec&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-7f05affb4d",
+                          "id": "lnk-d1b8253093",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -186,7 +186,7 @@
         },
         {
           "id": "kaytee-a39ec475bb9a",
-          "name": "⚽ Athletic Club vs Celta Vigo | Sắp diễn ra vs 00:00 18/05/2026",
+          "name": "⚽ Athletic Club vs Celta Vigo | Sắp bắt đầu - null' 0 - 0 00:00 18/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/538.png",
           "type": "single",
@@ -202,10 +202,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -220,7 +220,22 @@
                     {
                       "id": "kaytee-a39ec475bb9a",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-64aeab1a41",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177903608229366&wsIPSercert=f5a4add8b11214ebe0182cc9b8640cec&wsBindIP=2&wsserid=1168202333418134578"
+                        },
+                        {
+                          "id": "lnk-3494147190",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -266,14 +281,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fdb6f8ecd4",
+                          "id": "lnk-bf08dae892",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=a072ae36b41a346fd194c763-177903548865462&wsIPSercert=cf78c8f72ad31ebc2ba091d8eba1f0c1&wsBindIP=2&wsserid=1168278313568844709"
+                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=08a97592fcdc472fa413e2d6-177903609153361&wsIPSercert=f5a4add8b11214ebe0182cc9b8640cec&wsBindIP=2&wsserid=1168202333420231774"
                         },
                         {
-                          "id": "lnk-20e990d4b9",
+                          "id": "lnk-974062cbe6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -325,14 +340,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1c2515d356",
+                          "id": "lnk-2f19060295",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=dbd8f789bb7a7a2508c32238-177903549690417&wsIPSercert=cf78c8f72ad31ebc2ba091d8eba1f0c1&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177903609918806&wsIPSercert=f5a4add8b11214ebe0182cc9b8640cec&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-2916bcfb17",
+                          "id": "lnk-c00486dac7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -348,7 +363,7 @@
         },
         {
           "id": "kaytee-4b39552cd37d",
-          "name": "⚽ Sevilla vs Real Madrid | Sắp diễn ra vs 00:00 18/05/2026",
+          "name": "⚽ Sevilla vs Real Madrid | Sắp bắt đầu - null' 0 - 0 00:00 18/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/a/ae/Sevilla_FC_logo.png",
           "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
           "type": "single",
@@ -364,10 +379,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -382,7 +397,22 @@
                     {
                       "id": "kaytee-4b39552cd37d",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-f85568eecc",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177903610794214&wsIPSercert=f5a4add8b11214ebe0182cc9b8640cec&wsBindIP=2&wsserid=1168202333418134578"
+                        },
+                        {
+                          "id": "lnk-c2d16da3c8",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
