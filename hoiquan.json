@@ -1,74 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:00 17/05/2026",
+  "last_updated": "22:10 17/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-f8d68228d352",
-          "name": "⚽ Inter vs Hellas Verona | H2 - 90+4' 1 - 1 20:00 17/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/505.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/it/9/92/Hellas_Verona_FC_logo_%282020%29.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/505.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f8d68228d352",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f8d68228d352",
-                  "name": "Inter vs Hellas Verona",
-                  "streams": [
-                    {
-                      "id": "kaytee-f8d68228d352",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-04816182d4",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1p3pxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=aedd70980ff8f6b5ab8a1bf7-177903005849241&wsIPSercert=31103ee5676136670dd6b7f3c399de55&wsBindIP=2&wsserid=1168243256648389538"
-                        },
-                        {
-                          "id": "lnk-a3055095a2",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-a7427116be87",
-          "name": "⚽ Brentford vs Crystal Palace | Giữa Hiệp - 45+5' 1 - 1 21:00 17/05/2026",
+          "name": "⚽ Brentford vs Crystal Palace | H2 - 50' 1 - 1 21:00 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/thumb/2/2a/Brentford_FC_crest.svg/1280px-Brentford_FC_crest.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png",
           "type": "single",
@@ -104,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c3a4cf32fd",
+                          "id": "lnk-f39db44fde",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=4e2ceb7cc6e1ec8a54ec149f-177903006711655&wsIPSercert=31103ee5676136670dd6b7f3c399de55&wsBindIP=2&wsserid=1168243256604348444"
+                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=546f53c25f66a8bb73a1a33a-177903066090393&wsIPSercert=6074de8cd1c7bbbdd247cd8789280210&wsBindIP=2&wsserid=1168194741519896389"
                         },
                         {
-                          "id": "lnk-2b11f136e6",
+                          "id": "lnk-720796d211",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -127,7 +68,7 @@
         },
         {
           "id": "kaytee-c01a0ea93ee5",
-          "name": "⚽ Everton vs Sunderland | Giữa Hiệp - 45+3' 1 - 0 21:00 17/05/2026",
+          "name": "⚽ Everton vs Sunderland | H2 - 50' 1 - 0 21:00 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Everton_FC_logo.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/sco/7/77/Logo_Sunderland.svg",
           "type": "single",
@@ -163,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f1e793306d",
+                          "id": "lnk-44245c1400",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=a168ff017ebed49d2045d0b3-177903007561212&wsIPSercert=31103ee5676136670dd6b7f3c399de55&wsBindIP=2&wsserid=1168243256601202660"
+                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=7b5d762c405f894bd01f1fd9-177903066945951&wsIPSercert=6074de8cd1c7bbbdd247cd8789280210&wsBindIP=2&wsserid=1168194741518847065"
                         },
                         {
-                          "id": "lnk-ba2cfcf2a8",
+                          "id": "lnk-df42e5cf6a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -186,7 +127,7 @@
         },
         {
           "id": "kaytee-d9c15ec537b0",
-          "name": "⚽ Leeds vs Brighton | Giữa Hiệp - 45+1' 0 - 0 21:00 17/05/2026",
+          "name": "⚽ Leeds vs Brighton | H2 - 52' 0 - 0 21:00 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/63.png",
           "logo_khach": "https://media.api-sports.io/football/teams/51.png",
           "type": "single",
@@ -222,14 +163,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-998d97f322",
+                          "id": "lnk-23bd63803e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3d4ec92cc5aa77589788444e-177903008380600&wsIPSercert=31103ee5676136670dd6b7f3c399de55&wsBindIP=2&wsserid=1168243256607494228"
+                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=546f53c25f66a8bb73a1a33a-177903067968240&wsIPSercert=6074de8cd1c7bbbdd247cd8789280210&wsBindIP=2&wsserid=1168194741519896389"
                         },
                         {
-                          "id": "lnk-7cd17531e5",
+                          "id": "lnk-bc03ddba80",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -245,7 +186,7 @@
         },
         {
           "id": "kaytee-22590504fee5",
-          "name": "⚽ Wolves vs Fulham | Giữa Hiệp - 45+5' 1 - 1 21:00 17/05/2026",
+          "name": "⚽ Wolves vs Fulham | H2 - 51' 1 - 1 21:00 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/6/6c/Wolverhampton_Wanderers.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/8/8d/Fulham_FC.png",
           "type": "single",
@@ -281,14 +222,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cbfb79cde0",
+                          "id": "lnk-8dc6ac600d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=c3b425deceb9418dcbd56e1b-177903009267877&wsIPSercert=31103ee5676136670dd6b7f3c399de55&wsBindIP=2&wsserid=1168243256613785902"
+                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=7b5d762c405f894bd01f1fd9-177903068793515&wsIPSercert=6074de8cd1c7bbbdd247cd8789280210&wsBindIP=2&wsserid=1168194741518847065"
                         },
                         {
-                          "id": "lnk-5d14c3b3cd",
+                          "id": "lnk-edb8208451",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -340,14 +281,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b67d4b00f5",
+                          "id": "lnk-6566d89f8f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c3b425deceb9418dcbd56e1b-177903010090650&wsIPSercert=31103ee5676136670dd6b7f3c399de55&wsBindIP=2&wsserid=1168243256613785902"
+                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=546f53c25f66a8bb73a1a33a-177903069663719&wsIPSercert=6074de8cd1c7bbbdd247cd8789280210&wsBindIP=2&wsserid=1168194741519896389"
                         },
                         {
-                          "id": "lnk-0a1e8c57ab",
+                          "id": "lnk-6ffe3691f3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -528,6 +469,50 @@
                   "streams": [
                     {
                       "id": "kaytee-a39ec475bb9a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c1e0ed461433",
+          "name": "⚽ Rayo Vallecano vs Villarreal | Sắp diễn ra vs 00:00 18/05/2026",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/0/03/Yyjbb92.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/7/70/Villarreal_CF_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/0/03/Yyjbb92.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c1e0ed461433",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c1e0ed461433",
+                  "name": "Rayo Vallecano vs Villarreal",
+                  "streams": [
+                    {
+                      "id": "kaytee-c1e0ed461433",
                       "name": "F",
                       "stream_links": []
                     }
