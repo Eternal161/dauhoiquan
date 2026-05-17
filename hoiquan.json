@@ -1,74 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:00 17/05/2026",
+  "last_updated": "19:10 17/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-540b871158f3",
-          "name": "⚽ Como vs Parma | H2 - 90+6' 1 - 0 17:00 17/05/2026",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/250px-Logo_Como_1907_2019.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_Parma_Calcio_1913_%28adozione_2016%29.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/250px-Logo_Como_1907_2019.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-540b871158f3",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-540b871158f3",
-                  "name": "Como vs Parma",
-                  "streams": [
-                    {
-                      "id": "kaytee-540b871158f3",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b0fdeb200e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=546f53c25f66a8bb73a1a33a-177901926888127&wsIPSercert=df784c6d049c4ecede50a561753f37d7&wsBindIP=2&wsserid=1168194741519896389"
-                        },
-                        {
-                          "id": "lnk-cfe720287d",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-0b1ef19da070",
-          "name": "⚽ Nam Dinh vs Viettel | Giữa Hiệp - 45+4' 0 - 2 18:00 17/05/2026",
+          "name": "⚽ Nam Dinh vs Viettel | H2 - 51' 0 - 2 18:00 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/3674.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/d1/Viettel_FC_2021.svg",
           "type": "single",
@@ -104,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ba92ada1fa",
+                          "id": "lnk-2778002640",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcji8rzdgp3pxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=9f6e082336a0da241a46204c-177901927775663&wsIPSercert=df784c6d049c4ecede50a561753f37d7&wsBindIP=2&wsserid=1168161744444568377"
+                          "url": "https://tfvy1gr4uqmtt8y41hcjs8rzdrptpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177901985445731&wsIPSercert=a5147ca74ea991e244130103bdcb15f7&wsBindIP=2&wsserid=1172580915182858196"
                         },
                         {
-                          "id": "lnk-7f9cf157cf",
+                          "id": "lnk-1f1f07b1b5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -127,7 +68,7 @@
         },
         {
           "id": "kaytee-84b1f7b65642",
-          "name": "⚽ Manchester United vs Nottingham Forest | H1 - 28' 1 - 0 18:30 17/05/2026",
+          "name": "⚽ Manchester United vs Nottingham Forest | H1 - 38' 1 - 0 18:30 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/33.png",
           "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",
           "type": "single",
@@ -163,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-efbc84f772",
+                          "id": "lnk-a1894474a3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=546f53c25f66a8bb73a1a33a-177901928622787&wsIPSercert=df784c6d049c4ecede50a561753f37d7&wsBindIP=2&wsserid=1168194741519896389"
+                          "url": "https://tfvy1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=dbd8f789bb7a7a2508c32238-177901986325444&wsIPSercert=a5147ca74ea991e244130103bdcb15f7&wsBindIP=2&wsserid=1168278313570948617"
                         },
                         {
-                          "id": "lnk-4396ad066d",
+                          "id": "lnk-d4d56d630d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -222,14 +163,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f539c5d7bd",
+                          "id": "lnk-aa774ce9bd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=7b5d762c405f894bd01f1fd9-177901929433995&wsIPSercert=df784c6d049c4ecede50a561753f37d7&wsBindIP=2&wsserid=1168194741518847065"
+                          "url": "https://tfvy1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=a072ae36b41a346fd194c763-177901987149025&wsIPSercert=a5147ca74ea991e244130103bdcb15f7&wsBindIP=2&wsserid=1168278313568844709"
                         },
                         {
-                          "id": "lnk-119ba564da",
+                          "id": "lnk-925552654f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -498,6 +439,50 @@
                   "streams": [
                     {
                       "id": "kaytee-70d911826d39",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-bae192f6d149",
+          "name": "⚽ Atalanta vs Bologna | Sắp diễn ra vs 23:00 17/05/2026",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bae192f6d149",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bae192f6d149",
+                  "name": "Atalanta vs Bologna",
+                  "streams": [
+                    {
+                      "id": "kaytee-bae192f6d149",
                       "name": "F",
                       "stream_links": []
                     }
