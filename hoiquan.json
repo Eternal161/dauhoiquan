@@ -1,67 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "13:10 17/05/2026",
+  "last_updated": "13:20 17/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-8f65aecd0cce",
-          "name": "⚽ V-Varen Nagasaki vs Vissel Kobe | Kết thúc - null' 2 - 2 11:00 17/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/285.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vissel_Kobe_logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/285.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-8f65aecd0cce",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-8f65aecd0cce",
-                  "name": "V-Varen Nagasaki vs Vissel Kobe",
-                  "streams": [
-                    {
-                      "id": "kaytee-8f65aecd0cce",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-176bc54a47",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-572520c35459",
-          "name": "⚽ Kyoto Sanga vs Sanfrecce Hiroshima | H1 - 7' 0 - 0 13:00 17/05/2026",
+          "name": "⚽ Kyoto Sanga vs Sanfrecce Hiroshima | Live 0 - 0 13:00 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/302.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/a/ad/SanfrecceHiroshima.png",
           "type": "single",
@@ -97,7 +45,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4d44bba269",
+                          "id": "lnk-1bf4a8451b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -674,6 +622,50 @@
                   "streams": [
                     {
                       "id": "kaytee-ec879686c0ed",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-2d04a72094dd",
+          "name": "⚽ Wolves vs Fulham | Sắp diễn ra vs 21:00 17/05/2026",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/6/6c/Wolverhampton_Wanderers.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/8/8d/Fulham_FC.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/6/6c/Wolverhampton_Wanderers.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-2d04a72094dd",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-2d04a72094dd",
+                  "name": "Wolves vs Fulham",
+                  "streams": [
+                    {
+                      "id": "kaytee-2d04a72094dd",
                       "name": "F",
                       "stream_links": []
                     }
