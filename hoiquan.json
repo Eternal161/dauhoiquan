@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:30 18/05/2026",
+  "last_updated": "06:40 18/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-33a69974fc96",
-          "name": "⚽ Inter Miami vs Portland Timbers | H2 - 55' 2 - 0 05:00 18/05/2026",
+          "name": "⚽ Inter Miami vs Portland Timbers | H2 - 65' 2 - 0 05:00 18/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/9568.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Portland_Timbers_logo.svg/250px-Portland_Timbers_logo.svg.png",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1610ae2f36",
+                          "id": "lnk-45fadb90b4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177906065456459&wsIPSercert=b838d7e212f08abcb3a6829253c9f06e&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfvy0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177906125435364&wsIPSercert=f3533ff868389f61b9ababce7565674e&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-1f845fcdef",
+                          "id": "lnk-9d3d836740",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
         },
         {
           "id": "kaytee-1b5ee08b5cf5",
-          "name": "⚽ Atletico Paranaense vs Flamengo | Giữa Hiệp - 45+7' 1 - 0 05:30 18/05/2026",
+          "name": "⚽ Atletico Paranaense vs Flamengo | H2 - 47' 1 - 0 05:30 18/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/134.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
           "type": "single",
@@ -104,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5a2532c2c6",
+                          "id": "lnk-4fac0836d6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=d21220482f9e651f1e149f3b-177906066316927&wsIPSercert=b838d7e212f08abcb3a6829253c9f06e&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfvy0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=d21220482f9e651f1e149f3b-177906126289515&wsIPSercert=f3533ff868389f61b9ababce7565674e&wsBindIP=2&wsserid=1168283477179400067"
                         },
                         {
-                          "id": "lnk-c2436b075b",
+                          "id": "lnk-56c5d73e94",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -127,7 +127,7 @@
         },
         {
           "id": "kaytee-a00844e10a07",
-          "name": "⚽ Nashville Sc vs Los Angeles Fc | Sắp diễn ra vs 07:00 18/05/2026",
+          "name": "⚽ Nashville Sc vs Los Angeles Fc | Sắp bắt đầu - null' 0 - 0 07:00 18/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nashville_SC_logo%2C_2020.svg/250px-Nashville_SC_logo%2C_2020.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/8/86/Los_Angeles_Football_Club.svg",
           "type": "single",
@@ -143,10 +143,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -161,7 +161,22 @@
                     {
                       "id": "kaytee-a00844e10a07",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-c0a6bd75e4",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvy0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=ddc6d8e2fb217c58ffca1bb2-177906127147816&wsIPSercert=f3533ff868389f61b9ababce7565674e&wsBindIP=2&wsserid=1168283323302724409"
+                        },
+                        {
+                          "id": "lnk-dcbe26ed6b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
