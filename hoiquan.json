@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:50 17/05/2026",
+  "last_updated": "08:00 17/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-72bcd4a0221f",
-          "name": "⚽ New York Red Bulls vs New York City Fc | H2 - 47' 1 - 0 06:30 17/05/2026",
+          "name": "⚽ New York Red Bulls vs New York City Fc | H2 - 57' 1 - 1 06:30 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/1602.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_New_York_City_FC_2025.svg/1280px-Logo_New_York_City_FC_2025.svg.png",
           "type": "single",
@@ -45,70 +45,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d692778a75",
+                          "id": "lnk-42e217c35c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177897904727949&wsIPSercert=884e12d4ffc6aad9d66a6edad249c5f7&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfvy0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4d65f54b2ced7bd280e8ea77-177897965278284&wsIPSercert=f6f77bff2ce1e60e973163eb70a11731&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-26f38b8007",
+                          "id": "lnk-5ec25445b8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-7a26347e2956",
-          "name": "⚽ Guadalajara Chivas vs Cruz Azul | Sắp bắt đầu - null' 0 - 0 08:07 17/05/2026",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVXDXKkU5_WOoYInyTacuN9ebJQv9akgCjOA&s",
-          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4xNkHyv3vyiYqX7HSZ5whQjvMJVYJlF3MQ&s",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVXDXKkU5_WOoYInyTacuN9ebJQv9akgCjOA&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-7a26347e2956",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-7a26347e2956",
-                  "name": "Guadalajara Chivas vs Cruz Azul",
-                  "streams": [
-                    {
-                      "id": "kaytee-7a26347e2956",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-497803e59d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
                         }
                       ]
                     }
@@ -681,6 +629,50 @@
                   "streams": [
                     {
                       "id": "kaytee-43b1e80cc2d4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6adde8ac07df",
+          "name": "⚽ Brentford vs Crystal Palace | Sắp diễn ra vs 21:00 17/05/2026",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/thumb/2/2a/Brentford_FC_crest.svg/1280px-Brentford_FC_crest.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/thumb/2/2a/Brentford_FC_crest.svg/1280px-Brentford_FC_crest.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6adde8ac07df",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6adde8ac07df",
+                  "name": "Brentford vs Crystal Palace",
+                  "streams": [
+                    {
+                      "id": "kaytee-6adde8ac07df",
                       "name": "F",
                       "stream_links": []
                     }
