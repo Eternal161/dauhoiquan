@@ -1,74 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:10 18/05/2026",
+  "last_updated": "02:20 18/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-00e9b30f8e5b",
-          "name": "⚽ Atletico Madrid vs Girona | H2 - 90+4' 1 - 0 00:00 18/05/2026",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg",
-          "logo_khach": "https://www.pngmart.com/files/22/Girona-FC-PNG-HD.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-00e9b30f8e5b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-00e9b30f8e5b",
-                  "name": "Atletico Madrid vs Girona",
-                  "streams": [
-                    {
-                      "id": "kaytee-00e9b30f8e5b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8f8ac50f2b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=7f81183aa1d540da1c3fc7f7-177904504779882&wsIPSercert=a48f1c72af63e8f921672c9f0244a716&wsBindIP=2&wsserid=1168140848410257976"
-                        },
-                        {
-                          "id": "lnk-73bad40ce0",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-8ce28c6ea016",
-          "name": "⚽ Udinese vs Cremonese | H1 - 22' 0 - 1 01:45 18/05/2026",
+          "name": "⚽ Udinese vs Cremonese | H1 - 33' 0 - 1 01:45 18/05/2026",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHUNqkPcsEZ49zQsdnGULnXmI89g8SxAEmw&s",
           "logo_khach": "https://1.bp.blogspot.com/-jBb9nJTi22g/Xw1w0zq5ypI/AAAAAAAAaoI/y5xrZ4P7Kg0MDoclmpkw1QJvvFh0JJkBACLcBGAsYHQ/s1600/US-Cremonese_logo_tr_237-design.png",
           "type": "single",
@@ -104,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a23e790ed7",
+                          "id": "lnk-f0ac2b7171",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjsgyzdnct1fihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=b779b2c12d9eb553cd165b82-177904505635273&wsIPSercert=a48f1c72af63e8f921672c9f0244a716&wsBindIP=2&wsserid=1168283407512358315"
+                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177904564943842&wsIPSercert=68b99e9ce95ae6607b459cf72a6ab2c2&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-4c407854e4",
+                          "id": "lnk-f71ef866e6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -127,7 +68,7 @@
         },
         {
           "id": "kaytee-443980dfecc4",
-          "name": "⚽ Paris Fc vs Paris Saint Germain | H1 - 10' 0 - 0 02:00 18/05/2026",
+          "name": "⚽ Paris Fc vs Paris Saint Germain | H1 - 20' 0 - 0 02:00 18/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/114.png",
           "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
           "type": "single",
@@ -163,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c65b56fe44",
+                          "id": "lnk-381fe3d56f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=b897078035d8e4cd82a99de7-177904506492815&wsIPSercert=a48f1c72af63e8f921672c9f0244a716&wsBindIP=2&wsserid=1168140848411308775"
+                          "url": "https://tfvy1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177904565769861&wsIPSercert=68b99e9ce95ae6607b459cf72a6ab2c2&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-bbed4ad41c",
+                          "id": "lnk-8e7871b267",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -186,7 +127,7 @@
         },
         {
           "id": "kaytee-33a6e6558f0d",
-          "name": "⚽ Marseille vs Rennes | H1 - 10' 1 - 0 02:00 18/05/2026",
+          "name": "⚽ Marseille vs Rennes | H1 - 20' 2 - 0 02:00 18/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/81.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/a/ad/Stade_Rennais_FC.png",
           "type": "single",
@@ -222,14 +163,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-895a9aab57",
+                          "id": "lnk-4fac675761",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=e73d46884c09585b6c81760a-177904507315571&wsIPSercert=a48f1c72af63e8f921672c9f0244a716&wsBindIP=2&wsserid=1168140817791296288"
+                          "url": "https://tfvy1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177904566584134&wsIPSercert=68b99e9ce95ae6607b459cf72a6ab2c2&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-4d06e87c75",
+                          "id": "lnk-1b44d09738",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -245,7 +186,7 @@
         },
         {
           "id": "kaytee-bc6366f628f0",
-          "name": "⚽ Lyon vs Lens | H1 - 10' 0 - 0 02:00 18/05/2026",
+          "name": "⚽ Lyon vs Lens | H1 - 20' 0 - 1 02:00 18/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/9/93/Olympique_Lyonnais.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6LsST7Td6rAqdSTMI4TlH_4DWNs7BOqgZQ&s",
           "type": "single",
@@ -281,14 +222,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7dd265918a",
+                          "id": "lnk-6bca188570",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7f81183aa1d540da1c3fc7f7-177904508186399&wsIPSercert=a48f1c72af63e8f921672c9f0244a716&wsBindIP=2&wsserid=1168140848410257976"
+                          "url": "https://tfvy1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177904567413228&wsIPSercert=68b99e9ce95ae6607b459cf72a6ab2c2&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-ed39b4b104",
+                          "id": "lnk-c4bf12c4cc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -304,7 +245,7 @@
         },
         {
           "id": "kaytee-545ea6ad56b6",
-          "name": "⚽ Barcelona vs Real Betis | Sắp bắt đầu - null' 0 - 0 02:15 18/05/2026",
+          "name": "⚽ Barcelona vs Real Betis | H1 - 1' 0 - 0 02:15 18/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/fr/1/13/Real_betis_logo.svg",
           "type": "single",
@@ -340,14 +281,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bf3d1a486e",
+                          "id": "lnk-241e697303",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=6e1279e156ce1898ee876f29-177904509001451&wsIPSercert=a48f1c72af63e8f921672c9f0244a716&wsBindIP=2&wsserid=1168140817803879397"
+                          "url": "https://tfvy1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177904568261120&wsIPSercert=68b99e9ce95ae6607b459cf72a6ab2c2&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-355e235e61",
+                          "id": "lnk-be8fee5bbd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -528,6 +469,50 @@
                   "streams": [
                     {
                       "id": "kaytee-3b27e6874602",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-776f1333735e",
+          "name": "⚽ Zorya Luhansk vs Polessya | Sắp diễn ra vs 17:00 18/05/2026",
+          "logo_nha": "https://media.api-sports.io/football/teams/599.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/6496.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/599.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-776f1333735e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-776f1333735e",
+                  "name": "Zorya Luhansk vs Polessya",
+                  "streams": [
+                    {
+                      "id": "kaytee-776f1333735e",
                       "name": "F",
                       "stream_links": []
                     }
