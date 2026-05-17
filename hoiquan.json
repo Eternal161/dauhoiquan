@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:10 18/05/2026",
+  "last_updated": "05:20 18/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-33a69974fc96",
-          "name": "⚽ Inter Miami vs Portland Timbers | Sắp bắt đầu - null' 0 - 0 05:00 18/05/2026",
+          "name": "⚽ Inter Miami vs Portland Timbers | H1 - 7' 0 - 0 05:00 18/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/9568.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Portland_Timbers_logo.svg/250px-Portland_Timbers_logo.svg.png",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-01bae14c8e",
+                          "id": "lnk-97fc4add9f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177905586142082&wsIPSercert=1d9d4e635ed9fdb1e6d00e65ba57f648&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfvy3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b8969814a7adf8c9b0ca01df-177905646144687&wsIPSercert=3f9d752fab1c219ead312dfe750501b0&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-3a45df00c6",
+                          "id": "lnk-1335052d78",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -104,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-934cbfde5d",
+                          "id": "lnk-f41a076732",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177905586982685&wsIPSercert=1d9d4e635ed9fdb1e6d00e65ba57f648&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfvy3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4d65f54b2ced7bd280e8ea77-177905646999147&wsIPSercert=3f9d752fab1c219ead312dfe750501b0&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-44b0e805ab",
+                          "id": "lnk-f0946d224b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
