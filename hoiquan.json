@@ -1,74 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:10 18/05/2026",
+  "last_updated": "04:20 18/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-545ea6ad56b6",
-          "name": "⚽ Barcelona vs Real Betis | H2 - 90+3' 3 - 1 02:15 18/05/2026",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/fr/1/13/Real_betis_logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-545ea6ad56b6",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-545ea6ad56b6",
-                  "name": "Barcelona vs Real Betis",
-                  "streams": [
-                    {
-                      "id": "kaytee-545ea6ad56b6",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a23a20ce3a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=795ceebdad1d160b17924ec6-177905225929519&wsIPSercert=74019b52290a09ccf94d0ccc0a3d6759&wsBindIP=2&wsserid=1168283319001564024"
-                        },
-                        {
-                          "id": "lnk-5fbe6f31b0",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-33a69974fc96",
-          "name": "⚽ Inter Miami vs Portland Timbers | Sắp diễn ra vs 05:00 18/05/2026",
+          "name": "⚽ Inter Miami vs Portland Timbers | Sắp bắt đầu - null' 0 - 0 05:00 18/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/9568.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Portland_Timbers_logo.svg/250px-Portland_Timbers_logo.svg.png",
           "type": "single",
@@ -84,10 +25,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -102,7 +43,22 @@
                     {
                       "id": "kaytee-33a69974fc96",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-8b707de921",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvy1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177905284953470&wsIPSercert=fbfa899f2462316bcd5073bfff8ef077&wsBindIP=2&wsserid=1168176581102008440"
+                        },
+                        {
+                          "id": "lnk-b923613715",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -453,6 +409,50 @@
                   "streams": [
                     {
                       "id": "kaytee-97a2ac14c5f6",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-959fd58428fe",
+          "name": "⚽ Arsenal vs Burnley | Sắp diễn ra vs 02:00 19/05/2026",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/1/1a/Burnley_FC.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-959fd58428fe",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-959fd58428fe",
+                  "name": "Arsenal vs Burnley",
+                  "streams": [
+                    {
+                      "id": "kaytee-959fd58428fe",
                       "name": "F",
                       "stream_links": []
                     }
