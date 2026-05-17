@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:50 18/05/2026",
+  "last_updated": "06:00 18/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-33a69974fc96",
-          "name": "⚽ Inter Miami vs Portland Timbers | Live 0 - 0 05:00 18/05/2026",
+          "name": "⚽ Inter Miami vs Portland Timbers | H1 - 45+2' 2 - 0 05:00 18/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/9568.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Portland_Timbers_logo.svg/250px-Portland_Timbers_logo.svg.png",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-36748af297",
+                          "id": "lnk-879bfb47e7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=4e2ceb7cc6e1ec8a54ec149f-177905825187607&wsIPSercert=07e1f7336a7207fcc3434df63a74691a&wsBindIP=2&wsserid=1168243256604348444"
+                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=db98c80219ad4c36840f2c02-177905886469791&wsIPSercert=f7826d76c3dd5e45e5e31737a87d3e59&wsBindIP=2&wsserid=1168243343870168317"
                         },
                         {
-                          "id": "lnk-f08b84b09b",
+                          "id": "lnk-b926670c63",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
         },
         {
           "id": "kaytee-1b5ee08b5cf5",
-          "name": "⚽ Atletico Paranaense vs Flamengo | Live 0 - 0 05:30 18/05/2026",
+          "name": "⚽ Atletico Paranaense vs Flamengo | H1 - 31' 1 - 0 05:30 18/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/134.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
           "type": "single",
@@ -104,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f2b0a8ca83",
+                          "id": "lnk-b203b71fde",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=7b5ae66679f825c9d3872358-177905826033402&wsIPSercert=07e1f7336a7207fcc3434df63a74691a&wsBindIP=2&wsserid=1168243256598056876"
+                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=aedd70980ff8f6b5ab8a1bf7-177905887283097&wsIPSercert=f7826d76c3dd5e45e5e31737a87d3e59&wsBindIP=2&wsserid=1168243256667264290"
                         },
                         {
-                          "id": "lnk-7cec3266db",
+                          "id": "lnk-3814d6ed68",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
