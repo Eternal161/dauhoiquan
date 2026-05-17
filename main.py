@@ -13,8 +13,8 @@ from playwright_stealth import Stealth
 # =========================================================
 # CONFIG HỘI QUÁN TV - BẢN FULL CHỐNG LAG MẠNG
 # =========================================================
-TARGET_SITE   = "https://sv2.hoiquan3.live/lich-thi-dau/bong-da"
-BASE_URL      = "https://sv2.hoiquan3.live"
+TARGET_SITE   = "https://sv2.hoiquan4.live/lich-thi-dau/bong-da"
+BASE_URL      = "https://sv2.hoiquan4.live"
 FILE_PATH     = "hoiquan.json"
 LIMIT_MATCHES = 15 
 
