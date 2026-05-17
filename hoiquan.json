@@ -1,192 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:00 17/05/2026",
+  "last_updated": "23:10 17/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-a7427116be87",
-          "name": "⚽ Brentford vs Crystal Palace | H2 - 90+9' 2 - 2 21:00 17/05/2026",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/thumb/2/2a/Brentford_FC_crest.svg/1280px-Brentford_FC_crest.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/thumb/2/2a/Brentford_FC_crest.svg/1280px-Brentford_FC_crest.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a7427116be87",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a7427116be87",
-                  "name": "Brentford vs Crystal Palace",
-                  "streams": [
-                    {
-                      "id": "kaytee-a7427116be87",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b03e3b4f36",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c8758f6de58ca19652c1503-177903365881336&wsIPSercert=98a58e68eecb2800affe8f3e7b58fa7b&wsBindIP=2&wsserid=1168243256626369038"
-                        },
-                        {
-                          "id": "lnk-595aaa080c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-d9c15ec537b0",
-          "name": "⚽ Leeds vs Brighton | H2 - 90+10' 1 - 0 21:00 17/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/63.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/51.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/63.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-d9c15ec537b0",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-d9c15ec537b0",
-                  "name": "Leeds vs Brighton",
-                  "streams": [
-                    {
-                      "id": "kaytee-d9c15ec537b0",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fe40cd0ce3",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2bdea2174d4973e05984e7a8-177903366723919&wsIPSercert=98a58e68eecb2800affe8f3e7b58fa7b&wsBindIP=2&wsserid=1168243256623223254"
-                        },
-                        {
-                          "id": "lnk-f06920de6c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-70d911826d39",
-          "name": "⚽ Santos vs Coritiba | H2 - 90+2' 0 - 3 21:00 17/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/128.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coritiba_Foot_Ball_Club_logo.svg/500px-Coritiba_Foot_Ball_Club_logo.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/128.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-70d911826d39",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-70d911826d39",
-                  "name": "Santos vs Coritiba",
-                  "streams": [
-                    {
-                      "id": "kaytee-70d911826d39",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-512b26d7fc",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=ef0ccc7d875d9554e04de7b3-177903367657060&wsIPSercert=98a58e68eecb2800affe8f3e7b58fa7b&wsBindIP=2&wsserid=1168243256629514822"
-                        },
-                        {
-                          "id": "lnk-8c155c9261",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-bae192f6d149",
-          "name": "⚽ Atalanta vs Bologna | Sắp bắt đầu - null' 0 - 0 23:00 17/05/2026",
+          "name": "⚽ Atalanta vs Bologna | H1 - 9' 0 - 0 23:00 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
           "type": "single",
@@ -222,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-831e859b5c",
+                          "id": "lnk-330ad98dad",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=ef0ccc7d875d9554e04de7b3-177903368409078&wsIPSercert=98a58e68eecb2800affe8f3e7b58fa7b&wsBindIP=2&wsserid=1168243256629514822"
+                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177903426380129&wsIPSercert=d611186e3746593bdcb1a949ca311c42&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-eda5189ad4",
+                          "id": "lnk-3f94fab3b6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -281,7 +104,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-598be419c5",
+                          "id": "lnk-f88ef36d72",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -297,7 +120,7 @@
         },
         {
           "id": "kaytee-00e9b30f8e5b",
-          "name": "⚽ Atletico Madrid vs Girona | Sắp diễn ra vs 00:00 18/05/2026",
+          "name": "⚽ Atletico Madrid vs Girona | Sắp bắt đầu - null' 0 - 0 00:00 18/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg",
           "logo_khach": "https://www.pngmart.com/files/22/Girona-FC-PNG-HD.png",
           "type": "single",
@@ -313,10 +136,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -331,7 +154,22 @@
                     {
                       "id": "kaytee-00e9b30f8e5b",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-a528f2e525",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177903428083512&wsIPSercert=d611186e3746593bdcb1a949ca311c42&wsBindIP=2&wsserid=1168202392933970899"
+                        },
+                        {
+                          "id": "lnk-a2100afdb5",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -506,6 +344,138 @@
                   "streams": [
                     {
                       "id": "kaytee-4b39552cd37d",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8ce28c6ea016",
+          "name": "⚽ Udinese vs Cremonese | Sắp diễn ra vs 01:45 18/05/2026",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHUNqkPcsEZ49zQsdnGULnXmI89g8SxAEmw&s",
+          "logo_khach": "https://1.bp.blogspot.com/-jBb9nJTi22g/Xw1w0zq5ypI/AAAAAAAAaoI/y5xrZ4P7Kg0MDoclmpkw1QJvvFh0JJkBACLcBGAsYHQ/s1600/US-Cremonese_logo_tr_237-design.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHUNqkPcsEZ49zQsdnGULnXmI89g8SxAEmw&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8ce28c6ea016",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8ce28c6ea016",
+                  "name": "Udinese vs Cremonese",
+                  "streams": [
+                    {
+                      "id": "kaytee-8ce28c6ea016",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-443980dfecc4",
+          "name": "⚽ Paris Fc vs Paris Saint Germain | Sắp diễn ra vs 02:00 18/05/2026",
+          "logo_nha": "https://media.api-sports.io/football/teams/114.png",
+          "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/114.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-443980dfecc4",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-443980dfecc4",
+                  "name": "Paris Fc vs Paris Saint Germain",
+                  "streams": [
+                    {
+                      "id": "kaytee-443980dfecc4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-33a6e6558f0d",
+          "name": "⚽ Marseille vs Rennes | Sắp diễn ra vs 02:00 18/05/2026",
+          "logo_nha": "https://media.api-sports.io/football/teams/81.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/a/ad/Stade_Rennais_FC.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/81.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-33a6e6558f0d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-33a6e6558f0d",
+                  "name": "Marseille vs Rennes",
+                  "streams": [
+                    {
+                      "id": "kaytee-33a6e6558f0d",
                       "name": "F",
                       "stream_links": []
                     }
