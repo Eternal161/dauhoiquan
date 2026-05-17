@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:27 17/05/2026",
+  "last_updated": "15:30 17/05/2026",
   "groups": [
     {
       "id": "live",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fb105c0f02",
+                          "id": "lnk-cee4d8d79c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=aedd70980ff8f6b5ab8a1bf7-177900643914677&wsIPSercert=a5b543097cc58ab146666e0fa15a9f10&wsBindIP=2&wsserid=1168243256667264290"
+                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=aedd70980ff8f6b5ab8a1bf7-177900666646924&wsIPSercert=4ec354a97fe36ca71cd8234155f07520&wsBindIP=2&wsserid=1168243256667264290"
                         },
                         {
-                          "id": "lnk-31bb3ec8b8",
+                          "id": "lnk-260767acf0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
         },
         {
           "id": "kaytee-d3c8ed8e862d",
-          "name": "⚽ Jeonbuk Motors vs Gimcheon Sangmu Fc | H1 - 45+2' 0 - 0 14:40 17/05/2026",
+          "name": "⚽ Jeonbuk Motors vs Gimcheon Sangmu Fc | Giữa Hiệp - 45+5' 0 - 0 14:40 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/2762.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2768.png",
           "type": "single",
@@ -104,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-85778651ec",
+                          "id": "lnk-7c7b350466",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=66a69cb18c47415edf9d2743-177900644769350&wsIPSercert=a5b543097cc58ab146666e0fa15a9f10&wsBindIP=2&wsserid=1168243256664118498"
+                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=66a69cb18c47415edf9d2743-177900667490495&wsIPSercert=4ec354a97fe36ca71cd8234155f07520&wsBindIP=2&wsserid=1168243256664118498"
                         },
                         {
-                          "id": "lnk-28d4a9446d",
+                          "id": "lnk-48158664b9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -302,51 +302,7 @@
           ]
         },
         {
-          "id": "kaytee-4124b8294549",
-          "name": "⚽ Pho Hien vs Ha Noi | Sắp diễn ra vs 18:00 17/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/9166.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/3670.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/9166.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-4124b8294549",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-4124b8294549",
-                  "name": "Pho Hien vs Ha Noi",
-                  "streams": [
-                    {
-                      "id": "kaytee-4124b8294549",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-c5400646a249",
+          "id": "kaytee-0b1ef19da070",
           "name": "⚽ Nam Dinh vs Viettel | Sắp diễn ra vs 18:00 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/3674.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/d1/Viettel_FC_2021.svg",
@@ -371,15 +327,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-c5400646a249",
+              "id": "kaytee-0b1ef19da070",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-c5400646a249",
+                  "id": "kaytee-0b1ef19da070",
                   "name": "Nam Dinh vs Viettel",
                   "streams": [
                     {
-                      "id": "kaytee-c5400646a249",
+                      "id": "kaytee-0b1ef19da070",
                       "name": "F",
                       "stream_links": []
                     }
@@ -688,6 +644,50 @@
                   "streams": [
                     {
                       "id": "kaytee-22590504fee5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-70d911826d39",
+          "name": "⚽ Santos vs Coritiba | Sắp diễn ra vs 21:00 17/05/2026",
+          "logo_nha": "https://media.api-sports.io/football/teams/128.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coritiba_Foot_Ball_Club_logo.svg/500px-Coritiba_Foot_Ball_Club_logo.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/128.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-70d911826d39",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-70d911826d39",
+                  "name": "Santos vs Coritiba",
+                  "streams": [
+                    {
+                      "id": "kaytee-70d911826d39",
                       "name": "F",
                       "stream_links": []
                     }
