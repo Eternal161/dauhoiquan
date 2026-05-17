@@ -16,7 +16,7 @@ from playwright_stealth import Stealth
 TARGET_SITE   = "https://sv2.hoiquan4.live/lich-thi-dau/bong-da"
 BASE_URL      = "https://sv2.hoiquan4.live"
 FILE_PATH     = "hoiquan.json"
-LIMIT_MATCHES = 15 
+LIMIT_MATCHES = 10
 
 VN_TZ = datetime.timezone(datetime.timedelta(hours=7))
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
