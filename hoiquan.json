@@ -1,74 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:50 18/05/2026",
+  "last_updated": "01:00 18/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-bae192f6d149",
-          "name": "⚽ Atalanta vs Bologna | H2 - 88' 0 - 1 23:00 17/05/2026",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-bae192f6d149",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-bae192f6d149",
-                  "name": "Atalanta vs Bologna",
-                  "streams": [
-                    {
-                      "id": "kaytee-bae192f6d149",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-74cee2a303",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcji8rzdgp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=92d0599ce21af7fbd6396928-177904025605631&wsIPSercert=a3b838d0db35e422c76101e8c81afd5f&wsBindIP=2&wsserid=1172665344093863980"
-                        },
-                        {
-                          "id": "lnk-ec6f3e0a3e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-56f2bb458a9e",
-          "name": "⚽ Newcastle vs West Ham | H2 - 56' 2 - 0 23:30 17/05/2026",
+          "name": "⚽ Newcastle vs West Ham | H2 - 66' 3 - 0 23:30 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/34.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1280px-West_Ham_United_FC_logo.svg.png",
           "type": "single",
@@ -104,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fc370fd90a",
+                          "id": "lnk-d77bf8f768",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcji8rzdgp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=5078503ea24e33385eb35d8d-177904026463865&wsIPSercert=a3b838d0db35e422c76101e8c81afd5f&wsBindIP=2&wsserid=1172665344093863948"
+                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=7b5d762c405f894bd01f1fd9-177904086204729&wsIPSercert=ca1b2e8c28bb4d447680222f16858d1e&wsBindIP=2&wsserid=1168194741518847065"
                         },
                         {
-                          "id": "lnk-ff1a9dd49f",
+                          "id": "lnk-ca89e947e5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -163,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4df465d7a7",
+                          "id": "lnk-ea292d6283",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcji8rzdgp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=4faa155c6f8ede14820b76cc-177904027318502&wsIPSercert=a3b838d0db35e422c76101e8c81afd5f&wsBindIP=2&wsserid=1172665343356714795"
+                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=7b5d762c405f894bd01f1fd9-177904086988807&wsIPSercert=ca1b2e8c28bb4d447680222f16858d1e&wsBindIP=2&wsserid=1168194741518847065"
                         },
                         {
-                          "id": "lnk-2157269511",
+                          "id": "lnk-e44e1d1b2f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -186,7 +127,7 @@
         },
         {
           "id": "kaytee-a39ec475bb9a",
-          "name": "⚽ Athletic Club vs Celta Vigo | H1 - 45+5' 0 - 1 00:00 18/05/2026",
+          "name": "⚽ Athletic Club vs Celta Vigo | Giữa Hiệp - 45+6' 0 - 1 00:00 18/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/538.png",
           "type": "single",
@@ -222,14 +163,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-94ffb2e4e8",
+                          "id": "lnk-c59fb41597",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcji8rzdgp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=4faa155c6f8ede14820b76cc-177904028139804&wsIPSercert=a3b838d0db35e422c76101e8c81afd5f&wsBindIP=2&wsserid=1172665343356714795"
+                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=546f53c25f66a8bb73a1a33a-177904087847789&wsIPSercert=ca1b2e8c28bb4d447680222f16858d1e&wsBindIP=2&wsserid=1168194741519896389"
                         },
                         {
-                          "id": "lnk-79b2f6ae65",
+                          "id": "lnk-52da50bd39",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -281,14 +222,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3f7b38dca8",
+                          "id": "lnk-7f6e57fb94",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcji8rzdgp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=92d0599ce21af7fbd6396928-177904029010554&wsIPSercert=a3b838d0db35e422c76101e8c81afd5f&wsBindIP=2&wsserid=1172665344093863980"
+                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=7b5d762c405f894bd01f1fd9-177904088660927&wsIPSercert=ca1b2e8c28bb4d447680222f16858d1e&wsBindIP=2&wsserid=1168194741518847065"
                         },
                         {
-                          "id": "lnk-2b40482f47",
+                          "id": "lnk-9ebe64ddf4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -304,7 +245,7 @@
         },
         {
           "id": "kaytee-39cba5b15fb9",
-          "name": "⚽ Real Sociedad vs Valencia | H1 - 45+5' 1 - 2 00:00 18/05/2026",
+          "name": "⚽ Real Sociedad vs Valencia | Giữa Hiệp - 45+6' 1 - 2 00:00 18/05/2026",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCqksyaudrnPerqAK70Wf34Xo-WN_BSmSsQg&s",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/f/fe/Valenciacf.png",
           "type": "single",
@@ -340,14 +281,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-54e27c5c0b",
+                          "id": "lnk-ced20609df",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcji8rzdgp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f3cce5b32309e5eab28c3924-177904029833877&wsIPSercert=a3b838d0db35e422c76101e8c81afd5f&wsBindIP=2&wsserid=1172665350473402856"
+                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=546f53c25f66a8bb73a1a33a-177904089533246&wsIPSercert=ca1b2e8c28bb4d447680222f16858d1e&wsBindIP=2&wsserid=1168194741519896389"
                         },
                         {
-                          "id": "lnk-e70728d5d1",
+                          "id": "lnk-42c532beee",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -399,14 +340,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c6fa883f52",
+                          "id": "lnk-9505ece149",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcji8rzdgp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f3cce5b32309e5eab28c3924-177904030713014&wsIPSercert=a3b838d0db35e422c76101e8c81afd5f&wsBindIP=2&wsserid=1172665350473402856"
+                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=546f53c25f66a8bb73a1a33a-177904090366707&wsIPSercert=ca1b2e8c28bb4d447680222f16858d1e&wsBindIP=2&wsserid=1168194741519896389"
                         },
                         {
-                          "id": "lnk-b15228bc3e",
+                          "id": "lnk-a9e9f928d4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -543,6 +484,50 @@
                   "streams": [
                     {
                       "id": "kaytee-33a6e6558f0d",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-bc6366f628f0",
+          "name": "⚽ Lyon vs Lens | Sắp diễn ra vs 02:00 18/05/2026",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/9/93/Olympique_Lyonnais.png",
+          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6LsST7Td6rAqdSTMI4TlH_4DWNs7BOqgZQ&s",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/9/93/Olympique_Lyonnais.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bc6366f628f0",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bc6366f628f0",
+                  "name": "Lyon vs Lens",
+                  "streams": [
+                    {
+                      "id": "kaytee-bc6366f628f0",
                       "name": "F",
                       "stream_links": []
                     }
