@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:50 18/05/2026",
+  "last_updated": "02:00 18/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-00e9b30f8e5b",
-          "name": "⚽ Atletico Madrid vs Girona | H2 - 90' 1 - 0 00:00 18/05/2026",
+          "name": "⚽ Atletico Madrid vs Girona | H2 - 90+4' 1 - 0 00:00 18/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg",
           "logo_khach": "https://www.pngmart.com/files/22/Girona-FC-PNG-HD.png",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9cde8ad2d8",
+                          "id": "lnk-52c92f24fb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1qjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=a96599b2bbece9bc3d41f202-177904385114157&wsIPSercert=5cebd4f010676596ee59574cc46d4deb&wsBindIP=2&wsserid=1168243256635806390"
+                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=7b5d762c405f894bd01f1fd9-177904445084267&wsIPSercert=9a04f8143d1eb2f2814a237435e1ee25&wsBindIP=2&wsserid=1168194741518847065"
                         },
                         {
-                          "id": "lnk-d43c80826e",
+                          "id": "lnk-4ab84291ff",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
         },
         {
           "id": "kaytee-a39ec475bb9a",
-          "name": "⚽ Athletic Club vs Celta Vigo | H2 - 90' 1 - 1 00:00 18/05/2026",
+          "name": "⚽ Athletic Club vs Celta Vigo | H2 - 90+6' 1 - 1 00:00 18/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/538.png",
           "type": "single",
@@ -104,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-997b4ee539",
+                          "id": "lnk-fdad81efcf",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1qjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=a96599b2bbece9bc3d41f202-177904385932035&wsIPSercert=5cebd4f010676596ee59574cc46d4deb&wsBindIP=2&wsserid=1168243256635806390"
+                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=546f53c25f66a8bb73a1a33a-177904445931025&wsIPSercert=9a04f8143d1eb2f2814a237435e1ee25&wsBindIP=2&wsserid=1168194741519896389"
                         },
                         {
-                          "id": "lnk-a104d3eabb",
+                          "id": "lnk-ace4d53826",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -126,185 +126,8 @@
           ]
         },
         {
-          "id": "kaytee-c1e0ed461433",
-          "name": "⚽ Rayo Vallecano vs Villarreal | H2 - 90' 2 - 0 00:00 18/05/2026",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/0/03/Yyjbb92.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/7/70/Villarreal_CF_logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/0/03/Yyjbb92.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c1e0ed461433",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c1e0ed461433",
-                  "name": "Rayo Vallecano vs Villarreal",
-                  "streams": [
-                    {
-                      "id": "kaytee-c1e0ed461433",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1871f0ecf7",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1qjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=a96599b2bbece9bc3d41f202-177904386785972&wsIPSercert=5cebd4f010676596ee59574cc46d4deb&wsBindIP=2&wsserid=1168243256635806390"
-                        },
-                        {
-                          "id": "lnk-4b06dce479",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-39cba5b15fb9",
-          "name": "⚽ Real Sociedad vs Valencia | H2 - 90' 3 - 3 00:00 18/05/2026",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCqksyaudrnPerqAK70Wf34Xo-WN_BSmSsQg&s",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/f/fe/Valenciacf.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCqksyaudrnPerqAK70Wf34Xo-WN_BSmSsQg&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-39cba5b15fb9",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-39cba5b15fb9",
-                  "name": "Real Sociedad vs Valencia",
-                  "streams": [
-                    {
-                      "id": "kaytee-39cba5b15fb9",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0f3933aced",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1qjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=1eeb322b264de95501685721-177904387648164&wsIPSercert=5cebd4f010676596ee59574cc46d4deb&wsBindIP=2&wsserid=1168243256616931686"
-                        },
-                        {
-                          "id": "lnk-c572954e12",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-4b39552cd37d",
-          "name": "⚽ Sevilla vs Real Madrid | H2 - 90' 0 - 1 00:00 18/05/2026",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/a/ae/Sevilla_FC_logo.png",
-          "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/a/ae/Sevilla_FC_logo.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-4b39552cd37d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-4b39552cd37d",
-                  "name": "Sevilla vs Real Madrid",
-                  "streams": [
-                    {
-                      "id": "kaytee-4b39552cd37d",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7519f3779c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1qjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c64df1c71d29b3ceca58227b-177904388525727&wsIPSercert=5cebd4f010676596ee59574cc46d4deb&wsBindIP=2&wsserid=1168243256638952174"
-                        },
-                        {
-                          "id": "lnk-f5757c0809",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-8ce28c6ea016",
-          "name": "⚽ Udinese vs Cremonese | H1 - 3' 0 - 0 01:45 18/05/2026",
+          "name": "⚽ Udinese vs Cremonese | H1 - 13' 0 - 1 01:45 18/05/2026",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHUNqkPcsEZ49zQsdnGULnXmI89g8SxAEmw&s",
           "logo_khach": "https://1.bp.blogspot.com/-jBb9nJTi22g/Xw1w0zq5ypI/AAAAAAAAaoI/y5xrZ4P7Kg0MDoclmpkw1QJvvFh0JJkBACLcBGAsYHQ/s1600/US-Cremonese_logo_tr_237-design.png",
           "type": "single",
@@ -340,14 +163,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-38c4e66d82",
+                          "id": "lnk-34e3473e9c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1c3pxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=2bdea2174d4973e05984e7a8-177904389371447&wsIPSercert=5cebd4f010676596ee59574cc46d4deb&wsBindIP=2&wsserid=1168243256623223254"
+                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrctpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=9f6e082336a0da241a46204c-177904446844284&wsIPSercert=9a04f8143d1eb2f2814a237435e1ee25&wsBindIP=2&wsserid=1168161744444568377"
                         },
                         {
-                          "id": "lnk-077dc3d164",
+                          "id": "lnk-a895c8902f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -399,14 +222,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fef95771b7",
+                          "id": "lnk-24ab111501",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1qjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=a96599b2bbece9bc3d41f202-177904390219251&wsIPSercert=5cebd4f010676596ee59574cc46d4deb&wsBindIP=2&wsserid=1168243256635806390"
+                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=546f53c25f66a8bb73a1a33a-177904447627102&wsIPSercert=9a04f8143d1eb2f2814a237435e1ee25&wsBindIP=2&wsserid=1168194741519896389"
                         },
                         {
-                          "id": "lnk-434ec1a197",
+                          "id": "lnk-ef11c99648",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -458,14 +281,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8d4fd0adef",
+                          "id": "lnk-4089224f11",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1qjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=a96599b2bbece9bc3d41f202-177904391041125&wsIPSercert=5cebd4f010676596ee59574cc46d4deb&wsBindIP=2&wsserid=1168243256635806390"
+                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=7b5d762c405f894bd01f1fd9-177904448500641&wsIPSercert=9a04f8143d1eb2f2814a237435e1ee25&wsBindIP=2&wsserid=1168194741518847065"
                         },
                         {
-                          "id": "lnk-e02723f2d9",
+                          "id": "lnk-5df9b9a592",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -517,14 +340,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-35c1685931",
+                          "id": "lnk-ba20078bd9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1qjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c64df1c71d29b3ceca58227b-177904391905547&wsIPSercert=5cebd4f010676596ee59574cc46d4deb&wsBindIP=2&wsserid=1168243256638952174"
+                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=546f53c25f66a8bb73a1a33a-177904449323554&wsIPSercert=9a04f8143d1eb2f2814a237435e1ee25&wsBindIP=2&wsserid=1168194741519896389"
                         },
                         {
-                          "id": "lnk-177b598107",
+                          "id": "lnk-b50a0f683c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -576,20 +399,152 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-45943fbac1",
+                          "id": "lnk-9dc8230de4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1qjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=1eeb322b264de95501685721-177904392732923&wsIPSercert=5cebd4f010676596ee59574cc46d4deb&wsBindIP=2&wsserid=1168243256616931686"
+                          "url": "https://tfvy1gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=546f53c25f66a8bb73a1a33a-177904450184133&wsIPSercert=9a04f8143d1eb2f2814a237435e1ee25&wsBindIP=2&wsserid=1168194741519896389"
                         },
                         {
-                          "id": "lnk-68b7eff26b",
+                          "id": "lnk-213220c630",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
                         }
                       ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-33a69974fc96",
+          "name": "⚽ Inter Miami vs Portland Timbers | Sắp diễn ra vs 05:00 18/05/2026",
+          "logo_nha": "https://media.api-sports.io/football/teams/9568.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Portland_Timbers_logo.svg/250px-Portland_Timbers_logo.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/9568.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-33a69974fc96",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-33a69974fc96",
+                  "name": "Inter Miami vs Portland Timbers",
+                  "streams": [
+                    {
+                      "id": "kaytee-33a69974fc96",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1b5ee08b5cf5",
+          "name": "⚽ Atletico Paranaense vs Flamengo | Sắp diễn ra vs 05:30 18/05/2026",
+          "logo_nha": "https://media.api-sports.io/football/teams/134.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/134.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1b5ee08b5cf5",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1b5ee08b5cf5",
+                  "name": "Atletico Paranaense vs Flamengo",
+                  "streams": [
+                    {
+                      "id": "kaytee-1b5ee08b5cf5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a00844e10a07",
+          "name": "⚽ Nashville Sc vs Los Angeles Fc | Sắp diễn ra vs 07:00 18/05/2026",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nashville_SC_logo%2C_2020.svg/250px-Nashville_SC_logo%2C_2020.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/8/86/Los_Angeles_Football_Club.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nashville_SC_logo%2C_2020.svg/250px-Nashville_SC_logo%2C_2020.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a00844e10a07",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a00844e10a07",
+                  "name": "Nashville Sc vs Los Angeles Fc",
+                  "streams": [
+                    {
+                      "id": "kaytee-a00844e10a07",
+                      "name": "F",
+                      "stream_links": []
                     }
                   ]
                 }
