@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:50 17/05/2026",
+  "last_updated": "07:00 17/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-72bcd4a0221f",
-          "name": "⚽ New York Red Bulls vs New York City Fc | H1 - 10' 0 - 0 06:30 17/05/2026",
+          "name": "⚽ New York Red Bulls vs New York City Fc | H1 - 20' 0 - 0 06:30 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/1602.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_New_York_City_FC_2025.svg/1280px-Logo_New_York_City_FC_2025.svg.png",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cadeb76d73",
+                          "id": "lnk-63f0464d1f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-177897545446982&wsIPSercert=edc9a6e94b434313ea7dc13cb2800269&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfvy0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=d21220482f9e651f1e149f3b-177897606003801&wsIPSercert=ef1c2562e9288000e2bb0a0a5cd513df&wsBindIP=2&wsserid=1168283477179400067"
                         },
                         {
-                          "id": "lnk-a9fcc3887f",
+                          "id": "lnk-841700cc44",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
