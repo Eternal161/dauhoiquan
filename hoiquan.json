@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:00 17/05/2026",
+  "last_updated": "16:10 17/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c5a29b8168b9",
-          "name": "⚽ Jeju United Fc vs Fc Anyang | H2 - 73' 1 - 2 14:30 17/05/2026",
+          "name": "⚽ Jeju United Fc vs Fc Anyang | H2 - 84' 1 - 2 14:30 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/2761.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/lt/c/c9/FC_Anyang_logo.png?20190911143321",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-78c57aebc4",
+                          "id": "lnk-8a71dadaed",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=aedd70980ff8f6b5ab8a1bf7-177900845395449&wsIPSercert=e870438a2c6c8fff085fbbecc24b73ec&wsBindIP=2&wsserid=1168243256667264290"
+                          "url": "https://tfvy3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=12a0e6a99ee8910a60f02bb3-177900904745829&wsIPSercert=6536047fd860f110dcf2673f14781b07&wsBindIP=2&wsserid=1172666162445578538"
                         },
                         {
-                          "id": "lnk-f5f9aaa16d",
+                          "id": "lnk-7003e9386e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
         },
         {
           "id": "kaytee-d3c8ed8e862d",
-          "name": "⚽ Jeonbuk Motors vs Gimcheon Sangmu Fc | H2 - 61' 0 - 0 14:40 17/05/2026",
+          "name": "⚽ Jeonbuk Motors vs Gimcheon Sangmu Fc | H2 - 72' 0 - 0 14:40 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/2762.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2768.png",
           "type": "single",
@@ -104,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-04b477544f",
+                          "id": "lnk-3875fd9107",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=66a69cb18c47415edf9d2743-177900846259951&wsIPSercert=e870438a2c6c8fff085fbbecc24b73ec&wsBindIP=2&wsserid=1168243256664118498"
+                          "url": "https://tfvy3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=12a0e6a99ee8910a60f02bb3-177900905590340&wsIPSercert=6536047fd860f110dcf2673f14781b07&wsBindIP=2&wsserid=1172666162445578538"
                         },
                         {
-                          "id": "lnk-95682f1518",
+                          "id": "lnk-2a61df330e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
