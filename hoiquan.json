@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:10 17/05/2026",
+  "last_updated": "10:20 17/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-0b61320d5e3f",
-          "name": "⚽ San Jose Earthquakes vs Fc Dallas | H1 - 29' 1 - 1 09:30 17/05/2026",
+          "name": "⚽ San Jose Earthquakes vs Fc Dallas | H1 - 39' 1 - 1 09:30 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/1596.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Dallas_logo.svg/250px-FC_Dallas_logo.svg.png",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-dd36dc22b4",
+                          "id": "lnk-7382469fb9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=4d65f54b2ced7bd280e8ea77-177898745743956&wsIPSercert=a5439c68798bb2ac1928142d9f584293&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfvy0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=fe882c23021ed5e2940a23fa-177898804924766&wsIPSercert=d55f1f2628acbcc97a29bbada71cc7ee&wsBindIP=2&wsserid=1168283323367736366"
                         },
                         {
-                          "id": "lnk-be78d61f10",
+                          "id": "lnk-759ddf0eb6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
