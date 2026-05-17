@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:40 17/05/2026",
+  "last_updated": "07:50 17/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-72bcd4a0221f",
-          "name": "⚽ New York Red Bulls vs New York City Fc | Giữa Hiệp - 45+7' 1 - 0 06:30 17/05/2026",
+          "name": "⚽ New York Red Bulls vs New York City Fc | H2 - 47' 1 - 0 06:30 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/1602.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_New_York_City_FC_2025.svg/1280px-Logo_New_York_City_FC_2025.svg.png",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-eade4776b7",
+                          "id": "lnk-d692778a75",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4d65f54b2ced7bd280e8ea77-177897845024507&wsIPSercert=e0f3b3e247070b93ac57a39f7eb4f8ae&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177897904727949&wsIPSercert=884e12d4ffc6aad9d66a6edad249c5f7&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-35196c0f1b",
+                          "id": "lnk-26f38b8007",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
         },
         {
           "id": "kaytee-7a26347e2956",
-          "name": "⚽ Guadalajara Chivas vs Cruz Azul | Sắp diễn ra vs 08:07 17/05/2026",
+          "name": "⚽ Guadalajara Chivas vs Cruz Azul | Sắp bắt đầu - null' 0 - 0 08:07 17/05/2026",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVXDXKkU5_WOoYInyTacuN9ebJQv9akgCjOA&s",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4xNkHyv3vyiYqX7HSZ5whQjvMJVYJlF3MQ&s",
           "type": "single",
@@ -84,10 +84,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -102,7 +102,15 @@
                     {
                       "id": "kaytee-7a26347e2956",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-497803e59d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
