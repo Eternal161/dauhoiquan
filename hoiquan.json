@@ -1,74 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:30 17/05/2026",
+  "last_updated": "16:40 17/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-d3c8ed8e862d",
-          "name": "⚽ Jeonbuk Motors vs Gimcheon Sangmu Fc | Live 0 - 0 14:40 17/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/2762.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2768.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2762.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-d3c8ed8e862d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-d3c8ed8e862d",
-                  "name": "Jeonbuk Motors vs Gimcheon Sangmu Fc",
-                  "streams": [
-                    {
-                      "id": "kaytee-d3c8ed8e862d",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-db58af2e99",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=12a0e6a99ee8910a60f02bb3-177901024898496&wsIPSercert=aed35e28719f1fea145d1fc6e4bdc7d7&wsBindIP=2&wsserid=1172666162445578538"
-                        },
-                        {
-                          "id": "lnk-f77da0a32c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-47de4a55c0be",
-          "name": "⚽ Hoang Anh Gia Lai vs Hồng Lĩnh Hà Tĩnh | Sắp diễn ra vs 17:00 17/05/2026",
+          "name": "⚽ Hoang Anh Gia Lai vs Hồng Lĩnh Hà Tĩnh | Sắp bắt đầu - null' 0 - 0 17:00 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/3673.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg",
           "type": "single",
@@ -84,10 +25,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -102,7 +43,22 @@
                     {
                       "id": "kaytee-47de4a55c0be",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-f3eb3ccfe6",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvy0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=49c6f846c0928a7a2f61f5f0-177901085101990&wsIPSercert=b3eb533a5379e7c2d124eed2201c241b&wsBindIP=2&wsserid=1168140817802830791"
+                        },
+                        {
+                          "id": "lnk-b5f2949fba",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -112,7 +68,7 @@
         },
         {
           "id": "kaytee-540b871158f3",
-          "name": "⚽ Como vs Parma | Sắp diễn ra vs 17:00 17/05/2026",
+          "name": "⚽ Como vs Parma | Sắp bắt đầu - null' 0 - 0 17:00 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/250px-Logo_Como_1907_2019.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_Parma_Calcio_1913_%28adozione_2016%29.png",
           "type": "single",
@@ -128,10 +84,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -146,7 +102,22 @@
                     {
                       "id": "kaytee-540b871158f3",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-c4625512c0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvy0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=b897078035d8e4cd82a99de7-177901085957065&wsIPSercert=b3eb533a5379e7c2d124eed2201c241b&wsBindIP=2&wsserid=1168140848411308775"
+                        },
+                        {
+                          "id": "lnk-b28b37018d",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -156,7 +127,7 @@
         },
         {
           "id": "kaytee-bd81d38567dd",
-          "name": "⚽ Pisa vs Napoli | Live 0 - 0 17:00 17/05/2026",
+          "name": "⚽ Pisa vs Napoli | Sắp bắt đầu - null' 0 - 0 17:00 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Pisa_SC_crest.svg/250px-Pisa_SC_crest.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg",
           "type": "single",
@@ -192,14 +163,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c2feb7a296",
+                          "id": "lnk-cf2c1f8646",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=12a0e6a99ee8910a60f02bb3-177901027433147&wsIPSercert=aed35e28719f1fea145d1fc6e4bdc7d7&wsBindIP=2&wsserid=1172666162445578538"
+                          "url": "https://tfvy0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=7f81183aa1d540da1c3fc7f7-177901086828797&wsIPSercert=b3eb533a5379e7c2d124eed2201c241b&wsBindIP=2&wsserid=1168140848410257976"
                         },
                         {
-                          "id": "lnk-7fad87f463",
+                          "id": "lnk-25be9c1470",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -302,9 +273,9 @@
           ]
         },
         {
-          "id": "kaytee-eac6511b233f",
-          "name": "⚽ Công An Nhân Dân vs Thanh Hóa | Sắp diễn ra vs 19:15 17/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/16400.png",
+          "id": "kaytee-87994c9975d6",
+          "name": "⚽ Cahn vs Thanh Hóa | Sắp diễn ra vs 19:15 17/05/2026",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png",
           "type": "single",
           "display": "thumbnail-only",
@@ -313,7 +284,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/16400.png",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",
             "width": 1600,
             "height": 1200
           },
@@ -327,15 +298,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-eac6511b233f",
+              "id": "kaytee-87994c9975d6",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-eac6511b233f",
-                  "name": "Công An Nhân Dân vs Thanh Hóa",
+                  "id": "kaytee-87994c9975d6",
+                  "name": "Cahn vs Thanh Hóa",
                   "streams": [
                     {
-                      "id": "kaytee-eac6511b233f",
+                      "id": "kaytee-87994c9975d6",
                       "name": "F",
                       "stream_links": []
                     }
@@ -688,6 +659,50 @@
                   "streams": [
                     {
                       "id": "kaytee-56f2bb458a9e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-00e9b30f8e5b",
+          "name": "⚽ Atletico Madrid vs Girona | Sắp diễn ra vs 00:00 18/05/2026",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg",
+          "logo_khach": "https://www.pngmart.com/files/22/Girona-FC-PNG-HD.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-00e9b30f8e5b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-00e9b30f8e5b",
+                  "name": "Atletico Madrid vs Girona",
+                  "streams": [
+                    {
+                      "id": "kaytee-00e9b30f8e5b",
                       "name": "F",
                       "stream_links": []
                     }
