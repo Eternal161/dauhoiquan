@@ -1,64 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:40 17/05/2026",
+  "last_updated": "08:50 17/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-72bcd4a0221f",
-          "name": "⚽ New York Red Bulls vs New York City Fc | H2 - 90+6' 1 - 1 06:30 17/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/1602.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_New_York_City_FC_2025.svg/1280px-Logo_New_York_City_FC_2025.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1602.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-72bcd4a0221f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-72bcd4a0221f",
-                  "name": "New York Red Bulls vs New York City Fc",
-                  "streams": [
-                    {
-                      "id": "kaytee-72bcd4a0221f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a9baef3d7a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-0b61320d5e3f",
           "name": "⚽ San Jose Earthquakes vs Fc Dallas | Sắp diễn ra vs 09:30 17/05/2026",
@@ -666,6 +614,50 @@
                   "streams": [
                     {
                       "id": "kaytee-6adde8ac07df",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-65bf75150d1d",
+          "name": "⚽ Everton vs Sunderland | Sắp diễn ra vs 21:00 17/05/2026",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Everton_FC_logo.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/sco/7/77/Logo_Sunderland.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Everton_FC_logo.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-65bf75150d1d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-65bf75150d1d",
+                  "name": "Everton vs Sunderland",
+                  "streams": [
+                    {
+                      "id": "kaytee-65bf75150d1d",
                       "name": "F",
                       "stream_links": []
                     }
