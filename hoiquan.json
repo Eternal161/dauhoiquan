@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:30 17/05/2026",
+  "last_updated": "10:40 17/05/2026",
   "groups": [
     {
       "id": "live",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bf27c096df",
+                          "id": "lnk-172c8647b4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=010895692e12e82cc6f46a15-177898866199288&wsIPSercert=64d9f6a6a219ceb2da03ded052bc12ff&wsBindIP=2&wsserid=1172580915173420788"
+                          "url": "https://tfvy0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=fe882c23021ed5e2940a23fa-177898926132910&wsIPSercert=2b662e6f2f30b0ee8c2730cc209ca3d9&wsBindIP=2&wsserid=1168283323367736366"
                         },
                         {
-                          "id": "lnk-5efcd077ec",
+                          "id": "lnk-bd31e8b24c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
         },
         {
           "id": "kaytee-8f65aecd0cce",
-          "name": "⚽ V-Varen Nagasaki vs Vissel Kobe | Sắp diễn ra vs 11:00 17/05/2026",
+          "name": "⚽ V-Varen Nagasaki vs Vissel Kobe | Sắp bắt đầu - null' 0 - 0 11:00 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/285.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vissel_Kobe_logo.svg",
           "type": "single",
@@ -84,10 +84,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -102,7 +102,15 @@
                     {
                       "id": "kaytee-8f65aecd0cce",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-3de442177a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
