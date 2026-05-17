@@ -1,74 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:20 17/05/2026",
+  "last_updated": "16:30 17/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-c5a29b8168b9",
-          "name": "⚽ Jeju United Fc vs Fc Anyang | H2 - 90+3' 1 - 2 14:30 17/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/2761.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/lt/c/c9/FC_Anyang_logo.png?20190911143321",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2761.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c5a29b8168b9",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c5a29b8168b9",
-                  "name": "Jeju United Fc vs Fc Anyang",
-                  "streams": [
-                    {
-                      "id": "kaytee-c5a29b8168b9",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-23f8098fe5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=12a0e6a99ee8910a60f02bb3-177900964672435&wsIPSercert=07e45c20d5d723848f2f19edbe5e82c0&wsBindIP=2&wsserid=1172666162445578538"
-                        },
-                        {
-                          "id": "lnk-f7b45987a8",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-d3c8ed8e862d",
-          "name": "⚽ Jeonbuk Motors vs Gimcheon Sangmu Fc | H2 - 81' 0 - 0 14:40 17/05/2026",
+          "name": "⚽ Jeonbuk Motors vs Gimcheon Sangmu Fc | Live 0 - 0 14:40 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/2762.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2768.png",
           "type": "single",
@@ -104,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-678a3e59a0",
+                          "id": "lnk-db58af2e99",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=12a0e6a99ee8910a60f02bb3-177900965519632&wsIPSercert=07e45c20d5d723848f2f19edbe5e82c0&wsBindIP=2&wsserid=1172666162445578538"
+                          "url": "https://tfvy3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=12a0e6a99ee8910a60f02bb3-177901024898496&wsIPSercert=aed35e28719f1fea145d1fc6e4bdc7d7&wsBindIP=2&wsserid=1172666162445578538"
                         },
                         {
-                          "id": "lnk-ffa992e343",
+                          "id": "lnk-f77da0a32c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -215,7 +156,7 @@
         },
         {
           "id": "kaytee-bd81d38567dd",
-          "name": "⚽ Pisa vs Napoli | Sắp diễn ra vs 17:00 17/05/2026",
+          "name": "⚽ Pisa vs Napoli | Live 0 - 0 17:00 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Pisa_SC_crest.svg/250px-Pisa_SC_crest.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg",
           "type": "single",
@@ -231,10 +172,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -249,51 +190,22 @@
                     {
                       "id": "kaytee-bd81d38567dd",
                       "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-35fd5c8c7582",
-          "name": "⚽ Genoa vs Ac Milan | Sắp diễn ra vs 17:00 17/05/2026",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/4/4e/Genoa_cfc.png",
-          "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/4/4e/Genoa_cfc.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-35fd5c8c7582",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-35fd5c8c7582",
-                  "name": "Genoa vs Ac Milan",
-                  "streams": [
-                    {
-                      "id": "kaytee-35fd5c8c7582",
-                      "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-c2feb7a296",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvy3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=12a0e6a99ee8910a60f02bb3-177901027433147&wsIPSercert=aed35e28719f1fea145d1fc6e4bdc7d7&wsBindIP=2&wsserid=1172666162445578538"
+                        },
+                        {
+                          "id": "lnk-7fad87f463",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -688,6 +600,94 @@
                   "streams": [
                     {
                       "id": "kaytee-70d911826d39",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0ddbe9633c8e",
+          "name": "⚽ Atalanta vs Bologna | Sắp diễn ra vs 23:00 17/05/2026",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0ddbe9633c8e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0ddbe9633c8e",
+                  "name": "Atalanta vs Bologna",
+                  "streams": [
+                    {
+                      "id": "kaytee-0ddbe9633c8e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-56f2bb458a9e",
+          "name": "⚽ Newcastle vs West Ham | Sắp diễn ra vs 23:30 17/05/2026",
+          "logo_nha": "https://media.api-sports.io/football/teams/34.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1280px-West_Ham_United_FC_logo.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/34.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-56f2bb458a9e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-56f2bb458a9e",
+                  "name": "Newcastle vs West Ham",
+                  "streams": [
+                    {
+                      "id": "kaytee-56f2bb458a9e",
                       "name": "F",
                       "stream_links": []
                     }
