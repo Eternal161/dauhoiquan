@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "12:30 17/05/2026",
+  "last_updated": "12:40 17/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8f65aecd0cce",
-          "name": "⚽ V-Varen Nagasaki vs Vissel Kobe | Live 0 - 0 11:00 17/05/2026",
+          "name": "⚽ V-Varen Nagasaki vs Vissel Kobe | H2 - 77' 2 - 2 11:00 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/285.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vissel_Kobe_logo.svg",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-abeed63e72",
+                          "id": "lnk-f28be139dd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4d65f54b2ced7bd280e8ea77-177899585215579&wsIPSercert=0019b57ebac1ce7c4d20c834f69ea0b6&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfvy0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4d65f54b2ced7bd280e8ea77-177899645253404&wsIPSercert=95948ebc253c6763e79c8d250110419f&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-82ef15d10f",
+                          "id": "lnk-72b37187a0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
         },
         {
           "id": "kaytee-572520c35459",
-          "name": "⚽ Kyoto Sanga vs Sanfrecce Hiroshima | Sắp diễn ra vs 13:00 17/05/2026",
+          "name": "⚽ Kyoto Sanga vs Sanfrecce Hiroshima | Sắp bắt đầu - null' 0 - 0 13:00 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/302.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/a/ad/SanfrecceHiroshima.png",
           "type": "single",
@@ -84,10 +84,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -102,7 +102,15 @@
                     {
                       "id": "kaytee-572520c35459",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-ade7f34c2d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
