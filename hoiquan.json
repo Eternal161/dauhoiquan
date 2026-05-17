@@ -1,67 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:20 17/05/2026",
+  "last_updated": "21:30 17/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-87994c9975d6",
-          "name": "⚽ Cahn vs Thanh Hóa | H2 - 90+10' 2 - 0 19:15 17/05/2026",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-87994c9975d6",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-87994c9975d6",
-                  "name": "Cahn vs Thanh Hóa",
-                  "streams": [
-                    {
-                      "id": "kaytee-87994c9975d6",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a33e899f52",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-f8d68228d352",
-          "name": "⚽ Inter vs Hellas Verona | H2 - 55' 1 - 0 20:00 17/05/2026",
+          "name": "⚽ Inter vs Hellas Verona | H2 - 64' 1 - 0 20:00 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/505.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/it/9/92/Hellas_Verona_FC_logo_%282020%29.svg",
           "type": "single",
@@ -97,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9faf30f1e4",
+                          "id": "lnk-8dbb673692",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjsgyzdnct1fihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=b779b2c12d9eb553cd165b82-177902765670456&wsIPSercert=c3ebb198207dfdeb6e81ef2a99f65172&wsBindIP=2&wsserid=1168283407512358315"
+                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1p3pxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=aedd70980ff8f6b5ab8a1bf7-177902825247200&wsIPSercert=5cebd4f010676596ee59574cc46d4deb&wsBindIP=2&wsserid=1168243256648389538"
                         },
                         {
-                          "id": "lnk-078a711897",
+                          "id": "lnk-b3eb2e39c7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -120,7 +68,7 @@
         },
         {
           "id": "kaytee-a7427116be87",
-          "name": "⚽ Brentford vs Crystal Palace | H1 - 20' 0 - 1 21:00 17/05/2026",
+          "name": "⚽ Brentford vs Crystal Palace | H1 - 29' 0 - 1 21:00 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/thumb/2/2a/Brentford_FC_crest.svg/1280px-Brentford_FC_crest.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png",
           "type": "single",
@@ -156,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-eb20aca10c",
+                          "id": "lnk-fc000e6a8d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=6e1279e156ce1898ee876f29-177902766493239&wsIPSercert=c3ebb198207dfdeb6e81ef2a99f65172&wsBindIP=2&wsserid=1168140817803879397"
+                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=db98c80219ad4c36840f2c02-177902826174191&wsIPSercert=5cebd4f010676596ee59574cc46d4deb&wsBindIP=2&wsserid=1168243343870168317"
                         },
                         {
-                          "id": "lnk-e2c8a41840",
+                          "id": "lnk-c9034ada1c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -179,7 +127,7 @@
         },
         {
           "id": "kaytee-c01a0ea93ee5",
-          "name": "⚽ Everton vs Sunderland | H1 - 20' 0 - 0 21:00 17/05/2026",
+          "name": "⚽ Everton vs Sunderland | H1 - 29' 0 - 0 21:00 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Everton_FC_logo.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/sco/7/77/Logo_Sunderland.svg",
           "type": "single",
@@ -215,14 +163,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5adbaf60d7",
+                          "id": "lnk-e82dee7436",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=7f81183aa1d540da1c3fc7f7-177902767339899&wsIPSercert=c3ebb198207dfdeb6e81ef2a99f65172&wsBindIP=2&wsserid=1168140848410257976"
+                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=aedd70980ff8f6b5ab8a1bf7-177902826935966&wsIPSercert=5cebd4f010676596ee59574cc46d4deb&wsBindIP=2&wsserid=1168243256667264290"
                         },
                         {
-                          "id": "lnk-84e2a92542",
+                          "id": "lnk-8ef608b49e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -238,7 +186,7 @@
         },
         {
           "id": "kaytee-d9c15ec537b0",
-          "name": "⚽ Leeds vs Brighton | H1 - 20' 0 - 0 21:00 17/05/2026",
+          "name": "⚽ Leeds vs Brighton | H1 - 29' 0 - 0 21:00 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/63.png",
           "logo_khach": "https://media.api-sports.io/football/teams/51.png",
           "type": "single",
@@ -274,14 +222,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-78e0ae0675",
+                          "id": "lnk-04a03c23d1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7f81183aa1d540da1c3fc7f7-177902768236416&wsIPSercert=c3ebb198207dfdeb6e81ef2a99f65172&wsBindIP=2&wsserid=1168140848410257976"
+                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=66a69cb18c47415edf9d2743-177902827805545&wsIPSercert=5cebd4f010676596ee59574cc46d4deb&wsBindIP=2&wsserid=1168243256664118498"
                         },
                         {
-                          "id": "lnk-e1a9942ec9",
+                          "id": "lnk-fbbca28823",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -297,7 +245,7 @@
         },
         {
           "id": "kaytee-22590504fee5",
-          "name": "⚽ Wolves vs Fulham | H1 - 20' 0 - 0 21:00 17/05/2026",
+          "name": "⚽ Wolves vs Fulham | H1 - 30' 1 - 0 21:00 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/6/6c/Wolverhampton_Wanderers.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/8/8d/Fulham_FC.png",
           "type": "single",
@@ -333,14 +281,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3ad4477b46",
+                          "id": "lnk-8401bd0436",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=e73d46884c09585b6c81760a-177902769040239&wsIPSercert=c3ebb198207dfdeb6e81ef2a99f65172&wsBindIP=2&wsserid=1168140817791296288"
+                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=db98c80219ad4c36840f2c02-177902828635750&wsIPSercert=5cebd4f010676596ee59574cc46d4deb&wsBindIP=2&wsserid=1168243343870168317"
                         },
                         {
-                          "id": "lnk-61f91f7c47",
+                          "id": "lnk-8749d3e21d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -356,7 +304,7 @@
         },
         {
           "id": "kaytee-70d911826d39",
-          "name": "⚽ Santos vs Coritiba | H1 - 16' 0 - 1 21:00 17/05/2026",
+          "name": "⚽ Santos vs Coritiba | H1 - 25' 0 - 2 21:00 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/128.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coritiba_Foot_Ball_Club_logo.svg/500px-Coritiba_Foot_Ball_Club_logo.svg.png",
           "type": "single",
@@ -392,14 +340,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-70a94b924a",
+                          "id": "lnk-08c2bbe2fa",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=b897078035d8e4cd82a99de7-177902769912615&wsIPSercert=c3ebb198207dfdeb6e81ef2a99f65172&wsBindIP=2&wsserid=1168140848411308775"
+                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c7939c09a5da15466b83a949-177902829499143&wsIPSercert=5cebd4f010676596ee59574cc46d4deb&wsBindIP=2&wsserid=1168243343860730937"
                         },
                         {
-                          "id": "lnk-bac965702f",
+                          "id": "lnk-59acc26af3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -536,6 +484,50 @@
                   "streams": [
                     {
                       "id": "kaytee-00e9b30f8e5b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a39ec475bb9a",
+          "name": "⚽ Athletic Club vs Celta Vigo | Sắp diễn ra vs 00:00 18/05/2026",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/538.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a39ec475bb9a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a39ec475bb9a",
+                  "name": "Athletic Club vs Celta Vigo",
+                  "streams": [
+                    {
+                      "id": "kaytee-a39ec475bb9a",
                       "name": "F",
                       "stream_links": []
                     }
