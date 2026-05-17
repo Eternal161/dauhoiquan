@@ -1,192 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:50 18/05/2026",
+  "last_updated": "04:00 18/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-443980dfecc4",
-          "name": "⚽ Paris Fc vs Paris Saint Germain | H2 - 90+3' 1 - 1 02:00 18/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/114.png",
-          "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/114.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-443980dfecc4",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-443980dfecc4",
-                  "name": "Paris Fc vs Paris Saint Germain",
-                  "streams": [
-                    {
-                      "id": "kaytee-443980dfecc4",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-16d34086c4",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177905104846496&wsIPSercert=6eff5e805e46fb5b9afaf5a7d37a3339&wsBindIP=2&wsserid=1168202333418134578"
-                        },
-                        {
-                          "id": "lnk-e2165393ec",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-33a6e6558f0d",
-          "name": "⚽ Marseille vs Rennes | H2 - 90+2' 3 - 1 02:00 18/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/81.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/a/ad/Stade_Rennais_FC.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/81.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-33a6e6558f0d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-33a6e6558f0d",
-                  "name": "Marseille vs Rennes",
-                  "streams": [
-                    {
-                      "id": "kaytee-33a6e6558f0d",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-234699496a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=08a97592fcdc472fa413e2d6-177905105664444&wsIPSercert=6eff5e805e46fb5b9afaf5a7d37a3339&wsBindIP=2&wsserid=1168202333420231774"
-                        },
-                        {
-                          "id": "lnk-dab38dd8e1",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-bc6366f628f0",
-          "name": "⚽ Lyon vs Lens | H2 - 88' 0 - 4 02:00 18/05/2026",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/9/93/Olympique_Lyonnais.png",
-          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6LsST7Td6rAqdSTMI4TlH_4DWNs7BOqgZQ&s",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/9/93/Olympique_Lyonnais.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-bc6366f628f0",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-bc6366f628f0",
-                  "name": "Lyon vs Lens",
-                  "streams": [
-                    {
-                      "id": "kaytee-bc6366f628f0",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e675082a97",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177905106541650&wsIPSercert=6eff5e805e46fb5b9afaf5a7d37a3339&wsBindIP=2&wsserid=1168202333418134578"
-                        },
-                        {
-                          "id": "lnk-018c50b44b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-545ea6ad56b6",
-          "name": "⚽ Barcelona vs Real Betis | H2 - 73' 2 - 1 02:15 18/05/2026",
+          "name": "⚽ Barcelona vs Real Betis | H2 - 83' 3 - 1 02:15 18/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/fr/1/13/Real_betis_logo.svg",
           "type": "single",
@@ -222,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c0d96463cd",
+                          "id": "lnk-da80bb0eab",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177905107366596&wsIPSercert=6eff5e805e46fb5b9afaf5a7d37a3339&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177905165821582&wsIPSercert=495531e3a8c9be83e07fd78183045d6a&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-4a469e9876",
+                          "id": "lnk-8a6c860132",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -498,6 +321,138 @@
                   "streams": [
                     {
                       "id": "kaytee-6a9621378ced",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-bf3d7e351048",
+          "name": "⚽ Lahti vs Vps | Sắp diễn ra vs 22:00 18/05/2026",
+          "logo_nha": "https://media.api-sports.io/football/teams/1166.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/650.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1166.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bf3d7e351048",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bf3d7e351048",
+                  "name": "Lahti vs Vps",
+                  "streams": [
+                    {
+                      "id": "kaytee-bf3d7e351048",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-71cb90813e34",
+          "name": "⚽ Afc Hermannstadt vs Fcsb | Sắp diễn ra vs 00:30 19/05/2026",
+          "logo_nha": "https://media.api-sports.io/football/teams/2579.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/7/78/Fcsb-logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2579.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-71cb90813e34",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-71cb90813e34",
+                  "name": "Afc Hermannstadt vs Fcsb",
+                  "streams": [
+                    {
+                      "id": "kaytee-71cb90813e34",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-97a2ac14c5f6",
+          "name": "⚽ Leganes vs Huesca | Sắp diễn ra vs 01:30 19/05/2026",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvyGdww4kYwjfOM2mGp372JjjT0bOqLABkKg&s",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Logo_of_SD_Huesca.svg/1280px-Logo_of_SD_Huesca.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvyGdww4kYwjfOM2mGp372JjjT0bOqLABkKg&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-97a2ac14c5f6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-97a2ac14c5f6",
+                  "name": "Leganes vs Huesca",
+                  "streams": [
+                    {
+                      "id": "kaytee-97a2ac14c5f6",
                       "name": "F",
                       "stream_links": []
                     }
