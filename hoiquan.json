@@ -1,74 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:20 17/05/2026",
+  "last_updated": "20:30 17/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-84b1f7b65642",
-          "name": "⚽ Manchester United vs Nottingham Forest | H2 - 90+2' 3 - 2 18:30 17/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/33.png",
-          "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/33.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-84b1f7b65642",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-84b1f7b65642",
-                  "name": "Manchester United vs Nottingham Forest",
-                  "streams": [
-                    {
-                      "id": "kaytee-84b1f7b65642",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fd83b960c3",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c438ac6decda89126df978ec-177902405145121&wsIPSercert=a61dc74c8e1e561026faead2dd1e5b8e&wsBindIP=2&wsserid=1168243256651535330"
-                        },
-                        {
-                          "id": "lnk-dc53655992",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-87994c9975d6",
-          "name": "⚽ Cahn vs Thanh Hóa | Giữa Hiệp - 45+4' 0 - 0 19:15 17/05/2026",
+          "name": "⚽ Cahn vs Thanh Hóa | H2 - 55' 0 - 0 19:15 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png",
           "type": "single",
@@ -104,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a64a67b10a",
+                          "id": "lnk-9170fd4a7b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=c438ac6decda89126df978ec-177902405996543&wsIPSercert=a61dc74c8e1e561026faead2dd1e5b8e&wsBindIP=2&wsserid=1168243256651535330"
+                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177902465153457&wsIPSercert=c84b7798519dd3cf4f1c78d8f41d310a&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-335fede633",
+                          "id": "lnk-1be1ff03b2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -127,7 +68,7 @@
         },
         {
           "id": "kaytee-f8d68228d352",
-          "name": "⚽ Inter vs Hellas Verona | H1 - 17' 0 - 0 20:00 17/05/2026",
+          "name": "⚽ Inter vs Hellas Verona | H1 - 26' 0 - 0 20:00 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/505.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/it/9/92/Hellas_Verona_FC_logo_%282020%29.svg",
           "type": "single",
@@ -163,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a70b7589e0",
+                          "id": "lnk-557d11a100",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1qbpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=7b5ae66679f825c9d3872358-177902406892766&wsIPSercert=a61dc74c8e1e561026faead2dd1e5b8e&wsBindIP=2&wsserid=1168243256598056876"
+                          "url": "https://tfvy1gr4uqmtt8y41hcjwgwzdocjpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177902466007854&wsIPSercert=c84b7798519dd3cf4f1c78d8f41d310a&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-df3f0e3eec",
+                          "id": "lnk-f290c33d21",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -274,7 +215,7 @@
         },
         {
           "id": "kaytee-d9c15ec537b0",
-          "name": "⚽ Leeds vs Brighton | Sắp diễn ra vs 21:00 17/05/2026",
+          "name": "⚽ Leeds vs Brighton | Sắp bắt đầu - null' 0 - 0 21:00 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/63.png",
           "logo_khach": "https://media.api-sports.io/football/teams/51.png",
           "type": "single",
@@ -290,10 +231,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -308,7 +249,22 @@
                     {
                       "id": "kaytee-d9c15ec537b0",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-6a52fb1c6b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177902468518666&wsIPSercert=c84b7798519dd3cf4f1c78d8f41d310a&wsBindIP=2&wsserid=1168202333418134578"
+                        },
+                        {
+                          "id": "lnk-4a1431865c",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -318,7 +274,7 @@
         },
         {
           "id": "kaytee-22590504fee5",
-          "name": "⚽ Wolves vs Fulham | Sắp diễn ra vs 21:00 17/05/2026",
+          "name": "⚽ Wolves vs Fulham | Sắp bắt đầu - null' 0 - 0 21:00 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/6/6c/Wolverhampton_Wanderers.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/8/8d/Fulham_FC.png",
           "type": "single",
@@ -334,10 +290,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -352,7 +308,22 @@
                     {
                       "id": "kaytee-22590504fee5",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-d7808605ec",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=08a97592fcdc472fa413e2d6-177902469404086&wsIPSercert=c84b7798519dd3cf4f1c78d8f41d310a&wsBindIP=2&wsserid=1168202333420231774"
+                        },
+                        {
+                          "id": "lnk-c54ceeea8f",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -483,6 +454,50 @@
                   "streams": [
                     {
                       "id": "kaytee-56f2bb458a9e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-00e9b30f8e5b",
+          "name": "⚽ Atletico Madrid vs Girona | Sắp diễn ra vs 00:00 18/05/2026",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg",
+          "logo_khach": "https://www.pngmart.com/files/22/Girona-FC-PNG-HD.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-00e9b30f8e5b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-00e9b30f8e5b",
+                  "name": "Atletico Madrid vs Girona",
+                  "streams": [
+                    {
+                      "id": "kaytee-00e9b30f8e5b",
                       "name": "F",
                       "stream_links": []
                     }
