@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:20 17/05/2026",
+  "last_updated": "23:30 17/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-bae192f6d149",
-          "name": "⚽ Atalanta vs Bologna | H1 - 20' 0 - 0 23:00 17/05/2026",
+          "name": "⚽ Atalanta vs Bologna | H1 - 30' 0 - 0 23:00 17/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-51475c2ffc",
+                          "id": "lnk-c875a19834",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177903485355786&wsIPSercert=11a899e4f4ea80bd588e20d754621bde&wsBindIP=2&wsserid=1172580915182858196"
+                          "url": "https://tfvy1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd62835041fe49ebfc13d2bc-177903545487473&wsIPSercert=cf78c8f72ad31ebc2ba091d8eba1f0c1&wsBindIP=2&wsserid=1168282035622980969"
                         },
                         {
-                          "id": "lnk-288260cc3a",
+                          "id": "lnk-4d2459b8aa",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -104,10 +104,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d029b4a5f4",
+                          "id": "lnk-f4dd1ff72e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfvy1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=a072ae36b41a346fd194c763-177903546327759&wsIPSercert=cf78c8f72ad31ebc2ba091d8eba1f0c1&wsBindIP=2&wsserid=1168278313568844709"
+                        },
+                        {
+                          "id": "lnk-1218c6a7e5",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8"
                         }
                       ]
@@ -156,14 +163,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-dae1845ef4",
+                          "id": "lnk-9b16f361ca",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=0e320b8560fa50aad43019c0-177903486993088&wsIPSercert=11a899e4f4ea80bd588e20d754621bde&wsBindIP=2&wsserid=1172580915177615204"
+                          "url": "https://tfvy1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=fd62835041fe49ebfc13d2bc-177903547193183&wsIPSercert=cf78c8f72ad31ebc2ba091d8eba1f0c1&wsBindIP=2&wsserid=1168282035622980969"
                         },
                         {
-                          "id": "lnk-8ab7fa978c",
+                          "id": "lnk-7f05affb4d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -259,14 +266,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8575d72537",
+                          "id": "lnk-fdb6f8ecd4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=272d7e9fbf964c466e88e3f0-177903488673736&wsIPSercert=11a899e4f4ea80bd588e20d754621bde&wsBindIP=2&wsserid=1172580915180761012"
+                          "url": "https://tfvy1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=a072ae36b41a346fd194c763-177903548865462&wsIPSercert=cf78c8f72ad31ebc2ba091d8eba1f0c1&wsBindIP=2&wsserid=1168278313568844709"
                         },
                         {
-                          "id": "lnk-96e2ea0482",
+                          "id": "lnk-20e990d4b9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -281,8 +288,8 @@
           ]
         },
         {
-          "id": "kaytee-b7d257657c27",
-          "name": "⚽ Real Sociedad vs Valencia | Sắp diễn ra vs 00:00 18/05/2026",
+          "id": "kaytee-39cba5b15fb9",
+          "name": "⚽ Real Sociedad vs Valencia | Sắp bắt đầu - null' 0 - 0 00:00 18/05/2026",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCqksyaudrnPerqAK70Wf34Xo-WN_BSmSsQg&s",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/f/fe/Valenciacf.png",
           "type": "single",
@@ -298,25 +305,40 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
             {
-              "id": "kaytee-b7d257657c27",
+              "id": "kaytee-39cba5b15fb9",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-b7d257657c27",
+                  "id": "kaytee-39cba5b15fb9",
                   "name": "Real Sociedad vs Valencia",
                   "streams": [
                     {
-                      "id": "kaytee-b7d257657c27",
+                      "id": "kaytee-39cba5b15fb9",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-1c2515d356",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvy1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=dbd8f789bb7a7a2508c32238-177903549690417&wsIPSercert=cf78c8f72ad31ebc2ba091d8eba1f0c1&wsBindIP=2&wsserid=1168278313570948617"
+                        },
+                        {
+                          "id": "lnk-2916bcfb17",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
