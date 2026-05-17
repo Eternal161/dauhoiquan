@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:20 17/05/2026",
+  "last_updated": "11:30 17/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-0b61320d5e3f",
-          "name": "⚽ San Jose Earthquakes vs Fc Dallas | H2 - 81' 1 - 2 09:30 17/05/2026",
+          "name": "⚽ San Jose Earthquakes vs Fc Dallas | H2 - 90+1' 2 - 2 09:30 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/1596.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Dallas_logo.svg/250px-FC_Dallas_logo.svg.png",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2ef642c0a2",
+                          "id": "lnk-813b6ba1d9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=66a69cb18c47415edf9d2743-177899164594592&wsIPSercert=47f42930bf1e8b5c45b317909baae1f7&wsBindIP=2&wsserid=1168243256664118498"
+                          "url": "https://tfvy3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=4d65f54b2ced7bd280e8ea77-177899224913091&wsIPSercert=c5767036dae88f9c27d5a8ee76b2dd98&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-83dcce23c8",
+                          "id": "lnk-4ea9432d6a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
         },
         {
           "id": "kaytee-8f65aecd0cce",
-          "name": "⚽ V-Varen Nagasaki vs Vissel Kobe | H1 - 16' 0 - 0 11:00 17/05/2026",
+          "name": "⚽ V-Varen Nagasaki vs Vissel Kobe | H1 - 26' 1 - 0 11:00 17/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/285.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vissel_Kobe_logo.svg",
           "type": "single",
@@ -104,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-538b008827",
+                          "id": "lnk-a1ce97caa3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=aedd70980ff8f6b5ab8a1bf7-177899165436271&wsIPSercert=47f42930bf1e8b5c45b317909baae1f7&wsBindIP=2&wsserid=1168243256667264290"
+                          "url": "https://tfvy3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4d65f54b2ced7bd280e8ea77-177899225769924&wsIPSercert=c5767036dae88f9c27d5a8ee76b2dd98&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-63087b9a1f",
+                          "id": "lnk-fba337539b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
