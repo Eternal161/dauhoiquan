@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:40 19/05/2026",
+  "last_updated": "03:50 19/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-959fd58428fe",
-          "name": "⚽ Arsenal vs Burnley | H2 - 83' 1 - 0 02:00 19/05/2026",
+          "name": "⚽ Arsenal vs Burnley | H2 - 90+2' 1 - 0 02:00 19/05/2026",
           "tournament": "Premier League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/1/1a/Burnley_FC.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-85202a1883",
+                          "id": "lnk-ffc0b0c41e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvz1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177913685846546&wsIPSercert=a135bbd4d4897edb449f5f69bf94dda4&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfvz1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177913745086616&wsIPSercert=a8b7b9bd14ad2de243b3f932dbf95662&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-33db6a9c0f",
+                          "id": "lnk-ab9b2fe726",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
