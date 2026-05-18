@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:21 19/05/2026",
+  "last_updated": "03:30 19/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-97a2ac14c5f6",
-          "name": "⚽ Leganes vs Huesca | H2 - 90+5' 0 - 0 01:30 19/05/2026",
-          "tournament": "Segunda División",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvyGdww4kYwjfOM2mGp372JjjT0bOqLABkKg&s",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Logo_of_SD_Huesca.svg/1280px-Logo_of_SD_Huesca.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvyGdww4kYwjfOM2mGp372JjjT0bOqLABkKg&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-97a2ac14c5f6",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-97a2ac14c5f6",
-                  "name": "Leganes vs Huesca",
-                  "streams": [
-                    {
-                      "id": "kaytee-97a2ac14c5f6",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-14e573d933",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvz1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177913567676895&wsIPSercert=6e9f5955b1d6bda44e30709a50126ec2&wsBindIP=2&wsserid=1168176581104105640"
-                        },
-                        {
-                          "id": "lnk-2dbabaf9e7",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-959fd58428fe",
-          "name": "⚽ Arsenal vs Burnley | H2 - 63' 1 - 0 02:00 19/05/2026",
+          "name": "⚽ Arsenal vs Burnley | H2 - 73' 1 - 0 02:00 19/05/2026",
           "tournament": "Premier League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/1/1a/Burnley_FC.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c69c7382b2",
+                          "id": "lnk-95113cf4f6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvz1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177913568521733&wsIPSercert=6e9f5955b1d6bda44e30709a50126ec2&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfvz1gr3uomttgr31hcj18yzd1qjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c64df1c71d29b3ceca58227b-177913626567632&wsIPSercert=5f3ee6097584f7dc881127d5f02f2381&wsBindIP=2&wsserid=1168243256638952174"
                         },
                         {
-                          "id": "lnk-f5c9d67e65",
+                          "id": "lnk-d7b1f49dd1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-83b9ea557026",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-dfe3bc1e60c6",
+          "name": "⚽ China Pr U17 vs Australia U17 | Sắp diễn ra vs 01:30 20/05/2026",
+          "tournament": "AFC U17 Asian Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/21449.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/19076.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/21449.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-dfe3bc1e60c6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-dfe3bc1e60c6",
+                  "name": "China Pr U17 vs Australia U17",
+                  "streams": [
+                    {
+                      "id": "kaytee-dfe3bc1e60c6",
                       "name": "F",
                       "stream_links": []
                     }
