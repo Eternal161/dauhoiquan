@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:20 19/05/2026",
+  "last_updated": "00:30 19/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-71cb90813e34",
-          "name": "⚽ Afc Hermannstadt vs Fcsb | Sắp bắt đầu - null' 0 - 0 00:30 19/05/2026",
-          "tournament": "Liga I",
-          "logo_nha": "https://media.api-sports.io/football/teams/2579.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/7/78/Fcsb-logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2579.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-71cb90813e34",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-71cb90813e34",
-                  "name": "Afc Hermannstadt vs Fcsb",
-                  "streams": [
-                    {
-                      "id": "kaytee-71cb90813e34",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1ff21bb38f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvz1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c3b425deceb9418dcbd56e1b-177912486348062&wsIPSercert=9d79112a378cb26fed2303e001780b58&wsBindIP=2&wsserid=1168243256613785902"
-                        },
-                        {
-                          "id": "lnk-3a7d4a18fe",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-97a2ac14c5f6",
           "name": "⚽ Leganes vs Huesca | Sắp diễn ra vs 01:30 19/05/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-4e22ebfa3bd2",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-83b9ea557026",
+          "name": "⚽ Bournemouth vs Manchester City | Sắp diễn ra vs 01:30 20/05/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-83b9ea557026",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-83b9ea557026",
+                  "name": "Bournemouth vs Manchester City",
+                  "streams": [
+                    {
+                      "id": "kaytee-83b9ea557026",
                       "name": "F",
                       "stream_links": []
                     }
