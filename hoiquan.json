@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:30 19/05/2026",
+  "last_updated": "06:40 19/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-994827175f62",
-          "name": "⚽ Guayaquil City Fc vs Orense Sc | Sắp diễn ra vs 07:00 19/05/2026",
+          "name": "⚽ Guayaquil City Fc vs Orense Sc | Sắp bắt đầu - null' 0 - 0 07:00 19/05/2026",
           "tournament": "Liga Pro",
           "logo_nha": "https://media.api-sports.io/football/teams/1159.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1992.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-994827175f62",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-af0cb1c846",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvz0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=a892446647eff012ef984b15-177914765056900&wsIPSercert=055adb04730b9eda0fc7c2c32f02d031&wsBindIP=2&wsserid=1168283476093891044"
+                        },
+                        {
+                          "id": "lnk-4045aeb670",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
