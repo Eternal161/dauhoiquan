@@ -1,74 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:10 18/05/2026",
+  "last_updated": "07:20 18/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-33a69974fc96",
-          "name": "⚽ Inter Miami vs Portland Timbers | H2 - 90+5' 2 - 0 05:00 18/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/9568.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Portland_Timbers_logo.svg/250px-Portland_Timbers_logo.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/9568.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-33a69974fc96",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-33a69974fc96",
-                  "name": "Inter Miami vs Portland Timbers",
-                  "streams": [
-                    {
-                      "id": "kaytee-33a69974fc96",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d97d7614c6",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvz0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=795ceebdad1d160b17924ec6-177906306091455&wsIPSercert=ba21620ba0e84586989a2311bb6069c8&wsBindIP=2&wsserid=1168283319001564024"
-                        },
-                        {
-                          "id": "lnk-9246eefb8d",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-1b5ee08b5cf5",
-          "name": "⚽ Atletico Paranaense vs Flamengo | H2 - 77' 1 - 0 05:30 18/05/2026",
+          "name": "⚽ Atletico Paranaense vs Flamengo | H2 - 87' 1 - 1 05:30 18/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/134.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
           "type": "single",
@@ -104,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2061471b84",
+                          "id": "lnk-5d21680221",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvz0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=a892446647eff012ef984b15-177906306938919&wsIPSercert=ba21620ba0e84586989a2311bb6069c8&wsBindIP=2&wsserid=1168283476093891044"
+                          "url": "https://tfvz1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-177906365119119&wsIPSercert=18b8837a85ef4518e4da05602fa0d627&wsBindIP=2&wsserid=1168282035663924028"
                         },
                         {
-                          "id": "lnk-c4ad75964d",
+                          "id": "lnk-6e1f9678b7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -127,7 +68,7 @@
         },
         {
           "id": "kaytee-a00844e10a07",
-          "name": "⚽ Nashville Sc vs Los Angeles Fc | Sắp bắt đầu - null' 0 - 0 07:00 18/05/2026",
+          "name": "⚽ Nashville Sc vs Los Angeles Fc | H1 - 8' 0 - 0 07:00 18/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nashville_SC_logo%2C_2020.svg/250px-Nashville_SC_logo%2C_2020.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/8/86/Los_Angeles_Football_Club.svg",
           "type": "single",
@@ -163,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6d9240b27d",
+                          "id": "lnk-8e02de1e45",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvz0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=a892446647eff012ef984b15-177906307793997&wsIPSercert=ba21620ba0e84586989a2311bb6069c8&wsBindIP=2&wsserid=1168283476093891044"
+                          "url": "https://tfvz1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd62835041fe49ebfc13d2bc-177906365954580&wsIPSercert=18b8837a85ef4518e4da05602fa0d627&wsBindIP=2&wsserid=1168282035622980969"
                         },
                         {
-                          "id": "lnk-64a9b3edc3",
+                          "id": "lnk-a5a37bac13",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -483,6 +424,50 @@
                   "streams": [
                     {
                       "id": "kaytee-959fd58428fe",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-994827175f62",
+          "name": "⚽ Guayaquil City Fc vs Orense Sc | Sắp diễn ra vs 07:00 19/05/2026",
+          "logo_nha": "https://media.api-sports.io/football/teams/1159.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1992.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1159.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-994827175f62",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-994827175f62",
+                  "name": "Guayaquil City Fc vs Orense Sc",
+                  "streams": [
+                    {
+                      "id": "kaytee-994827175f62",
                       "name": "F",
                       "stream_links": []
                     }
