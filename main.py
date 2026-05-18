@@ -109,7 +109,10 @@ JS_EXTRACT = """
 
         const isLive = /live|trực tiếp|đang phát/.test(clean(a.innerText).toLowerCase());
 
-        results.push({ href, home, away, timeStr, isLive, league, homeLogo, awayLogo });
+        let spans = a.querySelectorAll('span.text-xs.font-normal'); // TÌM TÊN GIẢI
+        let tournament = spans.length > 0 ? spans[0].innerText.trim() : '';
+
+        results.push({ href, home, away, timeStr, homeLogo, awayLogo, tournament });
     }
     return results;
 }
