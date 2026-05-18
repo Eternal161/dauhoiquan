@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:40 18/05/2026",
+  "last_updated": "20:50 18/05/2026",
   "groups": [
     {
       "id": "live",
@@ -46,65 +46,20 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0314496de5",
+                          "id": "lnk-e2402ee9a8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvz1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177911166286226&wsIPSercert=26abb85d83c71994c7e9888454b3ac01&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfvz1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=015f882d6bf28108fca60425-177911225972194&wsIPSercert=f0f2affa966bf5802f7907bcf2cd9257&wsBindIP=2&wsserid=1168214263213094505"
                         },
                         {
-                          "id": "lnk-bc6fc4b841",
+                          "id": "lnk-356d85d419",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
                         }
                       ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-bf3d7e351048",
-          "name": "⚽ Lahti vs Vps | Sắp diễn ra vs 22:00 18/05/2026",
-          "tournament": "Veikkausliiga",
-          "logo_nha": "https://media.api-sports.io/football/teams/1166.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/650.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1166.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-bf3d7e351048",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-bf3d7e351048",
-                  "name": "Lahti vs Vps",
-                  "streams": [
-                    {
-                      "id": "kaytee-bf3d7e351048",
-                      "name": "F",
-                      "stream_links": []
                     }
                   ]
                 }
@@ -463,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-2cd13999aa35",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b14785294ddb",
+          "name": "⚽ Fc Noah vs Ararat | Sắp diễn ra vs 22:00 19/05/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072024/noa_erevan_armeniya.jpg?uY.4iyP71.IUrYKW4zofa.9TrGE4PAdC&itok=2IIKrnfc",
+          "logo_khach": "https://media.api-sports.io/football/teams/3682.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072024/noa_erevan_armeniya.jpg?uY.4iyP71.IUrYKW4zofa.9TrGE4PAdC&itok=2IIKrnfc",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b14785294ddb",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b14785294ddb",
+                  "name": "Fc Noah vs Ararat",
+                  "streams": [
+                    {
+                      "id": "kaytee-b14785294ddb",
                       "name": "F",
                       "stream_links": []
                     }
