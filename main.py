@@ -169,6 +169,7 @@ def build_channel(m, stream_urls):
 
     return {
         "id": cid, "name": display_name, 
+        "tournament": m.get("tournament", ""),
         "logo_nha": get_final_logo(home, m.get('homeLogo')), 
         "logo_khach": get_final_logo(away, m.get('awayLogo')),
         "type": "single", "display": "thumbnail-only", "enable_detail": False,
