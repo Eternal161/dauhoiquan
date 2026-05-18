@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:31 19/05/2026",
+  "last_updated": "01:40 19/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-97a2ac14c5f6",
-          "name": "⚽ Leganes vs Huesca | H1 - 1' 0 - 0 01:30 19/05/2026",
+          "name": "⚽ Leganes vs Huesca | H1 - 10' 0 - 0 01:30 19/05/2026",
           "tournament": "Segunda División",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvyGdww4kYwjfOM2mGp372JjjT0bOqLABkKg&s",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Logo_of_SD_Huesca.svg/1280px-Logo_of_SD_Huesca.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6a5ef123a2",
+                          "id": "lnk-6c7de91c19",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvz1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177912907708828&wsIPSercert=2b023ac550f1c26b4e7307d8e153be2c&wsBindIP=2&wsserid=1172580915182858196"
+                          "url": "https://tfvz1gr3uomttgr31hcji8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=4faa155c6f8ede14820b76cc-177912965444544&wsIPSercert=130e29d495c8c79a00503aea096cfe09&wsBindIP=2&wsserid=1172665343356714795"
                         },
                         {
-                          "id": "lnk-8796398cb3",
+                          "id": "lnk-542bb7bcb4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-959fd58428fe",
-          "name": "⚽ Arsenal vs Burnley | Sắp diễn ra vs 02:00 19/05/2026",
+          "name": "⚽ Arsenal vs Burnley | Sắp bắt đầu - null' 0 - 0 02:00 19/05/2026",
           "tournament": "Premier League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/1/1a/Burnley_FC.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-959fd58428fe",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-c55cdcdfa0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvz1gr3uomttgr31hcji8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f3cce5b32309e5eab28c3924-177912966269659&wsIPSercert=130e29d495c8c79a00503aea096cfe09&wsBindIP=2&wsserid=1172665350473402856"
+                        },
+                        {
+                          "id": "lnk-90a0ca2fcc",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
