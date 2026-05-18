@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:40 18/05/2026",
+  "last_updated": "18:50 18/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b4a400b0525b",
-          "name": "⚽ Zorya Luhansk vs Polessya | H2 - 80' 0 - 0 17:00 18/05/2026",
+          "name": "⚽ Zorya Luhansk vs Polessya | H2 - 90' 0 - 0 17:00 18/05/2026",
           "tournament": "VĐQG Ukraine",
           "logo_nha": "https://media.api-sports.io/football/teams/599.png",
           "logo_khach": "https://media.api-sports.io/football/teams/6496.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d9e1c072a9",
+                          "id": "lnk-28ef3a2b8f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvz1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=521434b958cd5e0faa34af5b-177910446153230&wsIPSercert=170cfa1bc55787a1fd6b005ca8a0a772&wsBindIP=2&wsserid=1168214359410203488"
+                          "url": "https://tfvz0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=e1a561d1e5fa9b11e4dd3219-177910505297419&wsIPSercert=0bfc16ef0a0b5c068e6bf3bf77e68211&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-3c78983410",
+                          "id": "lnk-37a18405f3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
