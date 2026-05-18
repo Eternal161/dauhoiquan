@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:20 19/05/2026",
+  "last_updated": "02:30 19/05/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-154793fb2e",
+                          "id": "lnk-da851a03a8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvz4gchnhcjo8rzdrpjtfahn44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=6fbd460e8fcb23821e8a5628-177913206293189&wsIPSercert=1438a4ddc23a001661145e717cdfc960&wsBindIP=2&wsserid=1168168154459896377"
+                          "url": "https://tfvz1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=c438ac6decda89126df978ec-177913266755281&wsIPSercert=9bc2aa8e88a4dba68766bf81a7772524&wsBindIP=2&wsserid=1168243256651535330"
                         },
                         {
-                          "id": "lnk-33ed21b0d8",
+                          "id": "lnk-fa7ce6fa08",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-959fd58428fe",
-          "name": "⚽ Arsenal vs Burnley | H1 - 21' 0 - 0 02:00 19/05/2026",
+          "name": "⚽ Arsenal vs Burnley | H1 - 30' 0 - 0 02:00 19/05/2026",
           "tournament": "Premier League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/1/1a/Burnley_FC.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7200a54c85",
+                          "id": "lnk-4b20de3322",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvz4gchnhcjo8rzdrpjtfahn44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=6fbd460e8fcb23821e8a5628-177913207125329&wsIPSercert=1438a4ddc23a001661145e717cdfc960&wsBindIP=2&wsserid=1168168154459896377"
+                          "url": "https://tfvz1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c438ac6decda89126df978ec-177913267570427&wsIPSercert=9bc2aa8e88a4dba68766bf81a7772524&wsBindIP=2&wsserid=1168243256651535330"
                         },
                         {
-                          "id": "lnk-0b6e69e3cb",
+                          "id": "lnk-eb0b5130cd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
