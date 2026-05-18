@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:20 19/05/2026",
+  "last_updated": "01:31 19/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-97a2ac14c5f6",
-          "name": "⚽ Leganes vs Huesca | Sắp bắt đầu - null' 0 - 0 01:30 19/05/2026",
+          "name": "⚽ Leganes vs Huesca | H1 - 1' 0 - 0 01:30 19/05/2026",
           "tournament": "Segunda División",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvyGdww4kYwjfOM2mGp372JjjT0bOqLABkKg&s",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Logo_of_SD_Huesca.svg/1280px-Logo_of_SD_Huesca.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fb805003a4",
+                          "id": "lnk-6a5ef123a2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvz1gr3uomttgr31hcji8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=4faa155c6f8ede14820b76cc-177912846114689&wsIPSercert=c199c6c7784421ec52dc3561b6c2873d&wsBindIP=2&wsserid=1172665343356714795"
+                          "url": "https://tfvz1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177912907708828&wsIPSercert=2b023ac550f1c26b4e7307d8e153be2c&wsBindIP=2&wsserid=1172580915182858196"
                         },
                         {
-                          "id": "lnk-d7157b1319",
+                          "id": "lnk-8796398cb3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
