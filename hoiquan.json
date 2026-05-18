@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:20 18/05/2026",
+  "last_updated": "07:30 18/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1b5ee08b5cf5",
-          "name": "⚽ Atletico Paranaense vs Flamengo | H2 - 87' 1 - 1 05:30 18/05/2026",
+          "name": "⚽ Atletico Paranaense vs Flamengo | H2 - 90+7' 1 - 1 05:30 18/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/134.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
           "type": "single",
@@ -45,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5d21680221",
+                          "id": "lnk-bfbd2a90d5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvz1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-177906365119119&wsIPSercert=18b8837a85ef4518e4da05602fa0d627&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfvz0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177906424802260&wsIPSercert=f9be88e3739505232026d3203463c5f2&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-6e1f9678b7",
+                          "id": "lnk-757c483666",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
         },
         {
           "id": "kaytee-a00844e10a07",
-          "name": "⚽ Nashville Sc vs Los Angeles Fc | H1 - 8' 0 - 0 07:00 18/05/2026",
+          "name": "⚽ Nashville Sc vs Los Angeles Fc | H1 - 18' 1 - 0 07:00 18/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nashville_SC_logo%2C_2020.svg/250px-Nashville_SC_logo%2C_2020.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/8/86/Los_Angeles_Football_Club.svg",
           "type": "single",
@@ -104,14 +104,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8e02de1e45",
+                          "id": "lnk-72a5c489ee",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvz1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd62835041fe49ebfc13d2bc-177906365954580&wsIPSercert=18b8837a85ef4518e4da05602fa0d627&wsBindIP=2&wsserid=1168282035622980969"
+                          "url": "https://tfvz0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177906425631296&wsIPSercert=f9be88e3739505232026d3203463c5f2&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-a5a37bac13",
+                          "id": "lnk-036786d2a9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
