@@ -1,71 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:00 18/05/2026",
+  "last_updated": "10:10 18/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-3b27e6874602",
-          "name": "⚽ U.N.A.M. - Pumas vs Cf Pachuca | H2 - 90+2' 1 - 0 08:00 18/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/2286.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2292.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2286.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3b27e6874602",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3b27e6874602",
-                  "name": "U.N.A.M. - Pumas vs Cf Pachuca",
-                  "streams": [
-                    {
-                      "id": "kaytee-3b27e6874602",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d36596328a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvz0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=56191d58674e01b9f4611cb1-177907325583388&wsIPSercert=14147a137d6cef5081301a39ef9c066c&wsBindIP=2&wsserid=1168283323420165962"
-                        },
-                        {
-                          "id": "lnk-c58576f8f8",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-776f1333735e",
           "name": "⚽ Zorya Luhansk vs Polessya | Sắp diễn ra vs 17:00 18/05/2026",
@@ -453,6 +394,50 @@
                   "streams": [
                     {
                       "id": "kaytee-b4b17ca45cc5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-cd5061e3cc38",
+          "name": "⚽ Chengdu Better City vs Shanghai Sipg | Sắp diễn ra vs 19:00 19/05/2026",
+          "logo_nha": "https://media.api-sports.io/football/teams/5648.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/836.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5648.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-cd5061e3cc38",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-cd5061e3cc38",
+                  "name": "Chengdu Better City vs Shanghai Sipg",
+                  "streams": [
+                    {
+                      "id": "kaytee-cd5061e3cc38",
                       "name": "F",
                       "stream_links": []
                     }
