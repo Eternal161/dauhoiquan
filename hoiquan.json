@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:30 18/05/2026",
+  "last_updated": "16:40 18/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-776f1333735e",
-          "name": "⚽ Zorya Luhansk vs Polessya | Sắp diễn ra vs 17:00 18/05/2026",
+          "name": "⚽ Zorya Luhansk vs Polessya | Sắp bắt đầu - null' 0 - 0 17:00 18/05/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/599.png",
           "logo_khach": "https://media.api-sports.io/football/teams/6496.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-776f1333735e",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-7eedcc7d35",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvz0gr4uqmtt8y41hcjz8rzdrcjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=cf82141cf7824cda1ae8cdd4-177909725910086&wsIPSercert=f66e4e3848696d824684374c0ecae707&wsBindIP=2&wsserid=1168214357021015793"
+                        },
+                        {
+                          "id": "lnk-0978b20dee",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
