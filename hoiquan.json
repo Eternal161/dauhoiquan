@@ -1,74 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:30 18/05/2026",
+  "last_updated": "07:40 18/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-1b5ee08b5cf5",
-          "name": "⚽ Atletico Paranaense vs Flamengo | H2 - 90+7' 1 - 1 05:30 18/05/2026",
-          "logo_nha": "https://media.api-sports.io/football/teams/134.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/134.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-1b5ee08b5cf5",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-1b5ee08b5cf5",
-                  "name": "Atletico Paranaense vs Flamengo",
-                  "streams": [
-                    {
-                      "id": "kaytee-1b5ee08b5cf5",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bfbd2a90d5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvz0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177906424802260&wsIPSercert=f9be88e3739505232026d3203463c5f2&wsBindIP=2&wsserid=1168202333418134578"
-                        },
-                        {
-                          "id": "lnk-757c483666",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-a00844e10a07",
-          "name": "⚽ Nashville Sc vs Los Angeles Fc | H1 - 18' 1 - 0 07:00 18/05/2026",
+          "name": "⚽ Nashville Sc vs Los Angeles Fc | H1 - 29' 2 - 1 07:00 18/05/2026",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nashville_SC_logo%2C_2020.svg/250px-Nashville_SC_logo%2C_2020.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/8/86/Los_Angeles_Football_Club.svg",
           "type": "single",
@@ -104,14 +45,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-72a5c489ee",
+                          "id": "lnk-a08b10063a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvz0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177906425631296&wsIPSercert=f9be88e3739505232026d3203463c5f2&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfvz1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd62835041fe49ebfc13d2bc-177906486641424&wsIPSercert=14651a07cbb239693c2cf42966ff20b6&wsBindIP=2&wsserid=1168282035622980969"
                         },
                         {
-                          "id": "lnk-036786d2a9",
+                          "id": "lnk-da37cb49f9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -127,7 +68,7 @@
         },
         {
           "id": "kaytee-3b27e6874602",
-          "name": "⚽ U.N.A.M. - Pumas vs Cf Pachuca | Sắp diễn ra vs 08:00 18/05/2026",
+          "name": "⚽ U.N.A.M. - Pumas vs Cf Pachuca | Sắp bắt đầu - null' 0 - 0 08:00 18/05/2026",
           "logo_nha": "https://media.api-sports.io/football/teams/2286.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2292.png",
           "type": "single",
@@ -143,10 +84,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -161,7 +102,22 @@
                     {
                       "id": "kaytee-3b27e6874602",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-2d46a7beaf",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvz1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=a072ae36b41a346fd194c763-177906487477284&wsIPSercert=14651a07cbb239693c2cf42966ff20b6&wsBindIP=2&wsserid=1168278313568844709"
+                        },
+                        {
+                          "id": "lnk-ed43bdd333",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -468,6 +424,50 @@
                   "streams": [
                     {
                       "id": "kaytee-994827175f62",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-62c11cfa0613",
+          "name": "⚽ Sichuan Jiuniu vs Dalian Zhixing | Sắp diễn ra vs 18:35 19/05/2026",
+          "logo_nha": "https://media.api-sports.io/football/teams/5686.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/21263.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5686.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-62c11cfa0613",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-62c11cfa0613",
+                  "name": "Sichuan Jiuniu vs Dalian Zhixing",
+                  "streams": [
+                    {
+                      "id": "kaytee-62c11cfa0613",
                       "name": "F",
                       "stream_links": []
                     }
