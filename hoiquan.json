@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:40 18/05/2026",
+  "last_updated": "21:50 18/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6a9621378ced",
-          "name": "⚽ Kerala Blasters vs Goa | H1 - 39' 0 - 0 21:00 18/05/2026",
+          "name": "⚽ Kerala Blasters vs Goa | Live 0 - 0 21:00 18/05/2026",
           "tournament": "Indian Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/3477.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/pt/7/72/FC_Goa.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c7c107ae03",
+                          "id": "lnk-e6d0a3b412",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvz1gr3uomttgr31hcji8rzdgp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=92d0599ce21af7fbd6396928-177911525236366&wsIPSercert=1fefbc1ec854a2847e00c3a8f468a5db&wsBindIP=2&wsserid=1172665344093863980"
+                          "url": "https://tfvz1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c3b425deceb9418dcbd56e1b-177911584900578&wsIPSercert=8221722678e99ccb1f4aa7589ab3c45f&wsBindIP=2&wsserid=1168243256613785902"
                         },
                         {
-                          "id": "lnk-aaa51dfa55",
+                          "id": "lnk-85f4f8fb1e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
