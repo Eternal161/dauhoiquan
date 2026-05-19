@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:30 20/05/2026",
+  "last_updated": "01:40 20/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8cc2d10ebe92",
-          "name": "⚽ Bournemouth vs Manchester City | Sắp bắt đầu - null' 0 - 0 01:30 20/05/2026",
+          "name": "⚽ Bournemouth vs Manchester City | H1 - 11' 0 - 0 01:30 20/05/2026",
           "tournament": "Premier League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-32fe7eacfa",
+                          "id": "lnk-9ff49a2e9c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw01gr3uomttgr31hcji8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f3cce5b32309e5eab28c3924-177921545369338&wsIPSercert=efdec004be68a915c15ef3b5fa937efd&wsBindIP=2&wsserid=1172665350473402856"
+                          "url": "https://tfw01gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177921606768402&wsIPSercert=87b21497c3593fed89a275eb694c2f41&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-4b738a9541",
+                          "id": "lnk-f88678267b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-dfe3bc1e60c6",
-          "name": "⚽ China Pr U17 vs Australia U17 | Sắp bắt đầu - null' 0 - 0 01:30 20/05/2026",
+          "name": "⚽ China Pr U17 vs Australia U17 | H1 - 9' 0 - 0 01:30 20/05/2026",
           "tournament": "AFC U17 Asian Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/21449.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19076.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ba578a3594",
+                          "id": "lnk-b5db848982",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw01gr3uomttgr31hcji8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=4faa155c6f8ede14820b76cc-177921546214225&wsIPSercert=efdec004be68a915c15ef3b5fa937efd&wsBindIP=2&wsserid=1172665343356714795"
+                          "url": "https://tfw01gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177921607607016&wsIPSercert=87b21497c3593fed89a275eb694c2f41&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-ad7758f621",
+                          "id": "lnk-300d3eebc0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
