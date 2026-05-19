@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:40 20/05/2026",
+  "last_updated": "01:50 20/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8cc2d10ebe92",
-          "name": "⚽ Bournemouth vs Manchester City | H1 - 11' 0 - 0 01:30 20/05/2026",
+          "name": "⚽ Bournemouth vs Manchester City | H1 - 20' 0 - 0 01:30 20/05/2026",
           "tournament": "Premier League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9ff49a2e9c",
+                          "id": "lnk-cd65626d7b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw01gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177921606768402&wsIPSercert=87b21497c3593fed89a275eb694c2f41&wsBindIP=2&wsserid=1168176581102008440"
+                          "url": "https://tfw00gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=d21220482f9e651f1e149f3b-177921664995734&wsIPSercert=435dae2c7d03f5e1d079938cdb2aafa1&wsBindIP=2&wsserid=1168283477179400067"
                         },
                         {
-                          "id": "lnk-f88678267b",
+                          "id": "lnk-66aa05f4cb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-dfe3bc1e60c6",
-          "name": "⚽ China Pr U17 vs Australia U17 | H1 - 9' 0 - 0 01:30 20/05/2026",
+          "name": "⚽ China Pr U17 vs Australia U17 | H1 - 19' 0 - 0 01:30 20/05/2026",
           "tournament": "AFC U17 Asian Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/21449.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19076.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b5db848982",
+                          "id": "lnk-3986b1048b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw01gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177921607607016&wsIPSercert=87b21497c3593fed89a275eb694c2f41&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfw00gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177921665846525&wsIPSercert=435dae2c7d03f5e1d079938cdb2aafa1&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-300d3eebc0",
+                          "id": "lnk-78c8988e63",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-3b6156e84a66",
-          "name": "⚽ Chelsea vs Tottenham | Sắp diễn ra vs 02:15 20/05/2026",
+          "name": "⚽ Chelsea vs Tottenham | Sắp bắt đầu - null' 0 - 0 02:15 20/05/2026",
           "tournament": "Premier League",
           "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
           "logo_khach": "https://media.api-sports.io/football/teams/47.png",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,15 @@
                     {
                       "id": "kaytee-3b6156e84a66",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-eea51bc60d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
