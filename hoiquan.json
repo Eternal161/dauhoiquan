@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:40 19/05/2026",
+  "last_updated": "20:50 19/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-b4b17ca45cc5",
-          "name": "⚽ Tianjin Teda vs Henan Jianye | H2 - 90+15' 1 - 2 18:35 19/05/2026",
-          "tournament": "Super League",
-          "logo_nha": "https://media.api-sports.io/football/teams/837.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/840.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/837.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b4b17ca45cc5",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b4b17ca45cc5",
-                  "name": "Tianjin Teda vs Henan Jianye",
-                  "streams": [
-                    {
-                      "id": "kaytee-b4b17ca45cc5",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-39e71e37e5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-cd5061e3cc38",
-          "name": "⚽ Chengdu Better City vs Shanghai Sipg | H2 - 83' 0 - 1 19:00 19/05/2026",
+          "name": "⚽ Chengdu Better City vs Shanghai Sipg | H2 - 90+3' 0 - 1 19:00 19/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/5648.png",
           "logo_khach": "https://media.api-sports.io/football/teams/836.png",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7428fee439",
+                          "id": "lnk-603344996d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw00gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=12a0e6a99ee8910a60f02bb3-177919806809243&wsIPSercert=bf1ad2c38f9e21bc95540b5947063bff&wsBindIP=2&wsserid=1172666162445578538"
+                          "url": "https://tfw01gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=a072ae36b41a346fd194c763-177919865346307&wsIPSercert=8459cf180f100c015a4a671eed80af53&wsBindIP=2&wsserid=1168278313568844709"
                         },
                         {
-                          "id": "lnk-da48a3cffb",
+                          "id": "lnk-4cedfefb0c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -122,7 +69,7 @@
         },
         {
           "id": "kaytee-2cd13999aa35",
-          "name": "⚽ Qingdao Youth Island vs Beijing Guoan | H2 - 80' 1 - 1 19:00 19/05/2026",
+          "name": "⚽ Qingdao Youth Island vs Beijing Guoan | H2 - 90' 1 - 1 19:00 19/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/17265.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
@@ -159,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-27902557bb",
+                          "id": "lnk-25e750f738",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw00gr4uqmtt8y41hcjzgrzdrcbofihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=e73d46884c09585b6c81760a-177919807719786&wsIPSercert=bf1ad2c38f9e21bc95540b5947063bff&wsBindIP=2&wsserid=1168140817791296288"
+                          "url": "https://tfw01gr4dymttgwanhc3sfaauccbpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-177919866199726&wsIPSercert=8459cf180f100c015a4a671eed80af53&wsBindIP=2&wsserid=1168282035663924028"
                         },
                         {
-                          "id": "lnk-79572bf55e",
+                          "id": "lnk-9c51ebef84",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -182,7 +129,7 @@
         },
         {
           "id": "kaytee-abca1c19e978",
-          "name": "⚽ Japan U17 vs Uzbekistan U17 | Sắp diễn ra vs 22:00 19/05/2026",
+          "name": "⚽ Japan U17 vs Uzbekistan U17 | Sắp bắt đầu - null' 0 - 0 22:00 19/05/2026",
           "tournament": "AFC U17 Asian Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/12511.png",
           "logo_khach": "https://media.api-sports.io/football/teams/21446.png",
@@ -199,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -217,7 +164,22 @@
                     {
                       "id": "kaytee-abca1c19e978",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-9bcbfed7e6",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw01gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=fd62835041fe49ebfc13d2bc-177919867027044&wsIPSercert=8459cf180f100c015a4a671eed80af53&wsBindIP=2&wsserid=1168282035622980969"
+                        },
+                        {
+                          "id": "lnk-c04f6f51d4",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -486,6 +448,51 @@
                   "streams": [
                     {
                       "id": "kaytee-1c32ec21218c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a038bb2d1472",
+          "name": "⚽ Hangzhou Greentown vs Shandong Luneng | Sắp diễn ra vs 19:00 20/05/2026",
+          "tournament": "Super League",
+          "logo_nha": "https://media.api-sports.io/football/teams/848.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/844.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/848.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a038bb2d1472",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a038bb2d1472",
+                  "name": "Hangzhou Greentown vs Shandong Luneng",
+                  "streams": [
+                    {
+                      "id": "kaytee-a038bb2d1472",
                       "name": "F",
                       "stream_links": []
                     }
