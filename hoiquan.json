@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:00 19/05/2026",
+  "last_updated": "21:10 19/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-cd5061e3cc38",
-          "name": "⚽ Chengdu Better City vs Shanghai Sipg | H2 - 90+13' 0 - 1 19:00 19/05/2026",
+          "name": "⚽ Chengdu Better City vs Shanghai Sipg | H2 - 46' 0 - 1 19:00 19/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/5648.png",
           "logo_khach": "https://media.api-sports.io/football/teams/836.png",
@@ -46,78 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-659eb98171",
+                          "id": "lnk-acd96a9298",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw00gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=08a97592fcdc472fa413e2d6-177919926070367&wsIPSercert=4ec013b9998acecbbcf328fb00461abf&wsBindIP=2&wsserid=1168202333420231774"
-                        },
-                        {
-                          "id": "lnk-2e50f931a9",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-2cd13999aa35",
-          "name": "⚽ Qingdao Youth Island vs Beijing Guoan | H2 - 90+9' 1 - 1 19:00 19/05/2026",
-          "tournament": "Super League",
-          "logo_nha": "https://media.api-sports.io/football/teams/17265.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/17265.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-2cd13999aa35",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-2cd13999aa35",
-                  "name": "Qingdao Youth Island vs Beijing Guoan",
-                  "streams": [
-                    {
-                      "id": "kaytee-2cd13999aa35",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-21401a2d3e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw01gr4uqmtt8y41hcjwgwzdocjpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177919926933112&wsIPSercert=4ec013b9998acecbbcf328fb00461abf&wsBindIP=2&wsserid=1168176581102008440"
-                        },
-                        {
-                          "id": "lnk-84fe72a45e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8"
                         }
                       ]
                     }
@@ -166,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7f50cb12a0",
+                          "id": "lnk-af0670206b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw00gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177919927770053&wsIPSercert=4ec013b9998acecbbcf328fb00461abf&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfw01gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=fd62835041fe49ebfc13d2bc-177919987343488&wsIPSercert=5539cbf82cc508b41941ee8dd19dbefc&wsBindIP=2&wsserid=1168282035622980969"
                         },
                         {
-                          "id": "lnk-91047e3aec",
+                          "id": "lnk-668f848635",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +426,51 @@
                   "streams": [
                     {
                       "id": "kaytee-a038bb2d1472",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8d9ca1a9b8c1",
+          "name": "⚽ Selangor vs Buriram United | Sắp diễn ra vs 20:00 20/05/2026",
+          "tournament": "ASEAN Club Championship",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/d/d7/Selangor_FC_logo.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Buriram_United_logo.svg/250px-Buriram_United_logo.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/d/d7/Selangor_FC_logo.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8d9ca1a9b8c1",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8d9ca1a9b8c1",
+                  "name": "Selangor vs Buriram United",
+                  "streams": [
+                    {
+                      "id": "kaytee-8d9ca1a9b8c1",
                       "name": "F",
                       "stream_links": []
                     }
