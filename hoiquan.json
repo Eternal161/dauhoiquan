@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:01 19/05/2026",
+  "last_updated": "09:10 19/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-994827175f62",
-          "name": "⚽ Guayaquil City Fc vs Orense Sc | H2 - 90+5' 0 - 1 07:00 19/05/2026",
-          "tournament": "Liga Pro",
-          "logo_nha": "https://media.api-sports.io/football/teams/1159.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1992.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1159.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-994827175f62",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-994827175f62",
-                  "name": "Guayaquil City Fc vs Orense Sc",
-                  "streams": [
-                    {
-                      "id": "kaytee-994827175f62",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4b84bb15e9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-62c11cfa0613",
           "name": "⚽ Sichuan Jiuniu vs Dalian Zhixing | Sắp diễn ra vs 18:35 19/05/2026",
