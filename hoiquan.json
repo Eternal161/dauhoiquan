@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:50 19/05/2026",
+  "last_updated": "16:01 19/05/2026",
   "groups": [
     {
       "id": "live",
@@ -403,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-3b6156e84a66",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-41b7d61f24f1",
+          "name": "⚽ Boca Juniors vs Cruzeiro | Sắp diễn ra vs 07:00 20/05/2026",
+          "tournament": "Conmebol Copa Libertado",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Escudo_del_Club_Atl%C3%A9tico_Boca_Juniors_2012.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Escudo_del_Club_Atl%C3%A9tico_Boca_Juniors_2012.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-41b7d61f24f1",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-41b7d61f24f1",
+                  "name": "Boca Juniors vs Cruzeiro",
+                  "streams": [
+                    {
+                      "id": "kaytee-41b7d61f24f1",
                       "name": "F",
                       "stream_links": []
                     }
