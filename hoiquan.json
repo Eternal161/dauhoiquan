@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:00 20/05/2026",
+  "last_updated": "04:10 20/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-3b6156e84a66",
-          "name": "⚽ Chelsea vs Tottenham | H2 - 89' 2 - 1 02:15 20/05/2026",
+          "name": "⚽ Chelsea vs Tottenham | H2 - 90+7' 2 - 1 02:15 20/05/2026",
           "tournament": "Premier League",
           "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
           "logo_khach": "https://media.api-sports.io/football/teams/47.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c2fb4ac446",
+                          "id": "lnk-c3a76f24c0",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw01gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=dbd8f789bb7a7a2508c32238-177922446492067&wsIPSercert=3487c8e00fd3244de9aa62cedcf03a52&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfw01gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c4c244e3d6c4c768f7bd2ccd-177922504792409&wsIPSercert=83c90812f20c04648a52c6c3802acbb4&wsBindIP=2&wsserid=1172580915182858212"
                         },
                         {
-                          "id": "lnk-166323b52d",
+                          "id": "lnk-59a64255e7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
