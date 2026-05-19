@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:30 19/05/2026",
+  "last_updated": "18:40 19/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b4b17ca45cc5",
-          "name": "⚽ Tianjin Teda vs Henan Jianye | Sắp bắt đầu - null' 0 - 0 18:35 19/05/2026",
+          "name": "⚽ Tianjin Teda vs Henan Jianye | H1 - 6' 0 - 0 18:35 19/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/837.png",
           "logo_khach": "https://media.api-sports.io/football/teams/840.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5ee70390dc",
+                          "id": "lnk-af90a26ebb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw01gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177919026201623&wsIPSercert=5ecc70277d35bb9e265422ef51ebe49b&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfw00gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=a571361e8dbdb51eb236af85-177919085858227&wsIPSercert=3759eee2ae913d09f723a95433e2ea3c&wsBindIP=2&wsserid=1168270715630357023"
                         },
                         {
-                          "id": "lnk-054356e4a6",
+                          "id": "lnk-ff860e5006",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-cd5061e3cc38",
-          "name": "⚽ Chengdu Better City vs Shanghai Sipg | Sắp diễn ra vs 19:00 19/05/2026",
+          "name": "⚽ Chengdu Better City vs Shanghai Sipg | Sắp bắt đầu - null' 0 - 0 19:00 19/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/5648.png",
           "logo_khach": "https://media.api-sports.io/football/teams/836.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-cd5061e3cc38",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-cef29c3abd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw00gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=b779b2c12d9eb553cd165b82-177919086717211&wsIPSercert=3759eee2ae913d09f723a95433e2ea3c&wsBindIP=2&wsserid=1168283407512358315"
+                        },
+                        {
+                          "id": "lnk-7d97197319",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -114,7 +129,7 @@
         },
         {
           "id": "kaytee-2cd13999aa35",
-          "name": "⚽ Qingdao Youth Island vs Beijing Guoan | Sắp diễn ra vs 19:00 19/05/2026",
+          "name": "⚽ Qingdao Youth Island vs Beijing Guoan | Sắp bắt đầu - null' 0 - 0 19:00 19/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/17265.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
@@ -131,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -149,7 +164,22 @@
                     {
                       "id": "kaytee-2cd13999aa35",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-00cb3776f6",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw00gr4uqmtt8y41hcjzgrzdrcbofihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=e73d46884c09585b6c81760a-177919087614996&wsIPSercert=3759eee2ae913d09f723a95433e2ea3c&wsBindIP=2&wsserid=1168140817791296288"
+                        },
+                        {
+                          "id": "lnk-12a81a7361",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
