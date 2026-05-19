@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:00 20/05/2026",
+  "last_updated": "01:10 20/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8cc2d10ebe92",
-          "name": "⚽ Bournemouth vs Manchester City | Sắp diễn ra vs 01:30 20/05/2026",
+          "name": "⚽ Bournemouth vs Manchester City | Sắp bắt đầu - null' 0 - 0 01:30 20/05/2026",
           "tournament": "Premier League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-8cc2d10ebe92",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-5e811ca8f5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw00gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177921425692744&wsIPSercert=0589883834ed9d6c602d03ad7a0f9842&wsBindIP=2&wsserid=1168202392933970899"
+                        },
+                        {
+                          "id": "lnk-82045028ef",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -54,7 +69,7 @@
         },
         {
           "id": "kaytee-dfe3bc1e60c6",
-          "name": "⚽ China Pr U17 vs Australia U17 | Sắp diễn ra vs 01:30 20/05/2026",
+          "name": "⚽ China Pr U17 vs Australia U17 | Sắp bắt đầu - null' 0 - 0 01:30 20/05/2026",
           "tournament": "AFC U17 Asian Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/21449.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19076.png",
@@ -71,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -89,7 +104,22 @@
                     {
                       "id": "kaytee-dfe3bc1e60c6",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-48cd4418c9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw00gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177921426497434&wsIPSercert=0589883834ed9d6c602d03ad7a0f9842&wsBindIP=2&wsserid=1168202333418134578"
+                        },
+                        {
+                          "id": "lnk-710d3e9173",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -143,9 +173,9 @@
           ]
         },
         {
-          "id": "kaytee-41b7d61f24f1",
-          "name": "⚽ Boca Juniors vs Cruzeiro | Sắp diễn ra vs 07:00 20/05/2026",
-          "tournament": "Conmebol Copa Libertado",
+          "id": "kaytee-d06021a4baec",
+          "name": "⚽ Boca Juniors vs Cruzeiro | Sắp diễn ra vs 07:30 20/05/2026",
+          "tournament": "CONMEBOL Libertadores",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Escudo_del_Club_Atl%C3%A9tico_Boca_Juniors_2012.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg",
           "type": "single",
@@ -169,15 +199,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-41b7d61f24f1",
+              "id": "kaytee-d06021a4baec",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-41b7d61f24f1",
+                  "id": "kaytee-d06021a4baec",
                   "name": "Boca Juniors vs Cruzeiro",
                   "streams": [
                     {
-                      "id": "kaytee-41b7d61f24f1",
+                      "id": "kaytee-d06021a4baec",
                       "name": "F",
                       "stream_links": []
                     }
@@ -188,11 +218,11 @@
           ]
         },
         {
-          "id": "kaytee-a26ef4f1d4b1",
-          "name": "⚽ Independiente Del Valle vs Libertad | Sắp diễn ra vs 09:00 20/05/2026",
+          "id": "kaytee-6d7d213fb212",
+          "name": "⚽ Independiente Del Valle vs Libertad Asuncion | Sắp diễn ra vs 09:00 20/05/2026",
           "tournament": "Conmebol Copa Libertado",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Independiente_del_Valle_2022_Logo_Campe%C3%B3n_Sudamericana.png/250px-Independiente_del_Valle_2022_Logo_Campe%C3%B3n_Sudamericana.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/18762.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1179.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -214,15 +244,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-a26ef4f1d4b1",
+              "id": "kaytee-6d7d213fb212",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-a26ef4f1d4b1",
-                  "name": "Independiente Del Valle vs Libertad",
+                  "id": "kaytee-6d7d213fb212",
+                  "name": "Independiente Del Valle vs Libertad Asuncion",
                   "streams": [
                     {
-                      "id": "kaytee-a26ef4f1d4b1",
+                      "id": "kaytee-6d7d213fb212",
                       "name": "F",
                       "stream_links": []
                     }
