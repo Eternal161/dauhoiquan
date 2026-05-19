@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:20 19/05/2026",
+  "last_updated": "18:30 19/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-62c11cfa0613",
-          "name": "⚽ Sichuan Jiuniu vs Dalian Zhixing | Sắp bắt đầu - null' 0 - 0 18:35 19/05/2026",
-          "tournament": "Super League",
-          "logo_nha": "https://media.api-sports.io/football/teams/5686.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/21263.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/5686.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-62c11cfa0613",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-62c11cfa0613",
-                  "name": "Sichuan Jiuniu vs Dalian Zhixing",
-                  "streams": [
-                    {
-                      "id": "kaytee-62c11cfa0613",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6c5773753b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw01gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177918966059796&wsIPSercert=37315531f9a3b41da850f0cfd68d1602&wsBindIP=2&wsserid=1172580915182858196"
-                        },
-                        {
-                          "id": "lnk-174115b8e8",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-b4b17ca45cc5",
           "name": "⚽ Tianjin Teda vs Henan Jianye | Sắp bắt đầu - null' 0 - 0 18:35 19/05/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3e06761fe6",
+                          "id": "lnk-5ee70390dc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw01gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=0e320b8560fa50aad43019c0-177918966885733&wsIPSercert=37315531f9a3b41da850f0cfd68d1602&wsBindIP=2&wsserid=1172580915177615204"
+                          "url": "https://tfw01gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177919026201623&wsIPSercert=5ecc70277d35bb9e265422ef51ebe49b&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-c35c08d146",
+                          "id": "lnk-054356e4a6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-a26ef4f1d4b1",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1c32ec21218c",
+          "name": "⚽ Shanghai Shenhua vs Wuhan Three Towns | Sắp diễn ra vs 18:35 20/05/2026",
+          "tournament": "Super League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Wuhan_Three_Towns_F.C.svg/250px-Wuhan_Three_Towns_F.C.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1c32ec21218c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1c32ec21218c",
+                  "name": "Shanghai Shenhua vs Wuhan Three Towns",
+                  "streams": [
+                    {
+                      "id": "kaytee-1c32ec21218c",
                       "name": "F",
                       "stream_links": []
                     }
