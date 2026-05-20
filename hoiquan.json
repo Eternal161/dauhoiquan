@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:24 20/05/2026",
+  "last_updated": "19:30 20/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1c32ec21218c",
-          "name": "⚽ Shanghai Shenhua vs Wuhan Three Towns | H1 - 45+4' 2 - 1 18:35 20/05/2026",
+          "name": "⚽ Shanghai Shenhua vs Wuhan Three Towns | H1 - 45+10' 2 - 1 18:35 20/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Wuhan_Three_Towns_F.C.svg/250px-Wuhan_Three_Towns_F.C.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a77bdb0c6e",
+                          "id": "lnk-ff9d7204a2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw10gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=e1a561d1e5fa9b11e4dd3219-177927984983642&wsIPSercert=ad8d70b8538aeb9643c03a19818eb341&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfw10gr4uqmtt8y41hcjz8rzdncbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=015f882d6bf28108fca60425-177928025445899&wsIPSercert=b7c0d6bed56f096869812e1be757afd7&wsBindIP=2&wsserid=1168176337061519089"
                         },
                         {
-                          "id": "lnk-7357607ae9",
+                          "id": "lnk-468978b0da",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-8d4843003c89",
-          "name": "⚽ Hangzhou Greentown vs Shandong Luneng | H1 - 24' 0 - 1 19:00 20/05/2026",
+          "name": "⚽ Hangzhou Greentown vs Shandong Luneng | H1 - 30' 0 - 1 19:00 20/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/848.png",
           "logo_khach": "https://media.api-sports.io/football/teams/844.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b35361e201",
+                          "id": "lnk-304c5439cc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw10gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=d21220482f9e651f1e149f3b-177927985832747&wsIPSercert=ad8d70b8538aeb9643c03a19818eb341&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfw10gr4uqmtt8y41hcjz8rzdncbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-177928026326077&wsIPSercert=b7c0d6bed56f096869812e1be757afd7&wsBindIP=2&wsserid=1168176346313714739"
                         },
                         {
-                          "id": "lnk-30a9743aa3",
+                          "id": "lnk-2f1ab7a6f6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
