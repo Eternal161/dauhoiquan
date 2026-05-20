@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:20 21/05/2026",
+  "last_updated": "00:30 21/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c17caeaf4026",
-          "name": "⚽ Start vs Bodo/Glimt | Live 0 - 0 23:00 20/05/2026",
+          "name": "⚽ Start vs Bodo/Glimt | H2 - 62' 1 - 2 23:00 20/05/2026",
           "tournament": "VĐQG Na Uy",
           "logo_nha": "https://media.api-sports.io/football/teams/334.png",
           "logo_khach": "https://media.api-sports.io/football/teams/327.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ca1302ef5f",
+                          "id": "lnk-b9c2522f3e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw11gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=66a69cb18c47415edf9d2743-177929766246939&wsIPSercert=79e7af1926fa910b12c5dd20c297b762&wsBindIP=2&wsserid=1168243256664118498"
+                          "url": "https://tfw10gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177929826112921&wsIPSercert=a2ab6486a1955ab85a494e75a8b30fc5&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-609fe87fdc",
+                          "id": "lnk-1b226745a4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-49fb7f61cb09",
-          "name": "⚽ Kups vs Ff Jaro | Live 0 - 0 23:00 20/05/2026",
+          "name": "⚽ Kups vs Ff Jaro | H2 - 62' 2 - 0 23:00 20/05/2026",
           "tournament": "VĐQG Phần Lan",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/pt/1/13/FF_Jaro_logo.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f705e0033b",
+                          "id": "lnk-d5ee61eac1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw11gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=aedd70980ff8f6b5ab8a1bf7-177929767080978&wsIPSercert=79e7af1926fa910b12c5dd20c297b762&wsBindIP=2&wsserid=1168243256667264290"
+                          "url": "https://tfw10gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177929826937306&wsIPSercert=a2ab6486a1955ab85a494e75a8b30fc5&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-8b7e5f8a31",
+                          "id": "lnk-af91d08abd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
