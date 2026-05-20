@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:50 20/05/2026",
+  "last_updated": "08:00 20/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-d06021a4baec",
-          "name": "⚽ Boca Juniors vs Cruzeiro | H1 - 20' 1 - 0 07:30 20/05/2026",
+          "name": "⚽ Boca Juniors vs Cruzeiro | H1 - 30' 1 - 0 07:30 20/05/2026",
           "tournament": "CONMEBOL Libertadores",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Escudo_del_Club_Atl%C3%A9tico_Boca_Juniors_2012.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fbe76df18e",
+                          "id": "lnk-ccf5b11afd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw11gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=39208dad862a1684dd11e461-177923825040461&wsIPSercert=9f320d7f99d2287db4d4a4793741a19e&wsBindIP=2&wsserid=1168243343863876729"
+                          "url": "https://tfw11gr3uomttgr31hcji8rzdrpbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=546f53c25f66a8bb73a1a33a-177923885652501&wsIPSercert=bf5e450637ee699eaffb2ee044ea3ff1&wsBindIP=2&wsserid=1168194741519896389"
                         },
                         {
-                          "id": "lnk-0190e017ff",
+                          "id": "lnk-6ec8a6ffce",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
