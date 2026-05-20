@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:30 21/05/2026",
+  "last_updated": "01:40 21/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6133cf185c2e",
-          "name": "⚽ Al Khaleej Saihat vs Al-Ahli Jeddah | H1 - 29' 1 - 1 01:00 21/05/2026",
+          "name": "⚽ Al Khaleej Saihat vs Al-Ahli Jeddah | H1 - 40' 1 - 2 01:00 21/05/2026",
           "tournament": "Pro League",
           "logo_nha": "https://media.api-sports.io/football/teams/2928.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2929.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1253790043",
+                          "id": "lnk-cb921e45a8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw10gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177930184887167&wsIPSercert=27ca45045b0922aeafb411fcfa1f26fa&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfw10gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=a4af660ecdda9f1a15ddefdb-177930245337035&wsIPSercert=f2856b2d26a8f4f965f0529888bb613e&wsBindIP=2&wsserid=1168283319030924262"
                         },
                         {
-                          "id": "lnk-82f3ac74d0",
+                          "id": "lnk-dd4b7cec57",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-573f15f786e6",
-          "name": "⚽ Sc Freiburg vs Aston Villa | Sắp diễn ra vs 02:00 21/05/2026",
+          "name": "⚽ Sc Freiburg vs Aston Villa | Sắp bắt đầu - null' 0 - 0 02:00 21/05/2026",
           "tournament": "UEFA Europa League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/3/3c/SC_Freiburg.jpg.png",
           "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-573f15f786e6",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-e59a9f123f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw10gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fa047a81a3972ea683c4010f-177930246189665&wsIPSercert=f2856b2d26a8f4f965f0529888bb613e&wsBindIP=2&wsserid=1168283476522828939"
+                        },
+                        {
+                          "id": "lnk-0bb8f7a948",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
