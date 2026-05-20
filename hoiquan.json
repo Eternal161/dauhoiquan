@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:10 20/05/2026",
+  "last_updated": "22:20 20/05/2026",
   "groups": [
     {
       "id": "live",
@@ -54,7 +54,7 @@
         },
         {
           "id": "kaytee-49fb7f61cb09",
-          "name": "⚽ Kups vs Ff Jaro | Sắp diễn ra vs 23:00 20/05/2026",
+          "name": "⚽ Kups vs Ff Jaro | Live 0 - 0 23:00 20/05/2026",
           "tournament": "VĐQG Phần Lan",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/pt/1/13/FF_Jaro_logo.png",
@@ -71,10 +71,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -89,7 +89,22 @@
                     {
                       "id": "kaytee-49fb7f61cb09",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-0d1cb2cfc4",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw10gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177929047122100&wsIPSercert=faf0d8dba2aee1fcbf280f6a299239af&wsBindIP=2&wsserid=1168202392933970899"
+                        },
+                        {
+                          "id": "lnk-195a3d57fb",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
