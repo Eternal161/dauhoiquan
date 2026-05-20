@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:30 20/05/2026",
+  "last_updated": "19:41 20/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1c32ec21218c",
-          "name": "⚽ Shanghai Shenhua vs Wuhan Three Towns | H1 - 45+10' 2 - 1 18:35 20/05/2026",
+          "name": "⚽ Shanghai Shenhua vs Wuhan Three Towns | Giữa Hiệp - 45+10' 2 - 1 18:35 20/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Wuhan_Three_Towns_F.C.svg/250px-Wuhan_Three_Towns_F.C.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ff9d7204a2",
+                          "id": "lnk-cb7ef89583",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw10gr4uqmtt8y41hcjz8rzdncbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=015f882d6bf28108fca60425-177928025445899&wsIPSercert=b7c0d6bed56f096869812e1be757afd7&wsBindIP=2&wsserid=1168176337061519089"
+                          "url": "https://tfw10gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=e1a561d1e5fa9b11e4dd3219-177928090990863&wsIPSercert=43d01f17b1c69ad0a5d030b4ef7e6557&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-468978b0da",
+                          "id": "lnk-ac9fb92ec2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-8d4843003c89",
-          "name": "⚽ Hangzhou Greentown vs Shandong Luneng | H1 - 30' 0 - 1 19:00 20/05/2026",
+          "name": "⚽ Hangzhou Greentown vs Shandong Luneng | H1 - 41' 0 - 1 19:00 20/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/848.png",
           "logo_khach": "https://media.api-sports.io/football/teams/844.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-304c5439cc",
+                          "id": "lnk-4bac959571",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw10gr4uqmtt8y41hcjz8rzdncbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-177928026326077&wsIPSercert=b7c0d6bed56f096869812e1be757afd7&wsBindIP=2&wsserid=1168176346313714739"
+                          "url": "https://tfw10gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=d21220482f9e651f1e149f3b-177928091819855&wsIPSercert=43d01f17b1c69ad0a5d030b4ef7e6557&wsBindIP=2&wsserid=1168283477179400067"
                         },
                         {
-                          "id": "lnk-2f1ab7a6f6",
+                          "id": "lnk-4a9388f95a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-8d9ca1a9b8c1",
-          "name": "⚽ Selangor vs Buriram United | Sắp diễn ra vs 20:00 20/05/2026",
+          "name": "⚽ Selangor vs Buriram United | Sắp bắt đầu - null' 0 - 0 20:00 20/05/2026",
           "tournament": "ASEAN Club Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/d/d7/Selangor_FC_logo.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Buriram_United_logo.svg/250px-Buriram_United_logo.svg.png",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-8d9ca1a9b8c1",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-cf74e67645",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw10gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=ddc6d8e2fb217c58ffca1bb2-177928092669829&wsIPSercert=43d01f17b1c69ad0a5d030b4ef7e6557&wsBindIP=2&wsserid=1168283323302724409"
+                        },
+                        {
+                          "id": "lnk-2cb32f6a38",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -173,9 +188,9 @@
           ]
         },
         {
-          "id": "kaytee-4193983ec474",
+          "id": "kaytee-c17caeaf4026",
           "name": "⚽ Start vs Bodo/Glimt | Sắp diễn ra vs 23:00 20/05/2026",
-          "tournament": "Eliteserien",
+          "tournament": "VĐQG Na Uy",
           "logo_nha": "https://media.api-sports.io/football/teams/334.png",
           "logo_khach": "https://media.api-sports.io/football/teams/327.png",
           "type": "single",
@@ -199,15 +214,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-4193983ec474",
+              "id": "kaytee-c17caeaf4026",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-4193983ec474",
+                  "id": "kaytee-c17caeaf4026",
                   "name": "Start vs Bodo/Glimt",
                   "streams": [
                     {
-                      "id": "kaytee-4193983ec474",
+                      "id": "kaytee-c17caeaf4026",
                       "name": "F",
                       "stream_links": []
                     }
@@ -218,9 +233,9 @@
           ]
         },
         {
-          "id": "kaytee-56ca886a57b9",
+          "id": "kaytee-49fb7f61cb09",
           "name": "⚽ Kups vs Ff Jaro | Sắp diễn ra vs 23:00 20/05/2026",
-          "tournament": "Veikkausliiga",
+          "tournament": "VĐQG Phần Lan",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/pt/1/13/FF_Jaro_logo.png",
           "type": "single",
@@ -244,15 +259,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-56ca886a57b9",
+              "id": "kaytee-49fb7f61cb09",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-56ca886a57b9",
+                  "id": "kaytee-49fb7f61cb09",
                   "name": "Kups vs Ff Jaro",
                   "streams": [
                     {
-                      "id": "kaytee-56ca886a57b9",
+                      "id": "kaytee-49fb7f61cb09",
                       "name": "F",
                       "stream_links": []
                     }
