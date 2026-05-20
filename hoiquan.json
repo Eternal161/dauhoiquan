@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:41 20/05/2026",
+  "last_updated": "21:52 20/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8d9ca1a9b8c1",
-          "name": "⚽ Selangor vs Buriram United | Live 0 - 0 20:00 20/05/2026",
+          "name": "⚽ Selangor vs Buriram United | H2 - 90' 0 - 1 20:00 20/05/2026",
           "tournament": "ASEAN Club Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/d/d7/Selangor_FC_logo.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Buriram_United_logo.svg/250px-Buriram_United_logo.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0c13c3e388",
+                          "id": "lnk-a57f534267",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw11gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177928807314887&wsIPSercert=500ec8e9cb1436a69d05cfe669a6050a&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfw11gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=ddc6d8e2fb217c58ffca1bb2-177928873991970&wsIPSercert=2c8e8906063d55f2064b34595d277f60&wsBindIP=2&wsserid=1168283323302724409"
                         },
                         {
-                          "id": "lnk-ab8cc505bf",
+                          "id": "lnk-e663e02588",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
