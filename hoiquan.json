@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:40 21/05/2026",
+  "last_updated": "06:50 21/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a3c5eb1aa3d2",
-          "name": "⚽ Santos vs San Lorenzo | H2 - 78' 2 - 1 05:00 21/05/2026",
+          "name": "⚽ Santos vs San Lorenzo | H2 - 88' 2 - 2 05:00 21/05/2026",
           "tournament": "CONMEBOL Sudamericana",
           "logo_nha": "https://media.api-sports.io/football/teams/128.png",
           "logo_khach": "https://media.api-sports.io/football/teams/460.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-58f7b007cc",
+                          "id": "lnk-709914dfde",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw13gr4dymttgwanhct3faauommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f1d6e7dc9e90ef84d715f9d8-177932046095272&wsIPSercert=130e29d495c8c79a00503aea096cfe09&wsBindIP=2&wsserid=1168162712924058667"
+                          "url": "https://tfw11gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=015f882d6bf28108fca60425-177932105631253&wsIPSercert=8adbfbaa8e61f40ebca1315c425fd8e9&wsBindIP=2&wsserid=1168214263213094505"
                         },
                         {
-                          "id": "lnk-0f142c20c3",
+                          "id": "lnk-ac7b7ed930",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
