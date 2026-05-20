@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:50 20/05/2026",
+  "last_updated": "11:01 20/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-6d7d213fb212",
-          "name": "⚽ Independiente Del Valle vs Libertad Asuncion | Live 0 - 0 09:00 20/05/2026",
-          "tournament": "Conmebol Copa Libertado",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Independiente_del_Valle_2022_Logo_Campe%C3%B3n_Sudamericana.png/250px-Independiente_del_Valle_2022_Logo_Campe%C3%B3n_Sudamericana.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1179.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Independiente_del_Valle_2022_Logo_Campe%C3%B3n_Sudamericana.png/250px-Independiente_del_Valle_2022_Logo_Campe%C3%B3n_Sudamericana.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-6d7d213fb212",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-6d7d213fb212",
-                  "name": "Independiente Del Valle vs Libertad Asuncion",
-                  "streams": [
-                    {
-                      "id": "kaytee-6d7d213fb212",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4625392268",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw14gchnhcjo8rzdrpjtfa4144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3aca2e98600919d80dc8be35-177924906530788&wsIPSercert=684259f625cb6ce853d009b3d721790b&wsBindIP=2&wsserid=1168168154451507561"
-                        },
-                        {
-                          "id": "lnk-c5b3397d04",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-1c32ec21218c",
           "name": "⚽ Shanghai Shenhua vs Wuhan Three Towns | Sắp diễn ra vs 18:35 20/05/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-4e6aaa56cacb",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-dfa1e24f667b",
+          "name": "⚽ Junior vs Sporting Cristal | Sắp diễn ra vs 09:00 21/05/2026",
+          "tournament": "CONMEBOL Libertadores",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaNCIKzpPJH83I5J2Exi7EAkD4McMVH54pA&s",
+          "logo_khach": "https://media.api-sports.io/football/teams/2546.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaNCIKzpPJH83I5J2Exi7EAkD4McMVH54pA&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-dfa1e24f667b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-dfa1e24f667b",
+                  "name": "Junior vs Sporting Cristal",
+                  "streams": [
+                    {
+                      "id": "kaytee-dfa1e24f667b",
                       "name": "F",
                       "stream_links": []
                     }
