@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:50 20/05/2026",
+  "last_updated": "21:00 20/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8d4843003c89",
-          "name": "⚽ Hangzhou Greentown vs Shandong Luneng | Live 0 - 0 19:00 20/05/2026",
+          "name": "⚽ Hangzhou Greentown vs Shandong Luneng | H2 - 90' 4 - 1 19:00 20/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/848.png",
           "logo_khach": "https://media.api-sports.io/football/teams/844.png",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8f3b135081",
+                          "id": "lnk-c48220aa59",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw11gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=498ad6b0888bc9c29a6331ea-177928506171853&wsIPSercert=c1632495ee65c9d042517f694fca4557&wsBindIP=2&wsserid=1172580915176566596"
-                        },
-                        {
-                          "id": "lnk-f53c517a7c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
@@ -69,7 +62,7 @@
         },
         {
           "id": "kaytee-8d9ca1a9b8c1",
-          "name": "⚽ Selangor vs Buriram United | Live 0 - 0 20:00 20/05/2026",
+          "name": "⚽ Selangor vs Buriram United | Giữa Hiệp - 45' 0 - 1 20:00 20/05/2026",
           "tournament": "ASEAN Club Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/d/d7/Selangor_FC_logo.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Buriram_United_logo.svg/250px-Buriram_United_logo.svg.png",
@@ -106,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-25f9025887",
+                          "id": "lnk-d4ffd9d90f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw11gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177928507014701&wsIPSercert=c1632495ee65c9d042517f694fca4557&wsBindIP=2&wsserid=1172580915182858196"
+                          "url": "https://tfw11gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177928567407125&wsIPSercert=d3fa2755efbd5f8ab9b16688f6c80e74&wsBindIP=2&wsserid=1172580915182858196"
                         },
                         {
-                          "id": "lnk-307c511d89",
+                          "id": "lnk-5ba280b7a0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
