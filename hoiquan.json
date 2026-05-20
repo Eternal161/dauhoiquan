@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:41 20/05/2026",
+  "last_updated": "20:50 20/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-1c32ec21218c",
-          "name": "⚽ Shanghai Shenhua vs Wuhan Three Towns | Live 0 - 0 18:35 20/05/2026",
-          "tournament": "Super League",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Wuhan_Three_Towns_F.C.svg/250px-Wuhan_Three_Towns_F.C.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-1c32ec21218c",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-1c32ec21218c",
-                  "name": "Shanghai Shenhua vs Wuhan Three Towns",
-                  "streams": [
-                    {
-                      "id": "kaytee-1c32ec21218c",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4149bda492",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw11gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=fd62835041fe49ebfc13d2bc-177928447073117&wsIPSercert=9194aa7eb75fb3e126b3b24c7d2a9033&wsBindIP=2&wsserid=1168282035622980969"
-                        },
-                        {
-                          "id": "lnk-153891b605",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-8d4843003c89",
           "name": "⚽ Hangzhou Greentown vs Shandong Luneng | Live 0 - 0 19:00 20/05/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5565e60f6b",
+                          "id": "lnk-8f3b135081",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw11gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-177928447893166&wsIPSercert=9194aa7eb75fb3e126b3b24c7d2a9033&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfw11gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=498ad6b0888bc9c29a6331ea-177928506171853&wsIPSercert=c1632495ee65c9d042517f694fca4557&wsBindIP=2&wsserid=1172580915176566596"
                         },
                         {
-                          "id": "lnk-528b4199a6",
+                          "id": "lnk-f53c517a7c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4093b84d51",
+                          "id": "lnk-25f9025887",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw11gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd62835041fe49ebfc13d2bc-177928448743873&wsIPSercert=9194aa7eb75fb3e126b3b24c7d2a9033&wsBindIP=2&wsserid=1168282035622980969"
+                          "url": "https://tfw11gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177928507014701&wsIPSercert=c1632495ee65c9d042517f694fca4557&wsBindIP=2&wsserid=1172580915182858196"
                         },
                         {
-                          "id": "lnk-884a24f10d",
+                          "id": "lnk-307c511d89",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-dfa1e24f667b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b7bbf6c8996f",
+          "name": "⚽ Minerva Punjab vs Mumbai City | Sắp diễn ra vs 18:30 21/05/2026",
+          "tournament": "Indian Super League",
+          "logo_nha": "https://media.api-sports.io/football/teams/3466.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3478.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3466.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b7bbf6c8996f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b7bbf6c8996f",
+                  "name": "Minerva Punjab vs Mumbai City",
+                  "streams": [
+                    {
+                      "id": "kaytee-b7bbf6c8996f",
                       "name": "F",
                       "stream_links": []
                     }
