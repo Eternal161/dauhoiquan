@@ -1,132 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:50 21/05/2026",
+  "last_updated": "01:00 21/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-c17caeaf4026",
-          "name": "⚽ Start vs Bodo/Glimt | H2 - 83' 1 - 3 23:00 20/05/2026",
-          "tournament": "VĐQG Na Uy",
-          "logo_nha": "https://media.api-sports.io/football/teams/334.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/327.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/334.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c17caeaf4026",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c17caeaf4026",
-                  "name": "Start vs Bodo/Glimt",
-                  "streams": [
-                    {
-                      "id": "kaytee-c17caeaf4026",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0e30da9ba9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw10gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177929946078507&wsIPSercert=18dc2985fe2b4411a2d1b059dd9a6ed9&wsBindIP=2&wsserid=1168202333418134578"
-                        },
-                        {
-                          "id": "lnk-c691515cae",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-49fb7f61cb09",
-          "name": "⚽ Kups vs Ff Jaro | H2 - 82' 2 - 0 23:00 20/05/2026",
-          "tournament": "VĐQG Phần Lan",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/pt/1/13/FF_Jaro_logo.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-49fb7f61cb09",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-49fb7f61cb09",
-                  "name": "Kups vs Ff Jaro",
-                  "streams": [
-                    {
-                      "id": "kaytee-49fb7f61cb09",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9801f0e375",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw10gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177929946923770&wsIPSercert=18dc2985fe2b4411a2d1b059dd9a6ed9&wsBindIP=2&wsserid=1168202392933970899"
-                        },
-                        {
-                          "id": "lnk-42fc954d11",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-6133cf185c2e",
           "name": "⚽ Al Khaleej Saihat vs Al-Ahli Jeddah | Sắp bắt đầu - null' 0 - 0 01:00 21/05/2026",
@@ -166,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3951755f5c",
+                          "id": "lnk-03623f5906",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw10gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177929947773357&wsIPSercert=18dc2985fe2b4411a2d1b059dd9a6ed9&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfw11gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=c7939c09a5da15466b83a949-177930006129225&wsIPSercert=0e825e49e4e85c52a035787c7b98555b&wsBindIP=2&wsserid=1168243343860730937"
                         },
                         {
-                          "id": "lnk-0e9b1a6bad",
+                          "id": "lnk-c2530f8660",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +373,96 @@
                   "streams": [
                     {
                       "id": "kaytee-adba9e73e5d2",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-57873a608020",
+          "name": "⚽ Al-Nassr vs Damac | Sắp diễn ra vs 01:00 22/05/2026",
+          "tournament": "Saudi Pro League ( Đầu Cầu Fan CR7 )",
+          "logo_nha": "https://media.api-sports.io/football/teams/2939.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/7/7a/Damac_F.C._logo.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2939.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-57873a608020",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-57873a608020",
+                  "name": "Al-Nassr vs Damac",
+                  "streams": [
+                    {
+                      "id": "kaytee-57873a608020",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c6e6ba1a3664",
+          "name": "⚽ Al-Fayha vs Al-Hilal Saudi Fc | Sắp diễn ra vs 01:00 22/05/2026",
+          "tournament": "Pro League",
+          "logo_nha": "https://media.api-sports.io/football/teams/2944.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2932.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2944.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c6e6ba1a3664",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c6e6ba1a3664",
+                  "name": "Al-Fayha vs Al-Hilal Saudi Fc",
+                  "streams": [
+                    {
+                      "id": "kaytee-c6e6ba1a3664",
                       "name": "F",
                       "stream_links": []
                     }
