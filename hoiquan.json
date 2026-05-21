@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:50 21/05/2026",
+  "last_updated": "00:01 22/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-708f0a7ef58b",
-          "name": "⚽ Ajax vs Groningen | H1 - 5' 0 - 0 23:45 21/05/2026",
+          "name": "⚽ Ajax vs Groningen | H1 - 15' 0 - 0 23:45 21/05/2026",
           "tournament": "Eredivisie",
           "logo_nha": "https://media.api-sports.io/football/teams/194.png",
           "logo_khach": "https://media.api-sports.io/football/teams/202.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e35d13443c",
+                          "id": "lnk-b1d7fd0774",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw20gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=e1a561d1e5fa9b11e4dd3219-177938226194202&wsIPSercert=50d23125b4c39653c2b8398921084bec&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfw24gchnhcjo8rzdrpjtfa3144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=049202043e69548f1627033f-177938287842159&wsIPSercert=b8384ac1fade88c2878650fc3499a5cc&wsBindIP=2&wsserid=1168168154460945005"
                         },
                         {
-                          "id": "lnk-666204c5b2",
+                          "id": "lnk-40971f59c8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
