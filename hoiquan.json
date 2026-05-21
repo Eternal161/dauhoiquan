@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:30 21/05/2026",
+  "last_updated": "08:40 21/05/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cad3e81e99",
+                          "id": "lnk-8f2e791397",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw20gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177932706266495&wsIPSercert=3feff9a1aa98ae94c461dae2bbd2ded5&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfw20gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-177932765039660&wsIPSercert=13f952c6ad731a4aa9018ed0c56c7ebc&wsBindIP=2&wsserid=1168176346313714739"
                         },
                         {
-                          "id": "lnk-6ec1e12811",
+                          "id": "lnk-1dc5fba1bf",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-dfa1e24f667b",
-          "name": "⚽ Junior vs Sporting Cristal | Sắp diễn ra vs 09:00 21/05/2026",
+          "name": "⚽ Junior vs Sporting Cristal | Sắp bắt đầu - null' 0 - 0 09:00 21/05/2026",
           "tournament": "CONMEBOL Libertadores",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaNCIKzpPJH83I5J2Exi7EAkD4McMVH54pA&s",
           "logo_khach": "https://media.api-sports.io/football/teams/2546.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,15 @@
                     {
                       "id": "kaytee-dfa1e24f667b",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-aaa5c8f702",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
