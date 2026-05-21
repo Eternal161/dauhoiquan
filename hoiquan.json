@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:50 22/05/2026",
+  "last_updated": "03:00 22/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-57873a608020",
-          "name": "⚽ Al-Nassr vs Damac | H2 - 88' 4 - 1 01:00 22/05/2026",
+          "name": "⚽ Al-Nassr vs Damac | H2 - 90+4' 4 - 1 01:00 22/05/2026",
           "tournament": "Saudi Pro League ( Đầu Cầu Fan CR7 )",
           "logo_nha": "https://media.api-sports.io/football/teams/2939.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/7/7a/Damac_F.C._logo.png",
@@ -46,78 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-38d65e79fb",
+                          "id": "lnk-22f2319e1a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw21gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177939305352884&wsIPSercert=a2ab6486a1955ab85a494e75a8b30fc5&wsBindIP=2&wsserid=1168176581102008440"
+                          "url": "https://tfw23gr4dymttgwanhct3faau1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=cc867646ac0f694e010058a5-177939366379795&wsIPSercert=6e820044f8dd219984c5084f8d555bce&wsBindIP=2&wsserid=1172666312483236046"
                         },
                         {
-                          "id": "lnk-fede0a5470",
+                          "id": "lnk-eda01a4b29",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-87ce3137f4f6",
-          "name": "⚽ Al-Fayha vs Al-Hilal Saudi Fc | H2 - 88' 0 - 1 01:00 22/05/2026",
-          "tournament": "Pro League",
-          "logo_nha": "https://media.api-sports.io/football/teams/2944.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2932.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2944.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-87ce3137f4f6",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-87ce3137f4f6",
-                  "name": "Al-Fayha vs Al-Hilal Saudi Fc",
-                  "streams": [
-                    {
-                      "id": "kaytee-87ce3137f4f6",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2a289d5c92",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw21gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177939306181710&wsIPSercert=a2ab6486a1955ab85a494e75a8b30fc5&wsBindIP=2&wsserid=1168176581104105640"
-                        },
-                        {
-                          "id": "lnk-c736f56f98",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
                         }
                       ]
                     }
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-3114b8be658b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-7260b3637456",
+          "name": "⚽ Lens vs Nice | Sắp diễn ra vs 02:00 23/05/2026",
+          "tournament": "Coupe de France",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6LsST7Td6rAqdSTMI4TlH_4DWNs7BOqgZQ&s",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/2/2e/OGC_Nice_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6LsST7Td6rAqdSTMI4TlH_4DWNs7BOqgZQ&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-7260b3637456",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-7260b3637456",
+                  "name": "Lens vs Nice",
+                  "streams": [
+                    {
+                      "id": "kaytee-7260b3637456",
                       "name": "F",
                       "stream_links": []
                     }
