@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:40 21/05/2026",
+  "last_updated": "09:50 21/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-dfa1e24f667b",
-          "name": "⚽ Junior vs Sporting Cristal | Live 0 - 0 09:00 21/05/2026",
+          "name": "⚽ Junior vs Sporting Cristal | H1 - 45+5' 3 - 1 09:00 21/05/2026",
           "tournament": "CONMEBOL Libertadores",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaNCIKzpPJH83I5J2Exi7EAkD4McMVH54pA&s",
           "logo_khach": "https://media.api-sports.io/football/teams/2546.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8af10470c2",
+                          "id": "lnk-6c9c8a56dd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw20gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177933125351678&wsIPSercert=0a3f0884b727b70b503bebac9835b910&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfw21gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=498ad6b0888bc9c29a6331ea-177933185883034&wsIPSercert=b1613b89129f469be87bdfff1421c7ae&wsBindIP=2&wsserid=1172580915176566596"
                         },
                         {
-                          "id": "lnk-1f1bd9e2bb",
+                          "id": "lnk-ec59837aa7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
