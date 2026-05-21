@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:30 21/05/2026",
+  "last_updated": "20:40 21/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e84758750b27",
-          "name": "⚽ Shakhtar Donetsk vs Kolos Kovalivka | Giữa Hiệp - 45+2' 0 - 0 19:30 21/05/2026",
+          "name": "⚽ Shakhtar Donetsk vs Kolos Kovalivka | H2 - 48' 0 - 0 19:30 21/05/2026",
           "tournament": "VĐQG Ukraine",
           "logo_nha": "https://media.api-sports.io/football/teams/550.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3627.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3d303b687a",
+                          "id": "lnk-e8a3913e20",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw23gr4dymttgwanhct3fa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=cc867646ac0f694e010058a5-177937025720121&wsIPSercert=017b5bf1a6e2542ccb3620a5da9e0ea4&wsBindIP=2&wsserid=1172666312483236046"
+                          "url": "https://tfw21gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c4c244e3d6c4c768f7bd2ccd-177937086254328&wsIPSercert=f59390aef71f801fd28f9d6f959cfce0&wsBindIP=2&wsserid=1172580915182858212"
                         },
                         {
-                          "id": "lnk-ab88e70ef2",
+                          "id": "lnk-f079751023",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-74b6f2119304",
-          "name": "⚽ Minerva Punjab vs Mumbai City | Sắp diễn ra vs 21:00 21/05/2026",
+          "name": "⚽ Minerva Punjab vs Mumbai City | Sắp bắt đầu - null' 0 - 0 21:00 21/05/2026",
           "tournament": "Indian Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/3466.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3478.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-74b6f2119304",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-96d12c99fb",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw21gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=0e320b8560fa50aad43019c0-177937087091826&wsIPSercert=f59390aef71f801fd28f9d6f959cfce0&wsBindIP=2&wsserid=1172580915177615204"
+                        },
+                        {
+                          "id": "lnk-d6afe3df8b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
