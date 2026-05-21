@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:10 21/05/2026",
+  "last_updated": "22:20 21/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-74b6f2119304",
-          "name": "⚽ Minerva Punjab vs Mumbai City | H2 - 51' 0 - 0 21:00 21/05/2026",
+          "name": "⚽ Minerva Punjab vs Mumbai City | H2 - 61' 0 - 0 21:00 21/05/2026",
           "tournament": "Indian Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/3466.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3478.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4e3f043316",
+                          "id": "lnk-3554eea636",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw20gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=015f882d6bf28108fca60425-177937625723243&wsIPSercert=3ff042821ba38616941302e8c1d43d5f&wsBindIP=2&wsserid=1168176337061519089"
+                          "url": "https://tfw20gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=a571361e8dbdb51eb236af85-177937685342354&wsIPSercert=77539a6e7114e1c4d8fb8071a2e56736&wsBindIP=2&wsserid=1168270715630357023"
                         },
                         {
-                          "id": "lnk-bb99b61103",
+                          "id": "lnk-f57fc2e6f6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -193,51 +193,6 @@
                   "streams": [
                     {
                       "id": "kaytee-87ce3137f4f6",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-d90436f05714",
-          "name": "⚽ Al-Ittihad Fc vs Al-Qadisiyah Fc | Sắp diễn ra vs 01:00 22/05/2026",
-          "tournament": "Pro League",
-          "logo_nha": "https://media.api-sports.io/football/teams/2938.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2933.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2938.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-d90436f05714",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-d90436f05714",
-                  "name": "Al-Ittihad Fc vs Al-Qadisiyah Fc",
-                  "streams": [
-                    {
-                      "id": "kaytee-d90436f05714",
                       "name": "F",
                       "stream_links": []
                     }
@@ -463,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-8ae1dd0c06ad",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6b2bd58e9d46",
+          "name": "⚽ Viettel vs Pho Hien | Sắp diễn ra vs 19:15 22/05/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/d/d1/Viettel_FC_2021.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/9166.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/d/d1/Viettel_FC_2021.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6b2bd58e9d46",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6b2bd58e9d46",
+                  "name": "Viettel vs Pho Hien",
+                  "streams": [
+                    {
+                      "id": "kaytee-6b2bd58e9d46",
                       "name": "F",
                       "stream_links": []
                     }
