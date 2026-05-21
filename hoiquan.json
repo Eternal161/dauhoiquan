@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:50 22/05/2026",
+  "last_updated": "02:00 22/05/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9b12e63dbf",
+                          "id": "lnk-e004cb1ae8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw20gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177938945004547&wsIPSercert=8d402405e5186d6da9bde7f16fa22435&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfw21gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=dbd8f789bb7a7a2508c32238-177939006651252&wsIPSercert=eaac0726182129a3548f44c8c9d00e66&wsBindIP=2&wsserid=1168278313570948617"
                         },
                         {
-                          "id": "lnk-5d139f1d8d",
+                          "id": "lnk-02927aea0a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-87ce3137f4f6",
-          "name": "⚽ Al-Fayha vs Al-Hilal Saudi Fc | H1 - 45+5' 0 - 1 01:00 22/05/2026",
+          "name": "⚽ Al-Fayha vs Al-Hilal Saudi Fc | Giữa Hiệp - 45+6' 0 - 1 01:00 22/05/2026",
           "tournament": "Pro League",
           "logo_nha": "https://media.api-sports.io/football/teams/2944.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2932.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c872cd8621",
+                          "id": "lnk-78003a629e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw20gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177938945819957&wsIPSercert=8d402405e5186d6da9bde7f16fa22435&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfw21gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=b8b77e13eb38637191d2f4fc-177939007509764&wsIPSercert=eaac0726182129a3548f44c8c9d00e66&wsBindIP=2&wsserid=1168282035650244061"
                         },
                         {
-                          "id": "lnk-830367768b",
+                          "id": "lnk-df37802ac2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -443,11 +443,11 @@
           ]
         },
         {
-          "id": "kaytee-afd49fbdbb82",
-          "name": "⚽ Vps vs Hjk Helsinki | Sắp diễn ra vs 23:00 22/05/2026",
-          "tournament": "Veikkausliiga",
-          "logo_nha": "https://media.api-sports.io/football/teams/650.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/pt/e/ec/HJK_Helsinki_Logo.png",
+          "id": "kaytee-3114b8be658b",
+          "name": "⚽ Fiorentina vs Atalanta | Sắp diễn ra vs 01:45 23/05/2026",
+          "tournament": "Serie A",
+          "logo_nha": "https://media.api-sports.io/football/teams/502.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -455,7 +455,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/650.png",
+            "url": "https://media.api-sports.io/football/teams/502.png",
             "width": 1600,
             "height": 1200
           },
@@ -469,15 +469,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-afd49fbdbb82",
+              "id": "kaytee-3114b8be658b",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-afd49fbdbb82",
-                  "name": "Vps vs Hjk Helsinki",
+                  "id": "kaytee-3114b8be658b",
+                  "name": "Fiorentina vs Atalanta",
                   "streams": [
                     {
-                      "id": "kaytee-afd49fbdbb82",
+                      "id": "kaytee-3114b8be658b",
                       "name": "F",
                       "stream_links": []
                     }
