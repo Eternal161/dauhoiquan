@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:40 21/05/2026",
+  "last_updated": "19:50 21/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e84758750b27",
-          "name": "⚽ Shakhtar Donetsk vs Kolos Kovalivka | H1 - 7' 0 - 0 19:30 21/05/2026",
+          "name": "⚽ Shakhtar Donetsk vs Kolos Kovalivka | H1 - 17' 0 - 0 19:30 21/05/2026",
           "tournament": "VĐQG Ukraine",
           "logo_nha": "https://media.api-sports.io/football/teams/550.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3627.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ee91f93dfd",
+                          "id": "lnk-cc7404e5ac",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw20gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e7feef4c54a9619feb576549-177936725932143&wsIPSercert=90ce03d75efe82c46b415c815414a901&wsBindIP=2&wsserid=1168214364742294105"
+                          "url": "https://tfw20gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177936786251707&wsIPSercert=b6b1bbf6d362f88a451f6b25cef8dc56&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-69ff201201",
+                          "id": "lnk-b1de96b90f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
