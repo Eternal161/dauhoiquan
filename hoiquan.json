@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:40 22/05/2026",
+  "last_updated": "03:50 22/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-57873a608020",
-          "name": "⚽ Al-Nassr vs Damac | H2 - 90+4' 4 - 1 01:00 22/05/2026",
-          "tournament": "Saudi Pro League ( Đầu Cầu Fan CR7 )",
-          "logo_nha": "https://media.api-sports.io/football/teams/2939.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/7/7a/Damac_F.C._logo.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2939.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-57873a608020",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-57873a608020",
-                  "name": "Al-Nassr vs Damac",
-                  "streams": [
-                    {
-                      "id": "kaytee-57873a608020",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6be4c6646b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw20gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fa047a81a3972ea683c4010f-177939606038967&wsIPSercert=399423e63947cf1a445d2d33fcd41a39&wsBindIP=2&wsserid=1168283476522828939"
-                        },
-                        {
-                          "id": "lnk-da52812ed6",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-006142634350",
           "name": "⚽ Penarol vs Corinthians | Sắp diễn ra vs 07:30 22/05/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-7260b3637456",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b9c28f10f8fb",
+          "name": "⚽ Da Nang vs Hai Phong | Sắp diễn ra vs 18:00 23/05/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://media.api-sports.io/football/teams/3669.png",
+          "logo_khach": "https://vpf.vn/wp-content/uploads/2018/10/haiphongfc.jpg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3669.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b9c28f10f8fb",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b9c28f10f8fb",
+                  "name": "Da Nang vs Hai Phong",
+                  "streams": [
+                    {
+                      "id": "kaytee-b9c28f10f8fb",
                       "name": "F",
                       "stream_links": []
                     }
