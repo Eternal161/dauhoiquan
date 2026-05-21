@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:00 21/05/2026",
+  "last_updated": "11:10 21/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-dfa1e24f667b",
-          "name": "⚽ Junior vs Sporting Cristal | H2 - 90+8' 3 - 2 09:00 21/05/2026",
-          "tournament": "CONMEBOL Libertadores",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaNCIKzpPJH83I5J2Exi7EAkD4McMVH54pA&s",
-          "logo_khach": "https://media.api-sports.io/football/teams/2546.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaNCIKzpPJH83I5J2Exi7EAkD4McMVH54pA&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-dfa1e24f667b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-dfa1e24f667b",
-                  "name": "Junior vs Sporting Cristal",
-                  "streams": [
-                    {
-                      "id": "kaytee-dfa1e24f667b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ecd0ed9720",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-b7bbf6c8996f",
           "name": "⚽ Minerva Punjab vs Mumbai City | Sắp diễn ra vs 18:30 21/05/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-c30e78dfa8b9",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3e0d87ed0a19",
+          "name": "⚽ Machida Zelvia vs Urawa | Sắp diễn ra vs 17:30 22/05/2026",
+          "tournament": "J1 League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/FC_Machida_Zelvia_logo.svg/250px-FC_Machida_Zelvia_logo.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/287.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/FC_Machida_Zelvia_logo.svg/250px-FC_Machida_Zelvia_logo.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3e0d87ed0a19",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3e0d87ed0a19",
+                  "name": "Machida Zelvia vs Urawa",
+                  "streams": [
+                    {
+                      "id": "kaytee-3e0d87ed0a19",
                       "name": "F",
                       "stream_links": []
                     }
