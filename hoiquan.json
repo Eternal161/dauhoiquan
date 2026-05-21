@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:30 21/05/2026",
+  "last_updated": "09:40 21/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-4e6aaa56cacb",
-          "name": "⚽ Palmeiras vs Deportes Tolima | Live 0 - 0 07:30 21/05/2026",
-          "tournament": "Conmebol Copa Libertado",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/500px-Palmeiras_logo.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Tolima_Campe%C3%B3n_2018.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/500px-Palmeiras_logo.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-4e6aaa56cacb",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-4e6aaa56cacb",
-                  "name": "Palmeiras vs Deportes Tolima",
-                  "streams": [
-                    {
-                      "id": "kaytee-4e6aaa56cacb",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5f621c032b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw23gr4dymttgwanhct3faauommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f1d6e7dc9e90ef84d715f9d8-177933066046632&wsIPSercert=ad054ab17c64efd1213e7175f3a74921&wsBindIP=2&wsserid=1168162712924058667"
-                        },
-                        {
-                          "id": "lnk-2e5877e58e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-dfa1e24f667b",
-          "name": "⚽ Junior vs Sporting Cristal | H1 - 30' 2 - 0 09:00 21/05/2026",
+          "name": "⚽ Junior vs Sporting Cristal | Live 0 - 0 09:00 21/05/2026",
           "tournament": "CONMEBOL Libertadores",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaNCIKzpPJH83I5J2Exi7EAkD4McMVH54pA&s",
           "logo_khach": "https://media.api-sports.io/football/teams/2546.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-62a8979ece",
+                          "id": "lnk-8af10470c2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw23gr4dymttgwanhct3faauommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=cc867646ac0f694e010058a5-177933066893793&wsIPSercert=ad054ab17c64efd1213e7175f3a74921&wsBindIP=2&wsserid=1172666312483236046"
+                          "url": "https://tfw20gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177933125351678&wsIPSercert=0a3f0884b727b70b503bebac9835b910&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-2a5d314c65",
+                          "id": "lnk-1f1bd9e2bb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-713acc0ebed8",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c30e78dfa8b9",
+          "name": "⚽ Arema Fc vs Psim Yogyakarta | Sắp diễn ra vs 15:30 22/05/2026",
+          "tournament": "Liga 1",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Arema_FC_2017_logo.svg/1280px-Arema_FC_2017_logo.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/id/9/9c/Logo_PSIM_Yogyakarta.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Arema_FC_2017_logo.svg/1280px-Arema_FC_2017_logo.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c30e78dfa8b9",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c30e78dfa8b9",
+                  "name": "Arema Fc vs Psim Yogyakarta",
+                  "streams": [
+                    {
+                      "id": "kaytee-c30e78dfa8b9",
                       "name": "F",
                       "stream_links": []
                     }
