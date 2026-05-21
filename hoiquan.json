@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:40 22/05/2026",
+  "last_updated": "01:50 22/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-708f0a7ef58b",
-          "name": "⚽ Ajax vs Groningen | H2 - 90+2' 2 - 0 23:45 21/05/2026",
-          "tournament": "Eredivisie",
-          "logo_nha": "https://media.api-sports.io/football/teams/194.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/202.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/194.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-708f0a7ef58b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-708f0a7ef58b",
-                  "name": "Ajax vs Groningen",
-                  "streams": [
-                    {
-                      "id": "kaytee-708f0a7ef58b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0a1582598f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw24gchnhcjo8rzdrpjtfa3144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=049202043e69548f1627033f-177938884949915&wsIPSercert=2fe1d0ffd9721598291800f63fa7f267&wsBindIP=2&wsserid=1168168154460945005"
-                        },
-                        {
-                          "id": "lnk-28654f10c7",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-57873a608020",
-          "name": "⚽ Al-Nassr vs Damac | H1 - 40' 1 - 0 01:00 22/05/2026",
+          "name": "⚽ Al-Nassr vs Damac | Giữa Hiệp - 45+4' 1 - 0 01:00 22/05/2026",
           "tournament": "Saudi Pro League ( Đầu Cầu Fan CR7 )",
           "logo_nha": "https://media.api-sports.io/football/teams/2939.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/7/7a/Damac_F.C._logo.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a045c4d264",
+                          "id": "lnk-9b12e63dbf",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw24gchnhcjo8rzdrpjtfa3144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=6fbd460e8fcb23821e8a5628-177938885780120&wsIPSercert=2fe1d0ffd9721598291800f63fa7f267&wsBindIP=2&wsserid=1168168154459896377"
+                          "url": "https://tfw20gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177938945004547&wsIPSercert=8d402405e5186d6da9bde7f16fa22435&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-1c429d33c6",
+                          "id": "lnk-5d139f1d8d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-87ce3137f4f6",
-          "name": "⚽ Al-Fayha vs Al-Hilal Saudi Fc | H1 - 40' 0 - 2 01:00 22/05/2026",
+          "name": "⚽ Al-Fayha vs Al-Hilal Saudi Fc | H1 - 45+5' 0 - 1 01:00 22/05/2026",
           "tournament": "Pro League",
           "logo_nha": "https://media.api-sports.io/football/teams/2944.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2932.png",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-20acdc1a00",
+                          "id": "lnk-c872cd8621",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw24gchnhcjo8rzdrpjtfa3144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=6fbd460e8fcb23821e8a5628-177938886644122&wsIPSercert=2fe1d0ffd9721598291800f63fa7f267&wsBindIP=2&wsserid=1168168154459896377"
+                          "url": "https://tfw20gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177938945819957&wsIPSercert=8d402405e5186d6da9bde7f16fa22435&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-4cc7317924",
+                          "id": "lnk-830367768b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-738b343384a4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-afd49fbdbb82",
+          "name": "⚽ Vps vs Hjk Helsinki | Sắp diễn ra vs 23:00 22/05/2026",
+          "tournament": "Veikkausliiga",
+          "logo_nha": "https://media.api-sports.io/football/teams/650.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/pt/e/ec/HJK_Helsinki_Logo.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/650.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-afd49fbdbb82",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-afd49fbdbb82",
+                  "name": "Vps vs Hjk Helsinki",
+                  "streams": [
+                    {
+                      "id": "kaytee-afd49fbdbb82",
                       "name": "F",
                       "stream_links": []
                     }
