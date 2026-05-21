@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:00 21/05/2026",
+  "last_updated": "07:11 21/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-a3c5eb1aa3d2",
-          "name": "⚽ Santos vs San Lorenzo | H2 - 90+6' 2 - 2 05:00 21/05/2026",
-          "tournament": "CONMEBOL Sudamericana",
-          "logo_nha": "https://media.api-sports.io/football/teams/128.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/460.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/128.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a3c5eb1aa3d2",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a3c5eb1aa3d2",
-                  "name": "Santos vs San Lorenzo",
-                  "streams": [
-                    {
-                      "id": "kaytee-a3c5eb1aa3d2",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5f31b1b883",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw21gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd62835041fe49ebfc13d2bc-177932166155564&wsIPSercert=103a60b20fcf81994a79a541af61858a&wsBindIP=2&wsserid=1168282035622980969"
-                        },
-                        {
-                          "id": "lnk-468d19d5f2",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-4e6aaa56cacb",
-          "name": "⚽ Palmeiras vs Deportes Tolima | Sắp diễn ra vs 07:30 21/05/2026",
+          "name": "⚽ Palmeiras vs Deportes Tolima | Live 0 - 0 07:30 21/05/2026",
           "tournament": "Conmebol Copa Libertado",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/500px-Palmeiras_logo.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Tolima_Campe%C3%B3n_2018.png",
@@ -86,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +44,22 @@
                     {
                       "id": "kaytee-4e6aaa56cacb",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-c062c84d69",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw21gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177932227038395&wsIPSercert=e573b40b57cd17161963c4adda3d7d66&wsBindIP=2&wsserid=1168176581104105640"
+                        },
+                        {
+                          "id": "lnk-d15e2beb6a",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -463,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-006142634350",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-713acc0ebed8",
+          "name": "⚽ Cruz Azul vs U.N.A.M. - Pumas | Sắp diễn ra vs 09:00 22/05/2026",
+          "tournament": "Liga MX",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4xNkHyv3vyiYqX7HSZ5whQjvMJVYJlF3MQ&s",
+          "logo_khach": "https://media.api-sports.io/football/teams/2286.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4xNkHyv3vyiYqX7HSZ5whQjvMJVYJlF3MQ&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-713acc0ebed8",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-713acc0ebed8",
+                  "name": "Cruz Azul vs U.N.A.M. - Pumas",
+                  "streams": [
+                    {
+                      "id": "kaytee-713acc0ebed8",
                       "name": "F",
                       "stream_links": []
                     }
