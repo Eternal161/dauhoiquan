@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:01 21/05/2026",
+  "last_updated": "19:10 21/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e84758750b27",
-          "name": "⚽ Shakhtar Donetsk vs Kolos Kovalivka | Sắp diễn ra vs 19:30 21/05/2026",
+          "name": "⚽ Shakhtar Donetsk vs Kolos Kovalivka | Sắp bắt đầu - null' 0 - 0 19:30 21/05/2026",
           "tournament": "VĐQG Ukraine",
           "logo_nha": "https://media.api-sports.io/football/teams/550.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3627.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-e84758750b27",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-9d617cd892",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw20gr4uqmtt8y41hcjz8rzdncbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=015f882d6bf28108fca60425-177936545030270&wsIPSercert=a63acfb4aa676555efae62fb80b33e11&wsBindIP=2&wsserid=1168176337061519089"
+                        },
+                        {
+                          "id": "lnk-367ba03631",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
