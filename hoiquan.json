@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:40 22/05/2026",
+  "last_updated": "18:50 22/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-3e0d87ed0a19",
-          "name": "⚽ Machida Zelvia vs Urawa | H2 - 49' 1 - 0 17:30 22/05/2026",
+          "name": "⚽ Machida Zelvia vs Urawa | H2 - 59' 1 - 0 17:30 22/05/2026",
           "tournament": "J1 League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/FC_Machida_Zelvia_logo.svg/250px-FC_Machida_Zelvia_logo.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/287.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a386d2104d",
+                          "id": "lnk-f569cf198b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw31gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=015f882d6bf28108fca60425-177945006964015&wsIPSercert=18be2066d94fed7997f6b1e01649e159&wsBindIP=2&wsserid=1168214263213094505"
+                          "url": "https://tfw30gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=ddc6d8e2fb217c58ffca1bb2-177945065923051&wsIPSercert=0d0c02f7daceb7b676bf46f0c4e26831&wsBindIP=2&wsserid=1168283323302724409"
                         },
                         {
-                          "id": "lnk-ea289ce8d7",
+                          "id": "lnk-bf5ee51286",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-6b2bd58e9d46",
-          "name": "⚽ Viettel vs Pho Hien | Sắp diễn ra vs 19:15 22/05/2026",
+          "name": "⚽ Viettel vs Pho Hien | Sắp bắt đầu - null' 0 - 0 19:15 22/05/2026",
           "tournament": "V.League 1",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/d/d1/Viettel_FC_2021.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/9166.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-6b2bd58e9d46",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-8f316f652e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw30gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177945066784510&wsIPSercert=0d0c02f7daceb7b676bf46f0c4e26831&wsBindIP=2&wsserid=1168283323406534424"
+                        },
+                        {
+                          "id": "lnk-5e5345b267",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
