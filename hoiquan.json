@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:00 22/05/2026",
+  "last_updated": "08:10 22/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-006142634350",
-          "name": "⚽ Penarol vs Corinthians | H1 - 30' 1 - 0 07:30 22/05/2026",
+          "name": "⚽ Penarol vs Corinthians | H1 - 40' 1 - 0 07:30 22/05/2026",
           "tournament": "CONMEBOL Libertadores",
           "logo_nha": "https://media.api-sports.io/football/teams/2348.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVCiLE7M3qhIyBp3vaGd3oGJvNzP6A77Y7Q&s",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ae0864ad9a",
+                          "id": "lnk-e25bad5976",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw31gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=498ad6b0888bc9c29a6331ea-177941165837613&wsIPSercert=011a17e0746a1afee9e9f2989fd11004&wsBindIP=2&wsserid=1172580915176566596"
+                          "url": "https://tfw30gr4uqmtt8y41hcjz8rzdncbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-177941224735432&wsIPSercert=14801f96db20c566a8dc9a13cc1e1cd2&wsBindIP=2&wsserid=1168176346313714739"
                         },
                         {
-                          "id": "lnk-b2e5d1b957",
+                          "id": "lnk-0da57ee3ba",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
