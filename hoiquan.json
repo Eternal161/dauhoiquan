@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:10 22/05/2026",
+  "last_updated": "11:20 22/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-713acc0ebed8",
-          "name": "⚽ Cruz Azul vs U.N.A.M. - Pumas | Live 0 - 0 09:00 22/05/2026",
-          "tournament": "Liga MX",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4xNkHyv3vyiYqX7HSZ5whQjvMJVYJlF3MQ&s",
-          "logo_khach": "https://media.api-sports.io/football/teams/2286.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4xNkHyv3vyiYqX7HSZ5whQjvMJVYJlF3MQ&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-713acc0ebed8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-713acc0ebed8",
-                  "name": "Cruz Azul vs U.N.A.M. - Pumas",
-                  "streams": [
-                    {
-                      "id": "kaytee-713acc0ebed8",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e14e0a03f7",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-5061746e5c14",
           "name": "⚽ Arema Fc vs Psim Yogyakarta | Sắp diễn ra vs 15:30 22/05/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-d1118dc2af80",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c9849f84a53d",
+          "name": "⚽ Thanh Hóa vs Hoang Anh Gia Lai | Sắp diễn ra vs 18:00 23/05/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3673.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c9849f84a53d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c9849f84a53d",
+                  "name": "Thanh Hóa vs Hoang Anh Gia Lai",
+                  "streams": [
+                    {
+                      "id": "kaytee-c9849f84a53d",
                       "name": "F",
                       "stream_links": []
                     }
