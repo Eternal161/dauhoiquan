@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:00 22/05/2026",
+  "last_updated": "22:10 22/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-738b343384a4",
-          "name": "⚽ Sumqayıt vs Qarabag | Sắp diễn ra vs 22:30 22/05/2026",
+          "name": "⚽ Sumqayıt vs Qarabag | Live 0 - 0 22:30 22/05/2026",
           "tournament": "Premyer Liqa",
           "logo_nha": "https://media.api-sports.io/football/teams/5503.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/f/fe/Qaraba%C4%9F_FK_logo.svg",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-738b343384a4",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-da33afd04e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw31gr5dgmttgha1hctu8yzdgcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=345c22bdb1e53fd663d6ffb8-177946266318433&wsIPSercert=d206f097b524bef8bd5a9d14a1eb4dc7&wsBindIP=2&wsserid=1172660967355683904"
+                        },
+                        {
+                          "id": "lnk-804a5432a9",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
