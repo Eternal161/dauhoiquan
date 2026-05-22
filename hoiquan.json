@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:50 22/05/2026",
+  "last_updated": "18:00 22/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-3e0d87ed0a19",
-          "name": "⚽ Machida Zelvia vs Urawa | Live 0 - 0 17:30 22/05/2026",
+          "name": "⚽ Machida Zelvia vs Urawa | H1 - 28' 1 - 0 17:30 22/05/2026",
           "tournament": "J1 League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/FC_Machida_Zelvia_logo.svg/250px-FC_Machida_Zelvia_logo.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/287.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-355cf33bd0",
+                          "id": "lnk-d524ca4005",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw30gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=ddc6d8e2fb217c58ffca1bb2-177944705558167&wsIPSercert=735ea8156e4584cc85a128c9933e857a&wsBindIP=2&wsserid=1168283323302724409"
+                          "url": "https://tfw31gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177944766440155&wsIPSercert=500ec8e9cb1436a69d05cfe669a6050a&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-cad976cb07",
+                          "id": "lnk-ccbbfc2673",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
