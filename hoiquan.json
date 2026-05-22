@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:40 22/05/2026",
+  "last_updated": "17:50 22/05/2026",
   "groups": [
     {
       "id": "live",
@@ -46,65 +46,20 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fe4b8e7a72",
+                          "id": "lnk-355cf33bd0",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw30gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-177944646610344&wsIPSercert=bd085fa90ea0744f6d0d3edd3995d5cd&wsBindIP=2&wsserid=1168176346313714739"
+                          "url": "https://tfw30gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=ddc6d8e2fb217c58ffca1bb2-177944705558167&wsIPSercert=735ea8156e4584cc85a128c9933e857a&wsBindIP=2&wsserid=1168283323302724409"
                         },
                         {
-                          "id": "lnk-14ab1c05cf",
+                          "id": "lnk-cad976cb07",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
                         }
                       ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-8ae1dd0c06ad",
-          "name": "⚽ Dewa United vs Bali United | Sắp diễn ra vs 19:00 22/05/2026",
-          "tournament": "Liga 1",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/5/52/Dewa_United_F.C._logo.svg",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/5/5e/Bali_United_logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/5/52/Dewa_United_F.C._logo.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-8ae1dd0c06ad",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-8ae1dd0c06ad",
-                  "name": "Dewa United vs Bali United",
-                  "streams": [
-                    {
-                      "id": "kaytee-8ae1dd0c06ad",
-                      "name": "F",
-                      "stream_links": []
                     }
                   ]
                 }
@@ -463,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-1547f73f4e75",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-4ad801ea182f",
+          "name": "⚽ Kashiwa Reysol vs Jef United Chiba | Sắp diễn ra vs 16:00 23/05/2026",
+          "tournament": "J1 League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/e/e6/KashiwaReysol.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/1/13/JEFUnitedIchiharaChiba.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/e/e6/KashiwaReysol.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4ad801ea182f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4ad801ea182f",
+                  "name": "Kashiwa Reysol vs Jef United Chiba",
+                  "streams": [
+                    {
+                      "id": "kaytee-4ad801ea182f",
                       "name": "F",
                       "stream_links": []
                     }
