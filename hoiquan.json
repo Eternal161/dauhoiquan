@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:40 22/05/2026",
+  "last_updated": "20:50 22/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6b2bd58e9d46",
-          "name": "⚽ Viettel vs Pho Hien | H2 - 63' 0 - 1 19:15 22/05/2026",
+          "name": "⚽ Viettel vs Pho Hien | H2 - 73' 0 - 1 19:15 22/05/2026",
           "tournament": "V.League 1",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/d/d1/Viettel_FC_2021.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/9166.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5a2ff884fd",
+                          "id": "lnk-b0e1010f78",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw30gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=015f882d6bf28108fca60425-177945725853422&wsIPSercert=3f86ea61b3d9ea0fbffe2c5035044e15&wsBindIP=2&wsserid=1168176337061519089"
+                          "url": "https://tfw30gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=015f882d6bf28108fca60425-177945786873437&wsIPSercert=c283a7614c3c84422f62c5138bf275fb&wsBindIP=2&wsserid=1168176337061519089"
                         },
                         {
-                          "id": "lnk-2977ebd75e",
+                          "id": "lnk-f22c67144e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
