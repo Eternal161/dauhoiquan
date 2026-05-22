@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:10 22/05/2026",
+  "last_updated": "15:20 22/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-5061746e5c14",
-          "name": "⚽ Arema Fc vs Psim Yogyakarta | Sắp bắt đầu - null' 0 - 0 15:30 22/05/2026",
-          "tournament": "Liga 1",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Arema_FC_2017_logo.svg/1280px-Arema_FC_2017_logo.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/id/9/9c/Logo_PSIM_Yogyakarta.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Arema_FC_2017_logo.svg/1280px-Arema_FC_2017_logo.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-5061746e5c14",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-5061746e5c14",
-                  "name": "Arema Fc vs Psim Yogyakarta",
-                  "streams": [
-                    {
-                      "id": "kaytee-5061746e5c14",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bebc75ad66",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-3e0d87ed0a19",
           "name": "⚽ Machida Zelvia vs Urawa | Sắp diễn ra vs 17:30 22/05/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-c9849f84a53d",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-31d1abc3eaee",
+          "name": "⚽ Hull City vs Southampton | Sắp diễn ra vs 22:30 23/05/2026",
+          "tournament": "Championship",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/3/36/Hull_City_AFC.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/4/4b/356px-FC_Southampton.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/3/36/Hull_City_AFC.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-31d1abc3eaee",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-31d1abc3eaee",
+                  "name": "Hull City vs Southampton",
+                  "streams": [
+                    {
+                      "id": "kaytee-31d1abc3eaee",
                       "name": "F",
                       "stream_links": []
                     }
