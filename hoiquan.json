@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:50 23/05/2026",
+  "last_updated": "04:00 23/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-7260b3637456",
-          "name": "⚽ Lens vs Nice | H2 - 83' 3 - 1 02:00 23/05/2026",
+          "name": "⚽ Lens vs Nice | H2 - 90+2' 3 - 1 02:00 23/05/2026",
           "tournament": "Coupe de France",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6LsST7Td6rAqdSTMI4TlH_4DWNs7BOqgZQ&s",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/2/2e/OGC_Nice_logo.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-149bd56be4",
+                          "id": "lnk-8a24299097",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw31gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177948305664857&wsIPSercert=3f0625a8f1e5adbee0220988914373b9&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfw30gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177948365967888&wsIPSercert=3b5d61884384bec0b2dffc857d4e98d3&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-dc2d6e0a10",
+                          "id": "lnk-7dafd168e5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
