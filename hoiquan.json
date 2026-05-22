@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:00 22/05/2026",
+  "last_updated": "11:10 22/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-713acc0ebed8",
-          "name": "⚽ Cruz Azul vs U.N.A.M. - Pumas | H2 - 88' 0 - 0 09:00 22/05/2026",
+          "name": "⚽ Cruz Azul vs U.N.A.M. - Pumas | Live 0 - 0 09:00 22/05/2026",
           "tournament": "Liga MX",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4xNkHyv3vyiYqX7HSZ5whQjvMJVYJlF3MQ&s",
           "logo_khach": "https://media.api-sports.io/football/teams/2286.png",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7ad26d8910",
+                          "id": "lnk-e14e0a03f7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw30gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-177942246273938&wsIPSercert=e478fe4a38c4361460b7cecf6695e25e&wsBindIP=2&wsserid=1168176346313714739"
-                        },
-                        {
-                          "id": "lnk-603f8d2c78",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
                         }
                       ]
