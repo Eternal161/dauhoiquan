@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:20 23/05/2026",
+  "last_updated": "03:31 23/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-3114b8be658b",
-          "name": "⚽ Fiorentina vs Atalanta | H2 - 77' 1 - 0 01:45 23/05/2026",
+          "name": "⚽ Fiorentina vs Atalanta | H2 - 88' 1 - 1 01:45 23/05/2026",
           "tournament": "Serie A",
           "logo_nha": "https://media.api-sports.io/football/teams/502.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-058543c944",
+                          "id": "lnk-477dcebb66",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw31gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=a37b48b6a6131b65ea617dd8-177948125140742&wsIPSercert=af6e80235df04b54cd6fd7fed5059311&wsBindIP=2&wsserid=1172580915169226372"
+                          "url": "https://tfw31gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177948189477808&wsIPSercert=affcf56e842aefb82eda33df2d97783c&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-a8f0961b51",
+                          "id": "lnk-635e6a689f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-7260b3637456",
-          "name": "⚽ Lens vs Nice | H2 - 52' 2 - 1 02:00 23/05/2026",
+          "name": "⚽ Lens vs Nice | H2 - 63' 2 - 1 02:00 23/05/2026",
           "tournament": "Coupe de France",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6LsST7Td6rAqdSTMI4TlH_4DWNs7BOqgZQ&s",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/2/2e/OGC_Nice_logo.svg",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5c9cd81e3f",
+                          "id": "lnk-297f449ac7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw31gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177948125993780&wsIPSercert=af6e80235df04b54cd6fd7fed5059311&wsBindIP=2&wsserid=1172580915182858196"
+                          "url": "https://tfw31gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177948190291720&wsIPSercert=affcf56e842aefb82eda33df2d97783c&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-a4f6ae1848",
+                          "id": "lnk-2d2847d356",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
