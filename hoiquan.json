@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:10 23/05/2026",
+  "last_updated": "00:20 23/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-738b343384a4",
-          "name": "⚽ Sumqayıt vs Qarabag | H2 - 82' 2 - 3 22:30 22/05/2026",
+          "name": "⚽ Sumqayıt vs Qarabag | H2 - 90+2' 2 - 4 22:30 22/05/2026",
           "tournament": "Premyer Liqa",
           "logo_nha": "https://media.api-sports.io/football/teams/5503.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/f/fe/Qaraba%C4%9F_FK_logo.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-db1d956bf1",
+                          "id": "lnk-89baba484c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw30gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177946985120834&wsIPSercert=c5a1d33c3389a7c10e066f57e559861a&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfw30gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177947045805183&wsIPSercert=fae8979e454b0f1ca3a83b782f821fa6&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-7c7a40b8c3",
+                          "id": "lnk-86ee67f94e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-1060359da8cb",
-          "name": "⚽ China Pr U17 vs Japan U17 | H1 - 9' 0 - 0 00:00 23/05/2026",
+          "name": "⚽ China Pr U17 vs Japan U17 | H1 - 20' 0 - 0 00:00 23/05/2026",
           "tournament": "AFC U17 Asian Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/21449.png",
           "logo_khach": "https://media.api-sports.io/football/teams/12511.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1aa702dea9",
+                          "id": "lnk-88aa8b0781",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw30gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177946985938341&wsIPSercert=c5a1d33c3389a7c10e066f57e559861a&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfw30gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177947046646480&wsIPSercert=fae8979e454b0f1ca3a83b782f821fa6&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-c954bf7e98",
+                          "id": "lnk-3de4206c81",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
