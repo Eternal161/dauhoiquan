@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:00 22/05/2026",
+  "last_updated": "15:10 22/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-5061746e5c14",
-          "name": "⚽ Arema Fc vs Psim Yogyakarta | Sắp diễn ra vs 15:30 22/05/2026",
+          "name": "⚽ Arema Fc vs Psim Yogyakarta | Sắp bắt đầu - null' 0 - 0 15:30 22/05/2026",
           "tournament": "Liga 1",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Arema_FC_2017_logo.svg/1280px-Arema_FC_2017_logo.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/id/9/9c/Logo_PSIM_Yogyakarta.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "kaytee-5061746e5c14",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-bebc75ad66",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
