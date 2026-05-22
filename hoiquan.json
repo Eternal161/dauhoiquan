@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:50 22/05/2026",
+  "last_updated": "10:00 22/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-006142634350",
-          "name": "⚽ Penarol vs Corinthians | Live 0 - 0 07:30 22/05/2026",
+          "name": "⚽ Penarol vs Corinthians | H2 - 90+7' 1 - 1 07:30 22/05/2026",
           "tournament": "CONMEBOL Libertadores",
           "logo_nha": "https://media.api-sports.io/football/teams/2348.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVCiLE7M3qhIyBp3vaGd3oGJvNzP6A77Y7Q&s",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-943be69e1b",
+                          "id": "lnk-7a7cbabdb4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-713acc0ebed8",
-          "name": "⚽ Cruz Azul vs U.N.A.M. - Pumas | Live 0 - 0 09:00 22/05/2026",
+          "name": "⚽ Cruz Azul vs U.N.A.M. - Pumas | Giữa Hiệp - 45+5' 0 - 0 09:00 22/05/2026",
           "tournament": "Liga MX",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4xNkHyv3vyiYqX7HSZ5whQjvMJVYJlF3MQ&s",
           "logo_khach": "https://media.api-sports.io/football/teams/2286.png",
@@ -99,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d51b453096",
+                          "id": "lnk-77eee8ad52",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw31gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177941826542861&wsIPSercert=94005162370679f4ef9a65d836c5e6c1&wsBindIP=2&wsserid=1172580915182858196"
+                          "url": "https://tfw31gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177941886406223&wsIPSercert=6501b8fc1c35e449ec1ab4d9e19691b1&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-253b2d2613",
+                          "id": "lnk-8fade2a0f0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
