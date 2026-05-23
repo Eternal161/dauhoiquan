@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:40 23/05/2026",
+  "last_updated": "22:50 23/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-75adc310a7c8",
-          "name": "⚽ Hull City vs Middlesbrough | H2 - 50' 0 - 0 21:30 23/05/2026",
+          "name": "⚽ Hull City vs Middlesbrough | Live 0 - 0 21:30 23/05/2026",
           "tournament": "Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/3/36/Hull_City_AFC.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/2/2c/Middlesbrough_FC_crest.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6ec0e7ccba",
+                          "id": "lnk-590b8f305d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw41gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3d4ec92cc5aa77589788444e-177955085076137&wsIPSercert=b9ee569cc541029a8a0bbd2a0180cf62&wsBindIP=2&wsserid=1168243256607494228"
+                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177955145941247&wsIPSercert=437fb5f0b9a410670326aae6c3cc16b4&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-3e373193d2",
+                          "id": "lnk-95a568dc5e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-b04f1874e9f9",
-          "name": "⚽ Bologna vs Inter | Sắp bắt đầu - null' 0 - 0 23:00 23/05/2026",
+          "name": "⚽ Bologna vs Inter | Live 0 - 0 23:00 23/05/2026",
           "tournament": "Serie A",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/505.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ac95041fd1",
+                          "id": "lnk-461c9ed11b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw41gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=4e2ceb7cc6e1ec8a54ec149f-177955085946725&wsIPSercert=b9ee569cc541029a8a0bbd2a0180cf62&wsBindIP=2&wsserid=1168243256604348444"
+                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177955146785113&wsIPSercert=437fb5f0b9a410670326aae6c3cc16b4&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-dd33242b43",
+                          "id": "lnk-dfcf0c458f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
