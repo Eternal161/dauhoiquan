@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:40 24/05/2026",
+  "last_updated": "00:50 24/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b04f1874e9f9",
-          "name": "⚽ Bologna vs Inter | H2 - 74' 3 - 2 23:00 23/05/2026",
+          "name": "⚽ Bologna vs Inter | H2 - 84' 3 - 2 23:00 23/05/2026",
           "tournament": "Serie A",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/505.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a45f1fd607",
+                          "id": "lnk-eb9338c1e2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw41gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=a37b48b6a6131b65ea617dd8-177955804188616&wsIPSercert=50f03e38f93dc1188e6ea0e6b7df8ffb&wsBindIP=2&wsserid=1172580915169226372"
+                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177955864835861&wsIPSercert=35a1110829341aeee897499332b5b49c&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-f1c78c4129",
+                          "id": "lnk-b2e20132a5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-132692b838",
+                          "id": "lnk-6170cc9723",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw41gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177955804996695&wsIPSercert=50f03e38f93dc1188e6ea0e6b7df8ffb&wsBindIP=2&wsserid=1172580915182858196"
+                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177955865676911&wsIPSercert=35a1110829341aeee897499332b5b49c&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-1316e30eaa",
+                          "id": "lnk-0e8c91bff0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
