@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:20 24/05/2026",
+  "last_updated": "03:30 24/05/2026",
   "groups": [
     {
       "id": "live",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-df9dbfd8a1",
+                          "id": "lnk-69d251effd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw41gr4uqmtt8y41hcjzgyzdrcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=f1d6e7dc9e90ef84d715f9d8-177956765034946&wsIPSercert=096c054f9015bfc9c20c97fc1d039f3f&wsBindIP=2&wsserid=1168162712924058667"
-                        },
-                        {
-                          "id": "lnk-1a72d42492",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
                         }
                       ]
@@ -69,7 +62,7 @@
         },
         {
           "id": "kaytee-bd9bf5419f2b",
-          "name": "⚽ Real Madrid vs Athletic Club | H2 - 58' 3 - 1 02:00 24/05/2026",
+          "name": "⚽ Real Madrid vs Athletic Club | H2 - 69' 3 - 1 02:00 24/05/2026",
           "tournament": "La Liga",
           "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg",
@@ -106,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-46ec760815",
+                          "id": "lnk-35778ef3f9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw41gr4uqmtt8y41hcjzgyzdrcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=cc867646ac0f694e010058a5-177956765869893&wsIPSercert=096c054f9015bfc9c20c97fc1d039f3f&wsBindIP=2&wsserid=1172666312483236046"
+                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177956827070871&wsIPSercert=917d3cb1a085797d2b6f245f8693fdac&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-47ce32ca89",
+                          "id": "lnk-7890e39c9f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +122,7 @@
         },
         {
           "id": "kaytee-a364370e6690",
-          "name": "⚽ Valencia vs Barcelona | H2 - 58' 0 - 0 02:00 24/05/2026",
+          "name": "⚽ Valencia vs Barcelona | H2 - 69' 1 - 1 02:00 24/05/2026",
           "tournament": "La Liga",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/f/fe/Valenciacf.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg",
@@ -166,14 +159,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-654db1ff70",
+                          "id": "lnk-97278b4823",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw41gr4uqmtt8y41hcjzgyzdrcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=cc867646ac0f694e010058a5-177956766721990&wsIPSercert=096c054f9015bfc9c20c97fc1d039f3f&wsBindIP=2&wsserid=1172666312483236046"
+                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177956827925227&wsIPSercert=917d3cb1a085797d2b6f245f8693fdac&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-13fafde8dc",
+                          "id": "lnk-680ec33562",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
