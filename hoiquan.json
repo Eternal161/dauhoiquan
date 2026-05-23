@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:30 24/05/2026",
+  "last_updated": "03:40 24/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-901e70e72cdf",
-          "name": "⚽ Bayern München vs Vfb Stuttgart | H2 - 90+7' 3 - 0 01:00 24/05/2026",
-          "tournament": "DFB Pokal",
-          "logo_nha": "https://media.api-sports.io/football/teams/157.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/960px-VfB_Stuttgart_1893_Logo.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/157.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-901e70e72cdf",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-901e70e72cdf",
-                  "name": "Bayern München vs Vfb Stuttgart",
-                  "streams": [
-                    {
-                      "id": "kaytee-901e70e72cdf",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-69d251effd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-bd9bf5419f2b",
-          "name": "⚽ Real Madrid vs Athletic Club | H2 - 69' 3 - 1 02:00 24/05/2026",
+          "name": "⚽ Real Madrid vs Athletic Club | H2 - 78' 3 - 1 02:00 24/05/2026",
           "tournament": "La Liga",
           "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-35778ef3f9",
+                          "id": "lnk-9d00c0ded9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177956827070871&wsIPSercert=917d3cb1a085797d2b6f245f8693fdac&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfw41gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c438ac6decda89126df978ec-177956886015280&wsIPSercert=5041490659f847283803ec3daef24882&wsBindIP=2&wsserid=1168243256651535330"
                         },
                         {
-                          "id": "lnk-7890e39c9f",
+                          "id": "lnk-227fe3d523",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -122,7 +69,7 @@
         },
         {
           "id": "kaytee-a364370e6690",
-          "name": "⚽ Valencia vs Barcelona | H2 - 69' 1 - 1 02:00 24/05/2026",
+          "name": "⚽ Valencia vs Barcelona | H2 - 78' 2 - 1 02:00 24/05/2026",
           "tournament": "La Liga",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/f/fe/Valenciacf.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg",
@@ -159,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-97278b4823",
+                          "id": "lnk-21bfb18daa",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177956827925227&wsIPSercert=917d3cb1a085797d2b6f245f8693fdac&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfw41gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=088f8c66755e0f8eb05e946c-177956886830343&wsIPSercert=5041490659f847283803ec3daef24882&wsBindIP=2&wsserid=1168243256654681122"
                         },
                         {
-                          "id": "lnk-680ec33562",
+                          "id": "lnk-64ab015052",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -486,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-1e5dd0c3831d",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b7a94f9cc562",
+          "name": "⚽ Hồng Lĩnh Hà Tĩnh vs Cahn | Sắp diễn ra vs 18:00 24/05/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b7a94f9cc562",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b7a94f9cc562",
+                  "name": "Hồng Lĩnh Hà Tĩnh vs Cahn",
+                  "streams": [
+                    {
+                      "id": "kaytee-b7a94f9cc562",
                       "name": "F",
                       "stream_links": []
                     }
