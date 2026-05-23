@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:10 23/05/2026",
+  "last_updated": "17:20 23/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-1547f73f4e75",
-          "name": "⚽ Auckland vs Sydney | H2 - 90+3' 1 - 0 15:10 23/05/2026",
-          "tournament": "A-League",
-          "logo_nha": "https://media.api-sports.io/football/teams/24608.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/943.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/24608.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-1547f73f4e75",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-1547f73f4e75",
-                  "name": "Auckland vs Sydney",
-                  "streams": [
-                    {
-                      "id": "kaytee-1547f73f4e75",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7bf48eefbd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw40gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=015f882d6bf28108fca60425-177953105306064&wsIPSercert=459581b972fd6bfc6964884ae24414a4&wsBindIP=2&wsserid=1168176337061519089"
-                        },
-                        {
-                          "id": "lnk-12b1659232",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-4ad801ea182f",
-          "name": "⚽ Kashiwa Reysol vs Jef United Chiba | H2 - 48' 2 - 1 16:00 23/05/2026",
+          "name": "⚽ Kashiwa Reysol vs Jef United Chiba | H2 - 58' 2 - 1 16:00 23/05/2026",
           "tournament": "J1 League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/e/e6/KashiwaReysol.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/1/13/JEFUnitedIchiharaChiba.png",
@@ -106,71 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9cfa4b5631",
+                          "id": "lnk-4a89c82d93",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw40gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-177953106125913&wsIPSercert=459581b972fd6bfc6964884ae24414a4&wsBindIP=2&wsserid=1168176346313714739"
+                          "url": "https://tfw41gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=498ad6b0888bc9c29a6331ea-177953165583241&wsIPSercert=231710f55491b82035f0db34785f431a&wsBindIP=2&wsserid=1172580915176566596"
                         },
                         {
-                          "id": "lnk-4226a42e9a",
+                          "id": "lnk-47a6626809",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-f991b65475c4",
-          "name": "⚽ Kyoto Sanga vs V-Varen Nagasaki | H1 - 7' 0 - 0 17:00 23/05/2026",
-          "tournament": "J1 League",
-          "logo_nha": "https://media.api-sports.io/football/teams/302.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/285.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/302.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f991b65475c4",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f991b65475c4",
-                  "name": "Kyoto Sanga vs V-Varen Nagasaki",
-                  "streams": [
-                    {
-                      "id": "kaytee-f991b65475c4",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-93fb493d27",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
                         }
                       ]
                     }
@@ -486,6 +373,96 @@
                   "streams": [
                     {
                       "id": "kaytee-c75c04b59745",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-bd9bf5419f2b",
+          "name": "⚽ Real Madrid vs Athletic Club | Sắp diễn ra vs 02:00 24/05/2026",
+          "tournament": "La Liga",
+          "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bd9bf5419f2b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bd9bf5419f2b",
+                  "name": "Real Madrid vs Athletic Club",
+                  "streams": [
+                    {
+                      "id": "kaytee-bd9bf5419f2b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a364370e6690",
+          "name": "⚽ Valencia vs Barcelona | Sắp diễn ra vs 02:00 24/05/2026",
+          "tournament": "La Liga",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/f/fe/Valenciacf.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/f/fe/Valenciacf.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a364370e6690",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a364370e6690",
+                  "name": "Valencia vs Barcelona",
+                  "streams": [
+                    {
+                      "id": "kaytee-a364370e6690",
                       "name": "F",
                       "stream_links": []
                     }
