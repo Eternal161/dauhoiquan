@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:50 24/05/2026",
+  "last_updated": "01:00 24/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b04f1874e9f9",
-          "name": "⚽ Bologna vs Inter | H2 - 84' 3 - 2 23:00 23/05/2026",
+          "name": "⚽ Bologna vs Inter | H2 - 89' 3 - 3 23:00 23/05/2026",
           "tournament": "Serie A",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/505.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-eb9338c1e2",
+                          "id": "lnk-c9b648b5d0",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177955864835861&wsIPSercert=35a1110829341aeee897499332b5b49c&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfw41gr4uqmtt8y41hcjzgyzdrcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=cc867646ac0f694e010058a5-177955925580023&wsIPSercert=70d1a013c0528f17d791f9d46650d788&wsBindIP=2&wsserid=1172666312483236046"
                         },
                         {
-                          "id": "lnk-b2e20132a5",
+                          "id": "lnk-2b8ab35014",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,110 +106,20 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6170cc9723",
+                          "id": "lnk-bc206a967f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177955865676911&wsIPSercert=35a1110829341aeee897499332b5b49c&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfw41gr4uqmtt8y41hcjzgyzdrcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=f1d6e7dc9e90ef84d715f9d8-177955926419207&wsIPSercert=70d1a013c0528f17d791f9d46650d788&wsBindIP=2&wsserid=1168162712924058667"
                         },
                         {
-                          "id": "lnk-0e8c91bff0",
+                          "id": "lnk-227c8c409d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
                         }
                       ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-4105b7b655e1",
-          "name": "⚽ Lazio vs Pisa | Sắp diễn ra vs 01:45 24/05/2026",
-          "tournament": "Serie A",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/e/ed/SS_Lazio.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Pisa_SC_crest.svg/250px-Pisa_SC_crest.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/e/ed/SS_Lazio.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-4105b7b655e1",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-4105b7b655e1",
-                  "name": "Lazio vs Pisa",
-                  "streams": [
-                    {
-                      "id": "kaytee-4105b7b655e1",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-c75c04b59745",
-          "name": "⚽ Real Betis vs Levante | Sắp diễn ra vs 02:00 24/05/2026",
-          "tournament": "La Liga",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/fr/1/13/Real_betis_logo.svg",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg/1280px-Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/fr/1/13/Real_betis_logo.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c75c04b59745",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c75c04b59745",
-                  "name": "Real Betis vs Levante",
-                  "streams": [
-                    {
-                      "id": "kaytee-c75c04b59745",
-                      "name": "F",
-                      "stream_links": []
                     }
                   ]
                 }
@@ -478,6 +388,96 @@
                   "streams": [
                     {
                       "id": "kaytee-838602f93449",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b5b3bb3833db",
+          "name": "⚽ Shimizu S-Pulse vs Gamba Osaka | Sắp diễn ra vs 15:00 24/05/2026",
+          "tournament": "J1 League",
+          "logo_nha": "https://media.api-sports.io/football/teams/283.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/283.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b5b3bb3833db",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b5b3bb3833db",
+                  "name": "Shimizu S-Pulse vs Gamba Osaka",
+                  "streams": [
+                    {
+                      "id": "kaytee-b5b3bb3833db",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0e295805dda6",
+          "name": "⚽ Ajax vs Utrecht | Sắp diễn ra vs 17:15 24/05/2026",
+          "tournament": "Eredivisie",
+          "logo_nha": "https://media.api-sports.io/football/teams/194.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1920px-Logo_FC_Utrecht.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/194.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0e295805dda6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0e295805dda6",
+                  "name": "Ajax vs Utrecht",
+                  "streams": [
+                    {
+                      "id": "kaytee-0e295805dda6",
                       "name": "F",
                       "stream_links": []
                     }
