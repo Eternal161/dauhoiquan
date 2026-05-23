@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:50 23/05/2026",
+  "last_updated": "09:00 23/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-c95bba7eba14",
-          "name": "⚽ Union Santa Fe vs Independiente | H2 - 90+6' 0 - 2 06:00 23/05/2026",
-          "tournament": "Copa Argentina",
-          "logo_nha": "https://media.api-sports.io/football/teams/441.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/453.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/441.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c95bba7eba14",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c95bba7eba14",
-                  "name": "Union Santa Fe vs Independiente",
-                  "streams": [
-                    {
-                      "id": "kaytee-c95bba7eba14",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-778b3c9891",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-0e7bed33da88",
           "name": "⚽ Mexico vs Ghana | Sắp bắt đầu - null' 0 - 0 09:00 23/05/2026",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e920f8e5e4",
+                          "id": "lnk-1f2b367b36",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw41gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=7b5ae66679f825c9d3872358-177950105608963&wsIPSercert=9c61557d55934a21d6d332814ba5c21a&wsBindIP=2&wsserid=1168243256598056876"
+                          "url": "https://tfw41gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=7b5ae66679f825c9d3872358-177950166816874&wsIPSercert=4ca7d0f56d4092836167197c7b66105e&wsBindIP=2&wsserid=1168243256598056876"
                         },
                         {
-                          "id": "lnk-44e9bcc9cc",
+                          "id": "lnk-d7176145e7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-31d1abc3eaee",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b04f1874e9f9",
+          "name": "⚽ Bologna vs Inter | Sắp diễn ra vs 23:00 23/05/2026",
+          "tournament": "Serie A",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/505.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b04f1874e9f9",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b04f1874e9f9",
+                  "name": "Bologna vs Inter",
+                  "streams": [
+                    {
+                      "id": "kaytee-b04f1874e9f9",
                       "name": "F",
                       "stream_links": []
                     }
