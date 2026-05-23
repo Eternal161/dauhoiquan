@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:30 24/05/2026",
+  "last_updated": "06:40 24/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-d434b6394bd5",
-          "name": "⚽ Gremio vs Santos | H2 - 67' 3 - 2 05:00 24/05/2026",
+          "name": "⚽ Gremio vs Santos | H2 - 77' 3 - 2 05:00 24/05/2026",
           "tournament": "Serie A",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/1280px-Gremio_logo.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/128.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-62589179fb",
+                          "id": "lnk-a070bc48df",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw41gr3uomttgr31hcj1gozdoptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=70e63498ec22a4f9ce7058ff-177957905584140&wsIPSercert=6cd554d2dcf803365a5e7562b70929c4&wsBindIP=2&wsserid=1168273075067916041"
+                          "url": "https://tfw41gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd62835041fe49ebfc13d2bc-177957965155158&wsIPSercert=f9811835af6d0c139d4cbb06fc9aae4c&wsBindIP=2&wsserid=1168282035622980969"
                         },
                         {
-                          "id": "lnk-713845cd71",
+                          "id": "lnk-247364ece9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-8b71fc83f293",
-          "name": "⚽ Flamengo vs Palmeiras | Sắp diễn ra vs 07:00 24/05/2026",
+          "name": "⚽ Flamengo vs Palmeiras | Sắp bắt đầu - null' 0 - 0 07:00 24/05/2026",
           "tournament": "Serie A",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/500px-Palmeiras_logo.svg.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,15 @@
                     {
                       "id": "kaytee-8b71fc83f293",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-73a1a04dda",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
