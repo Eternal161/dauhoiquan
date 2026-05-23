@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:50 23/05/2026",
+  "last_updated": "10:00 23/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-0e7bed33da88",
-          "name": "⚽ Mexico vs Ghana | Live 0 - 0 09:00 23/05/2026",
+          "name": "⚽ Mexico vs Ghana | Giữa Hiệp - 45+1' 1 - 0 09:00 23/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ec3dd802cf",
+                          "id": "lnk-4c5fdae21d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw41gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-177950465909946&wsIPSercert=7d11799b5a0108dcb09ab15ae0424db8&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfw41gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-177950526437434&wsIPSercert=32633ae3ba8b8e86440d1cd055ba7838&wsBindIP=2&wsserid=1168282035663924028"
                         },
                         {
-                          "id": "lnk-c8e569e1f8",
+                          "id": "lnk-b29d43584a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
