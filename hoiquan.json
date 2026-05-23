@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:20 24/05/2026",
+  "last_updated": "00:30 24/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b04f1874e9f9",
-          "name": "⚽ Bologna vs Inter | H2 - 53' 3 - 1 23:00 23/05/2026",
+          "name": "⚽ Bologna vs Inter | H2 - 64' 3 - 2 23:00 23/05/2026",
           "tournament": "Serie A",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/505.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-33837d34ce",
+                          "id": "lnk-627212ecc9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177955685496359&wsIPSercert=055adb04730b9eda0fc7c2c32f02d031&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=795ceebdad1d160b17924ec6-177955746328458&wsIPSercert=6a527fbefff4c6a6d84bf5a51edc769d&wsBindIP=2&wsserid=1168283319001564024"
                         },
                         {
-                          "id": "lnk-872d9d55c0",
+                          "id": "lnk-6d3dc1e145",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
