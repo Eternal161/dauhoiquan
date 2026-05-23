@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:50 24/05/2026",
+  "last_updated": "03:00 24/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-b04f1874e9f9",
-          "name": "⚽ Bologna vs Inter | H2 - 89' 3 - 3 23:00 23/05/2026",
-          "tournament": "Serie A",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/505.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b04f1874e9f9",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b04f1874e9f9",
-                  "name": "Bologna vs Inter",
-                  "streams": [
-                    {
-                      "id": "kaytee-b04f1874e9f9",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-52f635be36",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177956585326786&wsIPSercert=6f685207fd60cc3d641779bbb9f291c4&wsBindIP=2&wsserid=1168283323406534424"
-                        },
-                        {
-                          "id": "lnk-6be1e6ec1b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-901e70e72cdf",
-          "name": "⚽ Bayern München vs Vfb Stuttgart | H2 - 89' 2 - 0 01:00 24/05/2026",
+          "name": "⚽ Bayern München vs Vfb Stuttgart | H2 - 90+7' 3 - 0 01:00 24/05/2026",
           "tournament": "DFB Pokal",
           "logo_nha": "https://media.api-sports.io/football/teams/157.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/960px-VfB_Stuttgart_1893_Logo.svg.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-19c9eebf5f",
+                          "id": "lnk-e3f2208870",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177956586189939&wsIPSercert=6f685207fd60cc3d641779bbb9f291c4&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=a4af660ecdda9f1a15ddefdb-177956645367774&wsIPSercert=d6fd88fc61513ca79e64a8243c9aea7a&wsBindIP=2&wsserid=1168283319030924262"
                         },
                         {
-                          "id": "lnk-27c2e1c734",
+                          "id": "lnk-23efeef8c8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c6c8d044c4",
+                          "id": "lnk-49e98519f2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177956587054928&wsIPSercert=6f685207fd60cc3d641779bbb9f291c4&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fa047a81a3972ea683c4010f-177956646228357&wsIPSercert=d6fd88fc61513ca79e64a8243c9aea7a&wsBindIP=2&wsserid=1168283476522828939"
                         },
                         {
-                          "id": "lnk-7480625200",
+                          "id": "lnk-3eab65df23",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -189,7 +129,7 @@
         },
         {
           "id": "kaytee-a364370e6690",
-          "name": "⚽ Valencia vs Barcelona | H1 - 45+4' 0 - 0 02:00 24/05/2026",
+          "name": "⚽ Valencia vs Barcelona | Giữa Hiệp - 45+6' 0 - 0 02:00 24/05/2026",
           "tournament": "La Liga",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/f/fe/Valenciacf.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg",
@@ -226,14 +166,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b0697763ec",
+                          "id": "lnk-e4ed0338f6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177956587875152&wsIPSercert=6f685207fd60cc3d641779bbb9f291c4&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=795ceebdad1d160b17924ec6-177956647094827&wsIPSercert=d6fd88fc61513ca79e64a8243c9aea7a&wsBindIP=2&wsserid=1168283319001564024"
                         },
                         {
-                          "id": "lnk-683c6ea78c",
+                          "id": "lnk-fa5be26aac",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -508,6 +448,51 @@
                   "streams": [
                     {
                       "id": "kaytee-0e295805dda6",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1e5dd0c3831d",
+          "name": "⚽ Binh Duong vs Song Lam Nghe An | Sắp diễn ra vs 18:00 24/05/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3678.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1e5dd0c3831d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1e5dd0c3831d",
+                  "name": "Binh Duong vs Song Lam Nghe An",
+                  "streams": [
+                    {
+                      "id": "kaytee-1e5dd0c3831d",
                       "name": "F",
                       "stream_links": []
                     }
