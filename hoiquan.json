@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:50 23/05/2026",
+  "last_updated": "23:00 23/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-75adc310a7c8",
-          "name": "⚽ Hull City vs Middlesbrough | Live 0 - 0 21:30 23/05/2026",
+          "name": "⚽ Hull City vs Middlesbrough | H2 - 70' 0 - 0 21:30 23/05/2026",
           "tournament": "Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/3/36/Hull_City_AFC.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/2/2c/Middlesbrough_FC_crest.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-590b8f305d",
+                          "id": "lnk-88d0cb6953",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177955145941247&wsIPSercert=437fb5f0b9a410670326aae6c3cc16b4&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfw40gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e7feef4c54a9619feb576549-177955205981773&wsIPSercert=8575e0dd6a495e8b19d8f02d5db99642&wsBindIP=2&wsserid=1168214364742294105"
                         },
                         {
-                          "id": "lnk-95a568dc5e",
+                          "id": "lnk-c986403b99",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-b04f1874e9f9",
-          "name": "⚽ Bologna vs Inter | Live 0 - 0 23:00 23/05/2026",
+          "name": "⚽ Bologna vs Inter | Sắp bắt đầu - null' 0 - 0 23:00 23/05/2026",
           "tournament": "Serie A",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/505.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-461c9ed11b",
+                          "id": "lnk-8bfd64b07c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177955146785113&wsIPSercert=437fb5f0b9a410670326aae6c3cc16b4&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfw40gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=015f882d6bf28108fca60425-177955206821737&wsIPSercert=8575e0dd6a495e8b19d8f02d5db99642&wsBindIP=2&wsserid=1168214263213094505"
                         },
                         {
-                          "id": "lnk-dfcf0c458f",
+                          "id": "lnk-21e6ae9551",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -398,11 +398,11 @@
           ]
         },
         {
-          "id": "kaytee-1e5dd0c3831d",
-          "name": "⚽ Binh Duong vs Song Lam Nghe An | Sắp diễn ra vs 18:00 24/05/2026",
-          "tournament": "V.League 1",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/3678.png",
+          "id": "kaytee-8b71fc83f293",
+          "name": "⚽ Flamengo vs Palmeiras | Sắp diễn ra vs 07:00 24/05/2026",
+          "tournament": "Serie A",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/500px-Palmeiras_logo.svg.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -410,7 +410,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
             "width": 1600,
             "height": 1200
           },
@@ -424,15 +424,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-1e5dd0c3831d",
+              "id": "kaytee-8b71fc83f293",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-1e5dd0c3831d",
-                  "name": "Binh Duong vs Song Lam Nghe An",
+                  "id": "kaytee-8b71fc83f293",
+                  "name": "Flamengo vs Palmeiras",
                   "streams": [
                     {
-                      "id": "kaytee-1e5dd0c3831d",
+                      "id": "kaytee-8b71fc83f293",
                       "name": "F",
                       "stream_links": []
                     }
@@ -443,11 +443,11 @@
           ]
         },
         {
-          "id": "kaytee-b7a94f9cc562",
-          "name": "⚽ Hồng Lĩnh Hà Tĩnh vs Cahn | Sắp diễn ra vs 18:00 24/05/2026",
-          "tournament": "V.League 1",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",
+          "id": "kaytee-a1b766488ba4",
+          "name": "⚽ Fagiano Okayama vs Cerezo Osaka | Sắp diễn ra vs 10:55 24/05/2026",
+          "tournament": "J1 League",
+          "logo_nha": "https://media.api-sports.io/football/teams/310.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Cerezo_Osaka_logo.svg/250px-Cerezo_Osaka_logo.svg.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -455,7 +455,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg",
+            "url": "https://media.api-sports.io/football/teams/310.png",
             "width": 1600,
             "height": 1200
           },
@@ -469,15 +469,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-b7a94f9cc562",
+              "id": "kaytee-a1b766488ba4",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-b7a94f9cc562",
-                  "name": "Hồng Lĩnh Hà Tĩnh vs Cahn",
+                  "id": "kaytee-a1b766488ba4",
+                  "name": "Fagiano Okayama vs Cerezo Osaka",
                   "streams": [
                     {
-                      "id": "kaytee-b7a94f9cc562",
+                      "id": "kaytee-a1b766488ba4",
                       "name": "F",
                       "stream_links": []
                     }
