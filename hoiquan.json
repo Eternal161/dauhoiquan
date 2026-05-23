@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:30 24/05/2026",
+  "last_updated": "00:40 24/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b04f1874e9f9",
-          "name": "⚽ Bologna vs Inter | H2 - 64' 3 - 2 23:00 23/05/2026",
+          "name": "⚽ Bologna vs Inter | H2 - 74' 3 - 2 23:00 23/05/2026",
           "tournament": "Serie A",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/505.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-627212ecc9",
+                          "id": "lnk-a45f1fd607",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=795ceebdad1d160b17924ec6-177955746328458&wsIPSercert=6a527fbefff4c6a6d84bf5a51edc769d&wsBindIP=2&wsserid=1168283319001564024"
+                          "url": "https://tfw41gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=a37b48b6a6131b65ea617dd8-177955804188616&wsIPSercert=50f03e38f93dc1188e6ea0e6b7df8ffb&wsBindIP=2&wsserid=1172580915169226372"
                         },
                         {
-                          "id": "lnk-6d3dc1e145",
+                          "id": "lnk-f1c78c4129",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-901e70e72cdf",
-          "name": "⚽ Bayern München vs Vfb Stuttgart | Sắp diễn ra vs 01:00 24/05/2026",
+          "name": "⚽ Bayern München vs Vfb Stuttgart | Sắp bắt đầu - null' 0 - 0 01:00 24/05/2026",
           "tournament": "DFB Pokal",
           "logo_nha": "https://media.api-sports.io/football/teams/157.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/960px-VfB_Stuttgart_1893_Logo.svg.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-901e70e72cdf",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-132692b838",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw41gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177955804996695&wsIPSercert=50f03e38f93dc1188e6ea0e6b7df8ffb&wsBindIP=2&wsserid=1172580915182858196"
+                        },
+                        {
+                          "id": "lnk-1316e30eaa",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
