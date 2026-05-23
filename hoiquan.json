@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:30 23/05/2026",
+  "last_updated": "16:41 23/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1547f73f4e75",
-          "name": "⚽ Auckland vs Sydney | Live 0 - 0 15:10 23/05/2026",
+          "name": "⚽ Auckland vs Sydney | H2 - 64' 1 - 0 15:10 23/05/2026",
           "tournament": "A-League",
           "logo_nha": "https://media.api-sports.io/football/teams/24608.png",
           "logo_khach": "https://media.api-sports.io/football/teams/943.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1623f4992e",
+                          "id": "lnk-524ec03f00",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw41gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c4c244e3d6c4c768f7bd2ccd-177952865859123&wsIPSercert=0a24fa512899eded5db29e99c6cf4dca&wsBindIP=2&wsserid=1172580915182858212"
+                          "url": "https://tfw40gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e7feef4c54a9619feb576549-177952928064123&wsIPSercert=5d62e32dfd790eb79a59bfde2fcfe0cb&wsBindIP=2&wsserid=1168214364742294105"
                         },
                         {
-                          "id": "lnk-2fa92c5d82",
+                          "id": "lnk-dfb723f0ed",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-4ad801ea182f",
-          "name": "⚽ Kashiwa Reysol vs Jef United Chiba | Live 0 - 0 16:00 23/05/2026",
+          "name": "⚽ Kashiwa Reysol vs Jef United Chiba | H1 - 35' 1 - 0 16:00 23/05/2026",
           "tournament": "J1 League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/e/e6/KashiwaReysol.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/1/13/JEFUnitedIchiharaChiba.png",
@@ -106,10 +106,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-386235bcd6",
+                          "id": "lnk-27e8f78e51",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfw40gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=572f9e24ef0909ca5424c30d-177952928911277&wsIPSercert=5d62e32dfd790eb79a59bfde2fcfe0cb&wsBindIP=2&wsserid=1168176346315811943"
+                        },
+                        {
+                          "id": "lnk-7d21b2ee6a",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
@@ -122,7 +129,7 @@
         },
         {
           "id": "kaytee-f991b65475c4",
-          "name": "⚽ Kyoto Sanga vs V-Varen Nagasaki | Sắp diễn ra vs 17:00 23/05/2026",
+          "name": "⚽ Kyoto Sanga vs V-Varen Nagasaki | Sắp bắt đầu - null' 0 - 0 17:00 23/05/2026",
           "tournament": "J1 League",
           "logo_nha": "https://media.api-sports.io/football/teams/302.png",
           "logo_khach": "https://media.api-sports.io/football/teams/285.png",
@@ -139,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -157,7 +164,15 @@
                     {
                       "id": "kaytee-f991b65475c4",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-c09c80de5d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
