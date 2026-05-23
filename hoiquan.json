@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "14:00 23/05/2026",
+  "last_updated": "14:10 23/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-4719610712ab",
-          "name": "⚽ Avispa Fukuoka vs Vissel Kobe | H2 - 90+2' 0 - 1 12:00 23/05/2026",
+          "name": "⚽ Avispa Fukuoka vs Vissel Kobe | H2 - 90+8' 0 - 1 12:00 23/05/2026",
           "tournament": "J1 League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/a/a7/Avispa_Fukuoka_logo.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vissel_Kobe_logo.svg",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3885807015",
+                          "id": "lnk-54a80e337b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw41gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c3b425deceb9418dcbd56e1b-177951965531658&wsIPSercert=98e1635b76e94c2314ea6ec2e2c7643e&wsBindIP=2&wsserid=1168243256613785902"
-                        },
-                        {
-                          "id": "lnk-8a656e6f05",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
                         }
                       ]
