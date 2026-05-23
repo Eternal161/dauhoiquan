@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:50 23/05/2026",
+  "last_updated": "11:00 23/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-0e7bed33da88",
-          "name": "⚽ Mexico vs Ghana | H2 - 90' 2 - 0 09:00 23/05/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-0e7bed33da88",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-0e7bed33da88",
-                  "name": "Mexico vs Ghana",
-                  "streams": [
-                    {
-                      "id": "kaytee-0e7bed33da88",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-985d5d8771",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw41gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=498ad6b0888bc9c29a6331ea-177950824679648&wsIPSercert=2191a528c05fe0823d6ead03023a9577&wsBindIP=2&wsserid=1172580915176566596"
-                        },
-                        {
-                          "id": "lnk-6f9bfa83b9",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-4719610712ab",
           "name": "⚽ Avispa Fukuoka vs Vissel Kobe | Sắp diễn ra vs 12:00 23/05/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-b04f1874e9f9",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-4105b7b655e1",
+          "name": "⚽ Lazio vs Pisa | Sắp diễn ra vs 01:45 24/05/2026",
+          "tournament": "Serie A",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/e/ed/SS_Lazio.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Pisa_SC_crest.svg/250px-Pisa_SC_crest.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/e/ed/SS_Lazio.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4105b7b655e1",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4105b7b655e1",
+                  "name": "Lazio vs Pisa",
+                  "streams": [
+                    {
+                      "id": "kaytee-4105b7b655e1",
                       "name": "F",
                       "stream_links": []
                     }
