@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:00 24/05/2026",
+  "last_updated": "05:10 24/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-d434b6394bd5",
-          "name": "⚽ Gremio vs Santos | Sắp bắt đầu - null' 0 - 0 05:00 24/05/2026",
+          "name": "⚽ Gremio vs Santos | H1 - 9' 0 - 0 05:00 24/05/2026",
           "tournament": "Serie A",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/1280px-Gremio_logo.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/128.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-95a41ad023",
+                          "id": "lnk-3e34789acc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw40gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=a892446647eff012ef984b15-177957366507750&wsIPSercert=bf1ad2c38f9e21bc95540b5947063bff&wsBindIP=2&wsserid=1168283476093891044"
+                          "url": "https://tfw41gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c3b425deceb9418dcbd56e1b-177957426808430&wsIPSercert=359da46ed40704911cbe1d03865bb485&wsBindIP=2&wsserid=1168243256613785902"
                         },
                         {
-                          "id": "lnk-882c9f3c58",
+                          "id": "lnk-864b737946",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
