@@ -1,132 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:50 24/05/2026",
+  "last_updated": "04:00 24/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-bd9bf5419f2b",
-          "name": "⚽ Real Madrid vs Athletic Club | H2 - 88' 3 - 1 02:00 24/05/2026",
-          "tournament": "La Liga",
-          "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-bd9bf5419f2b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-bd9bf5419f2b",
-                  "name": "Real Madrid vs Athletic Club",
-                  "streams": [
-                    {
-                      "id": "kaytee-bd9bf5419f2b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5c2de24b77",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw40gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177956946020031&wsIPSercert=d3a8802b41ae853f58b61409ba21e308&wsBindIP=2&wsserid=1168202333418134578"
-                        },
-                        {
-                          "id": "lnk-3b621fe47d",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-a364370e6690",
-          "name": "⚽ Valencia vs Barcelona | H2 - 88' 2 - 1 02:00 24/05/2026",
-          "tournament": "La Liga",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/f/fe/Valenciacf.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/f/fe/Valenciacf.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a364370e6690",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a364370e6690",
-                  "name": "Valencia vs Barcelona",
-                  "streams": [
-                    {
-                      "id": "kaytee-a364370e6690",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-adfd65a5ca",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw40gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177956946848222&wsIPSercert=d3a8802b41ae853f58b61409ba21e308&wsBindIP=2&wsserid=1168202392933970899"
-                        },
-                        {
-                          "id": "lnk-ab04f3738f",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-d434b6394bd5",
           "name": "⚽ Gremio vs Santos | Sắp diễn ra vs 05:00 24/05/2026",
@@ -478,6 +358,96 @@
                   "streams": [
                     {
                       "id": "kaytee-b7a94f9cc562",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-bd79f7c1b01b",
+          "name": "⚽ Ha Noi vs Nam Dinh | Sắp diễn ra vs 19:15 24/05/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://media.api-sports.io/football/teams/3670.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3674.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3670.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bd79f7c1b01b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bd79f7c1b01b",
+                  "name": "Ha Noi vs Nam Dinh",
+                  "streams": [
+                    {
+                      "id": "kaytee-bd79f7c1b01b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-ac441b97c3a4",
+          "name": "⚽ Parma vs Sassuolo | Sắp diễn ra vs 20:00 24/05/2026",
+          "tournament": "Serie A",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_Parma_Calcio_1913_%28adozione_2016%29.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/sco/1/1c/US_Sassuolo_Calcio_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_Parma_Calcio_1913_%28adozione_2016%29.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-ac441b97c3a4",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-ac441b97c3a4",
+                  "name": "Parma vs Sassuolo",
+                  "streams": [
+                    {
+                      "id": "kaytee-ac441b97c3a4",
                       "name": "F",
                       "stream_links": []
                     }
