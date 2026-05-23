@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:30 23/05/2026",
+  "last_updated": "23:40 23/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-75adc310a7c8",
-          "name": "⚽ Hull City vs Middlesbrough | Live 0 - 0 21:30 23/05/2026",
-          "tournament": "Championship",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/3/36/Hull_City_AFC.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/2/2c/Middlesbrough_FC_crest.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/3/36/Hull_City_AFC.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-75adc310a7c8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-75adc310a7c8",
-                  "name": "Hull City vs Middlesbrough",
-                  "streams": [
-                    {
-                      "id": "kaytee-75adc310a7c8",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-40a6f5138d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw41gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177955385651786&wsIPSercert=b989f22e0ea7b74cd57b0822edd1828e&wsBindIP=2&wsserid=1168176581104105640"
-                        },
-                        {
-                          "id": "lnk-715155f257",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-b04f1874e9f9",
-          "name": "⚽ Bologna vs Inter | Live 0 - 0 23:00 23/05/2026",
+          "name": "⚽ Bologna vs Inter | H1 - 38' 1 - 1 23:00 23/05/2026",
           "tournament": "Serie A",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/505.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6db6fe431f",
+                          "id": "lnk-ed22795f12",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw41gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177955386465784&wsIPSercert=b989f22e0ea7b74cd57b0822edd1828e&wsBindIP=2&wsserid=1168176581102008440"
+                          "url": "https://tfw40gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=015f882d6bf28108fca60425-177955445660447&wsIPSercert=d758c37b88fd1ae4b11f139ee35b95dc&wsBindIP=2&wsserid=1168214263213094505"
                         },
                         {
-                          "id": "lnk-09887c7a31",
+                          "id": "lnk-0a97fb1048",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-a1b766488ba4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-838602f93449",
+          "name": "⚽ Tokyo Verdy vs Yokohama F. Marinos | Sắp diễn ra vs 12:00 24/05/2026",
+          "tournament": "J1 League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/id/a/a0/Tokyo_Verdy_2020_logo.webp",
+          "logo_khach": "https://media.api-sports.io/football/teams/296.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/id/a/a0/Tokyo_Verdy_2020_logo.webp",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-838602f93449",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-838602f93449",
+                  "name": "Tokyo Verdy vs Yokohama F. Marinos",
+                  "streams": [
+                    {
+                      "id": "kaytee-838602f93449",
                       "name": "F",
                       "stream_links": []
                     }
