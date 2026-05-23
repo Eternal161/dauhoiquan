@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:20 23/05/2026",
+  "last_updated": "17:30 23/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-4ad801ea182f",
-          "name": "⚽ Kashiwa Reysol vs Jef United Chiba | H2 - 58' 2 - 1 16:00 23/05/2026",
+          "name": "⚽ Kashiwa Reysol vs Jef United Chiba | H2 - 67' 2 - 1 16:00 23/05/2026",
           "tournament": "J1 League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/e/e6/KashiwaReysol.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/1/13/JEFUnitedIchiharaChiba.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4a89c82d93",
+                          "id": "lnk-0f6a9eea8b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw41gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=498ad6b0888bc9c29a6331ea-177953165583241&wsIPSercert=231710f55491b82035f0db34785f431a&wsBindIP=2&wsserid=1172580915176566596"
+                          "url": "https://tfw41gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177953225648731&wsIPSercert=5ecb94feeefc0bf0e60e49a72f461a87&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-47a6626809",
+                          "id": "lnk-aa0101dda9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -114,7 +114,7 @@
         },
         {
           "id": "kaytee-d1118dc2af80",
-          "name": "⚽ Ninh Bình vs Ho Chi Minh | Sắp diễn ra vs 18:00 23/05/2026",
+          "name": "⚽ Ninh Bình vs Ho Chi Minh | Sắp bắt đầu - null' 0 - 0 18:00 23/05/2026",
           "tournament": "V.League 1",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/4/47/Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg/250px-Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg.png",
@@ -131,10 +131,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -149,7 +149,22 @@
                     {
                       "id": "kaytee-d1118dc2af80",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-f4cbc1f669",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw41gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177953227299255&wsIPSercert=5ecb94feeefc0bf0e60e49a72f461a87&wsBindIP=2&wsserid=1168176581102008440"
+                        },
+                        {
+                          "id": "lnk-38e1e48902",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
