@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:30 23/05/2026",
+  "last_updated": "08:40 23/05/2026",
   "groups": [
     {
       "id": "live",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-faf18a6655",
+                          "id": "lnk-9e8dfd8779",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-0e7bed33da88",
-          "name": "⚽ Mexico vs Ghana | Sắp diễn ra vs 09:00 23/05/2026",
+          "name": "⚽ Mexico vs Ghana | Sắp bắt đầu - null' 0 - 0 09:00 23/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,15 @@
                     {
                       "id": "kaytee-0e7bed33da88",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-8f7449b150",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
