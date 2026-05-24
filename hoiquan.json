@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:30 25/05/2026",
+  "last_updated": "05:40 25/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c558f83b4512",
-          "name": "⚽ Inter Miami vs Philadelphia Union | Sắp diễn ra vs 06:00 25/05/2026",
+          "name": "⚽ Inter Miami vs Philadelphia Union | Sắp bắt đầu - null' 0 - 0 06:00 25/05/2026",
           "tournament": "Major League Soccer",
           "logo_nha": "https://media.api-sports.io/football/teams/9568.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/4/46/Philadelphia_Union_2018_logo.svg",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-c558f83b4512",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-9baa42ed8c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw50gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=6e1279e156ce1898ee876f29-177966245581607&wsIPSercert=5981d0a54b868dbf7704a6786ce6d81d&wsBindIP=2&wsserid=1168140817803879397"
+                        },
+                        {
+                          "id": "lnk-dd0585f949",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
