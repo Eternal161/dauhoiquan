@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:30 25/05/2026",
+  "last_updated": "06:40 25/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c558f83b4512",
-          "name": "⚽ Inter Miami vs Philadelphia Union | H1 - 19' 1 - 2 06:00 25/05/2026",
+          "name": "⚽ Inter Miami vs Philadelphia Union | H1 - 29' 1 - 3 06:00 25/05/2026",
           "tournament": "Major League Soccer",
           "logo_nha": "https://media.api-sports.io/football/teams/9568.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/4/46/Philadelphia_Union_2018_logo.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-58b589cf8a",
+                          "id": "lnk-911605f78e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw50gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177966545865167&wsIPSercert=5761e7726b26be6308043992d2de7379&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfw50gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b8969814a7adf8c9b0ca01df-177966604820547&wsIPSercert=d6e231e9e1e2517e047ed638d710e636&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-829fda4c06",
+                          "id": "lnk-9a9a35a4e5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
