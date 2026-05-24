@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:00 25/05/2026",
+  "last_updated": "01:10 25/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-b5c1cb4a8c60",
-          "name": "⚽ Crystal Palace vs Arsenal | H2 - 90+8' 1 - 2 22:00 24/05/2026",
-          "tournament": "Premier League",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b5c1cb4a8c60",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b5c1cb4a8c60",
-                  "name": "Crystal Palace vs Arsenal",
-                  "streams": [
-                    {
-                      "id": "kaytee-b5c1cb4a8c60",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-15a67800ad",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177964565154148&wsIPSercert=c01811e2c876678dddab203b88925431&wsBindIP=2&wsserid=1168176581104105640"
-                        },
-                        {
-                          "id": "lnk-6496c02680",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-5a98fb68fd7e",
           "name": "⚽ Manchester City vs Aston Villa | H2 - 90+9' 1 - 2 22:00 24/05/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b842c35f49",
+                          "id": "lnk-552ce7d0a5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177964565992226&wsIPSercert=c01811e2c876678dddab203b88925431&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfw51gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=39208dad862a1684dd11e461-177964626750814&wsIPSercert=a1142b991545d8cd72deed7841c57db9&wsBindIP=2&wsserid=1168243343863876729"
                         },
                         {
-                          "id": "lnk-37cc9cfb8b",
+                          "id": "lnk-fb38074949",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-9b083cc518ac",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6d9868e3cef3",
+          "name": "⚽ Sarpsborg 08 Ff vs Molde | Sắp diễn ra vs 22:00 25/05/2026",
+          "tournament": "Eliteserien",
+          "logo_nha": "https://media.api-sports.io/football/teams/333.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/329.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/333.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6d9868e3cef3",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6d9868e3cef3",
+                  "name": "Sarpsborg 08 Ff vs Molde",
+                  "streams": [
+                    {
+                      "id": "kaytee-6d9868e3cef3",
                       "name": "F",
                       "stream_links": []
                     }
