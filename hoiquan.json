@@ -1,12 +1,478 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:20 24/05/2026",
+  "last_updated": "11:30 24/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
-      "channels": []
+      "channels": [
+        {
+          "id": "kaytee-a1b766488ba4",
+          "name": "⚽ Fagiano Okayama vs Cerezo Osaka | H1 - 30' 0 - 1 10:55 24/05/2026",
+          "tournament": "J1 League",
+          "logo_nha": "https://media.api-sports.io/football/teams/310.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Cerezo_Osaka_logo.svg/250px-Cerezo_Osaka_logo.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/310.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a1b766488ba4",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a1b766488ba4",
+                  "name": "Fagiano Okayama vs Cerezo Osaka",
+                  "streams": [
+                    {
+                      "id": "kaytee-a1b766488ba4",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b3dbc84037",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw50gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=572f9e24ef0909ca5424c30d-177959705856356&wsIPSercert=f60ba38c428c4bad9d414c705b8ff67d&wsBindIP=2&wsserid=1168176346315811943"
+                        },
+                        {
+                          "id": "lnk-a7331b5285",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-838602f93449",
+          "name": "⚽ Tokyo Verdy vs Yokohama F. Marinos | Sắp diễn ra vs 12:00 24/05/2026",
+          "tournament": "J1 League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/id/a/a0/Tokyo_Verdy_2020_logo.webp",
+          "logo_khach": "https://media.api-sports.io/football/teams/296.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/id/a/a0/Tokyo_Verdy_2020_logo.webp",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-838602f93449",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-838602f93449",
+                  "name": "Tokyo Verdy vs Yokohama F. Marinos",
+                  "streams": [
+                    {
+                      "id": "kaytee-838602f93449",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b5b3bb3833db",
+          "name": "⚽ Shimizu S-Pulse vs Gamba Osaka | Sắp diễn ra vs 15:00 24/05/2026",
+          "tournament": "J1 League",
+          "logo_nha": "https://media.api-sports.io/football/teams/283.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/283.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b5b3bb3833db",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b5b3bb3833db",
+                  "name": "Shimizu S-Pulse vs Gamba Osaka",
+                  "streams": [
+                    {
+                      "id": "kaytee-b5b3bb3833db",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0e295805dda6",
+          "name": "⚽ Ajax vs Utrecht | Sắp diễn ra vs 17:15 24/05/2026",
+          "tournament": "Eredivisie",
+          "logo_nha": "https://media.api-sports.io/football/teams/194.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1920px-Logo_FC_Utrecht.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/194.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0e295805dda6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0e295805dda6",
+                  "name": "Ajax vs Utrecht",
+                  "streams": [
+                    {
+                      "id": "kaytee-0e295805dda6",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1e5dd0c3831d",
+          "name": "⚽ Binh Duong vs Song Lam Nghe An | Sắp diễn ra vs 18:00 24/05/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3678.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1e5dd0c3831d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1e5dd0c3831d",
+                  "name": "Binh Duong vs Song Lam Nghe An",
+                  "streams": [
+                    {
+                      "id": "kaytee-1e5dd0c3831d",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b7a94f9cc562",
+          "name": "⚽ Hồng Lĩnh Hà Tĩnh vs Cahn | Sắp diễn ra vs 18:00 24/05/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b7a94f9cc562",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b7a94f9cc562",
+                  "name": "Hồng Lĩnh Hà Tĩnh vs Cahn",
+                  "streams": [
+                    {
+                      "id": "kaytee-b7a94f9cc562",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-bd79f7c1b01b",
+          "name": "⚽ Ha Noi vs Nam Dinh | Sắp diễn ra vs 19:15 24/05/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://media.api-sports.io/football/teams/3670.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3674.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3670.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bd79f7c1b01b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bd79f7c1b01b",
+                  "name": "Ha Noi vs Nam Dinh",
+                  "streams": [
+                    {
+                      "id": "kaytee-bd79f7c1b01b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-ac441b97c3a4",
+          "name": "⚽ Parma vs Sassuolo | Sắp diễn ra vs 20:00 24/05/2026",
+          "tournament": "Serie A",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_Parma_Calcio_1913_%28adozione_2016%29.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/sco/1/1c/US_Sassuolo_Calcio_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_Parma_Calcio_1913_%28adozione_2016%29.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-ac441b97c3a4",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-ac441b97c3a4",
+                  "name": "Parma vs Sassuolo",
+                  "streams": [
+                    {
+                      "id": "kaytee-ac441b97c3a4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-344f421f6c0d",
+          "name": "⚽ Brighton vs Manchester United | Sắp diễn ra vs 22:00 24/05/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/51.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/33.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/51.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-344f421f6c0d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-344f421f6c0d",
+                  "name": "Brighton vs Manchester United",
+                  "streams": [
+                    {
+                      "id": "kaytee-344f421f6c0d",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b5c1cb4a8c60",
+          "name": "⚽ Crystal Palace vs Arsenal | Sắp diễn ra vs 22:00 24/05/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b5c1cb4a8c60",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b5c1cb4a8c60",
+                  "name": "Crystal Palace vs Arsenal",
+                  "streams": [
+                    {
+                      "id": "kaytee-b5c1cb4a8c60",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
