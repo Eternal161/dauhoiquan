@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:50 24/05/2026",
+  "last_updated": "21:01 24/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-bd79f7c1b01b",
-          "name": "⚽ Ha Noi vs Nam Dinh | H2 - 76' 2 - 1 19:15 24/05/2026",
+          "name": "⚽ Ha Noi vs Nam Dinh | Live 0 - 0 19:15 24/05/2026",
           "tournament": "V.League 1",
           "logo_nha": "https://media.api-sports.io/football/teams/3670.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3674.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-73a237c81e",
+                          "id": "lnk-42bd92f19f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjzgyzdrcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=cc867646ac0f694e010058a5-177963064765628&wsIPSercert=7e9a6c98e29cd4516ce249b3883e1137&wsBindIP=2&wsserid=1172666312483236046"
+                          "url": "https://tfw51gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=4e2ceb7cc6e1ec8a54ec149f-177963127261165&wsIPSercert=8567619b5fdbff51890c817670b6df88&wsBindIP=2&wsserid=1168243256604348444"
                         },
                         {
-                          "id": "lnk-5b2a13417b",
+                          "id": "lnk-c3f88919f5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-ac441b97c3a4",
-          "name": "⚽ Parma vs Sassuolo | Giữa Hiệp - 45+3' 0 - 0 20:00 24/05/2026",
+          "name": "⚽ Parma vs Sassuolo | Live 0 - 0 20:00 24/05/2026",
           "tournament": "Serie A",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_Parma_Calcio_1913_%28adozione_2016%29.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/sco/1/1c/US_Sassuolo_Calcio_logo.svg",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4097d24415",
+                          "id": "lnk-01483ba85e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjzgyzdrcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f1d6e7dc9e90ef84d715f9d8-177963065617704&wsIPSercert=7e9a6c98e29cd4516ce249b3883e1137&wsBindIP=2&wsserid=1168162712924058667"
+                          "url": "https://tfw51gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c3b425deceb9418dcbd56e1b-177963128123465&wsIPSercert=8567619b5fdbff51890c817670b6df88&wsBindIP=2&wsserid=1168243256613785902"
                         },
                         {
-                          "id": "lnk-6263cf1833",
+                          "id": "lnk-9084ae4631",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
