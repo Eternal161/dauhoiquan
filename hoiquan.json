@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:00 24/05/2026",
+  "last_updated": "11:10 24/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a1b766488ba4",
-          "name": "⚽ Fagiano Okayama vs Cerezo Osaka | Live 0 - 0 10:55 24/05/2026",
+          "name": "⚽ Fagiano Okayama vs Cerezo Osaka | H1 - 10' 0 - 1 10:55 24/05/2026",
           "tournament": "J1 League",
           "logo_nha": "https://media.api-sports.io/football/teams/310.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Cerezo_Osaka_logo.svg/250px-Cerezo_Osaka_logo.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4badef14e8",
+                          "id": "lnk-29b045e550",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw51gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=7b5ae66679f825c9d3872358-177959526219838&wsIPSercert=1fcaa50f081b6e97b85e67b6369d7807&wsBindIP=2&wsserid=1168243256598056876"
+                          "url": "https://tfw50gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=572f9e24ef0909ca5424c30d-177959584678242&wsIPSercert=e90a40eff0c0932456ad5f8bc47f5ead&wsBindIP=2&wsserid=1168176346315811943"
                         },
                         {
-                          "id": "lnk-c375734ee4",
+                          "id": "lnk-9fd492130e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
