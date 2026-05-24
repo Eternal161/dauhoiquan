@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:40 24/05/2026",
+  "last_updated": "16:50 24/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b5b3bb3833db",
-          "name": "⚽ Shimizu S-Pulse vs Gamba Osaka | Live 0 - 0 15:00 24/05/2026",
+          "name": "⚽ Shimizu S-Pulse vs Gamba Osaka | H2 - 86' 1 - 2 15:00 24/05/2026",
           "tournament": "J1 League",
           "logo_nha": "https://media.api-sports.io/football/teams/283.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e173b63e4b",
+                          "id": "lnk-f0255cab7e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw50gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7f81183aa1d540da1c3fc7f7-177961564892384&wsIPSercert=cefde69d2738ebea853cf8176bdd997d&wsBindIP=2&wsserid=1168140848410257976"
+                          "url": "https://tfw51gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3d4ec92cc5aa77589788444e-177961624613630&wsIPSercert=39ba42ceab90e3d817408c7926d390d6&wsBindIP=2&wsserid=1168243256607494228"
                         },
                         {
-                          "id": "lnk-da87078cad",
+                          "id": "lnk-5296504e6e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-0e295805dda6",
-          "name": "⚽ Ajax vs Utrecht | Sắp diễn ra vs 17:15 24/05/2026",
+          "name": "⚽ Ajax vs Utrecht | Sắp bắt đầu - null' 0 - 0 17:15 24/05/2026",
           "tournament": "Eredivisie",
           "logo_nha": "https://media.api-sports.io/football/teams/194.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1920px-Logo_FC_Utrecht.svg.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-0e295805dda6",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-597cc0f366",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw51gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=c3b425deceb9418dcbd56e1b-177961625452398&wsIPSercert=39ba42ceab90e3d817408c7926d390d6&wsBindIP=2&wsserid=1168243256613785902"
+                        },
+                        {
+                          "id": "lnk-bc26b8b9bb",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
