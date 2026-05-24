@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:50 24/05/2026",
+  "last_updated": "08:00 24/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-d434b6394bd5",
-          "name": "⚽ Gremio vs Santos | H2 - 90+6' 3 - 2 05:00 24/05/2026",
-          "tournament": "Serie A",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/1280px-Gremio_logo.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/128.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/1280px-Gremio_logo.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-d434b6394bd5",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-d434b6394bd5",
-                  "name": "Gremio vs Santos",
-                  "streams": [
-                    {
-                      "id": "kaytee-d434b6394bd5",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-453e9beb89",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-8b71fc83f293",
           "name": "⚽ Flamengo vs Palmeiras | Giữa Hiệp - 45+4' 0 - 1 07:00 24/05/2026",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5ad0a4418f",
+                          "id": "lnk-687395a9f5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw51gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-177958386559321&wsIPSercert=c4328d8c551c39ddd86ecd37bae2a1b4&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfw51gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=d4bb5fa08f4d82e32f7976ce-177958445763861&wsIPSercert=1138b4b08d1c8846ec17546d10893ddb&wsBindIP=2&wsserid=1168243344275968966"
                         },
                         {
-                          "id": "lnk-b9cdb031aa",
+                          "id": "lnk-22e95aca27",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-ac441b97c3a4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-344f421f6c0d",
+          "name": "⚽ Brighton vs Manchester United | Sắp diễn ra vs 22:00 24/05/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/51.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/33.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/51.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-344f421f6c0d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-344f421f6c0d",
+                  "name": "Brighton vs Manchester United",
+                  "streams": [
+                    {
+                      "id": "kaytee-344f421f6c0d",
                       "name": "F",
                       "stream_links": []
                     }
