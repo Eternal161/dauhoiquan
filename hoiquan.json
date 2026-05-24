@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:00 24/05/2026",
+  "last_updated": "15:10 24/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b5b3bb3833db",
-          "name": "⚽ Shimizu S-Pulse vs Gamba Osaka | Sắp bắt đầu - null' 0 - 0 15:00 24/05/2026",
+          "name": "⚽ Shimizu S-Pulse vs Gamba Osaka | H1 - 7' 0 - 0 15:00 24/05/2026",
           "tournament": "J1 League",
           "logo_nha": "https://media.api-sports.io/football/teams/283.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6d48f8176c",
+                          "id": "lnk-fd9d4c5632",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c4c244e3d6c4c768f7bd2ccd-177960966629287&wsIPSercert=e53e587a511d26e908d6304e4585f768&wsBindIP=2&wsserid=1172580915182858212"
+                          "url": "https://tfw50gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177961025043971&wsIPSercert=18dffd67f212f183f042a5091a817b96&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-6d4acea090",
+                          "id": "lnk-4ff11803cb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
