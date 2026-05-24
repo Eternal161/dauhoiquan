@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:20 24/05/2026",
+  "last_updated": "17:30 24/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-b5b3bb3833db",
-          "name": "⚽ Shimizu S-Pulse vs Gamba Osaka | H2 - 90+6' 1 - 2 15:00 24/05/2026",
-          "tournament": "J1 League",
-          "logo_nha": "https://media.api-sports.io/football/teams/283.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/283.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b5b3bb3833db",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b5b3bb3833db",
-                  "name": "Shimizu S-Pulse vs Gamba Osaka",
-                  "streams": [
-                    {
-                      "id": "kaytee-b5b3bb3833db",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f7019cc6ba",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjzgyzdrcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=cc867646ac0f694e010058a5-177961805252353&wsIPSercert=75453edd465a247d226e96d56030a54a&wsBindIP=2&wsserid=1172666312483236046"
-                        },
-                        {
-                          "id": "lnk-bf1878c9d6",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-0e295805dda6",
-          "name": "⚽ Ajax vs Utrecht | H1 - 3' 0 - 0 17:15 24/05/2026",
+          "name": "⚽ Ajax vs Utrecht | H1 - 13' 0 - 0 17:15 24/05/2026",
           "tournament": "Eredivisie",
           "logo_nha": "https://media.api-sports.io/football/teams/194.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1920px-Logo_FC_Utrecht.svg.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2d21a808b6",
+                          "id": "lnk-68379ad57e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjzgyzdrcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=f1d6e7dc9e90ef84d715f9d8-177961806082521&wsIPSercert=75453edd465a247d226e96d56030a54a&wsBindIP=2&wsserid=1168162712924058667"
+                          "url": "https://tfw50gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=49caba0ae7b8a66c38e97d70-177961865242740&wsIPSercert=450d91eeb14ddd5e5fb7cf28bcedb5f5&wsBindIP=2&wsserid=1168041136565896200"
                         },
                         {
-                          "id": "lnk-e58b133ebb",
+                          "id": "lnk-8461a94591",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-1e5dd0c3831d",
-          "name": "⚽ Binh Duong vs Song Lam Nghe An | Sắp diễn ra vs 18:00 24/05/2026",
+          "name": "⚽ Binh Duong vs Song Lam Nghe An | Sắp bắt đầu - null' 0 - 0 18:00 24/05/2026",
           "tournament": "V.League 1",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3678.png",
@@ -146,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +104,22 @@
                     {
                       "id": "kaytee-1e5dd0c3831d",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-230b08c743",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw50gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=015f882d6bf28108fca60425-177961866098562&wsIPSercert=450d91eeb14ddd5e5fb7cf28bcedb5f5&wsBindIP=2&wsserid=1168214263213094505"
+                        },
+                        {
+                          "id": "lnk-534c456f52",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -174,7 +129,7 @@
         },
         {
           "id": "kaytee-b7a94f9cc562",
-          "name": "⚽ Hồng Lĩnh Hà Tĩnh vs Cahn | Sắp diễn ra vs 18:00 24/05/2026",
+          "name": "⚽ Hồng Lĩnh Hà Tĩnh vs Cahn | Sắp bắt đầu - null' 0 - 0 18:00 24/05/2026",
           "tournament": "V.League 1",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",
@@ -191,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -209,7 +164,22 @@
                     {
                       "id": "kaytee-b7a94f9cc562",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-804a5b464c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw50gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e7feef4c54a9619feb576549-177961866993377&wsIPSercert=450d91eeb14ddd5e5fb7cf28bcedb5f5&wsBindIP=2&wsserid=1168214364742294105"
+                        },
+                        {
+                          "id": "lnk-747e1fec18",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -308,7 +278,7 @@
           ]
         },
         {
-          "id": "kaytee-344f421f6c0d",
+          "id": "kaytee-ed80a14df7ff",
           "name": "⚽ Brighton vs Manchester United | Sắp diễn ra vs 22:00 24/05/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/51.png",
@@ -334,15 +304,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-344f421f6c0d",
+              "id": "kaytee-ed80a14df7ff",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-344f421f6c0d",
+                  "id": "kaytee-ed80a14df7ff",
                   "name": "Brighton vs Manchester United",
                   "streams": [
                     {
-                      "id": "kaytee-344f421f6c0d",
+                      "id": "kaytee-ed80a14df7ff",
                       "name": "F",
                       "stream_links": []
                     }
@@ -478,6 +448,51 @@
                   "streams": [
                     {
                       "id": "kaytee-8f43a39106bf",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8eff2e4ae1f7",
+          "name": "⚽ Sunderland vs Chelsea | Sắp diễn ra vs 22:00 24/05/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/sco/7/77/Logo_Sunderland.svg",
+          "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/sco/7/77/Logo_Sunderland.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8eff2e4ae1f7",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8eff2e4ae1f7",
+                  "name": "Sunderland vs Chelsea",
+                  "streams": [
+                    {
+                      "id": "kaytee-8eff2e4ae1f7",
                       "name": "F",
                       "stream_links": []
                     }
