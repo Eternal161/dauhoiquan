@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:20 24/05/2026",
+  "last_updated": "10:30 24/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a1b766488ba4",
-          "name": "⚽ Fagiano Okayama vs Cerezo Osaka | Sắp diễn ra vs 10:55 24/05/2026",
+          "name": "⚽ Fagiano Okayama vs Cerezo Osaka | Sắp bắt đầu - null' 0 - 0 10:55 24/05/2026",
           "tournament": "J1 League",
           "logo_nha": "https://media.api-sports.io/football/teams/310.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Cerezo_Osaka_logo.svg/250px-Cerezo_Osaka_logo.svg.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "kaytee-a1b766488ba4",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-86cd16c926",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
