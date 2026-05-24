@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:50 24/05/2026",
+  "last_updated": "00:01 25/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-ed80a14df7ff",
-          "name": "⚽ Brighton vs Manchester United | H2 - 90' 0 - 3 22:00 24/05/2026",
-          "tournament": "Premier League",
-          "logo_nha": "https://media.api-sports.io/football/teams/51.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/33.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/51.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ed80a14df7ff",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ed80a14df7ff",
-                  "name": "Brighton vs Manchester United",
-                  "streams": [
-                    {
-                      "id": "kaytee-ed80a14df7ff",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-970a3eb6d3",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177964145526975&wsIPSercert=d10015271646cfcf571344b48690d744&wsBindIP=2&wsserid=1168176581102008440"
-                        },
-                        {
-                          "id": "lnk-30c75b2853",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-b5c1cb4a8c60",
-          "name": "⚽ Crystal Palace vs Arsenal | H2 - 89' 0 - 2 22:00 24/05/2026",
+          "name": "⚽ Crystal Palace vs Arsenal | Live 0 - 0 22:00 24/05/2026",
           "tournament": "Premier League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-92372f6717",
+                          "id": "lnk-3ba6e05269",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177964146361370&wsIPSercert=d10015271646cfcf571344b48690d744&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfw51gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c4c244e3d6c4c768f7bd2ccd-177964206977537&wsIPSercert=13c34b31844ce93554ec7625f63c8573&wsBindIP=2&wsserid=1172580915182858212"
                         },
                         {
-                          "id": "lnk-aa0b0d92ca",
+                          "id": "lnk-7e62f04653",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-15f50ff902aa",
-          "name": "⚽ Liverpool vs Brentford | H2 - 90' 1 - 1 22:00 24/05/2026",
+          "name": "⚽ Liverpool vs Brentford | Live 0 - 0 22:00 24/05/2026",
           "tournament": "Premier League",
           "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/nGfV05dipbAc7zzojivKew_96x96.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/2/2a/Brentford_FC_crest.svg/1280px-Brentford_FC_crest.svg.png",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-054aca888d",
+                          "id": "lnk-432dc7eed8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177964147207969&wsIPSercert=d10015271646cfcf571344b48690d744&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfw51gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177964207811691&wsIPSercert=13c34b31844ce93554ec7625f63c8573&wsBindIP=2&wsserid=1172580915182858196"
                         },
                         {
-                          "id": "lnk-1d3873fb90",
+                          "id": "lnk-c24c9b9ba9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -189,7 +129,7 @@
         },
         {
           "id": "kaytee-5a98fb68fd7e",
-          "name": "⚽ Manchester City vs Aston Villa | H2 - 90' 1 - 2 22:00 24/05/2026",
+          "name": "⚽ Manchester City vs Aston Villa | H2 - 90+9' 1 - 2 22:00 24/05/2026",
           "tournament": "Premier League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg",
           "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
@@ -226,14 +166,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ef045b0149",
+                          "id": "lnk-e50d69ebe2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177964148025220&wsIPSercert=d10015271646cfcf571344b48690d744&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfw51gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=010895692e12e82cc6f46a15-177964208656482&wsIPSercert=13c34b31844ce93554ec7625f63c8573&wsBindIP=2&wsserid=1172580915173420788"
                         },
                         {
-                          "id": "lnk-6db284f77d",
+                          "id": "lnk-aa449877c1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -249,7 +189,7 @@
         },
         {
           "id": "kaytee-202818458cee",
-          "name": "⚽ Sunderland vs Chelsea | H2 - 90' 2 - 1 22:00 24/05/2026",
+          "name": "⚽ Sunderland vs Chelsea | Live 0 - 0 22:00 24/05/2026",
           "tournament": "Premier League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/sco/7/77/Logo_Sunderland.svg",
           "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
@@ -286,14 +226,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4107f8eb37",
+                          "id": "lnk-60522258ec",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177964148903362&wsIPSercert=d10015271646cfcf571344b48690d744&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfw51gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177964209480282&wsIPSercert=13c34b31844ce93554ec7625f63c8573&wsBindIP=2&wsserid=1172580915182858196"
                         },
                         {
-                          "id": "lnk-dfae39541d",
+                          "id": "lnk-630cfb3dca",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -309,7 +249,7 @@
         },
         {
           "id": "kaytee-461e140a2dae",
-          "name": "⚽ Tottenham vs Everton | H2 - 83' 1 - 0 22:00 24/05/2026",
+          "name": "⚽ Tottenham vs Everton | Live 0 - 0 22:00 24/05/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/47.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Everton_FC_logo.svg",
@@ -346,14 +286,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c633977ca6",
+                          "id": "lnk-d1e45357a5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177964149707569&wsIPSercert=d10015271646cfcf571344b48690d744&wsBindIP=2&wsserid=1168176581102008440"
+                          "url": "https://tfw51gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177964210335370&wsIPSercert=13c34b31844ce93554ec7625f63c8573&wsBindIP=2&wsserid=1172580915182858196"
                         },
                         {
-                          "id": "lnk-c0bd0e5c89",
+                          "id": "lnk-b0e4ed272e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -538,6 +478,51 @@
                   "streams": [
                     {
                       "id": "kaytee-c558f83b4512",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-53b2fe77a3de",
+          "name": "⚽ U.N.A.M. - Pumas vs Cruz Azul | Sắp diễn ra vs 08:00 25/05/2026",
+          "tournament": "Liga MX",
+          "logo_nha": "https://media.api-sports.io/football/teams/2286.png",
+          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4xNkHyv3vyiYqX7HSZ5whQjvMJVYJlF3MQ&s",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2286.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-53b2fe77a3de",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-53b2fe77a3de",
+                  "name": "U.N.A.M. - Pumas vs Cruz Azul",
+                  "streams": [
+                    {
+                      "id": "kaytee-53b2fe77a3de",
                       "name": "F",
                       "stream_links": []
                     }
