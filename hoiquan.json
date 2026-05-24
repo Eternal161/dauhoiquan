@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:10 25/05/2026",
+  "last_updated": "00:20 25/05/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8da5f35f70",
+                          "id": "lnk-8ffba69156",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw50gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177964265717222&wsIPSercert=9ae094b5c6407b00b95fcf7178460775&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfw50gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fa047a81a3972ea683c4010f-177964325824750&wsIPSercert=66e10c3b7fa9f328722c330f02fd5c44&wsBindIP=2&wsserid=1168283476522828939"
                         },
                         {
-                          "id": "lnk-74923a4eba",
+                          "id": "lnk-9389f1bc6a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,78 +106,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-14547449a6",
+                          "id": "lnk-9b3e8693f3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw50gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177964266556801&wsIPSercert=9ae094b5c6407b00b95fcf7178460775&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfw50gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=ddc20330c053da986c27ee21-177964326667928&wsIPSercert=66e10c3b7fa9f328722c330f02fd5c44&wsBindIP=2&wsserid=1168231884021661304"
                         },
                         {
-                          "id": "lnk-3f50a51f8c",
+                          "id": "lnk-dc6563ecc1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-461e140a2dae",
-          "name": "⚽ Tottenham vs Everton | H2 - 90+8' 1 - 0 22:00 24/05/2026",
-          "tournament": "Premier League",
-          "logo_nha": "https://media.api-sports.io/football/teams/47.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Everton_FC_logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/47.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-461e140a2dae",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-461e140a2dae",
-                  "name": "Tottenham vs Everton",
-                  "streams": [
-                    {
-                      "id": "kaytee-461e140a2dae",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-19431b3d3e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw50gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177964267463645&wsIPSercert=9ae094b5c6407b00b95fcf7178460775&wsBindIP=2&wsserid=1168202392933970899"
-                        },
-                        {
-                          "id": "lnk-20ddaf971c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
                         }
                       ]
                     }
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-36af52d93946",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-9b083cc518ac",
+          "name": "⚽ Croatia U17 vs Belgium U17 | Sắp diễn ra vs 18:30 25/05/2026",
+          "tournament": "UEFA U17 Championship - Qualification",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/1.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-9b083cc518ac",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-9b083cc518ac",
+                  "name": "Croatia U17 vs Belgium U17",
+                  "streams": [
+                    {
+                      "id": "kaytee-9b083cc518ac",
                       "name": "F",
                       "stream_links": []
                     }
