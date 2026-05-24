@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:01 25/05/2026",
+  "last_updated": "00:10 25/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b5c1cb4a8c60",
-          "name": "⚽ Crystal Palace vs Arsenal | Live 0 - 0 22:00 24/05/2026",
+          "name": "⚽ Crystal Palace vs Arsenal | H2 - 90+8' 1 - 2 22:00 24/05/2026",
           "tournament": "Premier League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg",
@@ -46,78 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3ba6e05269",
+                          "id": "lnk-8da5f35f70",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c4c244e3d6c4c768f7bd2ccd-177964206977537&wsIPSercert=13c34b31844ce93554ec7625f63c8573&wsBindIP=2&wsserid=1172580915182858212"
+                          "url": "https://tfw50gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177964265717222&wsIPSercert=9ae094b5c6407b00b95fcf7178460775&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-7e62f04653",
+                          "id": "lnk-74923a4eba",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-15f50ff902aa",
-          "name": "⚽ Liverpool vs Brentford | Live 0 - 0 22:00 24/05/2026",
-          "tournament": "Premier League",
-          "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/nGfV05dipbAc7zzojivKew_96x96.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/2/2a/Brentford_FC_crest.svg/1280px-Brentford_FC_crest.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://ssl.gstatic.com/onebox/media/sports/logos/nGfV05dipbAc7zzojivKew_96x96.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-15f50ff902aa",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-15f50ff902aa",
-                  "name": "Liverpool vs Brentford",
-                  "streams": [
-                    {
-                      "id": "kaytee-15f50ff902aa",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-432dc7eed8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177964207811691&wsIPSercert=13c34b31844ce93554ec7625f63c8573&wsBindIP=2&wsserid=1172580915182858196"
-                        },
-                        {
-                          "id": "lnk-c24c9b9ba9",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
                         }
                       ]
                     }
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e50d69ebe2",
+                          "id": "lnk-14547449a6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=010895692e12e82cc6f46a15-177964208656482&wsIPSercert=13c34b31844ce93554ec7625f63c8573&wsBindIP=2&wsserid=1172580915173420788"
+                          "url": "https://tfw50gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177964266556801&wsIPSercert=9ae094b5c6407b00b95fcf7178460775&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-aa449877c1",
+                          "id": "lnk-3f50a51f8c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -188,68 +128,8 @@
           ]
         },
         {
-          "id": "kaytee-202818458cee",
-          "name": "⚽ Sunderland vs Chelsea | Live 0 - 0 22:00 24/05/2026",
-          "tournament": "Premier League",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/sco/7/77/Logo_Sunderland.svg",
-          "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/sco/7/77/Logo_Sunderland.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-202818458cee",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-202818458cee",
-                  "name": "Sunderland vs Chelsea",
-                  "streams": [
-                    {
-                      "id": "kaytee-202818458cee",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-60522258ec",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177964209480282&wsIPSercert=13c34b31844ce93554ec7625f63c8573&wsBindIP=2&wsserid=1172580915182858196"
-                        },
-                        {
-                          "id": "lnk-630cfb3dca",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-461e140a2dae",
-          "name": "⚽ Tottenham vs Everton | Live 0 - 0 22:00 24/05/2026",
+          "name": "⚽ Tottenham vs Everton | H2 - 90+8' 1 - 0 22:00 24/05/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/47.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Everton_FC_logo.svg",
@@ -286,14 +166,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d1e45357a5",
+                          "id": "lnk-19431b3d3e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177964210335370&wsIPSercert=13c34b31844ce93554ec7625f63c8573&wsBindIP=2&wsserid=1172580915182858196"
+                          "url": "https://tfw50gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177964267463645&wsIPSercert=9ae094b5c6407b00b95fcf7178460775&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-b0e4ed272e",
+                          "id": "lnk-20ddaf971c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -523,6 +403,96 @@
                   "streams": [
                     {
                       "id": "kaytee-53b2fe77a3de",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-734cdc472883",
+          "name": "⚽ Los Angeles Fc vs Seattle Sounders | Sắp diễn ra vs 08:15 25/05/2026",
+          "tournament": "Major League Soccer",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/8/86/Los_Angeles_Football_Club.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/8/84/Seattle_Sounders_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Los_Angeles_Football_Club.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-734cdc472883",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-734cdc472883",
+                  "name": "Los Angeles Fc vs Seattle Sounders",
+                  "streams": [
+                    {
+                      "id": "kaytee-734cdc472883",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-36af52d93946",
+          "name": "⚽ Suwon Bluewings vs Cheonan City | Sắp diễn ra vs 14:30 25/05/2026",
+          "tournament": "K League 2",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/7/7b/Suwon_Samsung_Bluewings.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/7060.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/7/7b/Suwon_Samsung_Bluewings.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-36af52d93946",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-36af52d93946",
+                  "name": "Suwon Bluewings vs Cheonan City",
+                  "streams": [
+                    {
+                      "id": "kaytee-36af52d93946",
                       "name": "F",
                       "stream_links": []
                     }
