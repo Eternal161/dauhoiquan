@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "13:40 24/05/2026",
+  "last_updated": "13:50 24/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-838602f93449",
-          "name": "⚽ Tokyo Verdy vs Yokohama F. Marinos | H2 - 80' 0 - 5 12:00 24/05/2026",
+          "name": "⚽ Tokyo Verdy vs Yokohama F. Marinos | H2 - 89' 0 - 5 12:00 24/05/2026",
           "tournament": "J1 League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/id/a/a0/Tokyo_Verdy_2020_logo.webp",
           "logo_khach": "https://media.api-sports.io/football/teams/296.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-96942b5a28",
+                          "id": "lnk-ec3e67f8ac",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177960485174889&wsIPSercert=6c5e031a8add3e1946c11d6fbdff03e9&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfw51gr4uqmtt8y41hcjzgyzdrcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f1d6e7dc9e90ef84d715f9d8-177960545161407&wsIPSercert=14c00cc918a72ae0d02e5e69f249b7c6&wsBindIP=2&wsserid=1168162712924058667"
                         },
                         {
-                          "id": "lnk-6a9fcb04a0",
+                          "id": "lnk-df260cc547",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
