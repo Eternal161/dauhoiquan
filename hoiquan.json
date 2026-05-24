@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:10 24/05/2026",
+  "last_updated": "21:20 24/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-bd79f7c1b01b",
-          "name": "⚽ Ha Noi vs Nam Dinh | H2 - 90+6' 2 - 1 19:15 24/05/2026",
-          "tournament": "V.League 1",
-          "logo_nha": "https://media.api-sports.io/football/teams/3670.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/3674.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/3670.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-bd79f7c1b01b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-bd79f7c1b01b",
-                  "name": "Ha Noi vs Nam Dinh",
-                  "streams": [
-                    {
-                      "id": "kaytee-bd79f7c1b01b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5e123a9259",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177963186870146&wsIPSercert=72cf7b831bb737ea33e6b84bd1afcda4&wsBindIP=2&wsserid=1168176581102008440"
-                        },
-                        {
-                          "id": "lnk-cd4dc53690",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-ac441b97c3a4",
-          "name": "⚽ Parma vs Sassuolo | H2 - 50' 0 - 0 20:00 24/05/2026",
+          "name": "⚽ Parma vs Sassuolo | H2 - 59' 0 - 0 20:00 24/05/2026",
           "tournament": "Serie A",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_Parma_Calcio_1913_%28adozione_2016%29.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/sco/1/1c/US_Sassuolo_Calcio_logo.svg",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-449a6ee5e1",
+                          "id": "lnk-8f1c06e8a1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw51gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177963187706085&wsIPSercert=72cf7b831bb737ea33e6b84bd1afcda4&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfw51gr4uqmtt8y41hcjzgyzdrcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f1d6e7dc9e90ef84d715f9d8-177963244970816&wsIPSercert=656777d47d75a12c666f30f85ffc2fd8&wsBindIP=2&wsserid=1168162712924058667"
                         },
                         {
-                          "id": "lnk-d8d59f82a4",
+                          "id": "lnk-389c39b221",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -354,7 +294,7 @@
         },
         {
           "id": "kaytee-461e140a2dae",
-          "name": "⚽ Tottenham vs Everton | Sắp diễn ra vs 22:00 24/05/2026",
+          "name": "⚽ Tottenham vs Everton | Sắp bắt đầu - null' 0 - 0 22:00 24/05/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/47.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Everton_FC_logo.svg",
@@ -371,10 +311,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -389,7 +329,22 @@
                     {
                       "id": "kaytee-461e140a2dae",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-073782d0e9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw51gr4uqmtt8y41hcjzgyzdrcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=cc867646ac0f694e010058a5-177963250075829&wsIPSercert=656777d47d75a12c666f30f85ffc2fd8&wsBindIP=2&wsserid=1172666312483236046"
+                        },
+                        {
+                          "id": "lnk-dfe0d44497",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -478,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-f09cfc61aa28",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-2711bf46e40d",
+          "name": "⚽ Hellas Verona vs As Roma | Sắp diễn ra vs 01:45 25/05/2026",
+          "tournament": "Serie A",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/it/9/92/Hellas_Verona_FC_logo_%282020%29.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/f/f7/AS_Roma_logo_%282017%29.svg/250px-AS_Roma_logo_%282017%29.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/it/9/92/Hellas_Verona_FC_logo_%282020%29.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-2711bf46e40d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-2711bf46e40d",
+                  "name": "Hellas Verona vs As Roma",
+                  "streams": [
+                    {
+                      "id": "kaytee-2711bf46e40d",
                       "name": "F",
                       "stream_links": []
                     }
