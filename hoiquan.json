@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "14:00 24/05/2026",
+  "last_updated": "14:10 24/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-838602f93449",
-          "name": "⚽ Tokyo Verdy vs Yokohama F. Marinos | H2 - 90+4' 0 - 6 12:00 24/05/2026",
-          "tournament": "J1 League",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/id/a/a0/Tokyo_Verdy_2020_logo.webp",
-          "logo_khach": "https://media.api-sports.io/football/teams/296.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/id/a/a0/Tokyo_Verdy_2020_logo.webp",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-838602f93449",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-838602f93449",
-                  "name": "Tokyo Verdy vs Yokohama F. Marinos",
-                  "streams": [
-                    {
-                      "id": "kaytee-838602f93449",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-11c262a5de",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-b5b3bb3833db",
           "name": "⚽ Shimizu S-Pulse vs Gamba Osaka | Sắp diễn ra vs 15:00 24/05/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-15f50ff902aa",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8f43a39106bf",
+          "name": "⚽ Manchester City vs Aston Villa | Sắp diễn ra vs 22:00 24/05/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg",
+          "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8f43a39106bf",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8f43a39106bf",
+                  "name": "Manchester City vs Aston Villa",
+                  "streams": [
+                    {
+                      "id": "kaytee-8f43a39106bf",
                       "name": "F",
                       "stream_links": []
                     }
