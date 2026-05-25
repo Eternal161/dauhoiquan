@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:50 26/05/2026",
+  "last_updated": "05:00 26/05/2026",
   "groups": [
     {
       "id": "live",
@@ -144,7 +144,7 @@
         },
         {
           "id": "kaytee-0ff25adf63c1",
-          "name": "⚽ Jamaica vs Zimbabwe | Sắp diễn ra vs 22:00 27/05/2026",
+          "name": "⚽ Jamaica vs Zimbabwe | Sắp bắt đầu - null' 0 - 0 22:00 27/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/250px-Flag_of_Jamaica.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/1920px-Flag_of_Zimbabwe.svg.png",
@@ -161,10 +161,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -179,7 +179,15 @@
                     {
                       "id": "kaytee-0ff25adf63c1",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-8969ef1a6f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
