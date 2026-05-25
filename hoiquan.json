@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:20 25/05/2026",
+  "last_updated": "20:30 25/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-8a69bd07897f",
-          "name": "⚽ Croatia U17 vs Belgium U17 | Live 0 - 0 18:30 25/05/2026",
-          "tournament": "UEFA U17 Championship - Qualification",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/1.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-8a69bd07897f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-8a69bd07897f",
-                  "name": "Croatia U17 vs Belgium U17",
-                  "streams": [
-                    {
-                      "id": "kaytee-8a69bd07897f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-92f2c43fe1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw60gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=a892446647eff012ef984b15-177971526182232&wsIPSercert=570d8281ea5dbac861d306a84c85d80b&wsBindIP=2&wsserid=1168283476093891044"
-                        },
-                        {
-                          "id": "lnk-c06900e2ec",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-b878c78d5159",
           "name": "⚽ Sarpsborg 08 Ff vs Molde | Sắp diễn ra vs 22:00 25/05/2026",
