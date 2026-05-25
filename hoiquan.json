@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:00 25/05/2026",
+  "last_updated": "22:10 25/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b878c78d5159",
-          "name": "⚽ Sarpsborg 08 Ff vs Molde | H1 - 1' 0 - 0 22:00 25/05/2026",
+          "name": "⚽ Sarpsborg 08 Ff vs Molde | H1 - 10' 1 - 0 22:00 25/05/2026",
           "tournament": "Eliteserien",
           "logo_nha": "https://media.api-sports.io/football/teams/333.png",
           "logo_khach": "https://media.api-sports.io/football/teams/329.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d5ca120eef",
+                          "id": "lnk-07c7638b75",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw61gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd62835041fe49ebfc13d2bc-177972126367425&wsIPSercert=5e32350df06ac9888fa92593d4e11e19&wsBindIP=2&wsserid=1168282035622980969"
+                          "url": "https://tfw61gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177972185444741&wsIPSercert=6f99b40425ff56e753e0f9553a18c3e4&wsBindIP=2&wsserid=1172580915182858196"
                         },
                         {
-                          "id": "lnk-069b001c0a",
+                          "id": "lnk-622a1257c3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
