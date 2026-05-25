@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:40 25/05/2026",
+  "last_updated": "07:50 25/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c558f83b4512",
-          "name": "⚽ Inter Miami vs Philadelphia Union | H2 - 59' 4 - 4 06:00 25/05/2026",
+          "name": "⚽ Inter Miami vs Philadelphia Union | H2 - 70' 4 - 4 06:00 25/05/2026",
           "tournament": "Major League Soccer",
           "logo_nha": "https://media.api-sports.io/football/teams/9568.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/4/46/Philadelphia_Union_2018_logo.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e52d97a0cb",
+                          "id": "lnk-9488db2e2b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw60gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=6e1279e156ce1898ee876f29-177966966537077&wsIPSercert=aec3c3520d49534f0a3eeedff8e33650&wsBindIP=2&wsserid=1168140817803879397"
+                          "url": "https://tfw63gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b8969814a7adf8c9b0ca01df-177967025419876&wsIPSercert=742c543bdae51d5f03cfe0e4d0db739b&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-8cf433b767",
+                          "id": "lnk-ef62d1bc14",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,10 +106,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-984df528cb",
+                          "id": "lnk-b62d8f975f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfw63gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4d65f54b2ced7bd280e8ea77-177967026273980&wsIPSercert=742c543bdae51d5f03cfe0e4d0db739b&wsBindIP=2&wsserid=1172666312704417830"
+                        },
+                        {
+                          "id": "lnk-6c741f7992",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
@@ -122,7 +129,7 @@
         },
         {
           "id": "kaytee-734cdc472883",
-          "name": "⚽ Los Angeles Fc vs Seattle Sounders | Sắp diễn ra vs 08:15 25/05/2026",
+          "name": "⚽ Los Angeles Fc vs Seattle Sounders | Sắp bắt đầu - null' 0 - 0 08:15 25/05/2026",
           "tournament": "Major League Soccer",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/8/86/Los_Angeles_Football_Club.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/8/84/Seattle_Sounders_logo.svg",
@@ -139,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -157,7 +164,22 @@
                     {
                       "id": "kaytee-734cdc472883",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-c4497fbd1c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw63gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=b8969814a7adf8c9b0ca01df-177967027132594&wsIPSercert=742c543bdae51d5f03cfe0e4d0db739b&wsBindIP=2&wsserid=1172666312698126342"
+                        },
+                        {
+                          "id": "lnk-fd60749f11",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
