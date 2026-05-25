@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:50 25/05/2026",
+  "last_updated": "09:00 25/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-c558f83b4512",
-          "name": "⚽ Inter Miami vs Philadelphia Union | Live 0 - 0 06:00 25/05/2026",
-          "tournament": "Major League Soccer",
-          "logo_nha": "https://media.api-sports.io/football/teams/9568.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/4/46/Philadelphia_Union_2018_logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/9568.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c558f83b4512",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c558f83b4512",
-                  "name": "Inter Miami vs Philadelphia Union",
-                  "streams": [
-                    {
-                      "id": "kaytee-c558f83b4512",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b1ea1814cc",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-53b2fe77a3de",
           "name": "⚽ U.N.A.M. - Pumas vs Cruz Azul | Live 0 - 0 08:00 25/05/2026",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-921c5041ba",
+                          "id": "lnk-634d6d6eeb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw63gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4d65f54b2ced7bd280e8ea77-177967386617793&wsIPSercert=2624cce332e87bac9ae83193a1c3bf5f&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfw60gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4d65f54b2ced7bd280e8ea77-177967446256870&wsIPSercert=ca624d9f1ca66a176671331f1fb6b691&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-a81f4130cc",
+                          "id": "lnk-75873c0ae2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -159,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4c8044dd43",
+                          "id": "lnk-dfe2070a82",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw63gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=b8969814a7adf8c9b0ca01df-177967387510475&wsIPSercert=2624cce332e87bac9ae83193a1c3bf5f&wsBindIP=2&wsserid=1172666312698126342"
+                          "url": "https://tfw60gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=b8969814a7adf8c9b0ca01df-177967447118231&wsIPSercert=ca624d9f1ca66a176671331f1fb6b691&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-e193376e42",
+                          "id": "lnk-94efd6a947",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -486,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-b5712146126a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6624b27f13ec",
+          "name": "⚽ Montenegro U17 vs Denmark U17 | Sắp diễn ra vs 23:00 26/05/2026",
+          "tournament": "UEFA U17 Championship - Qualification",
+          "logo_nha": "https://img.uefa.com/imgml/flags/240x240/MNE.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/17948.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.uefa.com/imgml/flags/240x240/MNE.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6624b27f13ec",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6624b27f13ec",
+                  "name": "Montenegro U17 vs Denmark U17",
+                  "streams": [
+                    {
+                      "id": "kaytee-6624b27f13ec",
                       "name": "F",
                       "stream_links": []
                     }
