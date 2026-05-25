@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:40 25/05/2026",
+  "last_updated": "09:50 25/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-53b2fe77a3de",
-          "name": "⚽ U.N.A.M. - Pumas vs Cruz Azul | H2 - 65' 1 - 1 08:00 25/05/2026",
+          "name": "⚽ U.N.A.M. - Pumas vs Cruz Azul | H2 - 75' 1 - 1 08:00 25/05/2026",
           "tournament": "Liga MX",
           "logo_nha": "https://media.api-sports.io/football/teams/2286.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4xNkHyv3vyiYqX7HSZ5whQjvMJVYJlF3MQ&s",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-facfd5f80b",
+                          "id": "lnk-d3810e4e7c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw60gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4d65f54b2ced7bd280e8ea77-177967685801901&wsIPSercert=0e7e1a29a0ff0d55134d82bb0035f47d&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfw60gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4d65f54b2ced7bd280e8ea77-177967745916467&wsIPSercert=4f8e9f16e70824be4f1f3336ca556a8e&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-6c549a4f1b",
+                          "id": "lnk-5ed9014e03",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-734cdc472883",
-          "name": "⚽ Los Angeles Fc vs Seattle Sounders | H2 - 58' 0 - 0 08:15 25/05/2026",
+          "name": "⚽ Los Angeles Fc vs Seattle Sounders | H2 - 69' 0 - 0 08:15 25/05/2026",
           "tournament": "Major League Soccer",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/8/86/Los_Angeles_Football_Club.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/8/84/Seattle_Sounders_logo.svg",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fcc9f5bfb4",
+                          "id": "lnk-dc52e2f72e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw60gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=b8969814a7adf8c9b0ca01df-177967686621972&wsIPSercert=0e7e1a29a0ff0d55134d82bb0035f47d&wsBindIP=2&wsserid=1172666312698126342"
+                          "url": "https://tfw60gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=b8969814a7adf8c9b0ca01df-177967746751587&wsIPSercert=4f8e9f16e70824be4f1f3336ca556a8e&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-4852250d95",
+                          "id": "lnk-b3f94d23d0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
