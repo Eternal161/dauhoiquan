@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:00 26/05/2026",
+  "last_updated": "04:10 26/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-9d0871a205f1",
-          "name": "⚽ Sc Paderborn 07 vs Vfl Wolfsburg | Kết thúc - 118' 2 - 1 01:30 26/05/2026",
-          "tournament": "Bundesliga",
-          "logo_nha": "https://dothethao.net.vn/wp-content/uploads/2020/06/sc-paderborn-logo-900px.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/1280px-VfL_Wolfsburg_Logo.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://dothethao.net.vn/wp-content/uploads/2020/06/sc-paderborn-logo-900px.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-9d0871a205f1",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-9d0871a205f1",
-                  "name": "Sc Paderborn 07 vs Vfl Wolfsburg",
-                  "streams": [
-                    {
-                      "id": "kaytee-9d0871a205f1",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3a0569422a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw61gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=39208dad862a1684dd11e461-177974286015271&wsIPSercert=7807a833e1b761f5a8abcdd13ab98d68&wsBindIP=2&wsserid=1168243343863876729"
-                        },
-                        {
-                          "id": "lnk-000b9343e3",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-532486730520",
           "name": "⚽ Coritiba vs Bahia | Sắp diễn ra vs 06:00 26/05/2026",
