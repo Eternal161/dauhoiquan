@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:30 25/05/2026",
+  "last_updated": "07:40 25/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c558f83b4512",
-          "name": "⚽ Inter Miami vs Philadelphia Union | H2 - 49' 4 - 4 06:00 25/05/2026",
+          "name": "⚽ Inter Miami vs Philadelphia Union | H2 - 59' 4 - 4 06:00 25/05/2026",
           "tournament": "Major League Soccer",
           "logo_nha": "https://media.api-sports.io/football/teams/9568.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/4/46/Philadelphia_Union_2018_logo.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-079acd3529",
+                          "id": "lnk-e52d97a0cb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw61gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=db98c80219ad4c36840f2c02-177966904991229&wsIPSercert=abedcdd769e5c460de22b74d5f68fe5a&wsBindIP=2&wsserid=1168243343870168317"
+                          "url": "https://tfw60gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=6e1279e156ce1898ee876f29-177966966537077&wsIPSercert=aec3c3520d49534f0a3eeedff8e33650&wsBindIP=2&wsserid=1168140817803879397"
                         },
                         {
-                          "id": "lnk-21f607af19",
+                          "id": "lnk-8cf433b767",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-53b2fe77a3de",
-          "name": "⚽ U.N.A.M. - Pumas vs Cruz Azul | Sắp diễn ra vs 08:00 25/05/2026",
+          "name": "⚽ U.N.A.M. - Pumas vs Cruz Azul | Sắp bắt đầu - null' 0 - 0 08:00 25/05/2026",
           "tournament": "Liga MX",
           "logo_nha": "https://media.api-sports.io/football/teams/2286.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4xNkHyv3vyiYqX7HSZ5whQjvMJVYJlF3MQ&s",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,15 @@
                     {
                       "id": "kaytee-53b2fe77a3de",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-984df528cb",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
