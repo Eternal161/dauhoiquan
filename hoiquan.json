@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:40 25/05/2026",
+  "last_updated": "08:50 25/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c558f83b4512",
-          "name": "⚽ Inter Miami vs Philadelphia Union | H2 - 90+8' 6 - 4 06:00 25/05/2026",
+          "name": "⚽ Inter Miami vs Philadelphia Union | Live 0 - 0 06:00 25/05/2026",
           "tournament": "Major League Soccer",
           "logo_nha": "https://media.api-sports.io/football/teams/9568.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/4/46/Philadelphia_Union_2018_logo.svg",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4b262917dc",
+                          "id": "lnk-b1ea1814cc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-53b2fe77a3de",
-          "name": "⚽ U.N.A.M. - Pumas vs Cruz Azul | H1 - 30' 0 - 0 08:00 25/05/2026",
+          "name": "⚽ U.N.A.M. - Pumas vs Cruz Azul | Live 0 - 0 08:00 25/05/2026",
           "tournament": "Liga MX",
           "logo_nha": "https://media.api-sports.io/football/teams/2286.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4xNkHyv3vyiYqX7HSZ5whQjvMJVYJlF3MQ&s",
@@ -99,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7667511bd8",
+                          "id": "lnk-921c5041ba",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw61gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=498ad6b0888bc9c29a6331ea-177967326039516&wsIPSercert=a1d072738c129bd791946a371bd3fa98&wsBindIP=2&wsserid=1172580915176566596"
+                          "url": "https://tfw63gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4d65f54b2ced7bd280e8ea77-177967386617793&wsIPSercert=2624cce332e87bac9ae83193a1c3bf5f&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-29a76e5da6",
+                          "id": "lnk-a81f4130cc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -122,7 +122,7 @@
         },
         {
           "id": "kaytee-734cdc472883",
-          "name": "⚽ Los Angeles Fc vs Seattle Sounders | H1 - 16' 0 - 0 08:15 25/05/2026",
+          "name": "⚽ Los Angeles Fc vs Seattle Sounders | Live 0 - 0 08:15 25/05/2026",
           "tournament": "Major League Soccer",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/8/86/Los_Angeles_Football_Club.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/8/84/Seattle_Sounders_logo.svg",
@@ -159,14 +159,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f675e3a0e0",
+                          "id": "lnk-4c8044dd43",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw61gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-177967326902661&wsIPSercert=a1d072738c129bd791946a371bd3fa98&wsBindIP=2&wsserid=1172580915182858196"
+                          "url": "https://tfw63gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=b8969814a7adf8c9b0ca01df-177967387510475&wsIPSercert=2624cce332e87bac9ae83193a1c3bf5f&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-0def013d4e",
+                          "id": "lnk-e193376e42",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
