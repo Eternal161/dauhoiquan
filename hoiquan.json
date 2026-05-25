@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:01 26/05/2026",
+  "last_updated": "06:10 26/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-532486730520",
-          "name": "⚽ Coritiba vs Bahia | Sắp bắt đầu - null' 0 - 0 06:00 26/05/2026",
+          "name": "⚽ Coritiba vs Bahia | H1 - 6' 0 - 0 06:00 26/05/2026",
           "tournament": "VĐQG Brazil",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coritiba_Foot_Ball_Club_logo.svg/500px-Coritiba_Foot_Ball_Club_logo.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_of_Esporte_Clube_Bahia_%282004%29.svg/250px-Logo_of_Esporte_Clube_Bahia_%282004%29.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-30acd93a34",
+                          "id": "lnk-f9e684afaa",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw60gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=d21220482f9e651f1e149f3b-177975006935810&wsIPSercert=b7adf82040490ed36505be89c766006a&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfw60gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-177975066678123&wsIPSercert=a6ddd043645fcf1d285b4a900bf02123&wsBindIP=2&wsserid=1168176346313714739"
                         },
                         {
-                          "id": "lnk-5a0540ebcc",
+                          "id": "lnk-5fe5a380a9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
