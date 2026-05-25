@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:20 25/05/2026",
+  "last_updated": "08:30 25/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c558f83b4512",
-          "name": "⚽ Inter Miami vs Philadelphia Union | Live 0 - 0 06:00 25/05/2026",
+          "name": "⚽ Inter Miami vs Philadelphia Union | H2 - 90+8' 6 - 4 06:00 25/05/2026",
           "tournament": "Major League Soccer",
           "logo_nha": "https://media.api-sports.io/football/teams/9568.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/4/46/Philadelphia_Union_2018_logo.svg",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fd2ae901b4",
+                          "id": "lnk-3da2df744f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw61gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177967205977229&wsIPSercert=1e55246ed0c115e70dea1e7623b5ad76&wsBindIP=2&wsserid=1168176581102008440"
-                        },
-                        {
-                          "id": "lnk-64b1cced7e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
                         }
                       ]
@@ -69,7 +62,7 @@
         },
         {
           "id": "kaytee-53b2fe77a3de",
-          "name": "⚽ U.N.A.M. - Pumas vs Cruz Azul | Live 0 - 0 08:00 25/05/2026",
+          "name": "⚽ U.N.A.M. - Pumas vs Cruz Azul | H1 - 20' 0 - 0 08:00 25/05/2026",
           "tournament": "Liga MX",
           "logo_nha": "https://media.api-sports.io/football/teams/2286.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4xNkHyv3vyiYqX7HSZ5whQjvMJVYJlF3MQ&s",
@@ -106,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6e747de6e0",
+                          "id": "lnk-c002a3720e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw61gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177967206814507&wsIPSercert=1e55246ed0c115e70dea1e7623b5ad76&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfw60gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177967266000592&wsIPSercert=1725c5bdf6fc81526bdb8b3aa2c73ad6&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-103a157b4e",
+                          "id": "lnk-ef343f6525",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +122,7 @@
         },
         {
           "id": "kaytee-734cdc472883",
-          "name": "⚽ Los Angeles Fc vs Seattle Sounders | Live 0 - 0 08:15 25/05/2026",
+          "name": "⚽ Los Angeles Fc vs Seattle Sounders | H1 - 6' 0 - 0 08:15 25/05/2026",
           "tournament": "Major League Soccer",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/8/86/Los_Angeles_Football_Club.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/8/84/Seattle_Sounders_logo.svg",
@@ -166,14 +159,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ef37e31bdd",
+                          "id": "lnk-62fada1cff",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw61gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177967207669932&wsIPSercert=1e55246ed0c115e70dea1e7623b5ad76&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfw60gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177967266868059&wsIPSercert=1725c5bdf6fc81526bdb8b3aa2c73ad6&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-f5a20f7418",
+                          "id": "lnk-6f5c433f5b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
