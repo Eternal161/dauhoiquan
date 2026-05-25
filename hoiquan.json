@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:20 25/05/2026",
+  "last_updated": "10:30 25/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-53b2fe77a3de",
-          "name": "⚽ U.N.A.M. - Pumas vs Cruz Azul | H2 - 90+8' 1 - 2 08:00 25/05/2026",
+          "name": "⚽ U.N.A.M. - Pumas vs Cruz Azul | Live 0 - 0 08:00 25/05/2026",
           "tournament": "Liga MX",
           "logo_nha": "https://media.api-sports.io/football/teams/2286.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4xNkHyv3vyiYqX7HSZ5whQjvMJVYJlF3MQ&s",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-237b255ff3",
+                          "id": "lnk-896ed8827b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-734cdc472883",
-          "name": "⚽ Los Angeles Fc vs Seattle Sounders | H2 - 90+4' 1 - 0 08:15 25/05/2026",
+          "name": "⚽ Los Angeles Fc vs Seattle Sounders | Live 0 - 0 08:15 25/05/2026",
           "tournament": "Major League Soccer",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/8/86/Los_Angeles_Football_Club.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/8/84/Seattle_Sounders_logo.svg",
@@ -99,7 +99,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f9fbd0307f",
+                          "id": "lnk-d92ba11a2c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
