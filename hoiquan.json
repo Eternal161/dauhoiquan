@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:10 25/05/2026",
+  "last_updated": "17:20 25/05/2026",
   "groups": [
     {
       "id": "live",
@@ -43,51 +43,6 @@
                   "streams": [
                     {
                       "id": "kaytee-8a69bd07897f",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-6d9868e3cef3",
-          "name": "⚽ Sarpsborg 08 Ff vs Molde | Sắp diễn ra vs 22:00 25/05/2026",
-          "tournament": "Eliteserien",
-          "logo_nha": "https://media.api-sports.io/football/teams/333.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/329.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/333.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-6d9868e3cef3",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-6d9868e3cef3",
-                  "name": "Sarpsborg 08 Ff vs Molde",
-                  "streams": [
-                    {
-                      "id": "kaytee-6d9868e3cef3",
                       "name": "F",
                       "stream_links": []
                     }
@@ -233,96 +188,6 @@
           ]
         },
         {
-          "id": "kaytee-b5712146126a",
-          "name": "⚽ Morocco vs Burundi | Sắp diễn ra vs 23:00 26/05/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1528.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b5712146126a",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b5712146126a",
-                  "name": "Morocco vs Burundi",
-                  "streams": [
-                    {
-                      "id": "kaytee-b5712146126a",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-6624b27f13ec",
-          "name": "⚽ Montenegro U17 vs Denmark U17 | Sắp diễn ra vs 23:00 26/05/2026",
-          "tournament": "UEFA U17 Championship - Qualification",
-          "logo_nha": "https://img.uefa.com/imgml/flags/240x240/MNE.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/17948.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.uefa.com/imgml/flags/240x240/MNE.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-6624b27f13ec",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-6624b27f13ec",
-                  "name": "Montenegro U17 vs Denmark U17",
-                  "streams": [
-                    {
-                      "id": "kaytee-6624b27f13ec",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-6fa1c4e264e5",
           "name": "⚽ Santos vs Deportivo Cuenca | Sắp diễn ra vs 07:30 27/05/2026",
           "tournament": "CONMEBOL Sudamericana",
@@ -368,11 +233,11 @@
           ]
         },
         {
-          "id": "kaytee-8da4b55df7c2",
-          "name": "⚽ Flamengo vs Cusco | Sắp diễn ra vs 07:30 27/05/2026",
-          "tournament": "CONMEBOL Libertadores",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/10013.png",
+          "id": "kaytee-0ff25adf63c1",
+          "name": "⚽ Jamaica vs Zimbabwe | Sắp diễn ra vs 22:00 27/05/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/250px-Flag_of_Jamaica.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/1920px-Flag_of_Zimbabwe.svg.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -380,7 +245,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/250px-Flag_of_Jamaica.svg.png",
             "width": 1600,
             "height": 1200
           },
@@ -394,15 +259,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-8da4b55df7c2",
+              "id": "kaytee-0ff25adf63c1",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-8da4b55df7c2",
-                  "name": "Flamengo vs Cusco",
+                  "id": "kaytee-0ff25adf63c1",
+                  "name": "Jamaica vs Zimbabwe",
                   "streams": [
                     {
-                      "id": "kaytee-8da4b55df7c2",
+                      "id": "kaytee-0ff25adf63c1",
                       "name": "F",
                       "stream_links": []
                     }
@@ -413,11 +278,11 @@
           ]
         },
         {
-          "id": "kaytee-8803869c7169",
-          "name": "⚽ Buriram United vs Selangor | Sắp diễn ra vs 19:00 27/05/2026",
-          "tournament": "ASEAN Club Championship",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Buriram_United_logo.svg/250px-Buriram_United_logo.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/d/d7/Selangor_FC_logo.svg",
+          "id": "kaytee-95b1b75df4fe",
+          "name": "⚽ Ararat-Armenia vs Gandzasar | Sắp diễn ra vs 22:00 27/05/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0kqWey0UfrC0EKfcwWbE__I45BpbqSL8o8Q&s",
+          "logo_khach": "https://media.api-sports.io/football/teams/688.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -425,7 +290,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Buriram_United_logo.svg/250px-Buriram_United_logo.svg.png",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0kqWey0UfrC0EKfcwWbE__I45BpbqSL8o8Q&s",
             "width": 1600,
             "height": 1200
           },
@@ -439,15 +304,60 @@
           ],
           "sources": [
             {
-              "id": "kaytee-8803869c7169",
+              "id": "kaytee-95b1b75df4fe",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-8803869c7169",
-                  "name": "Buriram United vs Selangor",
+                  "id": "kaytee-95b1b75df4fe",
+                  "name": "Ararat-Armenia vs Gandzasar",
                   "streams": [
                     {
-                      "id": "kaytee-8803869c7169",
+                      "id": "kaytee-95b1b75df4fe",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-223d7924f853",
+          "name": "⚽ Fc Urartu vs Fc Noah | Sắp diễn ra vs 22:00 27/05/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/2276.png",
+          "logo_khach": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072024/noa_erevan_armeniya.jpg?uY.4iyP71.IUrYKW4zofa.9TrGE4PAdC&itok=2IIKrnfc",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2276.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-223d7924f853",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-223d7924f853",
+                  "name": "Fc Urartu vs Fc Noah",
+                  "streams": [
+                    {
+                      "id": "kaytee-223d7924f853",
                       "name": "F",
                       "stream_links": []
                     }
