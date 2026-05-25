@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:30 25/05/2026",
+  "last_updated": "16:40 25/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-36af52d93946",
-          "name": "⚽ Suwon Bluewings vs Cheonan City | H2 - 90+10' 3 - 2 14:30 25/05/2026",
-          "tournament": "K League 2",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/7/7b/Suwon_Samsung_Bluewings.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/7060.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/7/7b/Suwon_Samsung_Bluewings.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-36af52d93946",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-36af52d93946",
-                  "name": "Suwon Bluewings vs Cheonan City",
-                  "streams": [
-                    {
-                      "id": "kaytee-36af52d93946",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-82e5096da0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-8a69bd07897f",
           "name": "⚽ Croatia U17 vs Belgium U17 | Sắp diễn ra vs 18:30 25/05/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-8da4b55df7c2",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8803869c7169",
+          "name": "⚽ Buriram United vs Selangor | Sắp diễn ra vs 19:00 27/05/2026",
+          "tournament": "ASEAN Club Championship",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Buriram_United_logo.svg/250px-Buriram_United_logo.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/d/d7/Selangor_FC_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Buriram_United_logo.svg/250px-Buriram_United_logo.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8803869c7169",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8803869c7169",
+                  "name": "Buriram United vs Selangor",
+                  "streams": [
+                    {
+                      "id": "kaytee-8803869c7169",
                       "name": "F",
                       "stream_links": []
                     }
