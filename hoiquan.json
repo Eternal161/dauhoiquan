@@ -1,118 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:10 25/05/2026",
+  "last_updated": "11:20 25/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-53b2fe77a3de",
-          "name": "⚽ U.N.A.M. - Pumas vs Cruz Azul | H2 - 90+8' 1 - 2 08:00 25/05/2026",
-          "tournament": "Liga MX",
-          "logo_nha": "https://media.api-sports.io/football/teams/2286.png",
-          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4xNkHyv3vyiYqX7HSZ5whQjvMJVYJlF3MQ&s",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2286.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-53b2fe77a3de",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-53b2fe77a3de",
-                  "name": "U.N.A.M. - Pumas vs Cruz Azul",
-                  "streams": [
-                    {
-                      "id": "kaytee-53b2fe77a3de",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a9640ab0b8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-734cdc472883",
-          "name": "⚽ Los Angeles Fc vs Seattle Sounders | H2 - 90+4' 1 - 0 08:15 25/05/2026",
-          "tournament": "Major League Soccer",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/8/86/Los_Angeles_Football_Club.svg",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/8/84/Seattle_Sounders_logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Los_Angeles_Football_Club.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-734cdc472883",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-734cdc472883",
-                  "name": "Los Angeles Fc vs Seattle Sounders",
-                  "streams": [
-                    {
-                      "id": "kaytee-734cdc472883",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d7506048c3",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-36af52d93946",
           "name": "⚽ Suwon Bluewings vs Cheonan City | Sắp diễn ra vs 14:30 25/05/2026",
@@ -159,7 +53,7 @@
           ]
         },
         {
-          "id": "kaytee-9b083cc518ac",
+          "id": "kaytee-8a69bd07897f",
           "name": "⚽ Croatia U17 vs Belgium U17 | Sắp diễn ra vs 18:30 25/05/2026",
           "tournament": "UEFA U17 Championship - Qualification",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
@@ -185,15 +79,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-9b083cc518ac",
+              "id": "kaytee-8a69bd07897f",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-9b083cc518ac",
+                  "id": "kaytee-8a69bd07897f",
                   "name": "Croatia U17 vs Belgium U17",
                   "streams": [
                     {
-                      "id": "kaytee-9b083cc518ac",
+                      "id": "kaytee-8a69bd07897f",
                       "name": "F",
                       "stream_links": []
                     }
@@ -464,6 +358,96 @@
                   "streams": [
                     {
                       "id": "kaytee-6624b27f13ec",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6fa1c4e264e5",
+          "name": "⚽ Santos vs Deportivo Cuenca | Sắp diễn ra vs 07:30 27/05/2026",
+          "tournament": "CONMEBOL Sudamericana",
+          "logo_nha": "https://media.api-sports.io/football/teams/128.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1154.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/128.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6fa1c4e264e5",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6fa1c4e264e5",
+                  "name": "Santos vs Deportivo Cuenca",
+                  "streams": [
+                    {
+                      "id": "kaytee-6fa1c4e264e5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8da4b55df7c2",
+          "name": "⚽ Flamengo vs Cusco | Sắp diễn ra vs 07:30 27/05/2026",
+          "tournament": "CONMEBOL Libertadores",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10013.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8da4b55df7c2",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8da4b55df7c2",
+                  "name": "Flamengo vs Cusco",
+                  "streams": [
+                    {
+                      "id": "kaytee-8da4b55df7c2",
                       "name": "F",
                       "stream_links": []
                     }
