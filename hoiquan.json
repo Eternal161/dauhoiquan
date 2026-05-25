@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:00 25/05/2026",
+  "last_updated": "15:10 25/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-36af52d93946",
-          "name": "⚽ Suwon Bluewings vs Cheonan City | H1 - 31' 1 - 0 14:30 25/05/2026",
+          "name": "⚽ Suwon Bluewings vs Cheonan City | Live 0 - 0 14:30 25/05/2026",
           "tournament": "K League 2",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/7/7b/Suwon_Samsung_Bluewings.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/7060.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9e124269f3",
+                          "id": "lnk-06b1802f05",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw63gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4d65f54b2ced7bd280e8ea77-177969606027320&wsIPSercert=0eb6961dd274dade114c29cf438c1382&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfw60gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=572f9e24ef0909ca5424c30d-177969665169230&wsIPSercert=ebc465d1dc8d730415d1d4b1c7187ef3&wsBindIP=2&wsserid=1168176346315811943"
                         },
                         {
-                          "id": "lnk-f3d8e90630",
+                          "id": "lnk-0e01b05b41",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
