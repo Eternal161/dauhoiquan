@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:10 26/05/2026",
+  "last_updated": "08:20 26/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-532486730520",
-          "name": "⚽ Coritiba vs Bahia | H2 - 90+7' 3 - 2 06:00 26/05/2026",
-          "tournament": "VĐQG Brazil",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coritiba_Foot_Ball_Club_logo.svg/500px-Coritiba_Foot_Ball_Club_logo.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_of_Esporte_Clube_Bahia_%282004%29.svg/250px-Logo_of_Esporte_Clube_Bahia_%282004%29.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coritiba_Foot_Ball_Club_logo.svg/500px-Coritiba_Foot_Ball_Club_logo.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-532486730520",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-532486730520",
-                  "name": "Coritiba vs Bahia",
-                  "streams": [
-                    {
-                      "id": "kaytee-532486730520",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6e1e97fd09",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-96b5d0082453",
           "name": "⚽ Alashkert vs Shirak | Sắp diễn ra vs 22:00 26/05/2026",
