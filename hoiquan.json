@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:50 26/05/2026",
+  "last_updated": "00:00 27/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c5c94074ab3d",
-          "name": "⚽ Alashkert vs Shirak | H2 - 90' 2 - 0 22:00 26/05/2026",
+          "name": "⚽ Alashkert vs Shirak | H2 - 90+6' 2 - 0 22:00 26/05/2026",
           "tournament": "VĐQG Armenia",
           "logo_nha": "https://media.api-sports.io/football/teams/582.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3686.png",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-845f806cd0",
+                          "id": "lnk-6f0331ee63",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw70gr4uqmtt8y41hcjz8rzdrcjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=cf82141cf7824cda1ae8cdd4-177981425012356&wsIPSercert=0a852ad28a988e2f638e2fbb033ec1cc&wsBindIP=2&wsserid=1168214357021015793"
-                        },
-                        {
-                          "id": "lnk-9286091d9f",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8"
                         }
                       ]
@@ -106,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4a16dfbf9d",
+                          "id": "lnk-752235096b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw70gr4uqmtt8y41hcjz8rzdrcjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=cf82141cf7824cda1ae8cdd4-177981425863914&wsIPSercert=0a852ad28a988e2f638e2fbb033ec1cc&wsBindIP=2&wsserid=1168214357021015793"
+                          "url": "https://tfw70gr4uqmtt8y41hcjsgyzdnpb3fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8e9f489a7bfb35c1ca56e9df-177981486150340&wsIPSercert=788dba3d91e208c6d65652be6ee386ae&wsBindIP=2&wsserid=1168270715628259813"
                         },
                         {
-                          "id": "lnk-8dace44217",
+                          "id": "lnk-0775b1771e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
