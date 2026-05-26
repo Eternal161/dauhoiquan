@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:50 26/05/2026",
+  "last_updated": "23:01 26/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-96f18c4e2229",
-          "name": "⚽ Astana Ii vs Khan Tengri | H2 - 90+2' 2 - 1 21:00 26/05/2026",
-          "tournament": "1. Division",
-          "logo_nha": "https://media.api-sports.io/football/teams/4548.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/18805.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/4548.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-96f18c4e2229",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-96f18c4e2229",
-                  "name": "Astana Ii vs Khan Tengri",
-                  "streams": [
-                    {
-                      "id": "kaytee-96f18c4e2229",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bb5b173d90",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw70gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177981065989970&wsIPSercert=95a01851d5eeff01dc9edbb69d98bb4d&wsBindIP=2&wsserid=1168202333418134578"
-                        },
-                        {
-                          "id": "lnk-57bca5de7e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-c5c94074ab3d",
           "name": "⚽ Alashkert vs Shirak | Giữa Hiệp - 45+4' 2 - 0 22:00 26/05/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8e1652304a",
+                          "id": "lnk-a627ab1ef5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw70gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177981066822767&wsIPSercert=95a01851d5eeff01dc9edbb69d98bb4d&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfw70gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=95c73cdd21d768bd8f270626-177981127218801&wsIPSercert=cabfbe582845900b94db3cf8870d38ef&wsBindIP=2&wsserid=1168041062945190795"
                         },
                         {
-                          "id": "lnk-831505fb25",
+                          "id": "lnk-93c6ea6d72",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-10d6789760",
+                          "id": "lnk-a59ad1f388",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw70gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177981067698834&wsIPSercert=95a01851d5eeff01dc9edbb69d98bb4d&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfw70gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=ae5d40028ae96af9e63375e8-177981128056739&wsIPSercert=cabfbe582845900b94db3cf8870d38ef&wsBindIP=2&wsserid=1168176337059421885"
                         },
                         {
-                          "id": "lnk-41febb9de0",
+                          "id": "lnk-64bc0c28c5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-b91e745a2baf",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0f0102e58db0",
+          "name": "⚽ Buriram United vs Selangor | Sắp diễn ra vs 19:00 27/05/2026",
+          "tournament": "ASEAN Club Championship",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Buriram_United_logo.svg/250px-Buriram_United_logo.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/d/d7/Selangor_FC_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Buriram_United_logo.svg/250px-Buriram_United_logo.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0f0102e58db0",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0f0102e58db0",
+                  "name": "Buriram United vs Selangor",
+                  "streams": [
+                    {
+                      "id": "kaytee-0f0102e58db0",
                       "name": "F",
                       "stream_links": []
                     }
