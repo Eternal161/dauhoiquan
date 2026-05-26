@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:01 26/05/2026",
+  "last_updated": "22:10 26/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-96f18c4e2229",
-          "name": "⚽ Astana Ii vs Khan Tengri | Giữa Hiệp - 45' 0 - 0 21:00 26/05/2026",
+          "name": "⚽ Astana Ii vs Khan Tengri | H2 - 52' 0 - 0 21:00 26/05/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/4548.png",
           "logo_khach": "https://media.api-sports.io/football/teams/18805.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-df856e8501",
+                          "id": "lnk-9e8d5e90ea",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw71gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177980767191904&wsIPSercert=42e5568b047f481e0d73c6b1dc748bda&wsBindIP=2&wsserid=1168176581102008440"
+                          "url": "https://tfw70gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e1a561d1e5fa9b11e4dd3219-177980826575652&wsIPSercert=b157de9c5cb8c12fbfef4a28f6b477a4&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-31d93b6ed4",
+                          "id": "lnk-b15aec4dad",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-c5c94074ab3d",
-          "name": "⚽ Alashkert vs Shirak | Live 0 - 0 22:00 26/05/2026",
+          "name": "⚽ Alashkert vs Shirak | H1 - 11' 1 - 0 22:00 26/05/2026",
           "tournament": "VĐQG Armenia",
           "logo_nha": "https://media.api-sports.io/football/teams/582.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3686.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-047e4c8ba9",
+                          "id": "lnk-a8e0357027",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw71gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177980768019963&wsIPSercert=42e5568b047f481e0d73c6b1dc748bda&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfw70gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=cbde7b292b1fdae7c2cd6e27-177980827437276&wsIPSercert=b157de9c5cb8c12fbfef4a28f6b477a4&wsBindIP=2&wsserid=1168283323380319328"
                         },
                         {
-                          "id": "lnk-73ceb6bcd9",
+                          "id": "lnk-155f094dc6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
