@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:00 27/05/2026",
+  "last_updated": "00:10 27/05/2026",
   "groups": [
     {
       "id": "live",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6f0331ee63",
+                          "id": "lnk-49f00f9da7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-f52caaad3bd7",
-          "name": "⚽ Montenegro U17 vs Denmark U17 | Giữa Hiệp - 45+2' 1 - 1 23:00 26/05/2026",
+          "name": "⚽ Montenegro U17 vs Denmark U17 | H2 - 52' 1 - 1 23:00 26/05/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://img.uefa.com/imgml/flags/240x240/MNE.png",
           "logo_khach": "https://media.api-sports.io/football/teams/17948.png",
@@ -99,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-752235096b",
+                          "id": "lnk-f0980d59fe",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw70gr4uqmtt8y41hcjsgyzdnpb3fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8e9f489a7bfb35c1ca56e9df-177981486150340&wsIPSercert=788dba3d91e208c6d65652be6ee386ae&wsBindIP=2&wsserid=1168270715628259813"
+                          "url": "https://tfw70gr4uqmtt8y41hcjsgyzdnpb3fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8e9f489a7bfb35c1ca56e9df-177981546114531&wsIPSercert=5a93e8e72ff340b097c695006d4f127f&wsBindIP=2&wsserid=1168270715628259813"
                         },
                         {
-                          "id": "lnk-0775b1771e",
+                          "id": "lnk-955a27cbe1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
