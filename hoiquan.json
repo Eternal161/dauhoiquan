@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:10 26/05/2026",
+  "last_updated": "20:20 26/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-edc97ed1d4d2",
-          "name": "⚽ Italy U17 vs France U17 | Live 0 - 0 18:30 26/05/2026",
+          "name": "⚽ Italy U17 vs France U17 | H2 - 90' 1 - 0 18:30 26/05/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://tmssl.akamaized.net//images/wappen/big/23133.png?lm=1672672799",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-849c3422f5",
+                          "id": "lnk-69df0c3d23",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw70gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=edec454b741202f36893c258-177980105773946&wsIPSercert=1138b4b08d1c8846ec17546d10893ddb&wsBindIP=2&wsserid=1168176346318957775"
+                          "url": "https://tfw70gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177980166374357&wsIPSercert=c756231151fcb847eb9497c416fa69ce&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-9ea7bf8791",
+                          "id": "lnk-22bebd5fa1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
