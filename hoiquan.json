@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:01 26/05/2026",
+  "last_updated": "20:10 26/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-edc97ed1d4d2",
-          "name": "⚽ Italy U17 vs France U17 | H2 - 70' 1 - 0 18:30 26/05/2026",
+          "name": "⚽ Italy U17 vs France U17 | Live 0 - 0 18:30 26/05/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://tmssl.akamaized.net//images/wappen/big/23133.png?lm=1672672799",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
@@ -46,78 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5ed76ad474",
+                          "id": "lnk-849c3422f5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw70gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177980047844672&wsIPSercert=18abc0d5ee73257a02ef3060f8fee95b&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfw70gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=edec454b741202f36893c258-177980105773946&wsIPSercert=1138b4b08d1c8846ec17546d10893ddb&wsBindIP=2&wsserid=1168176346318957775"
                         },
                         {
-                          "id": "lnk-4f984f4e55",
+                          "id": "lnk-9ea7bf8791",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-67f6a7d95d0c",
-          "name": "⚽ Morocco vs Burundi | Sắp bắt đầu - null' 0 - 0 20:00 26/05/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1528.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-67f6a7d95d0c",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-67f6a7d95d0c",
-                  "name": "Morocco vs Burundi",
-                  "streams": [
-                    {
-                      "id": "kaytee-67f6a7d95d0c",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e17771077f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw70gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177980048669208&wsIPSercert=18abc0d5ee73257a02ef3060f8fee95b&wsBindIP=2&wsserid=1168202333418134578"
-                        },
-                        {
-                          "id": "lnk-1e15ef90e2",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8"
                         }
                       ]
                     }
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-9cb300ac9858",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-ba85a99a4d4a",
+          "name": "⚽ Altay vs Fc Astana | Sắp diễn ra vs 18:00 27/05/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/4544.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/562.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4544.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-ba85a99a4d4a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-ba85a99a4d4a",
+                  "name": "Altay vs Fc Astana",
+                  "streams": [
+                    {
+                      "id": "kaytee-ba85a99a4d4a",
                       "name": "F",
                       "stream_links": []
                     }
