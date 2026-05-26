@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:20 27/05/2026",
+  "last_updated": "00:31 27/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-c5c94074ab3d",
-          "name": "⚽ Alashkert vs Shirak | Live 0 - 0 22:00 26/05/2026",
-          "tournament": "VĐQG Armenia",
-          "logo_nha": "https://media.api-sports.io/football/teams/582.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/3686.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/582.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c5c94074ab3d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c5c94074ab3d",
-                  "name": "Alashkert vs Shirak",
-                  "streams": [
-                    {
-                      "id": "kaytee-c5c94074ab3d",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-775f6f602a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-f52caaad3bd7",
-          "name": "⚽ Montenegro U17 vs Denmark U17 | H2 - 63' 1 - 1 23:00 26/05/2026",
+          "name": "⚽ Montenegro U17 vs Denmark U17 | H2 - 73' 1 - 1 23:00 26/05/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://img.uefa.com/imgml/flags/240x240/MNE.png",
           "logo_khach": "https://media.api-sports.io/football/teams/17948.png",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-96f31d4da9",
+                          "id": "lnk-8fbe9e2317",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw70gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=2fb71014417bf9a8bbb74fd0-177981605726492&wsIPSercert=977c8e7a35f154722d3c179349156fe4&wsBindIP=2&wsserid=1168283323277558487"
+                          "url": "https://tfw70gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177981667118614&wsIPSercert=aa72b8e17e61e79f155960d0571565a9&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-7964094d9a",
+                          "id": "lnk-efe0011969",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-0f0102e58db0",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3b1ef4fbc065",
+          "name": "⚽ Ararat-Armenia vs Gandzasar | Sắp diễn ra vs 22:00 27/05/2026",
+          "tournament": "VĐQG Armenia",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0kqWey0UfrC0EKfcwWbE__I45BpbqSL8o8Q&s",
+          "logo_khach": "https://media.api-sports.io/football/teams/688.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0kqWey0UfrC0EKfcwWbE__I45BpbqSL8o8Q&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3b1ef4fbc065",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3b1ef4fbc065",
+                  "name": "Ararat-Armenia vs Gandzasar",
+                  "streams": [
+                    {
+                      "id": "kaytee-3b1ef4fbc065",
                       "name": "F",
                       "stream_links": []
                     }
