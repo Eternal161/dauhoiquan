@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:31 27/05/2026",
+  "last_updated": "00:41 27/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-f52caaad3bd7",
-          "name": "⚽ Montenegro U17 vs Denmark U17 | H2 - 73' 1 - 1 23:00 26/05/2026",
+          "name": "⚽ Montenegro U17 vs Denmark U17 | H2 - 83' 1 - 2 23:00 26/05/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://img.uefa.com/imgml/flags/240x240/MNE.png",
           "logo_khach": "https://media.api-sports.io/football/teams/17948.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8fbe9e2317",
+                          "id": "lnk-b19a54b4d3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw70gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177981667118614&wsIPSercert=aa72b8e17e61e79f155960d0571565a9&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfw70gr4uqmtt8y41hcjsgyzdnct1fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8e9f489a7bfb35c1ca56e9df-177981728282857&wsIPSercert=7663cfaa7f7ea6ef301613bcd1e10cea&wsBindIP=2&wsserid=1168270715628259813"
                         },
                         {
-                          "id": "lnk-efe0011969",
+                          "id": "lnk-9a6b37eb2a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
