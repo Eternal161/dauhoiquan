@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:10 27/05/2026",
+  "last_updated": "01:20 27/05/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-52bfbf3477",
+                          "id": "lnk-c002d29fc5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw70gr4uqmtt8y41hcjz8rzdrcjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=cf82141cf7824cda1ae8cdd4-177981905289614&wsIPSercert=8be7a902e828806d193398ebff9c3ad9&wsBindIP=2&wsserid=1168214357021015793"
+                          "url": "https://tfw71gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-177981965832420&wsIPSercert=f2064fcde4191b65a33ecf55fd54d118&wsBindIP=2&wsserid=1168282035663924028"
                         },
                         {
-                          "id": "lnk-f2919c8381",
+                          "id": "lnk-3018b1804f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1bcc8e4c75",
+                          "id": "lnk-46e10c14f4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw70gr4uqmtt8y41hcjz8rzdrcjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=cf82141cf7824cda1ae8cdd4-177981906125547&wsIPSercert=8be7a902e828806d193398ebff9c3ad9&wsBindIP=2&wsserid=1168214357021015793"
+                          "url": "https://tfw71gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=a072ae36b41a346fd194c763-177981966650998&wsIPSercert=f2064fcde4191b65a33ecf55fd54d118&wsBindIP=2&wsserid=1168278313568844709"
                         },
                         {
-                          "id": "lnk-f356a59ac7",
+                          "id": "lnk-6778cc1148",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-8334bf5c928f",
-          "name": "⚽ Saint Etienne vs Nice | Sắp diễn ra vs 01:45 27/05/2026",
+          "name": "⚽ Saint Etienne vs Nice | Sắp bắt đầu - null' 0 - 0 01:45 27/05/2026",
           "tournament": "Ligue 1",
           "logo_nha": "https://media.api-sports.io/football/teams/1063.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/2/2e/OGC_Nice_logo.svg",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-8334bf5c928f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-2dd0a251e4",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw71gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=dbd8f789bb7a7a2508c32238-177981967515637&wsIPSercert=f2064fcde4191b65a33ecf55fd54d118&wsBindIP=2&wsserid=1168278313570948617"
+                        },
+                        {
+                          "id": "lnk-24b52c6562",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
