@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:20 26/05/2026",
+  "last_updated": "22:31 26/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-96f18c4e2229",
-          "name": "⚽ Astana Ii vs Khan Tengri | H2 - 62' 1 - 0 21:00 26/05/2026",
+          "name": "⚽ Astana Ii vs Khan Tengri | H2 - 72' 1 - 0 21:00 26/05/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/4548.png",
           "logo_khach": "https://media.api-sports.io/football/teams/18805.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-239243b5f7",
+                          "id": "lnk-35db33ec16",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw70gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177980885161799&wsIPSercert=0154cdad92c803f2bd1e37d15a77b617&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfw70gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e1a561d1e5fa9b11e4dd3219-177980947392969&wsIPSercert=9259676639bb7b86160aee47e467af84&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-eb3194c416",
+                          "id": "lnk-4601acec95",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-c5c94074ab3d",
-          "name": "⚽ Alashkert vs Shirak | H1 - 20' 1 - 0 22:00 26/05/2026",
+          "name": "⚽ Alashkert vs Shirak | H1 - 30' 2 - 0 22:00 26/05/2026",
           "tournament": "VĐQG Armenia",
           "logo_nha": "https://media.api-sports.io/football/teams/582.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3686.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b0d17804b7",
+                          "id": "lnk-1c63082b0e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw70gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177980885992088&wsIPSercert=0154cdad92c803f2bd1e37d15a77b617&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfw70gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=cbde7b292b1fdae7c2cd6e27-177980948222169&wsIPSercert=9259676639bb7b86160aee47e467af84&wsBindIP=2&wsserid=1168283323380319328"
                         },
                         {
-                          "id": "lnk-409ec00659",
+                          "id": "lnk-4e9d1a76d1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -308,7 +308,7 @@
           ]
         },
         {
-          "id": "kaytee-6fa1c4e264e5",
+          "id": "kaytee-0b5578c6e4c6",
           "name": "⚽ Santos vs Deportivo Cuenca | Sắp diễn ra vs 07:30 27/05/2026",
           "tournament": "CONMEBOL Sudamericana",
           "logo_nha": "https://media.api-sports.io/football/teams/128.png",
@@ -334,60 +334,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-6fa1c4e264e5",
+              "id": "kaytee-0b5578c6e4c6",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-6fa1c4e264e5",
+                  "id": "kaytee-0b5578c6e4c6",
                   "name": "Santos vs Deportivo Cuenca",
                   "streams": [
                     {
-                      "id": "kaytee-6fa1c4e264e5",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-6487c6e17634",
-          "name": "⚽ Flamengo vs Cusco | Sắp diễn ra vs 07:30 27/05/2026",
-          "tournament": "CONMEBOL Libertadores",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/10013.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-6487c6e17634",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-6487c6e17634",
-                  "name": "Flamengo vs Cusco",
-                  "streams": [
-                    {
-                      "id": "kaytee-6487c6e17634",
+                      "id": "kaytee-0b5578c6e4c6",
                       "name": "F",
                       "stream_links": []
                     }
@@ -478,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-bee1e3a80d70",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b91e745a2baf",
+          "name": "⚽ Hà Nội Nữ vs Nữ Hồ Chí Minh | Sắp diễn ra vs 19:00 27/05/2026",
+          "tournament": "Cúp quốc gia Việt Nam",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwbRVnSljHy8WGaU8UVE_bNbA_ouun6OHpw&s",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/Logo_HWFC.png/250px-Logo_HWFC.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwbRVnSljHy8WGaU8UVE_bNbA_ouun6OHpw&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b91e745a2baf",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b91e745a2baf",
+                  "name": "Hà Nội Nữ vs Nữ Hồ Chí Minh",
+                  "streams": [
+                    {
+                      "id": "kaytee-b91e745a2baf",
                       "name": "F",
                       "stream_links": []
                     }
