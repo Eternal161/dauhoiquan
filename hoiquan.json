@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:10 26/05/2026",
+  "last_updated": "23:20 26/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c5c94074ab3d",
-          "name": "⚽ Alashkert vs Shirak | H2 - 50' 2 - 0 22:00 26/05/2026",
+          "name": "⚽ Alashkert vs Shirak | H2 - 60' 2 - 0 22:00 26/05/2026",
           "tournament": "VĐQG Armenia",
           "logo_nha": "https://media.api-sports.io/football/teams/582.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3686.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e2d08c5d40",
+                          "id": "lnk-8aea40b7e6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw70gr4uqmtt8y41hcjzgazdnc3ofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=ac9e19ed31595da6395c7e43-177981185349766&wsIPSercert=1647c49b992e6ee2315dcb037c4decf7&wsBindIP=2&wsserid=1168214359412300697"
+                          "url": "https://tfw70gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=cbde7b292b1fdae7c2cd6e27-177981246276709&wsIPSercert=6aae1af9acb84220cd030e6e00a20f56&wsBindIP=2&wsserid=1168283323380319328"
                         },
                         {
-                          "id": "lnk-9053718dc2",
+                          "id": "lnk-3c52abfadf",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-f52caaad3bd7",
-          "name": "⚽ Montenegro U17 vs Denmark U17 | H1 - 9' 0 - 0 23:00 26/05/2026",
+          "name": "⚽ Montenegro U17 vs Denmark U17 | H1 - 19' 0 - 0 23:00 26/05/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://img.uefa.com/imgml/flags/240x240/MNE.png",
           "logo_khach": "https://media.api-sports.io/football/teams/17948.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5dcf5f52fe",
+                          "id": "lnk-eb16f93127",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw70gr4uqmtt8y41hcjzgazdnc3ofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=197a7e0439e0ed2dfed4c58e-177981186192476&wsIPSercert=1647c49b992e6ee2315dcb037c4decf7&wsBindIP=2&wsserid=1168041062946239395"
+                          "url": "https://tfw70gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=2fb71014417bf9a8bbb74fd0-177981247135175&wsIPSercert=6aae1af9acb84220cd030e6e00a20f56&wsBindIP=2&wsserid=1168283323277558487"
                         },
                         {
-                          "id": "lnk-bbd04cd470",
+                          "id": "lnk-2541abdd82",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
