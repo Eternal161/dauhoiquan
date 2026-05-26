@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:01 26/05/2026",
+  "last_updated": "21:10 26/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-3f1d77c87604",
-          "name": "⚽ Astana Ii vs Khan Tengri | H1 - 1' 0 - 0 21:30 26/05/2026",
-          "tournament": "1. Division",
-          "logo_nha": "https://media.api-sports.io/football/teams/4548.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/18805.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/4548.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3f1d77c87604",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3f1d77c87604",
-                  "name": "Astana Ii vs Khan Tengri",
-                  "streams": [
-                    {
-                      "id": "kaytee-3f1d77c87604",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a5f12302bf",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taolu/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-c5c94074ab3d",
           "name": "⚽ Alashkert vs Shirak | Sắp diễn ra vs 22:00 26/05/2026",
@@ -231,6 +178,51 @@
                   "streams": [
                     {
                       "id": "kaytee-b42a10496062",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8334bf5c928f",
+          "name": "⚽ Saint Etienne vs Nice | Sắp diễn ra vs 01:45 27/05/2026",
+          "tournament": "Ligue 1",
+          "logo_nha": "https://media.api-sports.io/football/teams/1063.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/2/2e/OGC_Nice_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1063.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8334bf5c928f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8334bf5c928f",
+                  "name": "Saint Etienne vs Nice",
+                  "streams": [
+                    {
+                      "id": "kaytee-8334bf5c928f",
                       "name": "F",
                       "stream_links": []
                     }
