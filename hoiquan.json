@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:40 27/05/2026",
+  "last_updated": "03:50 27/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-8334bf5c928f",
-          "name": "⚽ Saint Etienne vs Nice | H2 - 90+3' 0 - 0 01:45 27/05/2026",
-          "tournament": "Ligue 1",
-          "logo_nha": "https://media.api-sports.io/football/teams/1063.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/2/2e/OGC_Nice_logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1063.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-8334bf5c928f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-8334bf5c928f",
-                  "name": "Saint Etienne vs Nice",
-                  "streams": [
-                    {
-                      "id": "kaytee-8334bf5c928f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-64fee38c52",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw71gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=a37b48b6a6131b65ea617dd8-177982806156744&wsIPSercert=653ef99b4ee19a9998a1db826fb75439&wsBindIP=2&wsserid=1172580915169226372"
-                        },
-                        {
-                          "id": "lnk-1897c257b8",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-0b5578c6e4c6",
           "name": "⚽ Santos vs Deportivo Cuenca | Sắp diễn ra vs 07:30 27/05/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-f3cce60251b4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0cf2160e69f4",
+          "name": "⚽ Fluminense vs Deportivo La Guaira | Sắp diễn ra vs 07:30 28/05/2026",
+          "tournament": "CONMEBOL Libertadores",
+          "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2813.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0cf2160e69f4",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0cf2160e69f4",
+                  "name": "Fluminense vs Deportivo La Guaira",
+                  "streams": [
+                    {
+                      "id": "kaytee-0cf2160e69f4",
                       "name": "F",
                       "stream_links": []
                     }
