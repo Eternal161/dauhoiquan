@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:30 27/05/2026",
+  "last_updated": "09:40 27/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-0b5578c6e4c6",
-          "name": "⚽ Santos vs Deportivo Cuenca | H2 - 90+8' 3 - 0 07:30 27/05/2026",
-          "tournament": "CONMEBOL Sudamericana",
-          "logo_nha": "https://media.api-sports.io/football/teams/128.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1154.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/128.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-0b5578c6e4c6",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-0b5578c6e4c6",
-                  "name": "Santos vs Deportivo Cuenca",
-                  "streams": [
-                    {
-                      "id": "kaytee-0b5578c6e4c6",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cb57ffe353",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw80gr4uqmtt8y41hcjz8rzdncbofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-177984906117832&wsIPSercert=be090147c01a71cd15543ce23fc43d0e&wsBindIP=2&wsserid=1168176346313714739"
-                        },
-                        {
-                          "id": "lnk-5e5a6a0995",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-9cb300ac9858",
           "name": "⚽ Tng Thái Nguyên vs Phong Phú Hà Nam | Sắp diễn ra vs 16:00 27/05/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-0cf2160e69f4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-ff29e13f83cb",
+          "name": "⚽ River Plate vs Blooming | Sắp diễn ra vs 07:30 28/05/2026",
+          "tournament": "CONMEBOL Sudamericana",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/4/41/River_Plate_logo.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3701.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/4/41/River_Plate_logo.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-ff29e13f83cb",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-ff29e13f83cb",
+                  "name": "River Plate vs Blooming",
+                  "streams": [
+                    {
+                      "id": "kaytee-ff29e13f83cb",
                       "name": "F",
                       "stream_links": []
                     }
