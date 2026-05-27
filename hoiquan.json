@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:20 27/05/2026",
+  "last_updated": "17:30 27/05/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9c4e9b96e1",
+                          "id": "lnk-55713dedb2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw80gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-177987726129848&wsIPSercert=7b778b7668da4fa37586ec5f13f75338&wsBindIP=2&wsserid=1168176346313714739"
+                          "url": "https://tfw80gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e1a561d1e5fa9b11e4dd3219-177987786435591&wsIPSercert=6a338cd75b024e5ac4bbb87cbecbc355&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-7675e4e41a",
+                          "id": "lnk-eb14a9207c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-bee1e3a80d70",
-          "name": "⚽ Altay vs Fc Astana | Sắp diễn ra vs 18:00 27/05/2026",
+          "name": "⚽ Altay vs Fc Astana | Sắp bắt đầu - null' 0 - 0 18:00 27/05/2026",
           "tournament": "Ngoại hạng Kazakhstan",
           "logo_nha": "https://media.api-sports.io/football/teams/4544.png",
           "logo_khach": "https://media.api-sports.io/football/teams/562.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-bee1e3a80d70",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-c1e3a8caa5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw80gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=2fb71014417bf9a8bbb74fd0-177987787293041&wsIPSercert=6a338cd75b024e5ac4bbb87cbecbc355&wsBindIP=2&wsserid=1168283323277558487"
+                        },
+                        {
+                          "id": "lnk-2ee02f6667",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
