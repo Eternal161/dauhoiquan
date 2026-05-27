@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:50 27/05/2026",
+  "last_updated": "21:01 27/05/2026",
   "groups": [
     {
       "id": "live",
@@ -46,78 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-eec0a30280",
+                          "id": "lnk-07cf891cdc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw81gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-177988986620793&wsIPSercert=5800abe488ff6af03a42377cbe45e022&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfw80gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e1a561d1e5fa9b11e4dd3219-177989047269909&wsIPSercert=5ef217f0b49ebc74ee519625641d1480&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-b449ce648e",
+                          "id": "lnk-fe24e6ee93",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-0f0102e58db0",
-          "name": "⚽ Buriram United vs Selangor | H2 - 90+2' 2 - 1 19:00 27/05/2026",
-          "tournament": "ASEAN Club Championship",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Buriram_United_logo.svg/250px-Buriram_United_logo.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/d/d7/Selangor_FC_logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Buriram_United_logo.svg/250px-Buriram_United_logo.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-0f0102e58db0",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-0f0102e58db0",
-                  "name": "Buriram United vs Selangor",
-                  "streams": [
-                    {
-                      "id": "kaytee-0f0102e58db0",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6ef926ff02",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw81gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=dbd8f789bb7a7a2508c32238-177988987477295&wsIPSercert=5800abe488ff6af03a42377cbe45e022&wsBindIP=2&wsserid=1168278313570948617"
-                        },
-                        {
-                          "id": "lnk-63f6030a22",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
                         }
                       ]
                     }
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-aacd2d3ef528",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-afeb02e2a346",
+          "name": "⚽ Ordabasy vs Kairat Almaty | Sắp diễn ra vs 22:00 28/05/2026",
+          "tournament": "Ngoại hạng Kazakhstan",
+          "logo_nha": "https://media.api-sports.io/football/teams/692.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FCKairat_logo.png/250px-FCKairat_logo.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/692.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-afeb02e2a346",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-afeb02e2a346",
+                  "name": "Ordabasy vs Kairat Almaty",
+                  "streams": [
+                    {
+                      "id": "kaytee-afeb02e2a346",
                       "name": "F",
                       "stream_links": []
                     }
