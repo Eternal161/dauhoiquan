@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:10 28/05/2026",
+  "last_updated": "01:20 28/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-56a542513ac8",
-          "name": "⚽ Ararat-Armenia vs Gandzasar | H2 - 90+6' 1 - 0 22:00 27/05/2026",
-          "tournament": "VĐQG Armenia",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0kqWey0UfrC0EKfcwWbE__I45BpbqSL8o8Q&s",
-          "logo_khach": "https://media.api-sports.io/football/teams/688.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0kqWey0UfrC0EKfcwWbE__I45BpbqSL8o8Q&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-56a542513ac8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-56a542513ac8",
-                  "name": "Ararat-Armenia vs Gandzasar",
-                  "streams": [
-                    {
-                      "id": "kaytee-56a542513ac8",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fede296c9b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw81gr3uomttgr31hcj18yzd1p3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=78870e28641cbdb41d4e9c53-177990546223166&wsIPSercert=673c675a2aacfff0ec2aab3021a10e5d&wsBindIP=2&wsserid=1168243256645243746"
-                        },
-                        {
-                          "id": "lnk-55a4961b13",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-f21437be3578",
-          "name": "⚽ Barcelona W vs Real Sociedad W | H2 - 48' 2 - 1 00:00 28/05/2026",
+          "name": "⚽ Barcelona W vs Real Sociedad W | H2 - 58' 2 - 1 00:00 28/05/2026",
           "tournament": "Primera División Femenina",
           "logo_nha": "https://media.api-sports.io/football/teams/1918.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1912.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-998301baeb",
+                          "id": "lnk-4b46283e04",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw81gr3uomttgr31hcj18yzd1p3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=088f8c66755e0f8eb05e946c-177990547070899&wsIPSercert=673c675a2aacfff0ec2aab3021a10e5d&wsBindIP=2&wsserid=1168243256654681122"
+                          "url": "https://tfw81gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=010895692e12e82cc6f46a15-177990606130627&wsIPSercert=9b870d65f20543146d697c29beb40160&wsBindIP=2&wsserid=1172580915173420788"
                         },
                         {
-                          "id": "lnk-2987f27d15",
+                          "id": "lnk-61a960d660",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-d29e216d3121",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-be3673795c9c",
+          "name": "⚽ Ismaily Sc vs Pharco | Sắp diễn ra vs 00:00 29/05/2026",
+          "tournament": "VĐQG Ai Cập",
+          "logo_nha": "https://tse2.mm.bing.net/th/id/OIP.vkYmNafPVTwF9fZx7sn-zQHaHN?pid=Api&P=0&h=220",
+          "logo_khach": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh5916md7o/image/small",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://tse2.mm.bing.net/th/id/OIP.vkYmNafPVTwF9fZx7sn-zQHaHN?pid=Api&P=0&h=220",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-be3673795c9c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-be3673795c9c",
+                  "name": "Ismaily Sc vs Pharco",
+                  "streams": [
+                    {
+                      "id": "kaytee-be3673795c9c",
                       "name": "F",
                       "stream_links": []
                     }
