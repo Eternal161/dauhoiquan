@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:31 27/05/2026",
+  "last_updated": "21:40 27/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-56a542513ac8",
-          "name": "⚽ Ararat-Armenia vs Gandzasar | Sắp diễn ra vs 22:00 27/05/2026",
+          "name": "⚽ Ararat-Armenia vs Gandzasar | Sắp bắt đầu - null' 0 - 0 22:00 27/05/2026",
           "tournament": "VĐQG Armenia",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0kqWey0UfrC0EKfcwWbE__I45BpbqSL8o8Q&s",
           "logo_khach": "https://media.api-sports.io/football/teams/688.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-56a542513ac8",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-cf1fb993af",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw81gr4uqmtt8y41hcjz8rzdeqjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=ac9e19ed31595da6395c7e43-177989286697196&wsIPSercert=4f3a9cf53db6fa126a971924fd469e8d&wsBindIP=2&wsserid=1168214359412300697"
+                        },
+                        {
+                          "id": "lnk-38ce7714ce",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
