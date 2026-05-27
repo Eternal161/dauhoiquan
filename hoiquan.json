@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:30 27/05/2026",
+  "last_updated": "18:41 27/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-9cb300ac9858",
-          "name": "⚽ Tng Thái Nguyên vs Phong Phú Hà Nam | Live 0 - 0 16:00 27/05/2026",
-          "tournament": "Cúp quốc gia Việt Nam",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQ0dfv8HJuFpVXUyKUUOB50eJlWmZ1kDHMw&s",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/5/53/Logo_C%C3%B4ng_ty_c%E1%BB%95_ph%E1%BA%A7n_Phong_Ph%C3%BA.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQ0dfv8HJuFpVXUyKUUOB50eJlWmZ1kDHMw&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-9cb300ac9858",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-9cb300ac9858",
-                  "name": "Tng Thái Nguyên vs Phong Phú Hà Nam",
-                  "streams": [
-                    {
-                      "id": "kaytee-9cb300ac9858",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6aad64be54",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw81gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177988145879740&wsIPSercert=7e053f7234d961705847746d49cb4e70&wsBindIP=2&wsserid=1168176581102008440"
-                        },
-                        {
-                          "id": "lnk-30444cd404",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-bee1e3a80d70",
-          "name": "⚽ Altay vs Fc Astana | H1 - 30' 0 - 0 18:00 27/05/2026",
+          "name": "⚽ Altay vs Fc Astana | H1 - 41' 0 - 0 18:00 27/05/2026",
           "tournament": "Ngoại hạng Kazakhstan",
           "logo_nha": "https://media.api-sports.io/football/teams/4544.png",
           "logo_khach": "https://media.api-sports.io/football/teams/562.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e57ce24729",
+                          "id": "lnk-650e131619",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw81gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177988146676266&wsIPSercert=7e053f7234d961705847746d49cb4e70&wsBindIP=2&wsserid=1168176581102008440"
+                          "url": "https://tfw81gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=010895692e12e82cc6f46a15-177988211599813&wsIPSercert=aaf61f7f6a49b5987f040e968c5f8739&wsBindIP=2&wsserid=1172580915173420788"
                         },
                         {
-                          "id": "lnk-9dfe4601be",
+                          "id": "lnk-05fe74828c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-4df9ff3edc79",
-          "name": "⚽ Hà Nội Nữ vs Nữ Hồ Chí Minh | Sắp diễn ra vs 19:00 27/05/2026",
+          "name": "⚽ Hà Nội Nữ vs Nữ Hồ Chí Minh | Live 0 - 0 19:00 27/05/2026",
           "tournament": "Cúp quốc gia Việt Nam",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwbRVnSljHy8WGaU8UVE_bNbA_ouun6OHpw&s",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/Logo_HWFC.png/250px-Logo_HWFC.png",
@@ -146,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +104,22 @@
                     {
                       "id": "kaytee-4df9ff3edc79",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-01761a3f2c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw81gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=010895692e12e82cc6f46a15-177988212424335&wsIPSercert=aaf61f7f6a49b5987f040e968c5f8739&wsBindIP=2&wsserid=1172580915173420788"
+                        },
+                        {
+                          "id": "lnk-c88f29feab",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -174,7 +129,7 @@
         },
         {
           "id": "kaytee-0f0102e58db0",
-          "name": "⚽ Buriram United vs Selangor | Sắp diễn ra vs 19:00 27/05/2026",
+          "name": "⚽ Buriram United vs Selangor | Sắp bắt đầu - null' 0 - 0 19:00 27/05/2026",
           "tournament": "ASEAN Club Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Buriram_United_logo.svg/250px-Buriram_United_logo.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/d/d7/Selangor_FC_logo.svg",
@@ -191,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -209,7 +164,22 @@
                     {
                       "id": "kaytee-0f0102e58db0",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-c41ee4347c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw81gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=a37b48b6a6131b65ea617dd8-177988213263581&wsIPSercert=aaf61f7f6a49b5987f040e968c5f8739&wsBindIP=2&wsserid=1172580915169226372"
+                        },
+                        {
+                          "id": "lnk-f02ff063c2",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -478,6 +448,51 @@
                   "streams": [
                     {
                       "id": "kaytee-ff29e13f83cb",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-51327fcfd097",
+          "name": "⚽ Okzhetpes vs Aktobe | Sắp diễn ra vs 17:00 28/05/2026",
+          "tournament": "Ngoại hạng Kazakhstan",
+          "logo_nha": "https://media.api-sports.io/football/teams/4558.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4563.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4558.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-51327fcfd097",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-51327fcfd097",
+                  "name": "Okzhetpes vs Aktobe",
+                  "streams": [
+                    {
+                      "id": "kaytee-51327fcfd097",
                       "name": "F",
                       "stream_links": []
                     }
