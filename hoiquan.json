@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:10 27/05/2026",
+  "last_updated": "23:20 27/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-56a542513ac8",
-          "name": "⚽ Ararat-Armenia vs Gandzasar | Live 0 - 0 22:00 27/05/2026",
+          "name": "⚽ Ararat-Armenia vs Gandzasar | H2 - 65' 1 - 0 22:00 27/05/2026",
           "tournament": "VĐQG Armenia",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0kqWey0UfrC0EKfcwWbE__I45BpbqSL8o8Q&s",
           "logo_khach": "https://media.api-sports.io/football/teams/688.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4be3b5e1d5",
+                          "id": "lnk-2a1aadf699",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw80gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=cbde7b292b1fdae7c2cd6e27-177989826173558&wsIPSercert=17c587307309faab6c3fc18f253eb31a&wsBindIP=2&wsserid=1168283323380319328"
+                          "url": "https://tfw81gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=a37b48b6a6131b65ea617dd8-177989885621401&wsIPSercert=84e69d014ded871d4b52e5d3fe1b9bca&wsBindIP=2&wsserid=1172580915169226372"
                         },
                         {
-                          "id": "lnk-9d3d5577b1",
+                          "id": "lnk-b4aef030fb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
