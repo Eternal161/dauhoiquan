@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:52 27/05/2026",
+  "last_updated": "20:01 27/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-bee1e3a80d70",
-          "name": "⚽ Altay vs Fc Astana | H2 - 90+4' 1 - 1 18:00 27/05/2026",
-          "tournament": "Ngoại hạng Kazakhstan",
-          "logo_nha": "https://media.api-sports.io/football/teams/4544.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/562.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/4544.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-bee1e3a80d70",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-bee1e3a80d70",
-                  "name": "Altay vs Fc Astana",
-                  "streams": [
-                    {
-                      "id": "kaytee-bee1e3a80d70",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-25ad4150bb",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw80gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177988635527057&wsIPSercert=87bc56ad39862e2eb68fd6e59105dbc0&wsBindIP=2&wsserid=1168202392933970899"
-                        },
-                        {
-                          "id": "lnk-46afc41655",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-4df9ff3edc79",
           "name": "⚽ Hà Nội Nữ vs Nữ Hồ Chí Minh | Live 0 - 0 19:00 27/05/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2099f65227",
+                          "id": "lnk-046981a7d1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw80gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177988636361683&wsIPSercert=87bc56ad39862e2eb68fd6e59105dbc0&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfw80gr4uqmtt8y41hcjzgazdnc3ofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=572f9e24ef0909ca5424c30d-177988688118927&wsIPSercert=8062c4714831804e5a1f49fcf1426b9d&wsBindIP=2&wsserid=1168176346315811943"
                         },
                         {
-                          "id": "lnk-37fb6cdd39",
+                          "id": "lnk-c658d9df16",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-138831cf2b",
+                          "id": "lnk-93da2acbbb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw80gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177988637213049&wsIPSercert=87bc56ad39862e2eb68fd6e59105dbc0&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfw80gr4uqmtt8y41hcjzgazdnc3ofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=49caba0ae7b8a66c38e97d70-177988688963918&wsIPSercert=8062c4714831804e5a1f49fcf1426b9d&wsBindIP=2&wsserid=1168041136565896200"
                         },
                         {
-                          "id": "lnk-7c20f91e55",
+                          "id": "lnk-6d205bab42",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-e863bf96ae6b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-aacd2d3ef528",
+          "name": "⚽ Petrojet vs El Gouna Fc | Sắp diễn ra vs 21:00 28/05/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/5/5d/Petrojet_SC_2017.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1574.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/5/5d/Petrojet_SC_2017.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-aacd2d3ef528",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-aacd2d3ef528",
+                  "name": "Petrojet vs El Gouna Fc",
+                  "streams": [
+                    {
+                      "id": "kaytee-aacd2d3ef528",
                       "name": "F",
                       "stream_links": []
                     }
