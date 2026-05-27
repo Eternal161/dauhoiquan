@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:30 27/05/2026",
+  "last_updated": "07:40 27/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-0b5578c6e4c6",
-          "name": "⚽ Santos vs Deportivo Cuenca | H1 - 1' 0 - 0 07:30 27/05/2026",
+          "name": "⚽ Santos vs Deportivo Cuenca | H1 - 10' 0 - 0 07:30 27/05/2026",
           "tournament": "CONMEBOL Sudamericana",
           "logo_nha": "https://media.api-sports.io/football/teams/128.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1154.png",
@@ -46,10 +46,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3418526627",
+                          "id": "lnk-beb0aa8ce2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfw81gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-177984244918574&wsIPSercert=3d651bfddefd4f70d47423cc51c40767&wsBindIP=2&wsserid=1168176581102008440"
+                        },
+                        {
+                          "id": "lnk-e4105d97d9",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
                         }
                       ]
