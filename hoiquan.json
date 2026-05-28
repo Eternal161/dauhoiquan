@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:10 28/05/2026",
+  "last_updated": "17:20 28/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-51327fcfd097",
-          "name": "⚽ Okzhetpes vs Aktobe | Live 0 - 0 17:00 28/05/2026",
+          "name": "⚽ Okzhetpes vs Aktobe | H1 - 20' 0 - 0 17:00 28/05/2026",
           "tournament": "Ngoại hạng Kazakhstan",
           "logo_nha": "https://media.api-sports.io/football/teams/4558.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4563.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ee74786e6f",
+                          "id": "lnk-ab18b403f7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw90gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-177996306042531&wsIPSercert=5cce8651c296c769fdd07c79cde68113&wsBindIP=2&wsserid=1168176346313714739"
+                          "url": "https://tfw90gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e1a561d1e5fa9b11e4dd3219-177996365188460&wsIPSercert=e90e4e55ab6f66ed5c86af84c05d2369&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-cb2e4ded96",
+                          "id": "lnk-de866f83a2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
