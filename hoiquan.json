@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:00 28/05/2026",
+  "last_updated": "18:10 28/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-51327fcfd097",
-          "name": "⚽ Okzhetpes vs Aktobe | Giữa Hiệp - 45' 1 - 1 17:00 28/05/2026",
+          "name": "⚽ Okzhetpes vs Aktobe | H2 - 55' 1 - 1 17:00 28/05/2026",
           "tournament": "Ngoại hạng Kazakhstan",
           "logo_nha": "https://media.api-sports.io/football/teams/4558.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4563.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c8881dc2f3",
+                          "id": "lnk-be6c67f747",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw90gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177996606569109&wsIPSercert=e197efd1e2cc5442a0e1ff872b245154&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfw91gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e1a561d1e5fa9b11e4dd3219-177996666765208&wsIPSercert=5b328cd0009c3c81696f8d9f06d48dc7&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-bb293c199f",
+                          "id": "lnk-9f55f69e04",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-e863bf96ae6b",
-          "name": "⚽ Belgium U17 vs Spain U17 | Sắp diễn ra vs 18:30 28/05/2026",
+          "name": "⚽ Belgium U17 vs Spain U17 | Sắp bắt đầu - null' 0 - 0 18:30 28/05/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1280px-Bandera_de_Espa%C3%B1a.svg.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,15 @@
                     {
                       "id": "kaytee-e863bf96ae6b",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-de2370193e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
