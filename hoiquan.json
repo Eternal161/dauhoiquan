@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:40 28/05/2026",
+  "last_updated": "22:50 28/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a0fd00b40a98",
-          "name": "⚽ Petrojet vs El Gouna Fc | H2 - 78' 1 - 0 21:00 28/05/2026",
+          "name": "⚽ Petrojet vs El Gouna Fc | Live 0 - 0 21:00 28/05/2026",
           "tournament": "VĐQG Ai Cập",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/5/5d/Petrojet_SC_2017.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1574.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-383ad2f7b5",
+                          "id": "lnk-b64802512e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw90gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177998285802995&wsIPSercert=17e52851b10c70cafde0567d6935a110&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfw90gr4uqmtt8y41hcjzgazdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=edec454b741202f36893c258-177998345967667&wsIPSercert=be090147c01a71cd15543ce23fc43d0e&wsBindIP=2&wsserid=1168176346318957775"
                         },
                         {
-                          "id": "lnk-02e35b1d2d",
+                          "id": "lnk-ce8768e766",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-d29e216d3121",
-          "name": "⚽ Estonia U17 vs Croatia U17 | Sắp bắt đầu - null' 0 - 0 23:00 28/05/2026",
+          "name": "⚽ Estonia U17 vs Croatia U17 | Live 0 - 0 23:00 28/05/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/17950.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c0809f8f47",
+                          "id": "lnk-4b4c3da37c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw90gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=2fb71014417bf9a8bbb74fd0-177998286667255&wsIPSercert=17e52851b10c70cafde0567d6935a110&wsBindIP=2&wsserid=1168283323277558487"
+                          "url": "https://tfw90gr4uqmtt8y41hcjzgazdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=ae5d40028ae96af9e63375e8-177998346842928&wsIPSercert=be090147c01a71cd15543ce23fc43d0e&wsBindIP=2&wsserid=1168176337059421885"
                         },
                         {
-                          "id": "lnk-23a7e5b182",
+                          "id": "lnk-04e811a628",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
