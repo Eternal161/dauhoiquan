@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:20 28/05/2026",
+  "last_updated": "18:30 28/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-51327fcfd097",
-          "name": "⚽ Okzhetpes vs Aktobe | H2 - 65' 1 - 2 17:00 28/05/2026",
+          "name": "⚽ Okzhetpes vs Aktobe | H2 - 75' 1 - 2 17:00 28/05/2026",
           "tournament": "Ngoại hạng Kazakhstan",
           "logo_nha": "https://media.api-sports.io/football/teams/4558.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4563.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-67c8976b7c",
+                          "id": "lnk-2a4b765a1c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw91gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e1a561d1e5fa9b11e4dd3219-177996724764874&wsIPSercert=611a97d433bffea23cd4311c669ed119&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfw90gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e1a561d1e5fa9b11e4dd3219-177996785602583&wsIPSercert=2d612e4f4d99bc344317ddc5c3c0ddac&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-821210f938",
+                          "id": "lnk-95cbf7bb6c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -113,51 +113,6 @@
           ]
         },
         {
-          "id": "kaytee-afeb02e2a346",
-          "name": "⚽ Ordabasy vs Kairat Almaty | Sắp diễn ra vs 22:00 28/05/2026",
-          "tournament": "Ngoại hạng Kazakhstan",
-          "logo_nha": "https://media.api-sports.io/football/teams/692.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FCKairat_logo.png/250px-FCKairat_logo.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/692.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-afeb02e2a346",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-afeb02e2a346",
-                  "name": "Ordabasy vs Kairat Almaty",
-                  "streams": [
-                    {
-                      "id": "kaytee-afeb02e2a346",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-d29e216d3121",
           "name": "⚽ Estonia U17 vs Croatia U17 | Sắp diễn ra vs 23:00 28/05/2026",
           "tournament": "UEFA U17 Championship",
@@ -203,52 +158,7 @@
           ]
         },
         {
-          "id": "kaytee-be3673795c9c",
-          "name": "⚽ Ismaily Sc vs Pharco | Sắp diễn ra vs 00:00 29/05/2026",
-          "tournament": "VĐQG Ai Cập",
-          "logo_nha": "https://tse2.mm.bing.net/th/id/OIP.vkYmNafPVTwF9fZx7sn-zQHaHN?pid=Api&P=0&h=220",
-          "logo_khach": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh5916md7o/image/small",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://tse2.mm.bing.net/th/id/OIP.vkYmNafPVTwF9fZx7sn-zQHaHN?pid=Api&P=0&h=220",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-be3673795c9c",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-be3673795c9c",
-                  "name": "Ismaily Sc vs Pharco",
-                  "streams": [
-                    {
-                      "id": "kaytee-be3673795c9c",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-611a538283ec",
+          "id": "kaytee-f13f6246dc2d",
           "name": "⚽ Rep. Of Ireland vs Qatar | Sắp diễn ra vs 01:45 29/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/776.png",
@@ -274,15 +184,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-611a538283ec",
+              "id": "kaytee-f13f6246dc2d",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-611a538283ec",
+                  "id": "kaytee-f13f6246dc2d",
                   "name": "Rep. Of Ireland vs Qatar",
                   "streams": [
                     {
-                      "id": "kaytee-611a538283ec",
+                      "id": "kaytee-f13f6246dc2d",
                       "name": "F",
                       "stream_links": []
                     }
@@ -463,6 +373,96 @@
                   "streams": [
                     {
                       "id": "kaytee-247be472aa16",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6c52bc4d624f",
+          "name": "⚽ Andorra vs Iraq | Sắp diễn ra vs 23:00 29/05/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/250px-Flag_of_Andorra.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1567.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/250px-Flag_of_Andorra.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6c52bc4d624f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6c52bc4d624f",
+                  "name": "Andorra vs Iraq",
+                  "streams": [
+                    {
+                      "id": "kaytee-6c52bc4d624f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0a274e7ef662",
+          "name": "⚽ South Africa vs Nicaragua | Sắp diễn ra vs 23:00 29/05/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/250px-Flag_of_Nicaragua.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0a274e7ef662",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0a274e7ef662",
+                  "name": "South Africa vs Nicaragua",
+                  "streams": [
+                    {
+                      "id": "kaytee-0a274e7ef662",
                       "name": "F",
                       "stream_links": []
                     }
