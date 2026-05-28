@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:50 28/05/2026",
+  "last_updated": "23:01 28/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-a0fd00b40a98",
-          "name": "⚽ Petrojet vs El Gouna Fc | Live 0 - 0 21:00 28/05/2026",
-          "tournament": "VĐQG Ai Cập",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/5/5d/Petrojet_SC_2017.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1574.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/5/5d/Petrojet_SC_2017.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a0fd00b40a98",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a0fd00b40a98",
-                  "name": "Petrojet vs El Gouna Fc",
-                  "streams": [
-                    {
-                      "id": "kaytee-a0fd00b40a98",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b64802512e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw90gr4uqmtt8y41hcjzgazdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=edec454b741202f36893c258-177998345967667&wsIPSercert=be090147c01a71cd15543ce23fc43d0e&wsBindIP=2&wsserid=1168176346318957775"
-                        },
-                        {
-                          "id": "lnk-ce8768e766",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-d29e216d3121",
-          "name": "⚽ Estonia U17 vs Croatia U17 | Live 0 - 0 23:00 28/05/2026",
+          "name": "⚽ Estonia U17 vs Croatia U17 | Sắp bắt đầu - null' 0 - 0 23:00 28/05/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/17950.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4b4c3da37c",
+                          "id": "lnk-fc6fa8a7dd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw90gr4uqmtt8y41hcjzgazdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=ae5d40028ae96af9e63375e8-177998346842928&wsIPSercert=be090147c01a71cd15543ce23fc43d0e&wsBindIP=2&wsserid=1168176337059421885"
+                          "url": "https://tfw90gr4uqmtt8y41hcjsgyzdnpb3fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8e9f489a7bfb35c1ca56e9df-177998408204290&wsIPSercert=66d7ecc4aa34aa2eda1c0626a131ea83&wsBindIP=2&wsserid=1168270715628259813"
                         },
                         {
-                          "id": "lnk-04e811a628",
+                          "id": "lnk-be807684b2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-0a274e7ef662",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-20e8d2c0631b",
+          "name": "⚽ Ludogorets vs Lokomotiv Plovdiv | Sắp diễn ra vs 23:30 29/05/2026",
+          "tournament": "First League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ludogorets_FC.png",
+          "logo_khach": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/6261/brand.gif?itok=ulzziNqw",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ludogorets_FC.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-20e8d2c0631b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-20e8d2c0631b",
+                  "name": "Ludogorets vs Lokomotiv Plovdiv",
+                  "streams": [
+                    {
+                      "id": "kaytee-20e8d2c0631b",
                       "name": "F",
                       "stream_links": []
                     }
