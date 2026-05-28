@@ -1,125 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:30 28/05/2026",
+  "last_updated": "09:40 28/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-0cf2160e69f4",
-          "name": "⚽ Fluminense vs Deportivo La Guaira | H2 - 90+5' 3 - 1 07:30 28/05/2026",
-          "tournament": "CONMEBOL Libertadores",
-          "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2813.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-0cf2160e69f4",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-0cf2160e69f4",
-                  "name": "Fluminense vs Deportivo La Guaira",
-                  "streams": [
-                    {
-                      "id": "kaytee-0cf2160e69f4",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6bc218a44",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw90gr4uqmtt8y41hcjsgyzdnct1fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=a892446647eff012ef984b15-177993546444324&wsIPSercert=3f7f49725ec50cc87c1a9e76e811a9c4&wsBindIP=2&wsserid=1168283476093891044"
-                        },
-                        {
-                          "id": "lnk-8f41c8eba2",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-ff29e13f83cb",
-          "name": "⚽ River Plate vs Blooming | H2 - 90+4' 3 - 0 07:30 28/05/2026",
-          "tournament": "CONMEBOL Sudamericana",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/4/41/River_Plate_logo.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/3701.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/4/41/River_Plate_logo.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ff29e13f83cb",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ff29e13f83cb",
-                  "name": "River Plate vs Blooming",
-                  "streams": [
-                    {
-                      "id": "kaytee-ff29e13f83cb",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5f8a767258",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-51327fcfd097",
           "name": "⚽ Okzhetpes vs Aktobe | Sắp diễn ra vs 17:00 28/05/2026",
@@ -471,6 +358,96 @@
                   "streams": [
                     {
                       "id": "kaytee-2874bbd64805",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1b22faf07897",
+          "name": "⚽ Boca Juniors vs U. Catolica | Sắp diễn ra vs 07:30 29/05/2026",
+          "tournament": "CONMEBOL Libertadores",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Escudo_del_Club_Atl%C3%A9tico_Boca_Juniors_2012.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/2994.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Escudo_del_Club_Atl%C3%A9tico_Boca_Juniors_2012.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1b22faf07897",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1b22faf07897",
+                  "name": "Boca Juniors vs U. Catolica",
+                  "streams": [
+                    {
+                      "id": "kaytee-1b22faf07897",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-55d7f920c157",
+          "name": "⚽ Cruzeiro vs Barcelona Sc | Sắp diễn ra vs 07:30 29/05/2026",
+          "tournament": "CONMEBOL Libertadores",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg",
+          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6hNPeVCelmVhF22CQYOiEe215iOTJF3Lm7A&s",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-55d7f920c157",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-55d7f920c157",
+                  "name": "Cruzeiro vs Barcelona Sc",
+                  "streams": [
+                    {
+                      "id": "kaytee-55d7f920c157",
                       "name": "F",
                       "stream_links": []
                     }
