@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:50 28/05/2026",
+  "last_updated": "19:00 28/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-51327fcfd097",
-          "name": "⚽ Okzhetpes vs Aktobe | H2 - 90+5' 1 - 2 17:00 28/05/2026",
+          "name": "⚽ Okzhetpes vs Aktobe | H2 - 90+8' 2 - 2 17:00 28/05/2026",
           "tournament": "Ngoại hạng Kazakhstan",
           "logo_nha": "https://media.api-sports.io/football/teams/4558.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4563.png",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0704b18122",
+                          "id": "lnk-84e9080f0b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw90gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e1a561d1e5fa9b11e4dd3219-177996906483477&wsIPSercert=ea9a90d766c9713033d07d5793de6a3e&wsBindIP=2&wsserid=1168283323221983365"
-                        },
-                        {
-                          "id": "lnk-8d65a9af0e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
                         }
                       ]
@@ -69,7 +62,7 @@
         },
         {
           "id": "kaytee-64aeb2a05c98",
-          "name": "⚽ Belgium U17 vs Spain U17 | H1 - 20' 0 - 1 18:30 28/05/2026",
+          "name": "⚽ Belgium U17 vs Spain U17 | H1 - 30' 0 - 1 18:30 28/05/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1280px-Bandera_de_Espa%C3%B1a.svg.png",
@@ -106,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7dbf793f72",
+                          "id": "lnk-2fe3edeb56",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw90gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=cbde7b292b1fdae7c2cd6e27-177996907324554&wsIPSercert=ea9a90d766c9713033d07d5793de6a3e&wsBindIP=2&wsserid=1168283323380319328"
+                          "url": "https://tfw91gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=cbde7b292b1fdae7c2cd6e27-177996966937114&wsIPSercert=21b9e7f4169292fd80b508e3e370dda4&wsBindIP=2&wsserid=1168283323380319328"
                         },
                         {
-                          "id": "lnk-9fff4df5f8",
+                          "id": "lnk-c4e6b5a911",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
