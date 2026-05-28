@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:00 28/05/2026",
+  "last_updated": "19:10 28/05/2026",
   "groups": [
     {
       "id": "live",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-84e9080f0b",
+                          "id": "lnk-f54d4eb78b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-64aeb2a05c98",
-          "name": "⚽ Belgium U17 vs Spain U17 | H1 - 30' 0 - 1 18:30 28/05/2026",
+          "name": "⚽ Belgium U17 vs Spain U17 | H1 - 40' 0 - 1 18:30 28/05/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1280px-Bandera_de_Espa%C3%B1a.svg.png",
@@ -99,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2fe3edeb56",
+                          "id": "lnk-96b5cdd1b7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw91gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=cbde7b292b1fdae7c2cd6e27-177996966937114&wsIPSercert=21b9e7f4169292fd80b508e3e370dda4&wsBindIP=2&wsserid=1168283323380319328"
+                          "url": "https://tfw91gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-177997027323057&wsIPSercert=4cb5b2a1dd89049415ec274f02565019&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-c4e6b5a911",
+                          "id": "lnk-39a15347d3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -211,52 +211,7 @@
           ]
         },
         {
-          "id": "kaytee-81fb14a23ef3",
-          "name": "⚽ Ismaily Sc vs Pharco | Sắp diễn ra vs 00:00 29/05/2026",
-          "tournament": "Premier League",
-          "logo_nha": "https://tse2.mm.bing.net/th/id/OIP.vkYmNafPVTwF9fZx7sn-zQHaHN?pid=Api&P=0&h=220",
-          "logo_khach": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh5916md7o/image/small",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://tse2.mm.bing.net/th/id/OIP.vkYmNafPVTwF9fZx7sn-zQHaHN?pid=Api&P=0&h=220",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-81fb14a23ef3",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-81fb14a23ef3",
-                  "name": "Ismaily Sc vs Pharco",
-                  "streams": [
-                    {
-                      "id": "kaytee-81fb14a23ef3",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-b94bdee08153",
+          "id": "kaytee-c0811d487926",
           "name": "⚽ Rep. Of Ireland vs Qatar | Sắp diễn ra vs 01:45 29/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/776.png",
@@ -282,15 +237,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-b94bdee08153",
+              "id": "kaytee-c0811d487926",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-b94bdee08153",
+                  "id": "kaytee-c0811d487926",
                   "name": "Rep. Of Ireland vs Qatar",
                   "streams": [
                     {
-                      "id": "kaytee-b94bdee08153",
+                      "id": "kaytee-c0811d487926",
                       "name": "F",
                       "stream_links": []
                     }
@@ -471,6 +426,51 @@
                   "streams": [
                     {
                       "id": "kaytee-247be472aa16",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-4f4d591902b9",
+          "name": "⚽ Shenyang Urban vs Shanghai Sipg | Sắp diễn ra vs 18:35 29/05/2026",
+          "tournament": "Super League",
+          "logo_nha": "https://media.api-sports.io/football/teams/5684.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/836.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5684.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4f4d591902b9",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4f4d591902b9",
+                  "name": "Shenyang Urban vs Shanghai Sipg",
+                  "streams": [
+                    {
+                      "id": "kaytee-4f4d591902b9",
                       "name": "F",
                       "stream_links": []
                     }
