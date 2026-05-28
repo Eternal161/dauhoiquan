@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:00 28/05/2026",
+  "last_updated": "22:10 28/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a0fd00b40a98",
-          "name": "⚽ Petrojet vs El Gouna Fc | Giữa Hiệp - 45+4' 1 - 0 21:00 28/05/2026",
+          "name": "⚽ Petrojet vs El Gouna Fc | Live 0 - 0 21:00 28/05/2026",
           "tournament": "VĐQG Ai Cập",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/5/5d/Petrojet_SC_2017.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1574.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5e7c444716",
+                          "id": "lnk-571acdc191",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw91gr4uqmtt8y41hcjz8rzdrctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=49caba0ae7b8a66c38e97d70-177998046857243&wsIPSercert=5dec418c11f268c10f77a79a03548127&wsBindIP=2&wsserid=1168041136565896200"
+                          "url": "https://tfw90gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177998106721477&wsIPSercert=683e2c0b75c45ef57ca721a31d44356d&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-4b2037cd6c",
+                          "id": "lnk-227e381666",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
