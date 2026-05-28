@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:20 28/05/2026",
+  "last_updated": "09:30 28/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-0cf2160e69f4",
-          "name": "⚽ Fluminense vs Deportivo La Guaira | H2 - 90+1' 3 - 1 07:30 28/05/2026",
+          "name": "⚽ Fluminense vs Deportivo La Guaira | H2 - 90+5' 3 - 1 07:30 28/05/2026",
           "tournament": "CONMEBOL Libertadores",
           "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2813.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-57a50c6fd0",
+                          "id": "lnk-a6bc218a44",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw91gr3uomttgr31hcj18yzd1p3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=088f8c66755e0f8eb05e946c-177993486067381&wsIPSercert=f4822822ac71ba0d6ec64e326e8297c4&wsBindIP=2&wsserid=1168243256654681122"
+                          "url": "https://tfw90gr4uqmtt8y41hcjsgyzdnct1fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=a892446647eff012ef984b15-177993546444324&wsIPSercert=3f7f49725ec50cc87c1a9e76e811a9c4&wsBindIP=2&wsserid=1168283476093891044"
                         },
                         {
-                          "id": "lnk-4896a68cf5",
+                          "id": "lnk-8f41c8eba2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-ff29e13f83cb",
-          "name": "⚽ River Plate vs Blooming | H2 - 90+3' 3 - 0 07:30 28/05/2026",
+          "name": "⚽ River Plate vs Blooming | H2 - 90+4' 3 - 0 07:30 28/05/2026",
           "tournament": "CONMEBOL Sudamericana",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/4/41/River_Plate_logo.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3701.png",
@@ -106,17 +106,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6e676f6e4f",
+                          "id": "lnk-5f8a767258",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw91gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=d4bb5fa08f4d82e32f7976ce-177993486909420&wsIPSercert=f4822822ac71ba0d6ec64e326e8297c4&wsBindIP=2&wsserid=1168243344275968966"
-                        },
-                        {
-                          "id": "lnk-114f33b657",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
