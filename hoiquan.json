@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:00 28/05/2026",
+  "last_updated": "20:11 28/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-64aeb2a05c98",
-          "name": "⚽ Belgium U17 vs Spain U17 | H2 - 74' 0 - 1 18:30 28/05/2026",
+          "name": "⚽ Belgium U17 vs Spain U17 | H2 - 85' 0 - 1 18:30 28/05/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1280px-Bandera_de_Espa%C3%B1a.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8babfe50f4",
+                          "id": "lnk-f612ecc6a2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw90gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=cbde7b292b1fdae7c2cd6e27-177997326142505&wsIPSercert=f18e3c9f3eb45fd7eaa9d257e3bf59a3&wsBindIP=2&wsserid=1168283323380319328"
+                          "url": "https://tfw91gr4uqmtt8y41hcjz8rzdeqjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=ac9e19ed31595da6395c7e43-177997387937665&wsIPSercert=79832e1dbf044a0176a8543882c78af9&wsBindIP=2&wsserid=1168214359412300697"
                         },
                         {
-                          "id": "lnk-7d42ee16d5",
+                          "id": "lnk-873f43f715",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
