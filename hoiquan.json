@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:20 28/05/2026",
+  "last_updated": "20:31 28/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-64aeb2a05c98",
-          "name": "⚽ Belgium U17 vs Spain U17 | H2 - 90+4' 0 - 1 18:30 28/05/2026",
-          "tournament": "UEFA U17 Championship",
-          "logo_nha": "https://media.api-sports.io/football/teams/1.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1280px-Bandera_de_Espa%C3%B1a.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-64aeb2a05c98",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-64aeb2a05c98",
-                  "name": "Belgium U17 vs Spain U17",
-                  "streams": [
-                    {
-                      "id": "kaytee-64aeb2a05c98",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-38e7f8616c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-a0fd00b40a98",
-          "name": "⚽ Petrojet vs El Gouna Fc | Sắp diễn ra vs 21:00 28/05/2026",
+          "name": "⚽ Petrojet vs El Gouna Fc | Sắp bắt đầu - null' 0 - 0 21:00 28/05/2026",
           "tournament": "VĐQG Ai Cập",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/5/5d/Petrojet_SC_2017.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1574.png",
@@ -79,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +44,22 @@
                     {
                       "id": "kaytee-a0fd00b40a98",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-6a6b992dcd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw90gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177997508119796&wsIPSercert=e33f79ad94c07665a985a85e8dd5c868&wsBindIP=2&wsserid=1168202333418134578"
+                        },
+                        {
+                          "id": "lnk-daf186167a",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -456,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-6c52bc4d624f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0a274e7ef662",
+          "name": "⚽ South Africa vs Nicaragua | Sắp diễn ra vs 23:00 29/05/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/250px-Flag_of_Nicaragua.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0a274e7ef662",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0a274e7ef662",
+                  "name": "South Africa vs Nicaragua",
+                  "streams": [
+                    {
+                      "id": "kaytee-0a274e7ef662",
                       "name": "F",
                       "stream_links": []
                     }
