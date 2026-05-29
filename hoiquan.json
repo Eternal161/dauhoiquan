@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:00 29/05/2026",
+  "last_updated": "18:10 29/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-247be472aa16",
-          "name": "⚽ Montenegro U17 vs Italy U17 | Sắp diễn ra vs 18:30 29/05/2026",
+          "name": "⚽ Montenegro U17 vs Italy U17 | Sắp bắt đầu - null' 0 - 0 18:30 29/05/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://img.uefa.com/imgml/flags/240x240/MNE.png",
           "logo_khach": "https://tmssl.akamaized.net//images/wappen/big/23133.png?lm=1672672799",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-247be472aa16",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-e8c07fce52",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwa0gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=edec454b741202f36893c258-178005306399838&wsIPSercert=5d9307a65a3187a4c9a5e357351fadf2&wsBindIP=2&wsserid=1168176346318957775"
+                        },
+                        {
+                          "id": "lnk-c7591bf41e",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -54,7 +69,7 @@
         },
         {
           "id": "kaytee-4f4d591902b9",
-          "name": "⚽ Shenyang Urban vs Shanghai Sipg | Sắp diễn ra vs 18:35 29/05/2026",
+          "name": "⚽ Shenyang Urban vs Shanghai Sipg | Sắp bắt đầu - null' 0 - 0 18:35 29/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/5684.png",
           "logo_khach": "https://media.api-sports.io/football/teams/836.png",
@@ -71,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -89,7 +104,22 @@
                     {
                       "id": "kaytee-4f4d591902b9",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-a8b9de0cf7",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwa0gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-178005307258934&wsIPSercert=5d9307a65a3187a4c9a5e357351fadf2&wsBindIP=2&wsserid=1168176346313714739"
+                        },
+                        {
+                          "id": "lnk-ba3d878b3e",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
