@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:00 30/05/2026",
+  "last_updated": "02:10 30/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-cb4d8c73719a",
-          "name": "⚽ Rosenborg vs Bodo/Glimt | H2 - 90+8' 2 - 2 00:00 30/05/2026",
-          "tournament": "Eliteserien",
-          "logo_nha": "https://media.api-sports.io/football/teams/331.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/327.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/331.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-cb4d8c73719a",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-cb4d8c73719a",
-                  "name": "Rosenborg vs Bodo/Glimt",
-                  "streams": [
-                    {
-                      "id": "kaytee-cb4d8c73719a",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-773de66095",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-7a0c6b88abc6",
-          "name": "⚽ Nice vs Saint Etienne | H1 - 16' 0 - 0 01:45 30/05/2026",
+          "name": "⚽ Nice vs Saint Etienne | H1 - 25' 0 - 0 01:45 30/05/2026",
           "tournament": "Ligue 1",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/2/2e/OGC_Nice_logo.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/1063.png",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2f03dc0cda",
+                          "id": "lnk-d83a3a2829",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwa0gr4uqmtt8y41hcjzgazdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=ae5d40028ae96af9e63375e8-178008126971628&wsIPSercert=144ab50c896f2d7d50d37d95daae848f&wsBindIP=2&wsserid=1168176337059421885"
+                          "url": "https://tfwa0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=2fb71014417bf9a8bbb74fd0-178008185609858&wsIPSercert=b7b5bc10a7157269ae1b3ad4dea72d6b&wsBindIP=2&wsserid=1168283323277558487"
                         },
                         {
-                          "id": "lnk-5a507e72c9",
+                          "id": "lnk-beb9df24fb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-e029c39005af",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-53435012d0db",
+          "name": "⚽ Chongqing Tongliang Long vs Beijing Guoan | Sắp diễn ra vs 19:00 30/05/2026",
+          "tournament": "Super League",
+          "logo_nha": "https://media.api-sports.io/football/teams/21262.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/21262.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-53435012d0db",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-53435012d0db",
+                  "name": "Chongqing Tongliang Long vs Beijing Guoan",
+                  "streams": [
+                    {
+                      "id": "kaytee-53435012d0db",
                       "name": "F",
                       "stream_links": []
                     }
