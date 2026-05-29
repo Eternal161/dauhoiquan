@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:00 30/05/2026",
+  "last_updated": "03:10 30/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-7a0c6b88abc6",
-          "name": "⚽ Nice vs Saint Etienne | H2 - 55' 0 - 0 01:45 30/05/2026",
+          "name": "⚽ Nice vs Saint Etienne | H2 - 66' 1 - 0 01:45 30/05/2026",
           "tournament": "Ligue 1",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/2/2e/OGC_Nice_logo.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/1063.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-87127b0be7",
+                          "id": "lnk-1a5df590bd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwa0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=2fb71014417bf9a8bbb74fd0-178008486114720&wsIPSercert=cba762ccc9a5419832094c40ad4b0df5&wsBindIP=2&wsserid=1168283323277558487"
+                          "url": "https://tfwa0gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=ae5d40028ae96af9e63375e8-178008546098277&wsIPSercert=95a1ec06b8040f5987aed65e0aa53901&wsBindIP=2&wsserid=1168176337059421885"
                         },
                         {
-                          "id": "lnk-33a9aecbc6",
+                          "id": "lnk-6f93f4d60b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
