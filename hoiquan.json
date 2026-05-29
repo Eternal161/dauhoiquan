@@ -1,12 +1,463 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:40 29/05/2026",
+  "last_updated": "21:51 29/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
-      "channels": []
+      "channels": [
+        {
+          "id": "kaytee-6c52bc4d624f",
+          "name": "⚽ Andorra vs Iraq | Sắp diễn ra vs 23:00 29/05/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/250px-Flag_of_Andorra.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1567.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/250px-Flag_of_Andorra.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6c52bc4d624f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6c52bc4d624f",
+                  "name": "Andorra vs Iraq",
+                  "streams": [
+                    {
+                      "id": "kaytee-6c52bc4d624f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0a274e7ef662",
+          "name": "⚽ South Africa vs Nicaragua | Sắp diễn ra vs 23:00 29/05/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/250px-Flag_of_Nicaragua.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0a274e7ef662",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0a274e7ef662",
+                  "name": "South Africa vs Nicaragua",
+                  "streams": [
+                    {
+                      "id": "kaytee-0a274e7ef662",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-cb4d8c73719a",
+          "name": "⚽ Rosenborg vs Bodo/Glimt | Sắp diễn ra vs 00:00 30/05/2026",
+          "tournament": "Eliteserien",
+          "logo_nha": "https://media.api-sports.io/football/teams/331.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/327.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/331.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-cb4d8c73719a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-cb4d8c73719a",
+                  "name": "Rosenborg vs Bodo/Glimt",
+                  "streams": [
+                    {
+                      "id": "kaytee-cb4d8c73719a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-812918b3cd87",
+          "name": "⚽ Depor Fc vs Millonarios | Sắp diễn ra vs 08:10 30/05/2026",
+          "tournament": "Copa Colombia",
+          "logo_nha": "https://media.api-sports.io/football/teams/1468.png",
+          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvP7MiKvec4HC-oCE9TPa90WaqO6uFGc15zg&s",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1468.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-812918b3cd87",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-812918b3cd87",
+                  "name": "Depor Fc vs Millonarios",
+                  "streams": [
+                    {
+                      "id": "kaytee-812918b3cd87",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3f0d21d7a54c",
+          "name": "⚽ Albirex Niigata vs Kagoshima United | Sắp diễn ra vs 12:00 30/05/2026",
+          "tournament": "J2/J3 League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/b/b3/AlbirexNiigata.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2236.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/b/b3/AlbirexNiigata.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3f0d21d7a54c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3f0d21d7a54c",
+                  "name": "Albirex Niigata vs Kagoshima United",
+                  "streams": [
+                    {
+                      "id": "kaytee-3f0d21d7a54c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-38ddc80464a5",
+          "name": "⚽ Kochi United vs Renofa Yamaguchi | Sắp diễn ra vs 12:00 30/05/2026",
+          "tournament": "J2/J3 League",
+          "logo_nha": "https://cdn.soccerwiki.org/images/logos/clubs/6669.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/309.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn.soccerwiki.org/images/logos/clubs/6669.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-38ddc80464a5",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-38ddc80464a5",
+                  "name": "Kochi United vs Renofa Yamaguchi",
+                  "streams": [
+                    {
+                      "id": "kaytee-38ddc80464a5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b4515101e713",
+          "name": "⚽ Yokohama Fc vs Omiya Ardija | Sắp diễn ra vs 12:00 30/05/2026",
+          "tournament": "J2/J3 League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/1/18/YokohamaFC.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/313.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/1/18/YokohamaFC.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b4515101e713",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b4515101e713",
+                  "name": "Yokohama Fc vs Omiya Ardija",
+                  "streams": [
+                    {
+                      "id": "kaytee-b4515101e713",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-94181b519bfb",
+          "name": "⚽ Yongin City vs Daegu Fc | Sắp diễn ra vs 14:30 30/05/2026",
+          "tournament": "K League 2",
+          "logo_nha": "https://media.api-sports.io/football/teams/9171.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a4/Daegu_FC.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/9171.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-94181b519bfb",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-94181b519bfb",
+                  "name": "Yongin City vs Daegu Fc",
+                  "streams": [
+                    {
+                      "id": "kaytee-94181b519bfb",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-5549ef44242e",
+          "name": "⚽ Asan Mugunghwa vs Suwon Bluewings | Sắp diễn ra vs 14:30 30/05/2026",
+          "tournament": "K League 2",
+          "logo_nha": "https://media.api-sports.io/football/teams/2753.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/7/7b/Suwon_Samsung_Bluewings.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2753.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-5549ef44242e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-5549ef44242e",
+                  "name": "Asan Mugunghwa vs Suwon Bluewings",
+                  "streams": [
+                    {
+                      "id": "kaytee-5549ef44242e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a735ecfadb15",
+          "name": "⚽ Trường Tươi Đồng Nai vs Long An | Sắp diễn ra vs 16:00 30/05/2026",
+          "tournament": "V.League 2",
+          "logo_nha": "https://vpf.vn/wp-content/uploads/2018/10/TRUONG-TUOI-DONG-NAI-1920x1854.png",
+          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbaynMw1lJOl1hU7wpcWGXGahjFbtj8Iid7Q&s",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://vpf.vn/wp-content/uploads/2018/10/TRUONG-TUOI-DONG-NAI-1920x1854.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a735ecfadb15",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a735ecfadb15",
+                  "name": "Trường Tươi Đồng Nai vs Long An",
+                  "streams": [
+                    {
+                      "id": "kaytee-a735ecfadb15",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
