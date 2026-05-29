@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:50 30/05/2026",
+  "last_updated": "02:00 30/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-cb4d8c73719a",
-          "name": "⚽ Rosenborg vs Bodo/Glimt | Live 0 - 0 00:00 30/05/2026",
+          "name": "⚽ Rosenborg vs Bodo/Glimt | H2 - 90+8' 2 - 2 00:00 30/05/2026",
           "tournament": "Eliteserien",
           "logo_nha": "https://media.api-sports.io/football/teams/331.png",
           "logo_khach": "https://media.api-sports.io/football/teams/327.png",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-805d3f8888",
+                          "id": "lnk-773de66095",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwa1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178008066050910&wsIPSercert=d3c61c0bf79fff5501d1405900067986&wsBindIP=2&wsserid=1168176581102008440"
-                        },
-                        {
-                          "id": "lnk-aca5e520f0",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
                         }
                       ]
@@ -69,7 +62,7 @@
         },
         {
           "id": "kaytee-7a0c6b88abc6",
-          "name": "⚽ Nice vs Saint Etienne | Live 0 - 0 01:45 30/05/2026",
+          "name": "⚽ Nice vs Saint Etienne | H1 - 16' 0 - 0 01:45 30/05/2026",
           "tournament": "Ligue 1",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/2/2e/OGC_Nice_logo.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/1063.png",
@@ -106,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-dea0b5bbed",
+                          "id": "lnk-2f03dc0cda",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwa1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178008066882903&wsIPSercert=d3c61c0bf79fff5501d1405900067986&wsBindIP=2&wsserid=1168176581102008440"
+                          "url": "https://tfwa0gr4uqmtt8y41hcjzgazdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=ae5d40028ae96af9e63375e8-178008126971628&wsIPSercert=144ab50c896f2d7d50d37d95daae848f&wsBindIP=2&wsserid=1168176337059421885"
                         },
                         {
-                          "id": "lnk-da93a7b0fe",
+                          "id": "lnk-5a507e72c9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
