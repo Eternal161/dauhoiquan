@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:10 30/05/2026",
+  "last_updated": "01:20 30/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-cb4d8c73719a",
-          "name": "⚽ Rosenborg vs Bodo/Glimt | H2 - 51' 1 - 1 00:00 30/05/2026",
+          "name": "⚽ Rosenborg vs Bodo/Glimt | H2 - 61' 1 - 1 00:00 30/05/2026",
           "tournament": "Eliteserien",
           "logo_nha": "https://media.api-sports.io/football/teams/331.png",
           "logo_khach": "https://media.api-sports.io/football/teams/327.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-053573dc1a",
+                          "id": "lnk-ee405772ca",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwa1gr4uqmtt8y41hcjs8rzdrc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c81584c5080e26eeff9aa000-178007826014441&wsIPSercert=05cbd22c6959b858b3e307d476410ff5&wsBindIP=2&wsserid=1168228942752121565"
+                          "url": "https://tfwa1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178007885588884&wsIPSercert=c4a2a20cfe3c545e3b635f914d878715&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-be3995631e",
+                          "id": "lnk-601b0c20ab",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a30cf90deb",
+                          "id": "lnk-2ea4181e2e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwa1gr4uqmtt8y41hcjs8rzdrc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=65237aac5ee3248864bf2882-178007826872413&wsIPSercert=05cbd22c6959b858b3e307d476410ff5&wsBindIP=2&wsserid=1168228938982826579"
+                          "url": "https://tfwa1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178007886535958&wsIPSercert=c4a2a20cfe3c545e3b635f914d878715&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-9652cc0f0f",
+                          "id": "lnk-151a1e4722",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
