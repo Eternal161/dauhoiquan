@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:00 30/05/2026",
+  "last_updated": "01:10 30/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-0a274e7ef662",
-          "name": "⚽ South Africa vs Nicaragua | H2 - 90+1' 0 - 0 23:00 29/05/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/250px-Flag_of_Nicaragua.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-0a274e7ef662",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-0a274e7ef662",
-                  "name": "South Africa vs Nicaragua",
-                  "streams": [
-                    {
-                      "id": "kaytee-0a274e7ef662",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-51c7dd607f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwa1gr4uqmtt8y41hcjz8rzdeqjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=197a7e0439e0ed2dfed4c58e-178007765791468&wsIPSercert=c283a7614c3c84422f62c5138bf275fb&wsBindIP=2&wsserid=1168041062946239395"
-                        },
-                        {
-                          "id": "lnk-c8bb98a285",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-cb4d8c73719a",
-          "name": "⚽ Rosenborg vs Bodo/Glimt | Giữa Hiệp - 45+4' 1 - 1 00:00 30/05/2026",
+          "name": "⚽ Rosenborg vs Bodo/Glimt | H2 - 51' 1 - 1 00:00 30/05/2026",
           "tournament": "Eliteserien",
           "logo_nha": "https://media.api-sports.io/football/teams/331.png",
           "logo_khach": "https://media.api-sports.io/football/teams/327.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-88389c5730",
+                          "id": "lnk-053573dc1a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwa1gr4uqmtt8y41hcjz8rzdeqjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=572f9e24ef0909ca5424c30d-178007766667026&wsIPSercert=c283a7614c3c84422f62c5138bf275fb&wsBindIP=2&wsserid=1168176346315811943"
+                          "url": "https://tfwa1gr4uqmtt8y41hcjs8rzdrc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c81584c5080e26eeff9aa000-178007826014441&wsIPSercert=05cbd22c6959b858b3e307d476410ff5&wsBindIP=2&wsserid=1168228942752121565"
                         },
                         {
-                          "id": "lnk-d730f3d0d8",
+                          "id": "lnk-be3995631e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-7a0c6b88abc6",
-          "name": "⚽ Nice vs Saint Etienne | Sắp diễn ra vs 01:45 30/05/2026",
+          "name": "⚽ Nice vs Saint Etienne | Sắp bắt đầu - null' 0 - 0 01:45 30/05/2026",
           "tournament": "Ligue 1",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/2/2e/OGC_Nice_logo.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/1063.png",
@@ -146,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +104,22 @@
                     {
                       "id": "kaytee-7a0c6b88abc6",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-a30cf90deb",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwa1gr4uqmtt8y41hcjs8rzdrc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=65237aac5ee3248864bf2882-178007826872413&wsIPSercert=05cbd22c6959b858b3e307d476410ff5&wsBindIP=2&wsserid=1168228938982826579"
+                        },
+                        {
+                          "id": "lnk-9652cc0f0f",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -478,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-a735ecfadb15",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e029c39005af",
+          "name": "⚽ Qingdao Youth Island vs Shanghai Shenhua | Sắp diễn ra vs 17:00 30/05/2026",
+          "tournament": "Super League",
+          "logo_nha": "https://media.api-sports.io/football/teams/17265.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/17265.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e029c39005af",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e029c39005af",
+                  "name": "Qingdao Youth Island vs Shanghai Shenhua",
+                  "streams": [
+                    {
+                      "id": "kaytee-e029c39005af",
                       "name": "F",
                       "stream_links": []
                     }
