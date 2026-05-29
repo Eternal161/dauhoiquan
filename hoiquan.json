@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:20 29/05/2026",
+  "last_updated": "23:30 29/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6c52bc4d624f",
-          "name": "⚽ Andorra vs Iraq | H1 - 20' 0 - 0 23:00 29/05/2026",
+          "name": "⚽ Andorra vs Iraq | Live 0 - 0 23:00 29/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/250px-Flag_of_Andorra.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1567.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6478723d17",
+                          "id": "lnk-05849de997",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwa0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178007165270737&wsIPSercert=b8f48cf2d4272dd752d861db2129f283&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwa0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178007226712954&wsIPSercert=7104a12c396b50fce441ac06cf6dfa13&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-5e53c49c4e",
+                          "id": "lnk-d450cc5529",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-0a274e7ef662",
-          "name": "⚽ South Africa vs Nicaragua | H1 - 15' 0 - 0 23:00 29/05/2026",
+          "name": "⚽ South Africa vs Nicaragua | Live 0 - 0 23:00 29/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/250px-Flag_of_Nicaragua.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-65c479c315",
+                          "id": "lnk-c6026edaca",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwa0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-178007166127738&wsIPSercert=b8f48cf2d4272dd752d861db2129f283&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfwa0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-178007227551232&wsIPSercert=7104a12c396b50fce441ac06cf6dfa13&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-0fae989b97",
+                          "id": "lnk-5f3552c925",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-cb4d8c73719a",
-          "name": "⚽ Rosenborg vs Bodo/Glimt | Sắp diễn ra vs 00:00 30/05/2026",
+          "name": "⚽ Rosenborg vs Bodo/Glimt | Live 0 - 0 00:00 30/05/2026",
           "tournament": "Eliteserien",
           "logo_nha": "https://media.api-sports.io/football/teams/331.png",
           "logo_khach": "https://media.api-sports.io/football/teams/327.png",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-cb4d8c73719a",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-b36c491b09",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwa0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178007228412972&wsIPSercert=7104a12c396b50fce441ac06cf6dfa13&wsBindIP=2&wsserid=1168202333418134578"
+                        },
+                        {
+                          "id": "lnk-9bf0f2dccd",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
