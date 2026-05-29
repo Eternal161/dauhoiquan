@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:20 29/05/2026",
+  "last_updated": "19:30 29/05/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b3a226f684",
+                          "id": "lnk-dd60baef27",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwa1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=dbd8f789bb7a7a2508c32238-178005725716215&wsIPSercert=fd570650f5373376c08bd3b283b64270&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfwa1gr4uqmtt8y41hcjz8rzdrctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=49caba0ae7b8a66c38e97d70-178005786317798&wsIPSercert=988ebe2c3801caaa0d53ae9bcfeca458&wsBindIP=2&wsserid=1168041136565896200"
                         },
                         {
-                          "id": "lnk-6d246945f5",
+                          "id": "lnk-52d070be85",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-4f4d591902b9",
-          "name": "⚽ Shenyang Urban vs Shanghai Sipg | H1 - 45+1' 1 - 1 18:35 29/05/2026",
+          "name": "⚽ Shenyang Urban vs Shanghai Sipg | Giữa Hiệp - 45+5' 1 - 1 18:35 29/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/5684.png",
           "logo_khach": "https://media.api-sports.io/football/teams/836.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2901bdb400",
+                          "id": "lnk-c28ef03092",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwa1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-178005726560041&wsIPSercert=fd570650f5373376c08bd3b283b64270&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfwa1gr4uqmtt8y41hcjz8rzdrctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=572f9e24ef0909ca5424c30d-178005787165255&wsIPSercert=988ebe2c3801caaa0d53ae9bcfeca458&wsBindIP=2&wsserid=1168176346315811943"
                         },
                         {
-                          "id": "lnk-f76d8159d1",
+                          "id": "lnk-0b5f5fecee",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -218,7 +218,7 @@
           ]
         },
         {
-          "id": "kaytee-fd60a347f33f",
+          "id": "kaytee-cb4d8c73719a",
           "name": "⚽ Rosenborg vs Bodo/Glimt | Sắp diễn ra vs 00:00 30/05/2026",
           "tournament": "Eliteserien",
           "logo_nha": "https://media.api-sports.io/football/teams/331.png",
@@ -244,15 +244,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-fd60a347f33f",
+              "id": "kaytee-cb4d8c73719a",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-fd60a347f33f",
+                  "id": "kaytee-cb4d8c73719a",
                   "name": "Rosenborg vs Bodo/Glimt",
                   "streams": [
                     {
-                      "id": "kaytee-fd60a347f33f",
+                      "id": "kaytee-cb4d8c73719a",
                       "name": "F",
                       "stream_links": []
                     }
