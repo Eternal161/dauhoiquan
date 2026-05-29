@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:30 29/05/2026",
+  "last_updated": "18:40 29/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-247be472aa16",
-          "name": "⚽ Montenegro U17 vs Italy U17 | Sắp bắt đầu - null' 0 - 0 18:30 29/05/2026",
+          "name": "⚽ Montenegro U17 vs Italy U17 | H1 - 11' 0 - 1 18:30 29/05/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://img.uefa.com/imgml/flags/240x240/MNE.png",
           "logo_khach": "https://tmssl.akamaized.net//images/wappen/big/23133.png?lm=1672672799",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1650388d02",
+                          "id": "lnk-ee009e518e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwa1gr4uqmtt8y41hcjs8rzdrc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=65237aac5ee3248864bf2882-178005426326508&wsIPSercert=8e4a554bf94944ecc7dcf1e6bbfcb8b7&wsBindIP=2&wsserid=1168228938982826579"
+                          "url": "https://tfwa0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178005486048024&wsIPSercert=5f156d01010accd1f726e90ebb131550&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-5e70441ccd",
+                          "id": "lnk-488a795759",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-4f4d591902b9",
-          "name": "⚽ Shenyang Urban vs Shanghai Sipg | Sắp bắt đầu - null' 0 - 0 18:35 29/05/2026",
+          "name": "⚽ Shenyang Urban vs Shanghai Sipg | H1 - 6' 0 - 0 18:35 29/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/5684.png",
           "logo_khach": "https://media.api-sports.io/football/teams/836.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0f2c8f6815",
+                          "id": "lnk-a9c5067d67",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwa1gr4uqmtt8y41hcjs8rzdrc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c81584c5080e26eeff9aa000-178005427183205&wsIPSercert=8e4a554bf94944ecc7dcf1e6bbfcb8b7&wsBindIP=2&wsserid=1168228942752121565"
+                          "url": "https://tfwa0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178005486889873&wsIPSercert=5f156d01010accd1f726e90ebb131550&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-610c94a970",
+                          "id": "lnk-59b7110a61",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
