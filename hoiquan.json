@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:10 29/05/2026",
+  "last_updated": "23:20 29/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6c52bc4d624f",
-          "name": "⚽ Andorra vs Iraq | H1 - 10' 0 - 0 23:00 29/05/2026",
+          "name": "⚽ Andorra vs Iraq | H1 - 20' 0 - 0 23:00 29/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/250px-Flag_of_Andorra.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1567.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8487278902",
+                          "id": "lnk-6478723d17",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwa1gr4uqmtt8y41hcjs8rzdrc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=65237aac5ee3248864bf2882-178007105957695&wsIPSercert=12b6fa526db1c7b1ef0d04b500486f60&wsBindIP=2&wsserid=1168228938982826579"
+                          "url": "https://tfwa0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178007165270737&wsIPSercert=b8f48cf2d4272dd752d861db2129f283&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-6f172696d6",
+                          "id": "lnk-5e53c49c4e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-0a274e7ef662",
-          "name": "⚽ South Africa vs Nicaragua | H1 - 6' 0 - 0 23:00 29/05/2026",
+          "name": "⚽ South Africa vs Nicaragua | H1 - 15' 0 - 0 23:00 29/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/250px-Flag_of_Nicaragua.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6d692f08be",
+                          "id": "lnk-65c479c315",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwa1gr4uqmtt8y41hcjs8rzdrc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=65237aac5ee3248864bf2882-178007106800464&wsIPSercert=12b6fa526db1c7b1ef0d04b500486f60&wsBindIP=2&wsserid=1168228938982826579"
+                          "url": "https://tfwa0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-178007166127738&wsIPSercert=b8f48cf2d4272dd752d861db2129f283&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-4a53fa06c2",
+                          "id": "lnk-0fae989b97",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
