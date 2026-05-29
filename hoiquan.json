@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:00 29/05/2026",
+  "last_updated": "08:10 29/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1b22faf07897",
-          "name": "⚽ Boca Juniors vs U. Catolica | Live 0 - 0 07:30 29/05/2026",
+          "name": "⚽ Boca Juniors vs U. Catolica | H1 - 40' 0 - 1 07:30 29/05/2026",
           "tournament": "CONMEBOL Libertadores",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Escudo_del_Club_Atl%C3%A9tico_Boca_Juniors_2012.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/2994.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-65ce435bc7",
+                          "id": "lnk-1c61e497e2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwa1gr4uqmtt8y41hcjs8rzdrc3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c81584c5080e26eeff9aa000-178001645806104&wsIPSercert=ea275b3b10a974c94a623b2a2f644552&wsBindIP=2&wsserid=1168228942752121565"
+                          "url": "https://tfwa1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178001705950330&wsIPSercert=ee159b6a86cddd075fa188612b9f5387&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-c3fffa9086",
+                          "id": "lnk-2f79d01042",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-55d7f920c157",
-          "name": "⚽ Cruzeiro vs Barcelona Sc | Live 0 - 0 07:30 29/05/2026",
+          "name": "⚽ Cruzeiro vs Barcelona Sc | H1 - 40' 1 - 0 07:30 29/05/2026",
           "tournament": "CONMEBOL Libertadores",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6hNPeVCelmVhF22CQYOiEe215iOTJF3Lm7A&s",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c8a5431d2d",
+                          "id": "lnk-2f2aad938d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwa1gr4uqmtt8y41hcjs8rzdrc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=65237aac5ee3248864bf2882-178001646662423&wsIPSercert=ea275b3b10a974c94a623b2a2f644552&wsBindIP=2&wsserid=1168228938982826579"
+                          "url": "https://tfwa1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178001706413876&wsIPSercert=ee159b6a86cddd075fa188612b9f5387&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-e24c567e17",
+                          "id": "lnk-d9a8838c34",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
