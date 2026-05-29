@@ -1,132 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:20 29/05/2026",
+  "last_updated": "09:30 29/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-1b22faf07897",
-          "name": "⚽ Boca Juniors vs U. Catolica | Live 0 - 0 07:30 29/05/2026",
-          "tournament": "CONMEBOL Libertadores",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Escudo_del_Club_Atl%C3%A9tico_Boca_Juniors_2012.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/2994.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Escudo_del_Club_Atl%C3%A9tico_Boca_Juniors_2012.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-1b22faf07897",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-1b22faf07897",
-                  "name": "Boca Juniors vs U. Catolica",
-                  "streams": [
-                    {
-                      "id": "kaytee-1b22faf07897",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-48ed10317f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwa0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=d21220482f9e651f1e149f3b-178002125536915&wsIPSercert=b6dc194ea34e710ad35cc7a418f1d588&wsBindIP=2&wsserid=1168283477179400067"
-                        },
-                        {
-                          "id": "lnk-4505ae5994",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-55d7f920c157",
-          "name": "⚽ Cruzeiro vs Barcelona Sc | Live 0 - 0 07:30 29/05/2026",
-          "tournament": "CONMEBOL Libertadores",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg",
-          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6hNPeVCelmVhF22CQYOiEe215iOTJF3Lm7A&s",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-55d7f920c157",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-55d7f920c157",
-                  "name": "Cruzeiro vs Barcelona Sc",
-                  "streams": [
-                    {
-                      "id": "kaytee-55d7f920c157",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-191b24be97",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwa1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=2fb71014417bf9a8bbb74fd0-178002126410486&wsIPSercert=b6dc194ea34e710ad35cc7a418f1d588&wsBindIP=2&wsserid=1168283323277558487"
-                        },
-                        {
-                          "id": "lnk-7f936a6870",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-247be472aa16",
           "name": "⚽ Montenegro U17 vs Italy U17 | Sắp diễn ra vs 18:30 29/05/2026",
@@ -478,6 +358,96 @@
                   "streams": [
                     {
                       "id": "kaytee-3f0d21d7a54c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-38ddc80464a5",
+          "name": "⚽ Kochi United vs Renofa Yamaguchi | Sắp diễn ra vs 12:00 30/05/2026",
+          "tournament": "J2/J3 League",
+          "logo_nha": "https://cdn.soccerwiki.org/images/logos/clubs/6669.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/309.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn.soccerwiki.org/images/logos/clubs/6669.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-38ddc80464a5",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-38ddc80464a5",
+                  "name": "Kochi United vs Renofa Yamaguchi",
+                  "streams": [
+                    {
+                      "id": "kaytee-38ddc80464a5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b4515101e713",
+          "name": "⚽ Yokohama Fc vs Omiya Ardija | Sắp diễn ra vs 12:00 30/05/2026",
+          "tournament": "J2/J3 League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/1/18/YokohamaFC.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/313.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/1/18/YokohamaFC.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b4515101e713",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b4515101e713",
+                  "name": "Yokohama Fc vs Omiya Ardija",
+                  "streams": [
+                    {
+                      "id": "kaytee-b4515101e713",
                       "name": "F",
                       "stream_links": []
                     }
