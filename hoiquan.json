@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:10 30/05/2026",
+  "last_updated": "21:20 30/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-db069690f3b2",
-          "name": "⚽ Chongqing Tongliang Long vs Beijing Guoan | H2 - 90+12' 2 - 3 19:00 30/05/2026",
-          "tournament": "Super League",
-          "logo_nha": "https://media.api-sports.io/football/teams/21262.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/21262.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-db069690f3b2",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-db069690f3b2",
-                  "name": "Chongqing Tongliang Long vs Beijing Guoan",
-                  "streams": [
-                    {
-                      "id": "kaytee-db069690f3b2",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-99bb78358f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-6a27233aa9f9",
           "name": "⚽ Paris Saint Germain vs Arsenal | Sắp diễn ra vs 23:00 30/05/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-6855924e1714",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a1524c2e9696",
+          "name": "⚽ Thanh Hóa vs Phu Dong | Sắp diễn ra vs 18:00 31/05/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/9167.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a1524c2e9696",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a1524c2e9696",
+                  "name": "Thanh Hóa vs Phu Dong",
+                  "streams": [
+                    {
+                      "id": "kaytee-a1524c2e9696",
                       "name": "F",
                       "stream_links": []
                     }
