@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "14:10 30/05/2026",
+  "last_updated": "14:20 30/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-3f0d21d7a54c",
-          "name": "⚽ Albirex Niigata vs Kagoshima United | Kết thúc - 99' 0 - 0 12:00 30/05/2026",
+          "name": "⚽ Albirex Niigata vs Kagoshima United | Kết thúc - null' 0 - 0 12:00 30/05/2026",
           "tournament": "J2/J3 League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/b/b3/AlbirexNiigata.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2236.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cdc4c5acfd",
+                          "id": "lnk-29b0528c5e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=015f882d6bf28108fca60425-178012505475833&wsIPSercert=e8f3ace687076aaf9af21eb12f14436e&wsBindIP=2&wsserid=1168214263213094505"
+                          "url": "https://tfwb1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=ddc6d8e2fb217c58ffca1bb2-178012564691932&wsIPSercert=ced8dafcea15b4cb2fe7686df5190235&wsBindIP=2&wsserid=1168283323302724409"
                         },
                         {
-                          "id": "lnk-08db149cf6",
+                          "id": "lnk-35c860479d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-38ddc80464a5",
-          "name": "⚽ Kochi United vs Renofa Yamaguchi | Kết thúc - 103' 2 - 2 12:00 30/05/2026",
+          "name": "⚽ Kochi United vs Renofa Yamaguchi | Kết thúc - 109' 2 - 2 12:00 30/05/2026",
           "tournament": "J2/J3 League",
           "logo_nha": "https://cdn.soccerwiki.org/images/logos/clubs/6669.png",
           "logo_khach": "https://media.api-sports.io/football/teams/309.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3d98efc896",
+                          "id": "lnk-71fbfe281a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-178012506354543&wsIPSercert=e8f3ace687076aaf9af21eb12f14436e&wsBindIP=2&wsserid=1168176346313714739"
+                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e1a561d1e5fa9b11e4dd3219-178012565556549&wsIPSercert=ced8dafcea15b4cb2fe7686df5190235&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-4dd59bb424",
+                          "id": "lnk-83295c0bdc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,10 +166,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c25b55967f",
+                          "id": "lnk-de34c3c8a8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwb1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-178012566393241&wsIPSercert=ced8dafcea15b4cb2fe7686df5190235&wsBindIP=2&wsserid=1168283323406534424"
+                        },
+                        {
+                          "id": "lnk-91fb510138",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
                         }
                       ]
@@ -219,14 +226,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2fca2be8ec",
+                          "id": "lnk-3fe43e812b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=ae5d40028ae96af9e63375e8-178012508018863&wsIPSercert=e8f3ace687076aaf9af21eb12f14436e&wsBindIP=2&wsserid=1168176337059421885"
+                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=2fb71014417bf9a8bbb74fd0-178012567214247&wsIPSercert=ced8dafcea15b4cb2fe7686df5190235&wsBindIP=2&wsserid=1168283323277558487"
                         },
                         {
-                          "id": "lnk-ce9a564bb5",
+                          "id": "lnk-55ece50811",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
