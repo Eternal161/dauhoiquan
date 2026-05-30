@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:50 30/05/2026",
+  "last_updated": "18:00 30/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-a735ecfadb15",
-          "name": "⚽ Trường Tươi Đồng Nai vs Long An | H2 - 90' 3 - 0 16:00 30/05/2026",
-          "tournament": "V.League 2",
-          "logo_nha": "https://vpf.vn/wp-content/uploads/2018/10/TRUONG-TUOI-DONG-NAI-1920x1854.png",
-          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbaynMw1lJOl1hU7wpcWGXGahjFbtj8Iid7Q&s",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://vpf.vn/wp-content/uploads/2018/10/TRUONG-TUOI-DONG-NAI-1920x1854.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a735ecfadb15",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a735ecfadb15",
-                  "name": "Trường Tươi Đồng Nai vs Long An",
-                  "streams": [
-                    {
-                      "id": "kaytee-a735ecfadb15",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-53fca48be3",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwb1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178013825239943&wsIPSercert=9e91bca760fa31bfd15f86b8aa3aee58&wsBindIP=2&wsserid=1168176581102008440"
-                        },
-                        {
-                          "id": "lnk-d6d8c3f0e0",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-e029c39005af",
-          "name": "⚽ Qingdao Youth Island vs Shanghai Shenhua | H1 - 45+5' 1 - 1 17:00 30/05/2026",
+          "name": "⚽ Qingdao Youth Island vs Shanghai Shenhua | Giữa Hiệp - 45+8' 1 - 1 17:00 30/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/17265.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5b3fb98f5a",
+                          "id": "lnk-9a8f308d43",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178013826052679&wsIPSercert=9e91bca760fa31bfd15f86b8aa3aee58&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-178013885665208&wsIPSercert=9f446f7926b04f05a196cb41adaf7b2d&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-96f665bbb3",
+                          "id": "lnk-cc200a7af3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-378929bceffd",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-bae2869ebd39",
+          "name": "⚽ Blaublitz Akita vs Consadole Sapporo | Sắp diễn ra vs 12:00 31/05/2026",
+          "tournament": "J2/J3 League",
+          "logo_nha": "https://media.api-sports.io/football/teams/4315.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/279.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4315.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bae2869ebd39",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bae2869ebd39",
+                  "name": "Blaublitz Akita vs Consadole Sapporo",
+                  "streams": [
+                    {
+                      "id": "kaytee-bae2869ebd39",
                       "name": "F",
                       "stream_links": []
                     }
