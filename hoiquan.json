@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:30 31/05/2026",
+  "last_updated": "01:40 31/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6a27233aa9f9",
-          "name": "⚽ Paris Saint Germain vs Arsenal | Kết thúc - 97' 1 - 1 23:00 30/05/2026",
+          "name": "⚽ Paris Saint Germain vs Arsenal | Live 0 - 0 23:00 30/05/2026",
           "tournament": "UEFA Champions League ( Đầu Cầu Trung Lập )",
           "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-84d43b7485",
+                          "id": "lnk-c76ec9088a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178016584425144&wsIPSercert=a6be4100dd10981c57b7f4b13dd7ff92&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwb0gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e7feef4c54a9619feb576549-178016645280013&wsIPSercert=c6985eb14bca5a3f5b287c975dfdd8f9&wsBindIP=2&wsserid=1168214364742294105"
                         },
                         {
-                          "id": "lnk-ed8da4952c",
+                          "id": "lnk-e9e0a53980",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,17 +106,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3385f69d90",
+                          "id": "lnk-a04a43749b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178016585258380&wsIPSercert=a6be4100dd10981c57b7f4b13dd7ff92&wsBindIP=2&wsserid=1168176581102008440"
-                        },
-                        {
-                          "id": "lnk-85ca0b4fb1",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
                         }
                       ]
