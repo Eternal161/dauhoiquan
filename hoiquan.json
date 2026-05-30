@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:20 30/05/2026",
+  "last_updated": "22:30 30/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6a27233aa9f9",
-          "name": "⚽ Paris Saint Germain vs Arsenal | Sắp diễn ra vs 23:00 30/05/2026",
+          "name": "⚽ Paris Saint Germain vs Arsenal | Sắp bắt đầu - null' 0 - 0 23:00 30/05/2026",
           "tournament": "UEFA Champions League ( Đầu Cầu Trung Lập )",
           "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-6a27233aa9f9",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-40b97cc615",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-178015506842671&wsIPSercert=f93b51cfbaa3febcc973502de1b96666&wsBindIP=2&wsserid=1168283323406534424"
+                        },
+                        {
+                          "id": "lnk-b2bc7f2d5d",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
