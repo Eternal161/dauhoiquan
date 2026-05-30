@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:50 30/05/2026",
+  "last_updated": "12:00 30/05/2026",
   "groups": [
     {
       "id": "live",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-42a72d7f32",
+                          "id": "lnk-85976854e2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -99,10 +99,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b29cb680c2",
+                          "id": "lnk-9f64cbfeed",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwb1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178011726541800&wsIPSercert=6a65387456fdbe2b0464c2ae5ea8d141&wsBindIP=2&wsserid=1168176581102008440"
+                        },
+                        {
+                          "id": "lnk-d4d07df16b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
                         }
                       ]
@@ -152,14 +159,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0a93c76205",
+                          "id": "lnk-7647d86d22",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178011667112849&wsIPSercert=e29f026857c9a80a951b2eb6f6f74d8a&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwb1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178011727375444&wsIPSercert=6a65387456fdbe2b0464c2ae5ea8d141&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-f59ad044d6",
+                          "id": "lnk-dace537d01",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
