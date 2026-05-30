@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:50 30/05/2026",
+  "last_updated": "20:01 30/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-db069690f3b2",
-          "name": "⚽ Chongqing Tongliang Long vs Beijing Guoan | H1 - 45+5' 0 - 1 19:00 30/05/2026",
+          "name": "⚽ Chongqing Tongliang Long vs Beijing Guoan | Giữa Hiệp - 45+6' 0 - 1 19:00 30/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/21262.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-53fdfd17ab",
+                          "id": "lnk-e6a821f927",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-178014546275085&wsIPSercert=4351896db8ce028e0fa6427bb280cd7b&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwb0gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=edec454b741202f36893c258-178014607037428&wsIPSercert=1138b4b08d1c8846ec17546d10893ddb&wsBindIP=2&wsserid=1168176346318957775"
                         },
                         {
-                          "id": "lnk-335857fb20",
+                          "id": "lnk-f7081daf1e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
