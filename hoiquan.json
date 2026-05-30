@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:30 30/05/2026",
+  "last_updated": "11:40 30/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-3f0d21d7a54c",
-          "name": "⚽ Albirex Niigata vs Kagoshima United | Sắp diễn ra vs 12:00 30/05/2026",
+          "name": "⚽ Albirex Niigata vs Kagoshima United | Live 0 - 0 12:00 30/05/2026",
           "tournament": "J2/J3 League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/b/b3/AlbirexNiigata.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2236.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "kaytee-3f0d21d7a54c",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-2ba66b76b5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -54,7 +62,7 @@
         },
         {
           "id": "kaytee-38ddc80464a5",
-          "name": "⚽ Kochi United vs Renofa Yamaguchi | Sắp diễn ra vs 12:00 30/05/2026",
+          "name": "⚽ Kochi United vs Renofa Yamaguchi | Live 0 - 0 12:00 30/05/2026",
           "tournament": "J2/J3 League",
           "logo_nha": "https://cdn.soccerwiki.org/images/logos/clubs/6669.png",
           "logo_khach": "https://media.api-sports.io/football/teams/309.png",
@@ -71,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -89,7 +97,15 @@
                     {
                       "id": "kaytee-38ddc80464a5",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-4c60886a70",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -99,7 +115,7 @@
         },
         {
           "id": "kaytee-b4515101e713",
-          "name": "⚽ Yokohama Fc vs Omiya Ardija | Sắp diễn ra vs 12:00 30/05/2026",
+          "name": "⚽ Yokohama Fc vs Omiya Ardija | Live 0 - 0 12:00 30/05/2026",
           "tournament": "J2/J3 League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/1/18/YokohamaFC.png",
           "logo_khach": "https://media.api-sports.io/football/teams/313.png",
@@ -116,10 +132,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -134,7 +150,22 @@
                     {
                       "id": "kaytee-b4515101e713",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-16a1e1784b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwb1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178011607684700&wsIPSercert=47dcc79f7847d8a02a6ddab2cfcdc12f&wsBindIP=2&wsserid=1168176581104105640"
+                        },
+                        {
+                          "id": "lnk-79371889da",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
