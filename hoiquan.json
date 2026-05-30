@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:30 30/05/2026",
+  "last_updated": "18:40 30/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e029c39005af",
-          "name": "⚽ Qingdao Youth Island vs Shanghai Shenhua | H2 - 67' 2 - 1 17:00 30/05/2026",
+          "name": "⚽ Qingdao Youth Island vs Shanghai Shenhua | H2 - 77' 2 - 2 17:00 30/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/17265.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-dd9f83ddaa",
+                          "id": "lnk-6a9b93d7c3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-178014065779372&wsIPSercert=fae73627e8ff2c2390b342e008b20662&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnpb3fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=a4d8ca2f3e07324289123b9f-178014126329831&wsIPSercert=45a415d7e6a5f6c4adff4d0677ac31fd&wsBindIP=2&wsserid=1168283436454933174"
                         },
                         {
-                          "id": "lnk-f7da3b89b3",
+                          "id": "lnk-1ead339f0c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-53435012d0db",
-          "name": "⚽ Chongqing Tongliang Long vs Beijing Guoan | Sắp diễn ra vs 19:00 30/05/2026",
+          "name": "⚽ Chongqing Tongliang Long vs Beijing Guoan | Sắp bắt đầu - null' 0 - 0 19:00 30/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/21262.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,15 @@
                     {
                       "id": "kaytee-53435012d0db",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-cf91e02ac6",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
