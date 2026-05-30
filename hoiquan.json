@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:40 30/05/2026",
+  "last_updated": "07:50 30/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-812918b3cd87",
-          "name": "⚽ Depor Fc vs Millonarios | Sắp diễn ra vs 08:10 30/05/2026",
+          "name": "⚽ Depor Fc vs Millonarios | Sắp bắt đầu - null' 0 - 0 08:10 30/05/2026",
           "tournament": "Copa Colombia",
           "logo_nha": "https://media.api-sports.io/football/teams/1468.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvP7MiKvec4HC-oCE9TPa90WaqO6uFGc15zg&s",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "kaytee-812918b3cd87",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-037d3c746d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
