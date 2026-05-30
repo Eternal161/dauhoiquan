@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:00 30/05/2026",
+  "last_updated": "19:10 30/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-e029c39005af",
-          "name": "⚽ Qingdao Youth Island vs Shanghai Shenhua | H2 - 90+6' 2 - 2 17:00 30/05/2026",
-          "tournament": "Super League",
-          "logo_nha": "https://media.api-sports.io/football/teams/17265.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/17265.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-e029c39005af",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-e029c39005af",
-                  "name": "Qingdao Youth Island vs Shanghai Shenhua",
-                  "streams": [
-                    {
-                      "id": "kaytee-e029c39005af",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ee7c9b79ae",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwb1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-178014245640014&wsIPSercert=ef39fa7a9eb63a1877164d283231cd32&wsBindIP=2&wsserid=1168283323406534424"
-                        },
-                        {
-                          "id": "lnk-44b8f29141",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-53435012d0db",
-          "name": "⚽ Chongqing Tongliang Long vs Beijing Guoan | Sắp bắt đầu - null' 0 - 0 19:00 30/05/2026",
+          "id": "kaytee-db069690f3b2",
+          "name": "⚽ Chongqing Tongliang Long vs Beijing Guoan | H1 - 11' 0 - 0 19:00 30/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/21262.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
@@ -94,23 +34,30 @@
           ],
           "sources": [
             {
-              "id": "kaytee-53435012d0db",
+              "id": "kaytee-db069690f3b2",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-53435012d0db",
+                  "id": "kaytee-db069690f3b2",
                   "name": "Chongqing Tongliang Long vs Beijing Guoan",
                   "streams": [
                     {
-                      "id": "kaytee-53435012d0db",
+                      "id": "kaytee-db069690f3b2",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8406937ab3",
+                          "id": "lnk-57cdc76bdb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
+                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnpb3fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=a4d8ca2f3e07324289123b9f-178014305464490&wsIPSercert=ee8c0defaececffecc0cdd78dd1a35e8&wsBindIP=2&wsserid=1168283436454933174"
+                        },
+                        {
+                          "id": "lnk-4024bae66b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
                         }
                       ]
                     }
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-bae2869ebd39",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-97a77418ff3e",
+          "name": "⚽ Jeonnam Dragons vs Seoul E-Land Fc | Sắp diễn ra vs 14:30 31/05/2026",
+          "tournament": "K League 2",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/0/08/Jeonnam_Dragons.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Seoul_E-Land_FC.svg/250px-Seoul_E-Land_FC.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/0/08/Jeonnam_Dragons.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-97a77418ff3e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-97a77418ff3e",
+                  "name": "Jeonnam Dragons vs Seoul E-Land Fc",
+                  "streams": [
+                    {
+                      "id": "kaytee-97a77418ff3e",
                       "name": "F",
                       "stream_links": []
                     }
