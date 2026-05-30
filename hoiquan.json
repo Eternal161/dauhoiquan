@@ -1,135 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "14:40 30/05/2026",
+  "last_updated": "14:50 30/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-3f0d21d7a54c",
-          "name": "⚽ Albirex Niigata vs Kagoshima United | Kết thúc - 120' 0 - 1 12:00 30/05/2026",
-          "tournament": "J2/J3 League",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/b/b3/AlbirexNiigata.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2236.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/b/b3/AlbirexNiigata.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3f0d21d7a54c",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3f0d21d7a54c",
-                  "name": "Albirex Niigata vs Kagoshima United",
-                  "streams": [
-                    {
-                      "id": "kaytee-3f0d21d7a54c",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-40cd39a797",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwb1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd62835041fe49ebfc13d2bc-178012685316235&wsIPSercert=fd570650f5373376c08bd3b283b64270&wsBindIP=2&wsserid=1168282035622980969"
-                        },
-                        {
-                          "id": "lnk-82e4b9911d",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-38ddc80464a5",
-          "name": "⚽ Kochi United vs Renofa Yamaguchi | Kết thúc - 121' 2 - 3 12:00 30/05/2026",
-          "tournament": "J2/J3 League",
-          "logo_nha": "https://cdn.soccerwiki.org/images/logos/clubs/6669.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/309.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn.soccerwiki.org/images/logos/clubs/6669.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-38ddc80464a5",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-38ddc80464a5",
-                  "name": "Kochi United vs Renofa Yamaguchi",
-                  "streams": [
-                    {
-                      "id": "kaytee-38ddc80464a5",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3dcc0e3c12",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwb1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-178012686164858&wsIPSercert=fd570650f5373376c08bd3b283b64270&wsBindIP=2&wsserid=1168282035663924028"
-                        },
-                        {
-                          "id": "lnk-0469fb5ad8",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-94181b519bfb",
-          "name": "⚽ Yongin City vs Daegu Fc | H1 - 10' 0 - 0 14:30 30/05/2026",
+          "name": "⚽ Yongin City vs Daegu Fc | Live 0 - 0 14:30 30/05/2026",
           "tournament": "K League 2",
           "logo_nha": "https://i.namu.wiki/i/ry5Ej-DQodJXNXUSZfvyfWUiInanxtpui5kfxm7u2cu0oFpmJ7_EHfqszbs0blovcMKLU38HJevI7asijrFwGw.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a4/Daegu_FC.svg",
@@ -166,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6981f8a233",
+                          "id": "lnk-1bbec344ad",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=dbd8f789bb7a7a2508c32238-178012687011684&wsIPSercert=fd570650f5373376c08bd3b283b64270&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fa047a81a3972ea683c4010f-178012744664073&wsIPSercert=44eff985857bffc7ef742bb677397f1c&wsBindIP=2&wsserid=1168283476522828939"
                         },
                         {
-                          "id": "lnk-4002c503d1",
+                          "id": "lnk-8119abf593",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -189,7 +69,7 @@
         },
         {
           "id": "kaytee-5549ef44242e",
-          "name": "⚽ Asan Mugunghwa vs Suwon Bluewings | H1 - 10' 0 - 0 14:30 30/05/2026",
+          "name": "⚽ Asan Mugunghwa vs Suwon Bluewings | Live 0 - 0 14:30 30/05/2026",
           "tournament": "K League 2",
           "logo_nha": "https://media.api-sports.io/football/teams/2753.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/7/7b/Suwon_Samsung_Bluewings.svg",
@@ -226,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ec79127634",
+                          "id": "lnk-5eddfb8c92",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-178012687828696&wsIPSercert=fd570650f5373376c08bd3b283b64270&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=2fb71014417bf9a8bbb74fd0-178012745544101&wsIPSercert=44eff985857bffc7ef742bb677397f1c&wsBindIP=2&wsserid=1168283323277558487"
                         },
                         {
-                          "id": "lnk-3a3a6f6bd1",
+                          "id": "lnk-4e9379fb5e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -508,6 +388,96 @@
                   "streams": [
                     {
                       "id": "kaytee-6a27233aa9f9",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-204d1552f559",
+          "name": "⚽ Jamaica vs Nigeria | Sắp diễn ra vs 01:30 31/05/2026",
+          "tournament": "Giao Hữu",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/250px-Flag_of_Jamaica.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/250px-Flag_of_Jamaica.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-204d1552f559",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-204d1552f559",
+                  "name": "Jamaica vs Nigeria",
+                  "streams": [
+                    {
+                      "id": "kaytee-204d1552f559",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-82f5b63bbc7a",
+          "name": "⚽ Santos vs Vitoria | Sắp diễn ra vs 06:00 31/05/2026",
+          "tournament": "Serie A",
+          "logo_nha": "https://media.api-sports.io/football/teams/128.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Esporte_Clube_Vit%C3%B3ria_%282024%29.svg/1920px-Esporte_Clube_Vit%C3%B3ria_%282024%29.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/128.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-82f5b63bbc7a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-82f5b63bbc7a",
+                  "name": "Santos vs Vitoria",
+                  "streams": [
+                    {
+                      "id": "kaytee-82f5b63bbc7a",
                       "name": "F",
                       "stream_links": []
                     }
