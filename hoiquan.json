@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:20 30/05/2026",
+  "last_updated": "16:30 30/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-5549ef44242e",
-          "name": "⚽ Asan Mugunghwa vs Suwon Bluewings | Live 0 - 0 14:30 30/05/2026",
-          "tournament": "K League 2",
-          "logo_nha": "https://media.api-sports.io/football/teams/2753.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/7/7b/Suwon_Samsung_Bluewings.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2753.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-5549ef44242e",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-5549ef44242e",
-                  "name": "Asan Mugunghwa vs Suwon Bluewings",
-                  "streams": [
-                    {
-                      "id": "kaytee-5549ef44242e",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7178766022",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=2fb71014417bf9a8bbb74fd0-178013285487330&wsIPSercert=8801fc7f0450379276be086e450252a7&wsBindIP=2&wsserid=1168283323277558487"
-                        },
-                        {
-                          "id": "lnk-673379ccf0",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-a735ecfadb15",
-          "name": "⚽ Trường Tươi Đồng Nai vs Long An | Live 0 - 0 16:00 30/05/2026",
+          "name": "⚽ Trường Tươi Đồng Nai vs Long An | H1 - 30' 0 - 0 16:00 30/05/2026",
           "tournament": "V.League 2",
           "logo_nha": "https://vpf.vn/wp-content/uploads/2018/10/TRUONG-TUOI-DONG-NAI-1920x1854.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbaynMw1lJOl1hU7wpcWGXGahjFbtj8Iid7Q&s",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e4f243930b",
+                          "id": "lnk-be822f82ec",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e1a561d1e5fa9b11e4dd3219-178013286356089&wsIPSercert=8801fc7f0450379276be086e450252a7&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfwb1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-178013345461455&wsIPSercert=5bc7f05dc7872f73ea7ebb2a4ad14787&wsBindIP=2&wsserid=1168282035663924028"
                         },
                         {
-                          "id": "lnk-c7cc2a0e8f",
+                          "id": "lnk-8bf7ca38bd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-6712ce30a43a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e51f791c2fb5",
+          "name": "⚽ South Korea vs Trinidad And Tobago | Sắp diễn ra vs 08:00 31/05/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/1728.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/1280px-Flag_of_Trinidad_and_Tobago.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1728.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e51f791c2fb5",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e51f791c2fb5",
+                  "name": "South Korea vs Trinidad And Tobago",
+                  "streams": [
+                    {
+                      "id": "kaytee-e51f791c2fb5",
                       "name": "F",
                       "stream_links": []
                     }
