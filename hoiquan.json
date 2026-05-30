@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "14:50 30/05/2026",
+  "last_updated": "15:00 30/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-94181b519bfb",
-          "name": "⚽ Yongin City vs Daegu Fc | Live 0 - 0 14:30 30/05/2026",
+          "name": "⚽ Yongin City vs Daegu Fc | H1 - 31' 0 - 0 14:30 30/05/2026",
           "tournament": "K League 2",
           "logo_nha": "https://i.namu.wiki/i/ry5Ej-DQodJXNXUSZfvyfWUiInanxtpui5kfxm7u2cu0oFpmJ7_EHfqszbs0blovcMKLU38HJevI7asijrFwGw.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a4/Daegu_FC.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1bbec344ad",
+                          "id": "lnk-4f7cdb0e3c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fa047a81a3972ea683c4010f-178012744664073&wsIPSercert=44eff985857bffc7ef742bb677397f1c&wsBindIP=2&wsserid=1168283476522828939"
+                          "url": "https://tfwb0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=015f882d6bf28108fca60425-178012805662026&wsIPSercert=b9471d614d86940484e6f9d0cd94f92f&wsBindIP=2&wsserid=1168176337061519089"
                         },
                         {
-                          "id": "lnk-8119abf593",
+                          "id": "lnk-e7eb5121a8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-5549ef44242e",
-          "name": "⚽ Asan Mugunghwa vs Suwon Bluewings | Live 0 - 0 14:30 30/05/2026",
+          "name": "⚽ Asan Mugunghwa vs Suwon Bluewings | H1 - 30' 0 - 0 14:30 30/05/2026",
           "tournament": "K League 2",
           "logo_nha": "https://media.api-sports.io/football/teams/2753.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/7/7b/Suwon_Samsung_Bluewings.svg",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5eddfb8c92",
+                          "id": "lnk-b8c25a11dc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=2fb71014417bf9a8bbb74fd0-178012745544101&wsIPSercert=44eff985857bffc7ef742bb677397f1c&wsBindIP=2&wsserid=1168283323277558487"
+                          "url": "https://tfwb0gr4uqmtt8y41hcjzgazdnc3ofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=197a7e0439e0ed2dfed4c58e-178012806521849&wsIPSercert=b9471d614d86940484e6f9d0cd94f92f&wsBindIP=2&wsserid=1168041062946239395"
                         },
                         {
-                          "id": "lnk-4e9379fb5e",
+                          "id": "lnk-f08fd36502",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
