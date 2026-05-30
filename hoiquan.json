@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:20 30/05/2026",
+  "last_updated": "17:30 30/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a735ecfadb15",
-          "name": "⚽ Trường Tươi Đồng Nai vs Long An | H2 - 62' 1 - 0 16:00 30/05/2026",
+          "name": "⚽ Trường Tươi Đồng Nai vs Long An | H2 - 72' 3 - 0 16:00 30/05/2026",
           "tournament": "V.League 2",
           "logo_nha": "https://vpf.vn/wp-content/uploads/2018/10/TRUONG-TUOI-DONG-NAI-1920x1854.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbaynMw1lJOl1hU7wpcWGXGahjFbtj8Iid7Q&s",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-47787e1226",
+                          "id": "lnk-d10aa0853d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e1a561d1e5fa9b11e4dd3219-178013644671883&wsIPSercert=4b8d63514090d7e4125a2858ef1741f5&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfwb1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-178013705222094&wsIPSercert=f5346fc8e574a581bd2f881c9f577cee&wsBindIP=2&wsserid=1168282035663924028"
                         },
                         {
-                          "id": "lnk-b47c7636d2",
+                          "id": "lnk-cf3771dda5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-e029c39005af",
-          "name": "⚽ Qingdao Youth Island vs Shanghai Shenhua | H1 - 21' 0 - 1 17:00 30/05/2026",
+          "name": "⚽ Qingdao Youth Island vs Shanghai Shenhua | H1 - 31' 0 - 1 17:00 30/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/17265.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4154c49e6a",
+                          "id": "lnk-8309a9c68d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-178013645530152&wsIPSercert=4b8d63514090d7e4125a2858ef1741f5&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwb1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=dbd8f789bb7a7a2508c32238-178013706062786&wsIPSercert=f5346fc8e574a581bd2f881c9f577cee&wsBindIP=2&wsserid=1168278313570948617"
                         },
                         {
-                          "id": "lnk-0d3faa2b06",
+                          "id": "lnk-f924f84162",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
