@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:40 31/05/2026",
+  "last_updated": "00:50 31/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6a27233aa9f9",
-          "name": "⚽ Paris Saint Germain vs Arsenal | H2 - 73' 1 - 1 23:00 30/05/2026",
+          "name": "⚽ Paris Saint Germain vs Arsenal | H2 - 83' 1 - 1 23:00 30/05/2026",
           "tournament": "UEFA Champions League ( Đầu Cầu Trung Lập )",
           "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4f24c6163f",
+                          "id": "lnk-8efd43ac00",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f484598f1fe48c6f38708601-178016285189012&wsIPSercert=3c4f7366a4c77339f0fc7e0b5e252846&wsBindIP=2&wsserid=1168176346316860571"
+                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b255786c1abc92d156ad7853-178016346005227&wsIPSercert=e22a652567a7ae0384f8f3c2671daf70&wsBindIP=2&wsserid=1168231785633795541"
                         },
                         {
-                          "id": "lnk-d1a91a745e",
+                          "id": "lnk-7eb8d6a3aa",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
