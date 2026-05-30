@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:00 30/05/2026",
+  "last_updated": "18:10 30/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e029c39005af",
-          "name": "⚽ Qingdao Youth Island vs Shanghai Shenhua | Giữa Hiệp - 45+8' 1 - 1 17:00 30/05/2026",
+          "name": "⚽ Qingdao Youth Island vs Shanghai Shenhua | H2 - 47' 1 - 1 17:00 30/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/17265.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9a8f308d43",
+                          "id": "lnk-51b7b97b7d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-178013885665208&wsIPSercert=9f446f7926b04f05a196cb41adaf7b2d&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwb0gr4uqmtt8y41hcjzgazdnc3ofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=49caba0ae7b8a66c38e97d70-178013945886409&wsIPSercert=f8455bf56ace34ec69774873056257b8&wsBindIP=2&wsserid=1168041136565896200"
                         },
                         {
-                          "id": "lnk-cc200a7af3",
+                          "id": "lnk-c42c006c1e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
