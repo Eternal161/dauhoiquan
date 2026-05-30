@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:00 30/05/2026",
+  "last_updated": "17:10 30/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a735ecfadb15",
-          "name": "⚽ Trường Tươi Đồng Nai vs Long An | Giữa Hiệp - 45' 0 - 0 16:00 30/05/2026",
+          "name": "⚽ Trường Tươi Đồng Nai vs Long An | H2 - 51' 0 - 0 16:00 30/05/2026",
           "tournament": "V.League 2",
           "logo_nha": "https://vpf.vn/wp-content/uploads/2018/10/TRUONG-TUOI-DONG-NAI-1920x1854.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbaynMw1lJOl1hU7wpcWGXGahjFbtj8Iid7Q&s",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-876f730147",
+                          "id": "lnk-07f3ea02ba",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnct1fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=a892446647eff012ef984b15-178013526611676&wsIPSercert=35e529e7f1f5a654e2d93e5a089aec55&wsBindIP=2&wsserid=1168283476093891044"
+                          "url": "https://tfwb1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-178013585656486&wsIPSercert=148e45700485b6782f1f4a00d3e9ed75&wsBindIP=2&wsserid=1168282035663924028"
                         },
                         {
-                          "id": "lnk-29d8d4b66e",
+                          "id": "lnk-723cfc5e97",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-e029c39005af",
-          "name": "⚽ Qingdao Youth Island vs Shanghai Shenhua | H1 - 1' 0 - 0 17:00 30/05/2026",
+          "name": "⚽ Qingdao Youth Island vs Shanghai Shenhua | H1 - 11' 0 - 1 17:00 30/05/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/17265.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5d9e3c8181",
+                          "id": "lnk-72859571c9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnct1fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=a4d8ca2f3e07324289123b9f-178013527471906&wsIPSercert=35e529e7f1f5a654e2d93e5a089aec55&wsBindIP=2&wsserid=1168283436454933174"
+                          "url": "https://tfwb1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=dbd8f789bb7a7a2508c32238-178013586499372&wsIPSercert=148e45700485b6782f1f4a00d3e9ed75&wsBindIP=2&wsserid=1168278313570948617"
                         },
                         {
-                          "id": "lnk-ba73e80651",
+                          "id": "lnk-5abbc60055",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -163,51 +163,6 @@
                   "streams": [
                     {
                       "id": "kaytee-53435012d0db",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-f2221615c2dd",
-          "name": "⚽ Chojniczanka Chojnice vs Rekord Bielsko-Biała | Sắp diễn ra vs 19:30 30/05/2026",
-          "tournament": "II Liga - East",
-          "logo_nha": "https://media.api-sports.io/football/teams/3482.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/6950.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/3482.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f2221615c2dd",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f2221615c2dd",
-                  "name": "Chojniczanka Chojnice vs Rekord Bielsko-Biała",
-                  "streams": [
-                    {
-                      "id": "kaytee-f2221615c2dd",
                       "name": "F",
                       "stream_links": []
                     }
@@ -478,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-e51f791c2fb5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-378929bceffd",
+          "name": "⚽ Mexico vs Australia | Sắp diễn ra vs 09:00 31/05/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-378929bceffd",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-378929bceffd",
+                  "name": "Mexico vs Australia",
+                  "streams": [
+                    {
+                      "id": "kaytee-378929bceffd",
                       "name": "F",
                       "stream_links": []
                     }
