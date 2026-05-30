@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "13:50 30/05/2026",
+  "last_updated": "14:00 30/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-3f0d21d7a54c",
-          "name": "⚽ Albirex Niigata vs Kagoshima United | H2 - 90' 0 - 0 12:00 30/05/2026",
+          "name": "⚽ Albirex Niigata vs Kagoshima United | Kết thúc - null' 0 - 0 12:00 30/05/2026",
           "tournament": "J2/J3 League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/b/b3/AlbirexNiigata.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2236.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e2cc85c928",
+                          "id": "lnk-16af442722",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178012384939069&wsIPSercert=a4ec21478511faa55533d83cfdbe6504&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwb0gr4uqmtt8y41hcjz8rzdncbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-178012446746974&wsIPSercert=ca0e619e4ed07c11ee899864a85f5120&wsBindIP=2&wsserid=1168176346313714739"
                         },
                         {
-                          "id": "lnk-8dcece07c3",
+                          "id": "lnk-89f4680e30",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-38ddc80464a5",
-          "name": "⚽ Kochi United vs Renofa Yamaguchi | H2 - 89' 2 - 2 12:00 30/05/2026",
+          "name": "⚽ Kochi United vs Renofa Yamaguchi | Kết thúc - null' 2 - 2 12:00 30/05/2026",
           "tournament": "J2/J3 League",
           "logo_nha": "https://cdn.soccerwiki.org/images/logos/clubs/6669.png",
           "logo_khach": "https://media.api-sports.io/football/teams/309.png",
@@ -106,78 +106,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4c0e346af7",
+                          "id": "lnk-a11a5eeb36",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178012385821935&wsIPSercert=a4ec21478511faa55533d83cfdbe6504&wsBindIP=2&wsserid=1168176581102008440"
+                          "url": "https://tfwb0gr4uqmtt8y41hcjz8rzdncbofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-178012447607341&wsIPSercert=ca0e619e4ed07c11ee899864a85f5120&wsBindIP=2&wsserid=1168176346313714739"
                         },
                         {
-                          "id": "lnk-b21229bae9",
+                          "id": "lnk-48c2f17aaa",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-b4515101e713",
-          "name": "⚽ Yokohama Fc vs Omiya Ardija | H2 - 89' 2 - 1 12:00 30/05/2026",
-          "tournament": "J2/J3 League",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/1/18/YokohamaFC.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/313.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/1/18/YokohamaFC.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b4515101e713",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b4515101e713",
-                  "name": "Yokohama Fc vs Omiya Ardija",
-                  "streams": [
-                    {
-                      "id": "kaytee-b4515101e713",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0323619941",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178012386672128&wsIPSercert=a4ec21478511faa55533d83cfdbe6504&wsBindIP=2&wsserid=1168202333418134578"
-                        },
-                        {
-                          "id": "lnk-65dddf4845",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
                     }
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-6a8e731a543e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6a27233aa9f9",
+          "name": "⚽ Paris Saint Germain vs Arsenal | Sắp diễn ra vs 23:00 30/05/2026",
+          "tournament": "UEFA Champions League ( Đầu Cầu Trung Lập )",
+          "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6a27233aa9f9",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6a27233aa9f9",
+                  "name": "Paris Saint Germain vs Arsenal",
+                  "streams": [
+                    {
+                      "id": "kaytee-6a27233aa9f9",
                       "name": "F",
                       "stream_links": []
                     }
