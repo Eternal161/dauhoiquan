@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:20 31/05/2026",
+  "last_updated": "02:30 31/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-6a27233aa9f9",
-          "name": "⚽ Paris Saint Germain vs Arsenal | Kết thúc - 97' 1 - 1 23:00 30/05/2026",
-          "tournament": "UEFA Champions League ( Đầu Cầu Trung Lập )",
-          "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-6a27233aa9f9",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-6a27233aa9f9",
-                  "name": "Paris Saint Germain vs Arsenal",
-                  "streams": [
-                    {
-                      "id": "kaytee-6a27233aa9f9",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-14c8bf3535",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwb3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178016885074885&wsIPSercert=593ecba5850072aedee25985e07828fa&wsBindIP=2&wsserid=1172666162445578538"
-                        },
-                        {
-                          "id": "lnk-e8d9ca98ac",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-6712ce30a43a",
           "name": "⚽ Ecuador vs Saudi Arabia | Sắp diễn ra vs 06:30 31/05/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-ce24a8abcf8d",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-38ec45fbe9fa",
+          "name": "⚽ Nam Dinh vs Song Lam Nghe An | Sắp diễn ra vs 18:00 31/05/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://media.api-sports.io/football/teams/3674.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3678.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3674.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-38ec45fbe9fa",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-38ec45fbe9fa",
+                  "name": "Nam Dinh vs Song Lam Nghe An",
+                  "streams": [
+                    {
+                      "id": "kaytee-38ec45fbe9fa",
                       "name": "F",
                       "stream_links": []
                     }
