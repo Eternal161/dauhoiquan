@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:30 30/05/2026",
+  "last_updated": "15:40 30/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-94181b519bfb",
-          "name": "⚽ Yongin City vs Daegu Fc | Giữa Hiệp - 45+2' 0 - 0 14:30 30/05/2026",
+          "name": "⚽ Yongin City vs Daegu Fc | H2 - 54' 0 - 0 14:30 30/05/2026",
           "tournament": "K League 2",
           "logo_nha": "https://i.namu.wiki/i/ry5Ej-DQodJXNXUSZfvyfWUiInanxtpui5kfxm7u2cu0oFpmJ7_EHfqszbs0blovcMKLU38HJevI7asijrFwGw.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a4/Daegu_FC.svg",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-75ec00e6fe",
+                          "id": "lnk-fa61fde9fe",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb1gr4uqmtt8y41hcjs8rzdrc3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=65237aac5ee3248864bf2882-178012985669051&wsIPSercert=4054246b0ec5e0de45ea88d65cb2721c&wsBindIP=2&wsserid=1168228938982826579"
-                        },
-                        {
-                          "id": "lnk-60390181b7",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
                         }
                       ]
@@ -69,7 +62,7 @@
         },
         {
           "id": "kaytee-5549ef44242e",
-          "name": "⚽ Asan Mugunghwa vs Suwon Bluewings | Giữa Hiệp - 45+4' 0 - 0 14:30 30/05/2026",
+          "name": "⚽ Asan Mugunghwa vs Suwon Bluewings | H2 - 52' 0 - 0 14:30 30/05/2026",
           "tournament": "K League 2",
           "logo_nha": "https://media.api-sports.io/football/teams/2753.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/7/7b/Suwon_Samsung_Bluewings.svg",
@@ -106,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-34b7314a55",
+                          "id": "lnk-a16f1a6122",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-178012986491466&wsIPSercert=4054246b0ec5e0de45ea88d65cb2721c&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=2fb71014417bf9a8bbb74fd0-178013045765583&wsIPSercert=68ec6a819ee31e1eeaf4084ccfbf19c6&wsBindIP=2&wsserid=1168283323277558487"
                         },
                         {
-                          "id": "lnk-3850538ffd",
+                          "id": "lnk-6388359c1c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +122,7 @@
         },
         {
           "id": "kaytee-a735ecfadb15",
-          "name": "⚽ Trường Tươi Đồng Nai vs Long An | Sắp diễn ra vs 16:00 30/05/2026",
+          "name": "⚽ Trường Tươi Đồng Nai vs Long An | Sắp bắt đầu - null' 0 - 0 16:00 30/05/2026",
           "tournament": "V.League 2",
           "logo_nha": "https://vpf.vn/wp-content/uploads/2018/10/TRUONG-TUOI-DONG-NAI-1920x1854.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbaynMw1lJOl1hU7wpcWGXGahjFbtj8Iid7Q&s",
@@ -146,10 +139,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +157,22 @@
                     {
                       "id": "kaytee-a735ecfadb15",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-30543c3bec",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e1a561d1e5fa9b11e4dd3219-178013046608393&wsIPSercert=68ec6a819ee31e1eeaf4084ccfbf19c6&wsBindIP=2&wsserid=1168283323221983365"
+                        },
+                        {
+                          "id": "lnk-004eef7442",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
