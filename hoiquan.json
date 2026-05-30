@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:40 30/05/2026",
+  "last_updated": "16:50 30/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a735ecfadb15",
-          "name": "⚽ Trường Tươi Đồng Nai vs Long An | H1 - 41' 0 - 0 16:00 30/05/2026",
+          "name": "⚽ Trường Tươi Đồng Nai vs Long An | Giữa Hiệp - 45' 0 - 0 16:00 30/05/2026",
           "tournament": "V.League 2",
           "logo_nha": "https://vpf.vn/wp-content/uploads/2018/10/TRUONG-TUOI-DONG-NAI-1920x1854.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbaynMw1lJOl1hU7wpcWGXGahjFbtj8Iid7Q&s",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ef388766ac",
+                          "id": "lnk-d17ac5184e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjzgazdnc3ofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=572f9e24ef0909ca5424c30d-178013406243565&wsIPSercert=40da402099ea8efe5e7e0a3f865f221e&wsBindIP=2&wsserid=1168176346315811943"
+                          "url": "https://tfwb1gr4uqmtt8y41hcjs8rzdrc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c81584c5080e26eeff9aa000-178013466297220&wsIPSercert=74d9026d4d6e0cd45e3fef7cb89df290&wsBindIP=2&wsserid=1168228942752121565"
                         },
                         {
-                          "id": "lnk-52d8cf8527",
+                          "id": "lnk-07812136eb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5c078fea0b",
+                          "id": "lnk-ec2d23129e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjzgazdnc3ofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=49caba0ae7b8a66c38e97d70-178013407058724&wsIPSercert=40da402099ea8efe5e7e0a3f865f221e&wsBindIP=2&wsserid=1168041136565896200"
+                          "url": "https://tfwb1gr4uqmtt8y41hcjs8rzdrc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=65237aac5ee3248864bf2882-178013467129827&wsIPSercert=74d9026d4d6e0cd45e3fef7cb89df290&wsBindIP=2&wsserid=1168228938982826579"
                         },
                         {
-                          "id": "lnk-1bf40767ec",
+                          "id": "lnk-9530ef0ec5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
