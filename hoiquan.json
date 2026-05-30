@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:40 31/05/2026",
+  "last_updated": "01:50 31/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6a27233aa9f9",
-          "name": "⚽ Paris Saint Germain vs Arsenal | Live 0 - 0 23:00 30/05/2026",
+          "name": "⚽ Paris Saint Germain vs Arsenal | Kết thúc - 97' 1 - 1 23:00 30/05/2026",
           "tournament": "UEFA Champions League ( Đầu Cầu Trung Lập )",
           "logo_nha": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg",
@@ -46,71 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c76ec9088a",
+                          "id": "lnk-2d4c32adc8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwb0gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e7feef4c54a9619feb576549-178016645280013&wsIPSercert=c6985eb14bca5a3f5b287c975dfdd8f9&wsBindIP=2&wsserid=1168214364742294105"
+                          "url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=024eddb3de2fb4f0be79664f-178016704695537&wsIPSercert=f4b2febee1d05128f6953ea59f10eaf5&wsBindIP=2&wsserid=1168283323355153405"
                         },
                         {
-                          "id": "lnk-e9e0a53980",
+                          "id": "lnk-851c5f63ca",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-204d1552f559",
-          "name": "⚽ Jamaica vs Nigeria | Live 0 - 0 01:30 31/05/2026",
-          "tournament": "Giao Hữu",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/250px-Flag_of_Jamaica.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/250px-Flag_of_Jamaica.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-204d1552f559",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-204d1552f559",
-                  "name": "Jamaica vs Nigeria",
-                  "streams": [
-                    {
-                      "id": "kaytee-204d1552f559",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a04a43749b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
                         }
                       ]
                     }
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-a1524c2e9696",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-ce24a8abcf8d",
+          "name": "⚽ Hồng Lĩnh Hà Tĩnh vs Da Nang | Sắp diễn ra vs 18:00 31/05/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/3669.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-ce24a8abcf8d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-ce24a8abcf8d",
+                  "name": "Hồng Lĩnh Hà Tĩnh vs Da Nang",
+                  "streams": [
+                    {
+                      "id": "kaytee-ce24a8abcf8d",
                       "name": "F",
                       "stream_links": []
                     }
