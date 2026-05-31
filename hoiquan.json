@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:20 01/06/2026",
+  "last_updated": "05:30 01/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-ca850d948b69",
-          "name": "⚽ Brazil vs Panama | H1 - 45+4' 2 - 1 04:30 01/06/2026",
+          "name": "⚽ Brazil vs Panama | Giữa Hiệp - 45+5' 2 - 1 04:30 01/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9a533ef44b",
+                          "id": "lnk-312c171e65",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc3gr4uqmtt8y41hcjzgrzdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178026605389144&wsIPSercert=a24ad7bbe09d6e6a61a9a39c0d97b486&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwc0gr4uqmtt8y41hcjzgyzdrcjifi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178026665905552&wsIPSercert=6b5cf23ed6b56568e0a2245e698aacfa&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-605bc10679",
+                          "id": "lnk-57a24a5e3d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
