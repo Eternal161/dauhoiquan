@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "12:30 31/05/2026",
+  "last_updated": "12:40 31/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-bae2869ebd39",
-          "name": "⚽ Blaublitz Akita vs Consadole Sapporo | Live 0 - 0 12:00 31/05/2026",
+          "name": "⚽ Blaublitz Akita vs Consadole Sapporo | H1 - 37' 0 - 0 12:00 31/05/2026",
           "tournament": "J2/J3 League",
           "logo_nha": "https://media.api-sports.io/football/teams/4315.png",
           "logo_khach": "https://media.api-sports.io/football/teams/279.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3fb9f0d821",
+                          "id": "lnk-48c8e5df1d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=7b5ae66679f825c9d3872358-178020545685166&wsIPSercert=884a6c364d42c28ff6061532a6c2cb08&wsBindIP=2&wsserid=1168243256598056876"
+                          "url": "https://tfwc1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178020605667183&wsIPSercert=79ef794d74107b6d20599d440ea3a46c&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-625b809c24",
+                          "id": "lnk-4f62edc3dd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
