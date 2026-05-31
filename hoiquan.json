@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:00 01/06/2026",
+  "last_updated": "00:10 01/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-670a7c6451e1",
-          "name": "⚽ Cape Verde Islands vs Serbia | H2 - 90' 3 - 0 22:00 31/05/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-670a7c6451e1",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-670a7c6451e1",
-                  "name": "Cape Verde Islands vs Serbia",
-                  "streams": [
-                    {
-                      "id": "kaytee-670a7c6451e1",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f2ee917aef",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwc0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-178024686293255&wsIPSercert=f636cf6932aa1e224cb9e44c5b8ca42c&wsBindIP=2&wsserid=1168202392933970899"
-                        },
-                        {
-                          "id": "lnk-5b9673e702",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-bc7a4e081710",
-          "name": "⚽ Poland vs Ukraine | H2 - 67' 0 - 2 22:30 31/05/2026",
+          "name": "⚽ Poland vs Ukraine | H2 - 78' 0 - 2 22:30 31/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/24.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5e15e4c835",
+                          "id": "lnk-7fb69f70a6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-178024687164204&wsIPSercert=f636cf6932aa1e224cb9e44c5b8ca42c&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178024745899357&wsIPSercert=61cb60f4db5c6f308c7426a4286e6c1f&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-3709c886b1",
+                          "id": "lnk-fc7184dd8f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-8495cdf3458f",
-          "name": "⚽ Deportivo La Coruna vs Las Palmas | H1 - 30' 1 - 2 23:30 31/05/2026",
+          "name": "⚽ Deportivo La Coruna vs Las Palmas | H1 - 41' 1 - 2 23:30 31/05/2026",
           "tournament": "Segunda División",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/1/12/Rc_deportivo_de_la_coruna.png",
           "logo_khach": "https://media.api-sports.io/football/teams/534.png",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b04386ed5f",
+                          "id": "lnk-1e51dce6ff",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178024688019013&wsIPSercert=f636cf6932aa1e224cb9e44c5b8ca42c&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178024746724372&wsIPSercert=61cb60f4db5c6f308c7426a4286e6c1f&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-c4623fe050",
+                          "id": "lnk-1c5d00fe0c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-37afaf38786c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-5b0cc5d770f5",
+          "name": "⚽ France U17 vs Montenegro U17 | Sắp diễn ra vs 18:30 01/06/2026",
+          "tournament": "UEFA U17 Championship",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
+          "logo_khach": "https://img.uefa.com/imgml/flags/240x240/MNE.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-5b0cc5d770f5",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-5b0cc5d770f5",
+                  "name": "France U17 vs Montenegro U17",
+                  "streams": [
+                    {
+                      "id": "kaytee-5b0cc5d770f5",
                       "name": "F",
                       "stream_links": []
                     }
