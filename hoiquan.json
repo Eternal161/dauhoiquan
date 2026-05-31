@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:20 01/06/2026",
+  "last_updated": "03:30 01/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e4b2367806c8",
-          "name": "⚽ Germany vs Finland | H2 - 77' 4 - 0 01:45 01/06/2026",
+          "name": "⚽ Germany vs Finland | H2 - 87' 4 - 0 01:45 01/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1099.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-854e78d104",
+                          "id": "lnk-3c7886c88b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2bdea2174d4973e05984e7a8-178025884814795&wsIPSercert=07e3563d2bb2ec831ffb156032d52be2&wsBindIP=2&wsserid=1168243256623223254"
+                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178025946037681&wsIPSercert=c1c0b0a5087f79f900e4e64f2c2e8c55&wsBindIP=2&wsserid=1172666162445578538"
                         },
                         {
-                          "id": "lnk-56c241434e",
+                          "id": "lnk-f3c8516179",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-584ffb985bf6",
-          "name": "⚽ Usa vs Senegal | H1 - 43' 2 - 0 02:30 01/06/2026",
+          "name": "⚽ Usa vs Senegal | Giữa Hiệp - 45+3' 2 - 1 02:30 01/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-60c8a7e9dd",
+                          "id": "lnk-ca16d782ed",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c8758f6de58ca19652c1503-178025885659441&wsIPSercert=07e3563d2bb2ec831ffb156032d52be2&wsBindIP=2&wsserid=1168243256626369038"
+                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178025946902889&wsIPSercert=c1c0b0a5087f79f900e4e64f2c2e8c55&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-ed6ed51645",
+                          "id": "lnk-1faa7504a9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
