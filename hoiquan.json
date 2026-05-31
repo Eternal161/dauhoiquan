@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "14:30 31/05/2026",
+  "last_updated": "14:40 31/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-bae2869ebd39",
-          "name": "⚽ Blaublitz Akita vs Consadole Sapporo | Kết thúc - 117' 1 - 1 12:00 31/05/2026",
-          "tournament": "J2/J3 League",
-          "logo_nha": "https://media.api-sports.io/football/teams/4315.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/279.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/4315.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-bae2869ebd39",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-bae2869ebd39",
-                  "name": "Blaublitz Akita vs Consadole Sapporo",
-                  "streams": [
-                    {
-                      "id": "kaytee-bae2869ebd39",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-66703b447d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178021265684199&wsIPSercert=39389caf884887986f11c017bddb08e8&wsBindIP=2&wsserid=1172666312704417830"
-                        },
-                        {
-                          "id": "lnk-1d1783eb9d",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-97a77418ff3e",
-          "name": "⚽ Jeonnam Dragons vs Seoul E-Land Fc | H1 - null' 0 - 0 14:30 31/05/2026",
+          "name": "⚽ Jeonnam Dragons vs Seoul E-Land Fc | H1 - 10' 0 - 0 14:30 31/05/2026",
           "tournament": "K League 2",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/0/08/Jeonnam_Dragons.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Seoul_E-Land_FC.svg/250px-Seoul_E-Land_FC.svg.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a15fc54215",
+                          "id": "lnk-a3c7b237d8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178021266536971&wsIPSercert=39389caf884887986f11c017bddb08e8&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwc0gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=572f9e24ef0909ca5424c30d-178021325206969&wsIPSercert=70908d432226167e679197c1b0237538&wsBindIP=2&wsserid=1168176346315811943"
                         },
                         {
-                          "id": "lnk-4df5f6bc37",
+                          "id": "lnk-0a7ff2b6e2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-0cf9b427e19f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-670a7c6451e1",
+          "name": "⚽ Cape Verde Islands vs Serbia | Sắp diễn ra vs 22:00 31/05/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-670a7c6451e1",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-670a7c6451e1",
+                  "name": "Cape Verde Islands vs Serbia",
+                  "streams": [
+                    {
+                      "id": "kaytee-670a7c6451e1",
                       "name": "F",
                       "stream_links": []
                     }
