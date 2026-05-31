@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:40 31/05/2026",
+  "last_updated": "10:50 31/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-378929bceffd",
-          "name": "⚽ Mexico vs Australia | H2 - 72' 1 - 0 09:00 31/05/2026",
+          "name": "⚽ Mexico vs Australia | H2 - 82' 1 - 0 09:00 31/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fbc2a2d828",
+                          "id": "lnk-ad97a407b4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178019884710478&wsIPSercert=00cd3e16bf6fb6a870e74093b47b4298&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwc3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178019945669311&wsIPSercert=0db842aa491d4225f20a4fea09402fe0&wsBindIP=2&wsserid=1172666162445578538"
                         },
                         {
-                          "id": "lnk-8cb4d5c754",
+                          "id": "lnk-9ff56454c4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
