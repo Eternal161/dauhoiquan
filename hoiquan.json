@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:20 31/05/2026",
+  "last_updated": "19:30 31/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-83da50a8a936",
-          "name": "⚽ Japan vs Iceland | H2 - 90+4' 1 - 0 17:25 31/05/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/250px-Flag_of_Iceland.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-83da50a8a936",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-83da50a8a936",
-                  "name": "Japan vs Iceland",
-                  "streams": [
-                    {
-                      "id": "kaytee-83da50a8a936",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9300974eeb",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwc3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178023004728255&wsIPSercert=f72619523b455bb28f57184fe0d1e3dd&wsBindIP=2&wsserid=1172666162445578538"
-                        },
-                        {
-                          "id": "lnk-bf51a0a049",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-be384803a831",
-          "name": "⚽ Cahn vs Binh Duong | H2 - 54' 2 - 0 18:00 31/05/2026",
+          "name": "⚽ Cahn vs Binh Duong | H2 - 64' 2 - 1 18:00 31/05/2026",
           "tournament": "V.League 1",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1ea8bc0cd0",
+                          "id": "lnk-d10268bb07",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178023005589976&wsIPSercert=f72619523b455bb28f57184fe0d1e3dd&wsBindIP=2&wsserid=1172666312698126342"
+                          "url": "https://tfwc1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178023065537294&wsIPSercert=313bacfacfdb82f105de11f72321a2c4&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-6808c467f9",
+                          "id": "lnk-3b39b7f970",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-6ed8be2af105",
-          "name": "⚽ Thanh Hóa vs Ninh Bình | H2 - 60' 0 - 1 18:00 31/05/2026",
+          "name": "⚽ Thanh Hóa vs Ninh Bình | H2 - 70' 0 - 2 18:00 31/05/2026",
           "tournament": "V.League 1",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5c11b8ca13",
+                          "id": "lnk-8a0cfc3ee4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178023006459700&wsIPSercert=f72619523b455bb28f57184fe0d1e3dd&wsBindIP=2&wsserid=1172666312698126342"
+                          "url": "https://tfwc1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178023066425184&wsIPSercert=313bacfacfdb82f105de11f72321a2c4&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-dff21dd165",
+                          "id": "lnk-e2d57a987c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -189,7 +129,7 @@
         },
         {
           "id": "kaytee-38ec45fbe9fa",
-          "name": "⚽ Nam Dinh vs Song Lam Nghe An | H2 - 60' 2 - 0 18:00 31/05/2026",
+          "name": "⚽ Nam Dinh vs Song Lam Nghe An | H2 - 70' 3 - 0 18:00 31/05/2026",
           "tournament": "V.League 1",
           "logo_nha": "https://media.api-sports.io/football/teams/3674.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3678.png",
@@ -226,14 +166,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5d091d0da6",
+                          "id": "lnk-4f1e8a8580",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178023007273260&wsIPSercert=f72619523b455bb28f57184fe0d1e3dd&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwc1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178023067257570&wsIPSercert=313bacfacfdb82f105de11f72321a2c4&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-101289c166",
+                          "id": "lnk-ee1faa145b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -286,14 +226,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ac7727b8e9",
+                          "id": "lnk-d04811a1da",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178023008150862&wsIPSercert=f72619523b455bb28f57184fe0d1e3dd&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwc1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178023068068808&wsIPSercert=313bacfacfdb82f105de11f72321a2c4&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-110099bfdc",
+                          "id": "lnk-b1c79af39b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -309,7 +249,7 @@
         },
         {
           "id": "kaytee-b2faacf6301f",
-          "name": "⚽ Switzerland vs Jordan | Sắp diễn ra vs 20:00 31/05/2026",
+          "name": "⚽ Switzerland vs Jordan | Sắp bắt đầu - null' 0 - 0 20:00 31/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
@@ -326,10 +266,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -344,7 +284,22 @@
                     {
                       "id": "kaytee-b2faacf6301f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-4a4141b4e3",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwc1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178023068938234&wsIPSercert=313bacfacfdb82f105de11f72321a2c4&wsBindIP=2&wsserid=1168176581104105640"
+                        },
+                        {
+                          "id": "lnk-76f9075751",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -523,6 +478,51 @@
                   "streams": [
                     {
                       "id": "kaytee-8495cdf3458f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e4b2367806c8",
+          "name": "⚽ Germany vs Finland | Sắp diễn ra vs 01:45 01/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1099.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e4b2367806c8",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e4b2367806c8",
+                  "name": "Germany vs Finland",
+                  "streams": [
+                    {
+                      "id": "kaytee-e4b2367806c8",
                       "name": "F",
                       "stream_links": []
                     }
