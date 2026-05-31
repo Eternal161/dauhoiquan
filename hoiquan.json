@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:30 01/06/2026",
+  "last_updated": "01:40 01/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-8495cdf3458f",
-          "name": "⚽ Deportivo La Coruna vs Las Palmas | H2 - 90+2' 1 - 2 23:30 31/05/2026",
-          "tournament": "Segunda División",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/1/12/Rc_deportivo_de_la_coruna.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/534.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/1/12/Rc_deportivo_de_la_coruna.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-8495cdf3458f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-8495cdf3458f",
-                  "name": "Deportivo La Coruna vs Las Palmas",
-                  "streams": [
-                    {
-                      "id": "kaytee-8495cdf3458f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b2619f8c16",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178025226034453&wsIPSercert=6dbb9edbe6f32e81d828ac836208646b&wsBindIP=2&wsserid=1172666312704417830"
-                        },
-                        {
-                          "id": "lnk-9ab443e724",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-e4b2367806c8",
           "name": "⚽ Germany vs Finland | Sắp bắt đầu - null' 0 - 0 01:45 01/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-aa7108431d",
+                          "id": "lnk-8203724b88",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7f81183aa1d540da1c3fc7f7-178025226915973&wsIPSercert=6dbb9edbe6f32e81d828ac836208646b&wsBindIP=2&wsserid=1168140848410257976"
+                          "url": "https://tfwc0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7f81183aa1d540da1c3fc7f7-178025284560024&wsIPSercert=ff21ed7a748f00154b6f19bf7a81cde7&wsBindIP=2&wsserid=1168140848410257976"
                         },
                         {
-                          "id": "lnk-15f184e6c7",
+                          "id": "lnk-61f2e2d149",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-e449923fb544",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1903433d9c66",
+          "name": "⚽ Slovakia vs Malta | Sắp diễn ra vs 23:00 01/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/250px-Flag_of_Slovakia.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/960px-Flag_of_Malta.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/250px-Flag_of_Slovakia.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1903433d9c66",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1903433d9c66",
+                  "name": "Slovakia vs Malta",
+                  "streams": [
+                    {
+                      "id": "kaytee-1903433d9c66",
                       "name": "F",
                       "stream_links": []
                     }
