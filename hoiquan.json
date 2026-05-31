@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:30 31/05/2026",
+  "last_updated": "17:40 31/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-83da50a8a936",
-          "name": "⚽ Japan vs Iceland | H1 - 4' 0 - 0 17:25 31/05/2026",
+          "name": "⚽ Japan vs Iceland | H1 - 14' 0 - 0 17:25 31/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/250px-Flag_of_Iceland.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fe68721f85",
+                          "id": "lnk-1fdc3b5cf2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c4c244e3d6c4c768f7bd2ccd-178022344988626&wsIPSercert=16624ad8b2ec263214df7b4ef23146d1&wsBindIP=2&wsserid=1172580915182858212"
+                          "url": "https://tfwc3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178022404992557&wsIPSercert=0c8ff74d9ad5cf85659a9c21378bdf28&wsBindIP=2&wsserid=1172666162445578538"
                         },
                         {
-                          "id": "lnk-5f524c5495",
+                          "id": "lnk-c1e3a7df1c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-74bf00ab13",
+                          "id": "lnk-e4a395554b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-178022345822752&wsIPSercert=16624ad8b2ec263214df7b4ef23146d1&wsBindIP=2&wsserid=1172580915182858196"
+                          "url": "https://tfwc3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178022405818929&wsIPSercert=0c8ff74d9ad5cf85659a9c21378bdf28&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-a237700970",
+                          "id": "lnk-183a5d8ebe",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,10 +166,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1005b8224d",
+                          "id": "lnk-f6a89aaec9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwc3gr4uqmtt8y41hcjzgrzdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178022406693932&wsIPSercert=0c8ff74d9ad5cf85659a9c21378bdf28&wsBindIP=2&wsserid=1172666312698126342"
+                        },
+                        {
+                          "id": "lnk-2a064d7dcf",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
                         }
                       ]
@@ -219,14 +226,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-71af0b3855",
+                          "id": "lnk-aaffe30da5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-178022347481569&wsIPSercert=16624ad8b2ec263214df7b4ef23146d1&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfwc3gr4uqmtt8y41hcjzgrzdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178022407513335&wsIPSercert=0c8ff74d9ad5cf85659a9c21378bdf28&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-2a5c747ed2",
+                          "id": "lnk-e1d79df8d6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
