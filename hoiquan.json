@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:20 31/05/2026",
+  "last_updated": "17:30 31/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-83da50a8a936",
-          "name": "⚽ Japan vs Iceland | Live 0 - 0 17:25 31/05/2026",
+          "name": "⚽ Japan vs Iceland | H1 - 4' 0 - 0 17:25 31/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/250px-Flag_of_Iceland.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1c70648dac",
+                          "id": "lnk-fe68721f85",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178022284905005&wsIPSercert=87b18cd77b99f9f296dd31a0f0587d71&wsBindIP=2&wsserid=1172666162445578538"
+                          "url": "https://tfwc1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c4c244e3d6c4c768f7bd2ccd-178022344988626&wsIPSercert=16624ad8b2ec263214df7b4ef23146d1&wsBindIP=2&wsserid=1172580915182858212"
                         },
                         {
-                          "id": "lnk-d83b7eaf85",
+                          "id": "lnk-5f524c5495",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-be384803a831",
-          "name": "⚽ Cahn vs Binh Duong | Sắp diễn ra vs 18:00 31/05/2026",
+          "name": "⚽ Cahn vs Binh Duong | Sắp bắt đầu - null' 0 - 0 18:00 31/05/2026",
           "tournament": "V.League 1",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-be384803a831",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-74bf00ab13",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwc1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-178022345822752&wsIPSercert=16624ad8b2ec263214df7b4ef23146d1&wsBindIP=2&wsserid=1172580915182858196"
+                        },
+                        {
+                          "id": "lnk-a237700970",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -114,7 +129,7 @@
         },
         {
           "id": "kaytee-6ed8be2af105",
-          "name": "⚽ Thanh Hóa vs Ninh Bình | Sắp diễn ra vs 18:00 31/05/2026",
+          "name": "⚽ Thanh Hóa vs Ninh Bình | Sắp bắt đầu - null' 0 - 0 18:00 31/05/2026",
           "tournament": "V.League 1",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png",
@@ -131,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -149,7 +164,15 @@
                     {
                       "id": "kaytee-6ed8be2af105",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-1005b8224d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -159,7 +182,7 @@
         },
         {
           "id": "kaytee-38ec45fbe9fa",
-          "name": "⚽ Nam Dinh vs Song Lam Nghe An | Sắp diễn ra vs 18:00 31/05/2026",
+          "name": "⚽ Nam Dinh vs Song Lam Nghe An | Sắp bắt đầu - null' 0 - 0 18:00 31/05/2026",
           "tournament": "V.League 1",
           "logo_nha": "https://media.api-sports.io/football/teams/3674.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3678.png",
@@ -176,10 +199,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -194,7 +217,22 @@
                     {
                       "id": "kaytee-38ec45fbe9fa",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-71af0b3855",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwc1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-178022347481569&wsIPSercert=16624ad8b2ec263214df7b4ef23146d1&wsBindIP=2&wsserid=1168282035663924028"
+                        },
+                        {
+                          "id": "lnk-2a5c747ed2",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
