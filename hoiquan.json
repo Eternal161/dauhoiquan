@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:30 01/06/2026",
+  "last_updated": "06:40 01/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2266692389",
+                          "id": "lnk-dca2857150",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc3gr4uqmtt8y41hcjzgrzdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178027025299312&wsIPSercert=6a94ede36f9c7ce3f0deb97edb7bde8e&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwc0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178027085578453&wsIPSercert=19fdea66e7b4eb47534a31c1d4209f63&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-15066adac2",
+                          "id": "lnk-7fbfa1f59b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-ffd0c2feb17a",
-          "name": "⚽ Remo vs Sao Paulo | Sắp bắt đầu - null' 0 - 0 06:30 01/06/2026",
+          "name": "⚽ Remo vs Sao Paulo | H1 - 10' 0 - 0 06:30 01/06/2026",
           "tournament": "Serie A",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpoA87UXi8HzQ3oH8TUNkyRlaj8Axu1uNwg&s",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6122f2c374",
+                          "id": "lnk-954f8eb04f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=7f81183aa1d540da1c3fc7f7-178027026153650&wsIPSercert=6a94ede36f9c7ce3f0deb97edb7bde8e&wsBindIP=2&wsserid=1168140848410257976"
+                          "url": "https://tfwc1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178027086439324&wsIPSercert=19fdea66e7b4eb47534a31c1d4209f63&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-d06ef6cfd3",
+                          "id": "lnk-d672fe8aa0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-c04177cfaf14",
-          "name": "⚽ Palestino vs A. Italiano | Sắp diễn ra vs 07:00 01/06/2026",
+          "name": "⚽ Palestino vs A. Italiano | Sắp bắt đầu - null' 0 - 0 07:00 01/06/2026",
           "tournament": "Primera División",
           "logo_nha": "https://media.api-sports.io/football/teams/2318.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2329.png",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-c04177cfaf14",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-16ddf4a2c8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwc0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178027087270835&wsIPSercert=19fdea66e7b4eb47534a31c1d4209f63&wsBindIP=2&wsserid=1168202333418134578"
+                        },
+                        {
+                          "id": "lnk-b0581ddc20",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
