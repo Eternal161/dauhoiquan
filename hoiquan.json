@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:10 31/05/2026",
+  "last_updated": "17:20 31/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-97a77418ff3e",
-          "name": "⚽ Jeonnam Dragons vs Seoul E-Land Fc | H2 - 90+5' 0 - 1 14:30 31/05/2026",
-          "tournament": "K League 2",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/0/08/Jeonnam_Dragons.svg",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Seoul_E-Land_FC.svg/250px-Seoul_E-Land_FC.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/0/08/Jeonnam_Dragons.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-97a77418ff3e",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-97a77418ff3e",
-                  "name": "Jeonnam Dragons vs Seoul E-Land Fc",
-                  "streams": [
-                    {
-                      "id": "kaytee-97a77418ff3e",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ee40520fca",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-83da50a8a936",
-          "name": "⚽ Japan vs Iceland | Sắp bắt đầu - null' 0 - 0 17:25 31/05/2026",
+          "name": "⚽ Japan vs Iceland | Live 0 - 0 17:25 31/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/250px-Flag_of_Iceland.svg.png",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0979828188",
+                          "id": "lnk-1c70648dac",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2bdea2174d4973e05984e7a8-178022226371787&wsIPSercert=22b80b85d24e7a631ba6b7bbfa1a07cc&wsBindIP=2&wsserid=1168243256623223254"
+                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178022284905005&wsIPSercert=87b18cd77b99f9f296dd31a0f0587d71&wsBindIP=2&wsserid=1172666162445578538"
                         },
                         {
-                          "id": "lnk-868865a935",
+                          "id": "lnk-d83b7eaf85",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-bc7a4e081710",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8495cdf3458f",
+          "name": "⚽ Deportivo La Coruna vs Las Palmas | Sắp diễn ra vs 23:30 31/05/2026",
+          "tournament": "Segunda División",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/1/12/Rc_deportivo_de_la_coruna.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/534.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/1/12/Rc_deportivo_de_la_coruna.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8495cdf3458f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8495cdf3458f",
+                  "name": "Deportivo La Coruna vs Las Palmas",
+                  "streams": [
+                    {
+                      "id": "kaytee-8495cdf3458f",
                       "name": "F",
                       "stream_links": []
                     }
