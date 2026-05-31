@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:00 31/05/2026",
+  "last_updated": "22:10 31/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-b2faacf6301f",
-          "name": "⚽ Switzerland vs Jordan | H2 - 89' 4 - 1 20:00 31/05/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b2faacf6301f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b2faacf6301f",
-                  "name": "Switzerland vs Jordan",
-                  "streams": [
-                    {
-                      "id": "kaytee-b2faacf6301f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a47c1131ea",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwc0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178023965423659&wsIPSercert=6c613006d8e12e00da8f91da49c350ee&wsBindIP=2&wsserid=1172666162445578538"
-                        },
-                        {
-                          "id": "lnk-33d8b5e702",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-0cf9b427e19f",
-          "name": "⚽ Rb Bragantino vs Internacional | Giữa Hiệp - 45+8' 2 - 0 21:00 31/05/2026",
+          "name": "⚽ Rb Bragantino vs Internacional | H2 - 46' 2 - 0 21:00 31/05/2026",
           "tournament": "Serie A",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBM3ANzptp98U981AatsEmABTumuAOp0xzFw&s",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Escudo_do_Sport_Club_Internacional.svg",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-61ecb613ad",
+                          "id": "lnk-454a9611ba",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178023966288205&wsIPSercert=6c613006d8e12e00da8f91da49c350ee&wsBindIP=2&wsserid=1172666312698126342"
+                          "url": "https://tfwc0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-178024025025248&wsIPSercert=64965d322ea9f7d020a2a1bf3f807db7&wsBindIP=2&wsserid=1168176346313714739"
                         },
                         {
-                          "id": "lnk-6f0d9b582f",
+                          "id": "lnk-d9ca86a24c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-670a7c6451e1",
-          "name": "⚽ Cape Verde Islands vs Serbia | Sắp bắt đầu - null' 0 - 0 22:00 31/05/2026",
+          "name": "⚽ Cape Verde Islands vs Serbia | H1 - 4' 0 - 0 22:00 31/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e4a17f52b5",
+                          "id": "lnk-132b82ec90",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc0gr4uqmtt8y41hcjzgrzdrcbofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=6e1279e156ce1898ee876f29-178023967163765&wsIPSercert=6c613006d8e12e00da8f91da49c350ee&wsBindIP=2&wsserid=1168140817803879397"
+                          "url": "https://tfwc0gr4uqmtt8y41hcjzgazdnc3ofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=197a7e0439e0ed2dfed4c58e-178024025882606&wsIPSercert=64965d322ea9f7d020a2a1bf3f807db7&wsBindIP=2&wsserid=1168041062946239395"
                         },
                         {
-                          "id": "lnk-9bc22b4c1e",
+                          "id": "lnk-f32e3d6a02",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -189,7 +129,7 @@
         },
         {
           "id": "kaytee-bc7a4e081710",
-          "name": "⚽ Poland vs Ukraine | Sắp diễn ra vs 22:30 31/05/2026",
+          "name": "⚽ Poland vs Ukraine | Sắp bắt đầu - null' 0 - 0 22:30 31/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/24.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
@@ -206,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -224,7 +164,22 @@
                     {
                       "id": "kaytee-bc7a4e081710",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-a300831dcb",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwc0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ae5d40028ae96af9e63375e8-178024026732594&wsIPSercert=64965d322ea9f7d020a2a1bf3f807db7&wsBindIP=2&wsserid=1168176337059421885"
+                        },
+                        {
+                          "id": "lnk-319cc7a3af",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -493,6 +448,51 @@
                   "streams": [
                     {
                       "id": "kaytee-c04177cfaf14",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-cb7619f00253",
+          "name": "⚽ Vietnam U19 vs Timor Leste U19 | Sắp diễn ra vs 16:00 01/06/2026",
+          "tournament": "ASEAN Championship U19",
+          "logo_nha": "https://media.api-sports.io/football/teams/19157.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1280px-Flag_of_East_Timor.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/19157.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-cb7619f00253",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-cb7619f00253",
+                  "name": "Vietnam U19 vs Timor Leste U19",
+                  "streams": [
+                    {
+                      "id": "kaytee-cb7619f00253",
                       "name": "F",
                       "stream_links": []
                     }
