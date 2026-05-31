@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:10 31/05/2026",
+  "last_updated": "08:20 31/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6712ce30a43a",
-          "name": "⚽ Ecuador vs Saudi Arabia | Live 0 - 0 06:30 31/05/2026",
+          "name": "⚽ Ecuador vs Saudi Arabia | H2 - 52' 2 - 0 06:30 31/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-08a5b3ac61",
+                          "id": "lnk-e673e4e635",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178018985828408&wsIPSercert=265a94259fc8c61a1efb4d6f57eec099&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwc1gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2bdea2174d4973e05984e7a8-178019044827343&wsIPSercert=18feb7d108c836dc64b909c35752733a&wsBindIP=2&wsserid=1168243256623223254"
                         },
                         {
-                          "id": "lnk-de062e3fe4",
+                          "id": "lnk-9d2944353e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-e51f791c2fb5",
-          "name": "⚽ South Korea vs Trinidad And Tobago | Live 0 - 0 08:00 31/05/2026",
+          "name": "⚽ South Korea vs Trinidad And Tobago | H1 - 18' 0 - 0 08:00 31/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/1728.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/1280px-Flag_of_Trinidad_and_Tobago.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0a1824ddfb",
+                          "id": "lnk-d46ff45647",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178018986658127&wsIPSercert=265a94259fc8c61a1efb4d6f57eec099&wsBindIP=2&wsserid=1168176581102008440"
+                          "url": "https://tfwc1gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8c8758f6de58ca19652c1503-178019045671144&wsIPSercert=18feb7d108c836dc64b909c35752733a&wsBindIP=2&wsserid=1168243256626369038"
                         },
                         {
-                          "id": "lnk-4d51ee780b",
+                          "id": "lnk-3fcc5e24b9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
