@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:20 31/05/2026",
+  "last_updated": "21:30 31/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b2faacf6301f",
-          "name": "⚽ Switzerland vs Jordan | H2 - 52' 3 - 1 20:00 31/05/2026",
+          "name": "⚽ Switzerland vs Jordan | H2 - 62' 3 - 1 20:00 31/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9dcf4fc267",
+                          "id": "lnk-fb8ef3fa1d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178023725984048&wsIPSercert=05018161c3c97c3a673a1006ab74cb66&wsBindIP=2&wsserid=1172666162445578538"
+                          "url": "https://tfwc1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=dbd8f789bb7a7a2508c32238-178023785531824&wsIPSercert=05bbbdbf01fbbbe5ef5d2fd4bbed3b45&wsBindIP=2&wsserid=1168278313570948617"
                         },
                         {
-                          "id": "lnk-6fdafe9838",
+                          "id": "lnk-84f72d68e5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-0cf9b427e19f",
-          "name": "⚽ Rb Bragantino vs Internacional | H1 - 20' 1 - 0 21:00 31/05/2026",
+          "name": "⚽ Rb Bragantino vs Internacional | H1 - 30' 1 - 0 21:00 31/05/2026",
           "tournament": "Serie A",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBM3ANzptp98U981AatsEmABTumuAOp0xzFw&s",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Escudo_do_Sport_Club_Internacional.svg",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-309e154f1b",
+                          "id": "lnk-6397edb0f9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178023726830952&wsIPSercert=05018161c3c97c3a673a1006ab74cb66&wsBindIP=2&wsserid=1172666312698126342"
+                          "url": "https://tfwc1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd62835041fe49ebfc13d2bc-178023786380551&wsIPSercert=05bbbdbf01fbbbe5ef5d2fd4bbed3b45&wsBindIP=2&wsserid=1168282035622980969"
                         },
                         {
-                          "id": "lnk-d98e434971",
+                          "id": "lnk-96dfdfc5a0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-670a7c6451e1",
-          "name": "⚽ Cape Verde Islands vs Serbia | Sắp diễn ra vs 22:00 31/05/2026",
+          "name": "⚽ Cape Verde Islands vs Serbia | Sắp bắt đầu - null' 0 - 0 22:00 31/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-670a7c6451e1",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-c52f2f21d0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwc1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-178023787224196&wsIPSercert=05bbbdbf01fbbbe5ef5d2fd4bbed3b45&wsBindIP=2&wsserid=1168282035663924028"
+                        },
+                        {
+                          "id": "lnk-810c7806a3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
