@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:20 31/05/2026",
+  "last_updated": "07:30 31/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6712ce30a43a",
-          "name": "⚽ Ecuador vs Saudi Arabia | H1 - 16' 0 - 0 06:30 31/05/2026",
+          "name": "⚽ Ecuador vs Saudi Arabia | H1 - 25' 0 - 0 06:30 31/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d89d864f92",
+                          "id": "lnk-1ae69c7627",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc1gr4uqmtt8y41hcjagyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=3799f553c0dacb46911cd001-178018685531997&wsIPSercert=10f5f31e52e4218bb3094ba42ce0db9e&wsBindIP=2&wsserid=1168195329517191416"
+                          "url": "https://tfwc1gr3uomttgr31hcj18yzd1qbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c3b425deceb9418dcbd56e1b-178018744930290&wsIPSercert=47b221ea7cb0d8ee28097e358c9f4326&wsBindIP=2&wsserid=1168243256613785902"
                         },
                         {
-                          "id": "lnk-a31bc0879c",
+                          "id": "lnk-ad599551f1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
