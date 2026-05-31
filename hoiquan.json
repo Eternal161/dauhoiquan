@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:21 01/06/2026",
+  "last_updated": "00:30 01/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-bc7a4e081710",
-          "name": "⚽ Poland vs Ukraine | Live 0 - 0 22:30 31/05/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/24.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/24.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-bc7a4e081710",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-bc7a4e081710",
-                  "name": "Poland vs Ukraine",
-                  "streams": [
-                    {
-                      "id": "kaytee-bc7a4e081710",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-46583c1de5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwc1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=a37b48b6a6131b65ea617dd8-178024808067038&wsIPSercert=5aa2718f9beef80ad6a883f7ef8052e5&wsBindIP=2&wsserid=1172580915169226372"
-                        },
-                        {
-                          "id": "lnk-db82259f4b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-8495cdf3458f",
           "name": "⚽ Deportivo La Coruna vs Las Palmas | Live 0 - 0 23:30 31/05/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9df8b95025",
+                          "id": "lnk-49343f8682",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc1gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=010895692e12e82cc6f46a15-178024808948074&wsIPSercert=5aa2718f9beef80ad6a883f7ef8052e5&wsBindIP=2&wsserid=1172580915173420788"
+                          "url": "https://tfwc0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178024866652405&wsIPSercert=7f737504dd3a34c90eb7c0fb582518dc&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-11f4a71a04",
+                          "id": "lnk-eb186b74f4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-5b0cc5d770f5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e449923fb544",
+          "name": "⚽ Indonesia U19 vs Myanmar U19 | Sắp diễn ra vs 20:00 01/06/2026",
+          "tournament": "ASEAN Championship U19",
+          "logo_nha": "https://media.api-sports.io/football/teams/19149.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/19152.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/19149.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e449923fb544",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e449923fb544",
+                  "name": "Indonesia U19 vs Myanmar U19",
+                  "streams": [
+                    {
+                      "id": "kaytee-e449923fb544",
                       "name": "F",
                       "stream_links": []
                     }
