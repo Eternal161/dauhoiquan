@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:20 01/06/2026",
+  "last_updated": "04:30 01/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-584ffb985bf6",
-          "name": "⚽ Usa vs Senegal | H2 - 83' 4 - 2 02:30 01/06/2026",
+          "name": "⚽ Usa vs Senegal | H2 - 90+2' 3 - 2 02:30 01/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f87ed0c00c",
+                          "id": "lnk-ca5b82ea54",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=dbd8f789bb7a7a2508c32238-178026245565626&wsIPSercert=cfb76a38e0158cc8d542d2361d0ed5fa&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178026305513795&wsIPSercert=4bba9bd068744a64846331b6087e8ca0&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-6cc79065c5",
+                          "id": "lnk-0241a12070",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f3934eec43",
+                          "id": "lnk-cb6ac7f0f8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc1gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=010895692e12e82cc6f46a15-178026246410679&wsIPSercert=cfb76a38e0158cc8d542d2361d0ed5fa&wsBindIP=2&wsserid=1172580915173420788"
+                          "url": "https://tfwc3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178026306371763&wsIPSercert=4bba9bd068744a64846331b6087e8ca0&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-d0ee1da3c9",
+                          "id": "lnk-cfd9db6828",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
