@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:10 01/06/2026",
+  "last_updated": "06:20 01/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-ca850d948b69",
-          "name": "⚽ Brazil vs Panama | Live 0 - 0 04:30 01/06/2026",
+          "name": "⚽ Brazil vs Panama | H2 - 87' 6 - 2 04:30 01/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e2b9f3fe1d",
+                          "id": "lnk-4d7091750e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=d8a664638c5e8bd27bee4cdf-178026906595165&wsIPSercert=d905f8e51991247da6572b325dd099d1&wsBindIP=2&wsserid=1168278404686366719"
+                          "url": "https://tfwc0gr3uomttgr31hcjagczdnct1fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3799f553c0dacb46911cd001-178026966156681&wsIPSercert=25f89da3adf5d9d338ca2472979257ec&wsBindIP=2&wsserid=1168195329517191416"
                         },
                         {
-                          "id": "lnk-b05c9f8f64",
+                          "id": "lnk-893f265a30",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-ffd0c2feb17a",
-          "name": "⚽ Remo vs Sao Paulo | Live 0 - 0 06:30 01/06/2026",
+          "name": "⚽ Remo vs Sao Paulo | Sắp bắt đầu - null' 0 - 0 06:30 01/06/2026",
           "tournament": "Serie A",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpoA87UXi8HzQ3oH8TUNkyRlaj8Axu1uNwg&s",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-911d16a15c",
+                          "id": "lnk-268f83ebd5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=498ad6b0888bc9c29a6331ea-178026907457814&wsIPSercert=d905f8e51991247da6572b325dd099d1&wsBindIP=2&wsserid=1172580915176566596"
+                          "url": "https://tfwc0gr3uomttgr31hcjagczdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=f2458452bf2202caa2738a32-178026967004003&wsIPSercert=25f89da3adf5d9d338ca2472979257ec&wsBindIP=2&wsserid=1168195251501065244"
                         },
                         {
-                          "id": "lnk-c24e43e1eb",
+                          "id": "lnk-85df034735",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
