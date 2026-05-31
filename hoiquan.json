@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:10 31/05/2026",
+  "last_updated": "21:20 31/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b2faacf6301f",
-          "name": "⚽ Switzerland vs Jordan | Giữa Hiệp - 45+10' 3 - 0 20:00 31/05/2026",
+          "name": "⚽ Switzerland vs Jordan | H2 - 52' 3 - 1 20:00 31/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-980830dde9",
+                          "id": "lnk-9dcf4fc267",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178023664826016&wsIPSercert=4f510a6c6cda0fcd35585290d413ad28&wsBindIP=2&wsserid=1172666162445578538"
+                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178023725984048&wsIPSercert=05018161c3c97c3a673a1006ab74cb66&wsBindIP=2&wsserid=1172666162445578538"
                         },
                         {
-                          "id": "lnk-8d2ccff5b0",
+                          "id": "lnk-6fdafe9838",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-0cf9b427e19f",
-          "name": "⚽ Rb Bragantino vs Internacional | H1 - 10' 0 - 0 21:00 31/05/2026",
+          "name": "⚽ Rb Bragantino vs Internacional | H1 - 20' 1 - 0 21:00 31/05/2026",
           "tournament": "Serie A",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBM3ANzptp98U981AatsEmABTumuAOp0xzFw&s",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Escudo_do_Sport_Club_Internacional.svg",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-645939d954",
+                          "id": "lnk-309e154f1b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178023665700352&wsIPSercert=4f510a6c6cda0fcd35585290d413ad28&wsBindIP=2&wsserid=1172666312698126342"
+                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178023726830952&wsIPSercert=05018161c3c97c3a673a1006ab74cb66&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-fc80e8f19f",
+                          "id": "lnk-d98e434971",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
