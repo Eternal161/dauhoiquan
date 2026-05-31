@@ -1,12 +1,478 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:50 31/05/2026",
+  "last_updated": "12:00 31/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
-      "channels": []
+      "channels": [
+        {
+          "id": "kaytee-bae2869ebd39",
+          "name": "⚽ Blaublitz Akita vs Consadole Sapporo | Sắp bắt đầu - null' 0 - 0 12:00 31/05/2026",
+          "tournament": "J2/J3 League",
+          "logo_nha": "https://media.api-sports.io/football/teams/4315.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/279.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4315.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bae2869ebd39",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bae2869ebd39",
+                  "name": "Blaublitz Akita vs Consadole Sapporo",
+                  "streams": [
+                    {
+                      "id": "kaytee-bae2869ebd39",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-20bae45115",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwc0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178020365761563&wsIPSercert=d0f7f1167f686d5ca61d9583373c7400&wsBindIP=2&wsserid=1168202333418134578"
+                        },
+                        {
+                          "id": "lnk-0a0fdd1a6c",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-97a77418ff3e",
+          "name": "⚽ Jeonnam Dragons vs Seoul E-Land Fc | Sắp diễn ra vs 14:30 31/05/2026",
+          "tournament": "K League 2",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/0/08/Jeonnam_Dragons.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Seoul_E-Land_FC.svg/250px-Seoul_E-Land_FC.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/0/08/Jeonnam_Dragons.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-97a77418ff3e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-97a77418ff3e",
+                  "name": "Jeonnam Dragons vs Seoul E-Land Fc",
+                  "streams": [
+                    {
+                      "id": "kaytee-97a77418ff3e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-83da50a8a936",
+          "name": "⚽ Japan vs Iceland | Sắp diễn ra vs 17:25 31/05/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/250px-Flag_of_Iceland.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-83da50a8a936",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-83da50a8a936",
+                  "name": "Japan vs Iceland",
+                  "streams": [
+                    {
+                      "id": "kaytee-83da50a8a936",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6855924e1714",
+          "name": "⚽ Cahn vs Binh Duong | Sắp diễn ra vs 18:00 31/05/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6855924e1714",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6855924e1714",
+                  "name": "Cahn vs Binh Duong",
+                  "streams": [
+                    {
+                      "id": "kaytee-6855924e1714",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a1524c2e9696",
+          "name": "⚽ Thanh Hóa vs Phu Dong | Sắp diễn ra vs 18:00 31/05/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/9167.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a1524c2e9696",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a1524c2e9696",
+                  "name": "Thanh Hóa vs Phu Dong",
+                  "streams": [
+                    {
+                      "id": "kaytee-a1524c2e9696",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-ce24a8abcf8d",
+          "name": "⚽ Hồng Lĩnh Hà Tĩnh vs Da Nang | Sắp diễn ra vs 18:00 31/05/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/3669.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-ce24a8abcf8d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-ce24a8abcf8d",
+                  "name": "Hồng Lĩnh Hà Tĩnh vs Da Nang",
+                  "streams": [
+                    {
+                      "id": "kaytee-ce24a8abcf8d",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-38ec45fbe9fa",
+          "name": "⚽ Nam Dinh vs Song Lam Nghe An | Sắp diễn ra vs 18:00 31/05/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://media.api-sports.io/football/teams/3674.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3678.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3674.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-38ec45fbe9fa",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-38ec45fbe9fa",
+                  "name": "Nam Dinh vs Song Lam Nghe An",
+                  "streams": [
+                    {
+                      "id": "kaytee-38ec45fbe9fa",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-66b83790bdc8",
+          "name": "⚽ Singapore vs Mongolia | Sắp diễn ra vs 18:30 31/05/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/5534.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-66b83790bdc8",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-66b83790bdc8",
+                  "name": "Singapore vs Mongolia",
+                  "streams": [
+                    {
+                      "id": "kaytee-66b83790bdc8",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b2faacf6301f",
+          "name": "⚽ Switzerland vs Jordan | Sắp diễn ra vs 20:00 31/05/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b2faacf6301f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b2faacf6301f",
+                  "name": "Switzerland vs Jordan",
+                  "streams": [
+                    {
+                      "id": "kaytee-b2faacf6301f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0cf9b427e19f",
+          "name": "⚽ Rb Bragantino vs Internacional | Sắp diễn ra vs 21:00 31/05/2026",
+          "tournament": "Serie A",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBM3ANzptp98U981AatsEmABTumuAOp0xzFw&s",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Escudo_do_Sport_Club_Internacional.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBM3ANzptp98U981AatsEmABTumuAOp0xzFw&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0cf9b427e19f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0cf9b427e19f",
+                  "name": "Rb Bragantino vs Internacional",
+                  "streams": [
+                    {
+                      "id": "kaytee-0cf9b427e19f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
