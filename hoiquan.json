@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:50 31/05/2026",
+  "last_updated": "16:00 31/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-97a77418ff3e",
-          "name": "⚽ Jeonnam Dragons vs Seoul E-Land Fc | H2 - 62' 0 - 0 14:30 31/05/2026",
+          "name": "⚽ Jeonnam Dragons vs Seoul E-Land Fc | H2 - 72' 0 - 0 14:30 31/05/2026",
           "tournament": "K League 2",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/0/08/Jeonnam_Dragons.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Seoul_E-Land_FC.svg/250px-Seoul_E-Land_FC.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-adc7cf4c0b",
+                          "id": "lnk-b278aeff9e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178021744930864&wsIPSercert=67f4ee9476aad5a9be3fbb9e6777f330&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwc1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178021805331184&wsIPSercert=86baa80949c2f19da6cc3a56e43c8f7e&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-cf13056d15",
+                          "id": "lnk-17574dcd17",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
