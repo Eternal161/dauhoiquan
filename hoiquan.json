@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:10 31/05/2026",
+  "last_updated": "09:20 31/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e51f791c2fb5",
-          "name": "⚽ South Korea vs Trinidad And Tobago | H2 - 48' 2 - 0 08:00 31/05/2026",
+          "name": "⚽ South Korea vs Trinidad And Tobago | H2 - 58' 2 - 0 08:00 31/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/1728.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/1280px-Flag_of_Trinidad_and_Tobago.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2deb85c3e2",
+                          "id": "lnk-0da35e7afe",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-178019346935617&wsIPSercert=9d0ee5c9a2de546db8559de6019fb1bf&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfwc0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-178019405181359&wsIPSercert=737bce49bd392a055c4e1c3cf0a04490&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-1f87d09b8a",
+                          "id": "lnk-aba07ab3a3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-378929bceffd",
-          "name": "⚽ Mexico vs Australia | H1 - 5' 0 - 0 09:00 31/05/2026",
+          "name": "⚽ Mexico vs Australia | H1 - 15' 0 - 0 09:00 31/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-01e5a7496d",
+                          "id": "lnk-ad6c57e10e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3aca2e98600919d80dc8be35-178019347821600&wsIPSercert=9d0ee5c9a2de546db8559de6019fb1bf&wsBindIP=2&wsserid=1168168154451507561"
+                          "url": "https://tfwc1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178019406012199&wsIPSercert=737bce49bd392a055c4e1c3cf0a04490&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-53a0493431",
+                          "id": "lnk-5303c202a8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
