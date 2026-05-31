@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:30 01/06/2026",
+  "last_updated": "03:40 01/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-e4b2367806c8",
-          "name": "⚽ Germany vs Finland | H2 - 87' 4 - 0 01:45 01/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1099.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-e4b2367806c8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-e4b2367806c8",
-                  "name": "Germany vs Finland",
-                  "streams": [
-                    {
-                      "id": "kaytee-e4b2367806c8",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3c7886c88b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178025946037681&wsIPSercert=c1c0b0a5087f79f900e4e64f2c2e8c55&wsBindIP=2&wsserid=1172666162445578538"
-                        },
-                        {
-                          "id": "lnk-f3c8516179",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-584ffb985bf6",
           "name": "⚽ Usa vs Senegal | Giữa Hiệp - 45+3' 2 - 1 02:30 01/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ca16d782ed",
+                          "id": "lnk-3fc61e58c9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178025946902889&wsIPSercert=c1c0b0a5087f79f900e4e64f2c2e8c55&wsBindIP=2&wsserid=1172666312698126342"
+                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178026006711768&wsIPSercert=27d07960223216bf651acba9c18f26c8&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-1faa7504a9",
+                          "id": "lnk-33d2c0245a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-ca850d948b69",
-          "name": "⚽ Brazil vs Panama | Sắp diễn ra vs 04:30 01/06/2026",
+          "name": "⚽ Brazil vs Panama | Sắp bắt đầu - null' 0 - 0 04:30 01/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
@@ -146,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +104,22 @@
                     {
                       "id": "kaytee-ca850d948b69",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-f33d9342b9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwc0gr4uqmtt8y41hcjzgrzdrcbofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e73d46884c09585b6c81760a-178026007585767&wsIPSercert=27d07960223216bf651acba9c18f26c8&wsBindIP=2&wsserid=1168140817791296288"
+                        },
+                        {
+                          "id": "lnk-67b42fac44",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -478,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-1903433d9c66",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0ead2d485ede",
+          "name": "⚽ Türkiye vs Fyr Macedonia | Sắp diễn ra vs 23:30 01/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/777.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/330px-Flag_of_North_Macedonia.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/777.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0ead2d485ede",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0ead2d485ede",
+                  "name": "Türkiye vs Fyr Macedonia",
+                  "streams": [
+                    {
+                      "id": "kaytee-0ead2d485ede",
                       "name": "F",
                       "stream_links": []
                     }
