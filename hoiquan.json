@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:30 01/06/2026",
+  "last_updated": "04:40 01/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-584ffb985bf6",
-          "name": "⚽ Usa vs Senegal | H2 - 90+2' 3 - 2 02:30 01/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2384.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-584ffb985bf6",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-584ffb985bf6",
-                  "name": "Usa vs Senegal",
-                  "streams": [
-                    {
-                      "id": "kaytee-584ffb985bf6",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ca5b82ea54",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178026305513795&wsIPSercert=4bba9bd068744a64846331b6087e8ca0&wsBindIP=2&wsserid=1172666312698126342"
-                        },
-                        {
-                          "id": "lnk-0241a12070",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-ca850d948b69",
-          "name": "⚽ Brazil vs Panama | Sắp bắt đầu - null' 0 - 0 04:30 01/06/2026",
+          "name": "⚽ Brazil vs Panama | H1 - 10' 1 - 0 04:30 01/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cb6ac7f0f8",
+                          "id": "lnk-a2b47e9811",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178026306371763&wsIPSercert=4bba9bd068744a64846331b6087e8ca0&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwc3gr4uqmtt8y41hcjzgrzdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178026364912484&wsIPSercert=0aa5e16148de2dd797e4e594e01ab3d9&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-cfd9db6828",
+                          "id": "lnk-f719a18e19",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-0ead2d485ede",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-bddc938e5d47",
+          "name": "⚽ Norway vs Sweden | Sắp diễn ra vs 00:00 02/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/5.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bddc938e5d47",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bddc938e5d47",
+                  "name": "Norway vs Sweden",
+                  "streams": [
+                    {
+                      "id": "kaytee-bddc938e5d47",
                       "name": "F",
                       "stream_links": []
                     }
