@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:10 01/06/2026",
+  "last_updated": "00:21 01/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-bc7a4e081710",
-          "name": "⚽ Poland vs Ukraine | H2 - 78' 0 - 2 22:30 31/05/2026",
+          "name": "⚽ Poland vs Ukraine | Live 0 - 0 22:30 31/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/24.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7fb69f70a6",
+                          "id": "lnk-46583c1de5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178024745899357&wsIPSercert=61cb60f4db5c6f308c7426a4286e6c1f&wsBindIP=2&wsserid=1172666312698126342"
+                          "url": "https://tfwc1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=a37b48b6a6131b65ea617dd8-178024808067038&wsIPSercert=5aa2718f9beef80ad6a883f7ef8052e5&wsBindIP=2&wsserid=1172580915169226372"
                         },
                         {
-                          "id": "lnk-fc7184dd8f",
+                          "id": "lnk-db82259f4b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-8495cdf3458f",
-          "name": "⚽ Deportivo La Coruna vs Las Palmas | H1 - 41' 1 - 2 23:30 31/05/2026",
+          "name": "⚽ Deportivo La Coruna vs Las Palmas | Live 0 - 0 23:30 31/05/2026",
           "tournament": "Segunda División",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/1/12/Rc_deportivo_de_la_coruna.png",
           "logo_khach": "https://media.api-sports.io/football/teams/534.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1e51dce6ff",
+                          "id": "lnk-9df8b95025",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178024746724372&wsIPSercert=61cb60f4db5c6f308c7426a4286e6c1f&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwc1gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=010895692e12e82cc6f46a15-178024808948074&wsIPSercert=5aa2718f9beef80ad6a883f7ef8052e5&wsBindIP=2&wsserid=1172580915173420788"
                         },
                         {
-                          "id": "lnk-1c5d00fe0c",
+                          "id": "lnk-11f4a71a04",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
