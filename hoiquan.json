@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:50 31/05/2026",
+  "last_updated": "20:00 31/05/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-be384803a831",
-          "name": "⚽ Cahn vs Binh Duong | H2 - 85' 2 - 1 18:00 31/05/2026",
+          "name": "⚽ Cahn vs Binh Duong | H2 - 90+4' 3 - 1 18:00 31/05/2026",
           "tournament": "V.League 1",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-76b5efd261",
+                          "id": "lnk-ae9cccbdeb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178023186451075&wsIPSercert=d527ecb6ef80d7728be4492ddfea0b7b&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwc1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c3b425deceb9418dcbd56e1b-178023245291664&wsIPSercert=14801f96db20c566a8dc9a13cc1e1cd2&wsBindIP=2&wsserid=1168243256613785902"
                         },
                         {
-                          "id": "lnk-2ffd84b128",
+                          "id": "lnk-6a81ac1364",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,128 +68,8 @@
           ]
         },
         {
-          "id": "kaytee-6ed8be2af105",
-          "name": "⚽ Thanh Hóa vs Ninh Bình | H2 - 90' 0 - 2 18:00 31/05/2026",
-          "tournament": "V.League 1",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-6ed8be2af105",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-6ed8be2af105",
-                  "name": "Thanh Hóa vs Ninh Bình",
-                  "streams": [
-                    {
-                      "id": "kaytee-6ed8be2af105",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-48b89d5529",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwc1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178023187269333&wsIPSercert=d527ecb6ef80d7728be4492ddfea0b7b&wsBindIP=2&wsserid=1168176581102008440"
-                        },
-                        {
-                          "id": "lnk-09f24d537c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-38ec45fbe9fa",
-          "name": "⚽ Nam Dinh vs Song Lam Nghe An | H2 - 90+1' 3 - 0 18:00 31/05/2026",
-          "tournament": "V.League 1",
-          "logo_nha": "https://media.api-sports.io/football/teams/3674.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/3678.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/3674.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-38ec45fbe9fa",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-38ec45fbe9fa",
-                  "name": "Nam Dinh vs Song Lam Nghe An",
-                  "streams": [
-                    {
-                      "id": "kaytee-38ec45fbe9fa",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fd680dd08c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwc1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178023188104099&wsIPSercert=d527ecb6ef80d7728be4492ddfea0b7b&wsBindIP=2&wsserid=1168176581102008440"
-                        },
-                        {
-                          "id": "lnk-09628c8ea5",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-66b83790bdc8",
-          "name": "⚽ Singapore vs Mongolia | H2 - 64' 3 - 0 18:30 31/05/2026",
+          "name": "⚽ Singapore vs Mongolia | H2 - 73' 3 - 0 18:30 31/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5534.png",
@@ -226,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-02b40ffeb0",
+                          "id": "lnk-635ab57855",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178023188934279&wsIPSercert=d527ecb6ef80d7728be4492ddfea0b7b&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwc1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=7b5ae66679f825c9d3872358-178023246118465&wsIPSercert=14801f96db20c566a8dc9a13cc1e1cd2&wsBindIP=2&wsserid=1168243256598056876"
                         },
                         {
-                          "id": "lnk-af77ca4836",
+                          "id": "lnk-3a246f83d8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -286,14 +166,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4f3130902f",
+                          "id": "lnk-6c162f265a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178023189801893&wsIPSercert=d527ecb6ef80d7728be4492ddfea0b7b&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwc1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3d4ec92cc5aa77589788444e-178023247038358&wsIPSercert=14801f96db20c566a8dc9a13cc1e1cd2&wsBindIP=2&wsserid=1168243256607494228"
                         },
                         {
-                          "id": "lnk-007a09b177",
+                          "id": "lnk-a1549ce1a5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -523,6 +403,96 @@
                   "streams": [
                     {
                       "id": "kaytee-e4b2367806c8",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-584ffb985bf6",
+          "name": "⚽ Usa vs Senegal | Sắp diễn ra vs 02:30 01/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2384.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-584ffb985bf6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-584ffb985bf6",
+                  "name": "Usa vs Senegal",
+                  "streams": [
+                    {
+                      "id": "kaytee-584ffb985bf6",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-ca850d948b69",
+          "name": "⚽ Brazil vs Panama | Sắp diễn ra vs 04:30 01/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-ca850d948b69",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-ca850d948b69",
+                  "name": "Brazil vs Panama",
+                  "streams": [
+                    {
+                      "id": "kaytee-ca850d948b69",
                       "name": "F",
                       "stream_links": []
                     }
