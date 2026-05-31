@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:50 01/06/2026",
+  "last_updated": "01:00 01/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8495cdf3458f",
-          "name": "⚽ Deportivo La Coruna vs Las Palmas | H2 - 56' 1 - 2 23:30 31/05/2026",
+          "name": "⚽ Deportivo La Coruna vs Las Palmas | H2 - 67' 1 - 2 23:30 31/05/2026",
           "tournament": "Segunda División",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/1/12/Rc_deportivo_de_la_coruna.png",
           "logo_khach": "https://media.api-sports.io/football/teams/534.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-457158df55",
+                          "id": "lnk-ca36d56999",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-178024986096217&wsIPSercert=5a52320a7edfa7755f111ca78421cc5c&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfwc0gr4uqmtt8y41hcjzgyzdrcjifi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178025045293266&wsIPSercert=86202a985d50a6613fbac4097cd66f78&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-6af9a18172",
+                          "id": "lnk-ed784c40e3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
