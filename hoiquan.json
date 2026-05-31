@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:20 31/05/2026",
+  "last_updated": "15:30 31/05/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-20ba8ddc63",
+                          "id": "lnk-d11b121717",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178021565699873&wsIPSercert=4f745fb1696dafa850e40c496810132a&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwc0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=7f81183aa1d540da1c3fc7f7-178021626422668&wsIPSercert=eeae959ec452792fb62db247df476057&wsBindIP=2&wsserid=1168140848410257976"
                         },
                         {
-                          "id": "lnk-20b95d1ec3",
+                          "id": "lnk-9d83fe74a6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -113,7 +113,7 @@
           ]
         },
         {
-          "id": "kaytee-6855924e1714",
+          "id": "kaytee-be384803a831",
           "name": "⚽ Cahn vs Binh Duong | Sắp diễn ra vs 18:00 31/05/2026",
           "tournament": "V.League 1",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",
@@ -139,15 +139,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-6855924e1714",
+              "id": "kaytee-be384803a831",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-6855924e1714",
+                  "id": "kaytee-be384803a831",
                   "name": "Cahn vs Binh Duong",
                   "streams": [
                     {
-                      "id": "kaytee-6855924e1714",
+                      "id": "kaytee-be384803a831",
                       "name": "F",
                       "stream_links": []
                     }
@@ -158,11 +158,11 @@
           ]
         },
         {
-          "id": "kaytee-a1524c2e9696",
-          "name": "⚽ Thanh Hóa vs Phu Dong | Sắp diễn ra vs 18:00 31/05/2026",
+          "id": "kaytee-6ed8be2af105",
+          "name": "⚽ Thanh Hóa vs Ninh Bình | Sắp diễn ra vs 18:00 31/05/2026",
           "tournament": "V.League 1",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/9167.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -184,60 +184,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-a1524c2e9696",
+              "id": "kaytee-6ed8be2af105",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-a1524c2e9696",
-                  "name": "Thanh Hóa vs Phu Dong",
+                  "id": "kaytee-6ed8be2af105",
+                  "name": "Thanh Hóa vs Ninh Bình",
                   "streams": [
                     {
-                      "id": "kaytee-a1524c2e9696",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-ce24a8abcf8d",
-          "name": "⚽ Hồng Lĩnh Hà Tĩnh vs Da Nang | Sắp diễn ra vs 18:00 31/05/2026",
-          "tournament": "V.League 1",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/3669.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ce24a8abcf8d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ce24a8abcf8d",
-                  "name": "Hồng Lĩnh Hà Tĩnh vs Da Nang",
-                  "streams": [
-                    {
-                      "id": "kaytee-ce24a8abcf8d",
+                      "id": "kaytee-6ed8be2af105",
                       "name": "F",
                       "stream_links": []
                     }
@@ -463,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-670a7c6451e1",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-bc7a4e081710",
+          "name": "⚽ Poland vs Ukraine | Sắp diễn ra vs 22:30 31/05/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/24.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/24.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bc7a4e081710",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bc7a4e081710",
+                  "name": "Poland vs Ukraine",
+                  "streams": [
+                    {
+                      "id": "kaytee-bc7a4e081710",
                       "name": "F",
                       "stream_links": []
                     }
