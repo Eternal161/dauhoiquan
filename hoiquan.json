@@ -1,128 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:20 31/05/2026",
+  "last_updated": "20:30 31/05/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-be384803a831",
-          "name": "⚽ Cahn vs Binh Duong | H2 - 90+6' 2 - 1 18:00 31/05/2026",
-          "tournament": "V.League 1",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-be384803a831",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-be384803a831",
-                  "name": "Cahn vs Binh Duong",
-                  "streams": [
-                    {
-                      "id": "kaytee-be384803a831",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-182143068f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwc3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178023365362623&wsIPSercert=5f380fc4c25dcf1c84a330437b7df28b&wsBindIP=2&wsserid=1172666312698126342"
-                        },
-                        {
-                          "id": "lnk-a692d33757",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-66b83790bdc8",
-          "name": "⚽ Singapore vs Mongolia | H2 - 90+2' 4 - 0 18:30 31/05/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/5534.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-66b83790bdc8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-66b83790bdc8",
-                  "name": "Singapore vs Mongolia",
-                  "streams": [
-                    {
-                      "id": "kaytee-66b83790bdc8",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f089cae524",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-b2faacf6301f",
-          "name": "⚽ Switzerland vs Jordan | H1 - 18' 0 - 0 20:00 31/05/2026",
+          "name": "⚽ Switzerland vs Jordan | H1 - 29' 1 - 0 20:00 31/05/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
@@ -159,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e97f25d31c",
+                          "id": "lnk-8672d37634",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwc3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178023367037385&wsIPSercert=5f380fc4c25dcf1c84a330437b7df28b&wsBindIP=2&wsserid=1172666162445578538"
+                          "url": "https://tfwc1gr3uomttgr31hcj1gozdopjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2824ab343cf41e22bde16900-178023425559646&wsIPSercert=464b189fe06dd4e591014a673777877e&wsBindIP=2&wsserid=1168273075072111094"
                         },
                         {
-                          "id": "lnk-0ab1c4b3e6",
+                          "id": "lnk-80aff4c62a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -182,7 +69,7 @@
         },
         {
           "id": "kaytee-0cf9b427e19f",
-          "name": "⚽ Rb Bragantino vs Internacional | Sắp diễn ra vs 21:00 31/05/2026",
+          "name": "⚽ Rb Bragantino vs Internacional | Sắp bắt đầu - null' 0 - 0 21:00 31/05/2026",
           "tournament": "Serie A",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBM3ANzptp98U981AatsEmABTumuAOp0xzFw&s",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Escudo_do_Sport_Club_Internacional.svg",
@@ -199,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -217,7 +104,22 @@
                     {
                       "id": "kaytee-0cf9b427e19f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-deeae07030",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwc1gr3uomttgr31hcj1gozdopjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=70e63498ec22a4f9ce7058ff-178023426409996&wsIPSercert=464b189fe06dd4e591014a673777877e&wsBindIP=2&wsserid=1168273075067916041"
+                        },
+                        {
+                          "id": "lnk-371bfa04e4",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -486,6 +388,96 @@
                   "streams": [
                     {
                       "id": "kaytee-ca850d948b69",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-ffd0c2feb17a",
+          "name": "⚽ Remo vs Sao Paulo | Sắp diễn ra vs 06:30 01/06/2026",
+          "tournament": "Serie A",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpoA87UXi8HzQ3oH8TUNkyRlaj8Axu1uNwg&s",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpoA87UXi8HzQ3oH8TUNkyRlaj8Axu1uNwg&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-ffd0c2feb17a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-ffd0c2feb17a",
+                  "name": "Remo vs Sao Paulo",
+                  "streams": [
+                    {
+                      "id": "kaytee-ffd0c2feb17a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c04177cfaf14",
+          "name": "⚽ Palestino vs A. Italiano | Sắp diễn ra vs 07:00 01/06/2026",
+          "tournament": "Primera División",
+          "logo_nha": "https://media.api-sports.io/football/teams/2318.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2329.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2318.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c04177cfaf14",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c04177cfaf14",
+                  "name": "Palestino vs A. Italiano",
+                  "streams": [
+                    {
+                      "id": "kaytee-c04177cfaf14",
                       "name": "F",
                       "stream_links": []
                     }
