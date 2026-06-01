@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:20 01/06/2026",
+  "last_updated": "18:30 01/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-37afaf38786c",
-          "name": "⚽ Vanraure Hachinohe vs Fukushima United | Live 0 - 0 17:00 01/06/2026",
+          "name": "⚽ Vanraure Hachinohe vs Fukushima United | H2 - 70' 0 - 1 17:00 01/06/2026",
           "tournament": "J2/J3 League",
           "logo_nha": "https://media.api-sports.io/football/teams/4326.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4318.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bffbe09319",
+                          "id": "lnk-6d571c5cdc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178031285061134&wsIPSercert=a4ec21478511faa55533d83cfdbe6504&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwd3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178031345567190&wsIPSercert=4fd19ded41333959b24ccb6bc7000b0d&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-077bbb9732",
+                          "id": "lnk-7cc5127ed2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-5b0cc5d770f5",
-          "name": "⚽ France U17 vs Montenegro U17 | Live 0 - 0 18:30 01/06/2026",
+          "name": "⚽ France U17 vs Montenegro U17 | Sắp bắt đầu - null' 0 - 0 18:30 01/06/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
           "logo_khach": "https://img.uefa.com/imgml/flags/240x240/MNE.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3f8f1d9cd5",
+                          "id": "lnk-c76e7387c9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=08a97592fcdc472fa413e2d6-178031285911241&wsIPSercert=a4ec21478511faa55533d83cfdbe6504&wsBindIP=2&wsserid=1168202333420231774"
+                          "url": "https://tfwd3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178031346421280&wsIPSercert=4fd19ded41333959b24ccb6bc7000b0d&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-b70b4307db",
+                          "id": "lnk-53446e068b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
