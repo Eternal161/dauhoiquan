@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:30 01/06/2026",
+  "last_updated": "08:40 01/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c04177cfaf14",
-          "name": "⚽ Palestino vs A. Italiano | H2 - 69' 0 - 0 07:00 01/06/2026",
+          "name": "⚽ Palestino vs A. Italiano | H2 - 79' 0 - 0 07:00 01/06/2026",
           "tournament": "Primera División",
           "logo_nha": "https://media.api-sports.io/football/teams/2318.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2329.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5f5c5d9d11",
+                          "id": "lnk-dcdb811c21",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178027746653531&wsIPSercert=0a3f0884b727b70b503bebac9835b910&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwd0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178027806366817&wsIPSercert=1f76bd3d9d18304f27d4030631b64b2f&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-60817a916b",
+                          "id": "lnk-630aa6d07c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
