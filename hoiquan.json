@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:00 01/06/2026",
+  "last_updated": "17:10 01/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-0519cc8f4161",
-          "name": "⚽ Vietnam U19 vs Timor Leste U19 | Giữa Hiệp - 45' 1 - 0 16:00 01/06/2026",
+          "name": "⚽ Vietnam U19 vs Timor Leste U19 | H2 - 53' 1 - 0 16:00 01/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19157.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1280px-Flag_of_East_Timor.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c1069ad615",
+                          "id": "lnk-d79e78e2de",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178030806499636&wsIPSercert=ef4ac5a357b00b0fd5508b5d53235056&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwd0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7f81183aa1d540da1c3fc7f7-178030866002415&wsIPSercert=7f680bd301c7bb327db74674312c7b6c&wsBindIP=2&wsserid=1168140848410257976"
                         },
                         {
-                          "id": "lnk-a29298ff82",
+                          "id": "lnk-6caa9a4d73",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-37afaf38786c",
-          "name": "⚽ Vanraure Hachinohe vs Fukushima United | Sắp bắt đầu - null' 0 - 0 17:00 01/06/2026",
+          "name": "⚽ Vanraure Hachinohe vs Fukushima United | H1 - 8' 0 - 0 17:00 01/06/2026",
           "tournament": "J2/J3 League",
           "logo_nha": "https://media.api-sports.io/football/teams/4326.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4318.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-058bee6cd8",
+                          "id": "lnk-6a47a4c508",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178030807331935&wsIPSercert=ef4ac5a357b00b0fd5508b5d53235056&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwd0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=b897078035d8e4cd82a99de7-178030866856001&wsIPSercert=7f680bd301c7bb327db74674312c7b6c&wsBindIP=2&wsserid=1168140848411308775"
                         },
                         {
-                          "id": "lnk-d3efbce4b1",
+                          "id": "lnk-cc57fa1392",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -353,51 +353,6 @@
           ]
         },
         {
-          "id": "kaytee-62fec4952bf2",
-          "name": "⚽ Fc Voluntari vs Afc Hermannstadt | Sắp diễn ra vs 00:30 02/06/2026",
-          "tournament": "Liga I",
-          "logo_nha": "https://media.api-sports.io/football/teams/2578.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2579.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2578.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-62fec4952bf2",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-62fec4952bf2",
-                  "name": "Fc Voluntari vs Afc Hermannstadt",
-                  "streams": [
-                    {
-                      "id": "kaytee-62fec4952bf2",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-e25973809c92",
           "name": "⚽ Austria vs Tunisia | Sắp diễn ra vs 01:45 02/06/2026",
           "tournament": "Friendlies",
@@ -478,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-bd5d431d2b60",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a2cfedcffbcd",
+          "name": "⚽ Colombia vs Costa Rica | Sắp diễn ra vs 06:00 02/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/250px-Flag_of_Costa_Rica_%28state%29.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a2cfedcffbcd",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a2cfedcffbcd",
+                  "name": "Colombia vs Costa Rica",
+                  "streams": [
+                    {
+                      "id": "kaytee-a2cfedcffbcd",
                       "name": "F",
                       "stream_links": []
                     }
