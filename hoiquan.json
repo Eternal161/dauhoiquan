@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:00 02/06/2026",
+  "last_updated": "06:10 02/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-bd5d431d2b60",
-          "name": "⚽ Ponte Preta vs Botafogo Sp | Giữa Hiệp - 45+4' 0 - 0 05:00 02/06/2026",
+          "name": "⚽ Ponte Preta vs Botafogo Sp | H2 - 50' 0 - 0 05:00 02/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/139.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2618.png",
@@ -46,10 +46,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d88d809257",
+                          "id": "lnk-ae9e554688",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwd0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178035545602710&wsIPSercert=5636731716136b8c469f317bdd720de9&wsBindIP=2&wsserid=1168202333418134578"
+                        },
+                        {
+                          "id": "lnk-bcfd2cda60",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
@@ -62,7 +69,7 @@
         },
         {
           "id": "kaytee-a2cfedcffbcd",
-          "name": "⚽ Colombia vs Costa Rica | Sắp bắt đầu - null' 0 - 0 06:00 02/06/2026",
+          "name": "⚽ Colombia vs Costa Rica | H1 - 4' 0 - 0 06:00 02/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/250px-Flag_of_Costa_Rica_%28state%29.svg.png",
@@ -99,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-60cf79753a",
+                          "id": "lnk-9bc0b362e4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178035486438300&wsIPSercert=18e6499b7ecbf895a221791ac34e76c2&wsBindIP=2&wsserid=1172666312698126342"
+                          "url": "https://tfwd0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178035546404358&wsIPSercert=5636731716136b8c469f317bdd720de9&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-76be4eb9a6",
+                          "id": "lnk-2582c20c75",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
