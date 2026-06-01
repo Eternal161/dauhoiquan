@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:50 01/06/2026",
+  "last_updated": "00:10 02/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1903433d9c66",
-          "name": "⚽ Slovakia vs Malta | Giữa Hiệp - 45+1' 1 - 1 23:00 01/06/2026",
+          "name": "⚽ Slovakia vs Malta | H2 - 54' 1 - 1 23:00 01/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/250px-Flag_of_Slovakia.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/960px-Flag_of_Malta.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-134c9a12ac",
+                          "id": "lnk-21a4e29b9a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178033265943338&wsIPSercert=9e0a594f318370b230ae30ab7d4bbbc8&wsBindIP=2&wsserid=1168176581102008440"
+                          "url": "https://tfwd0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-178033385714426&wsIPSercert=799161c32b1017b4e0acaf771a746052&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-a9bca69cf3",
+                          "id": "lnk-a4313690f3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-bddc938e5d47",
-          "name": "⚽ Norway vs Sweden | Sắp bắt đầu - null' 0 - 0 00:00 02/06/2026",
+          "name": "⚽ Norway vs Sweden | H1 - 7' 0 - 0 00:00 02/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c52e88c3c6",
+                          "id": "lnk-77278f26f8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178033266776021&wsIPSercert=9e0a594f318370b230ae30ab7d4bbbc8&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwd0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178033386561082&wsIPSercert=799161c32b1017b4e0acaf771a746052&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-544427c259",
+                          "id": "lnk-a91630b811",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,10 +166,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-804d12b6a7",
+                          "id": "lnk-0955bfd3cd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwd1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178033387435936&wsIPSercert=799161c32b1017b4e0acaf771a746052&wsBindIP=2&wsserid=1168176581102008440"
+                        },
+                        {
+                          "id": "lnk-a40c6fcfc8",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
                         }
                       ]
