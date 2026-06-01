@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:10 01/06/2026",
+  "last_updated": "08:20 01/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-ffd0c2feb17a",
-          "name": "⚽ Remo vs Sao Paulo | H2 - 80' 0 - 0 06:30 01/06/2026",
+          "name": "⚽ Remo vs Sao Paulo | Live 0 - 0 06:30 01/06/2026",
           "tournament": "Serie A",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpoA87UXi8HzQ3oH8TUNkyRlaj8Axu1uNwg&s",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-459df5786a",
+                          "id": "lnk-51c07e8599",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178027625193168&wsIPSercert=dcd98e9f81e38020fcc27993817788a3&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwd3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178027685820756&wsIPSercert=5ef217f0b49ebc74ee519625641d1480&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-7293ef97e8",
+                          "id": "lnk-8418f9883c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-c04177cfaf14",
-          "name": "⚽ Palestino vs A. Italiano | H2 - 49' 0 - 0 07:00 01/06/2026",
+          "name": "⚽ Palestino vs A. Italiano | Live 0 - 0 07:00 01/06/2026",
           "tournament": "Primera División",
           "logo_nha": "https://media.api-sports.io/football/teams/2318.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2329.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f995f0a25a",
+                          "id": "lnk-c679e8a18b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178027626054199&wsIPSercert=dcd98e9f81e38020fcc27993817788a3&wsBindIP=2&wsserid=1168176581102008440"
+                          "url": "https://tfwd3gr4dymttgwanhct3fa4d1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178027686691351&wsIPSercert=5ef217f0b49ebc74ee519625641d1480&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-f50506e84c",
+                          "id": "lnk-a3884566ab",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
