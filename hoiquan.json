@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:51 02/06/2026",
+  "last_updated": "01:00 02/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-1903433d9c66",
-          "name": "⚽ Slovakia vs Malta | H2 - 90+5' 1 - 1 23:00 01/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/250px-Flag_of_Slovakia.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/960px-Flag_of_Malta.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/250px-Flag_of_Slovakia.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-1903433d9c66",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-1903433d9c66",
-                  "name": "Slovakia vs Malta",
-                  "streams": [
-                    {
-                      "id": "kaytee-1903433d9c66",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-83eab76dc4",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwd3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178033629867707&wsIPSercert=be6fd51fb0f8d700dab52318f7fa87d1&wsBindIP=2&wsserid=1172666312698126342"
-                        },
-                        {
-                          "id": "lnk-c631f30069",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-bddc938e5d47",
-          "name": "⚽ Norway vs Sweden | Giữa Hiệp - 45+1' 3 - 0 00:00 02/06/2026",
+          "name": "⚽ Norway vs Sweden | Live 0 - 0 00:00 02/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-79f8a6a6d6",
+                          "id": "lnk-13eed1a7f4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178033630733414&wsIPSercert=be6fd51fb0f8d700dab52318f7fa87d1&wsBindIP=2&wsserid=1172666162445578538"
+                          "url": "https://tfwd0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=015f882d6bf28108fca60425-178033685800508&wsIPSercert=f73a4dfca08626c4f83840dbfc51210d&wsBindIP=2&wsserid=1168176337061519089"
                         },
                         {
-                          "id": "lnk-4b77b1ebf2",
+                          "id": "lnk-9f78833567",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-43806aaba1f3",
-          "name": "⚽ Türkiye vs Fyr Macedonia | H1 - 18' 2 - 0 00:30 02/06/2026",
+          "name": "⚽ Türkiye vs Fyr Macedonia | H1 - 28' 2 - 0 00:30 02/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/777.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/330px-Flag_of_North_Macedonia.svg.png",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-eed30604fe",
+                          "id": "lnk-1c5a5702af",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd3gr4dymttgwanhct3fa4d1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178033631622865&wsIPSercert=be6fd51fb0f8d700dab52318f7fa87d1&wsBindIP=2&wsserid=1172666312698126342"
+                          "url": "https://tfwd1gr4uqmtt8y41hcjz8rzdeqjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=197a7e0439e0ed2dfed4c58e-178033686675481&wsIPSercert=f73a4dfca08626c4f83840dbfc51210d&wsBindIP=2&wsserid=1168041062946239395"
                         },
                         {
-                          "id": "lnk-f4f921f3cf",
+                          "id": "lnk-ef11d218c5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -189,7 +129,7 @@
         },
         {
           "id": "kaytee-e25973809c92",
-          "name": "⚽ Austria vs Tunisia | Sắp diễn ra vs 01:45 02/06/2026",
+          "name": "⚽ Austria vs Tunisia | Live 0 - 0 01:45 02/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/775.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
@@ -206,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -224,7 +164,22 @@
                     {
                       "id": "kaytee-e25973809c92",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-ae4948cee5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwd0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ae5d40028ae96af9e63375e8-178033687517137&wsIPSercert=f73a4dfca08626c4f83840dbfc51210d&wsBindIP=2&wsserid=1168176337059421885"
+                        },
+                        {
+                          "id": "lnk-81d7d72fdf",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -493,6 +448,51 @@
                   "streams": [
                     {
                       "id": "kaytee-1bdc04e2dc89",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-02dab0015edf",
+          "name": "⚽ Croatia vs Belgium | Sắp diễn ra vs 23:00 02/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/1.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-02dab0015edf",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-02dab0015edf",
+                  "name": "Croatia vs Belgium",
+                  "streams": [
+                    {
+                      "id": "kaytee-02dab0015edf",
                       "name": "F",
                       "stream_links": []
                     }
