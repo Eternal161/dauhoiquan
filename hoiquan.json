@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:30 01/06/2026",
+  "last_updated": "15:40 01/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-0519cc8f4161",
-          "name": "⚽ Vietnam U19 vs Timor Leste U19 | Sắp diễn ra vs 16:00 01/06/2026",
+          "name": "⚽ Vietnam U19 vs Timor Leste U19 | Sắp bắt đầu - null' 0 - 0 16:00 01/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19157.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1280px-Flag_of_East_Timor.svg.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-0519cc8f4161",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-f20066b6dc",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwd3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178030324928469&wsIPSercert=5854439135d7e5d3df0989f50c67f5ee&wsBindIP=2&wsserid=1172666162445578538"
+                        },
+                        {
+                          "id": "lnk-21c6cb50f2",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
