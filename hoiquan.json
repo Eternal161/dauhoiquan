@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:10 01/06/2026",
+  "last_updated": "20:20 01/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-5b0cc5d770f5",
-          "name": "⚽ France U17 vs Montenegro U17 | H2 - 82' 5 - 0 18:30 01/06/2026",
+          "name": "⚽ France U17 vs Montenegro U17 | H2 - 90+2' 5 - 0 18:30 01/06/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
           "logo_khach": "https://img.uefa.com/imgml/flags/240x240/MNE.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6e9f58fbfc",
+                          "id": "lnk-169f76a18d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b897078035d8e4cd82a99de7-178031946265158&wsIPSercert=43c64dbc73334c381d415a9938c994cf&wsBindIP=2&wsserid=1168140848411308775"
+                          "url": "https://tfwd0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178032005195275&wsIPSercert=0d6fda853b59889dfa3c10e2b6b5c14e&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-8aca0d807a",
+                          "id": "lnk-ab6fef1da6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-e449923fb544",
-          "name": "⚽ Indonesia U19 vs Myanmar U19 | H1 - 10' 0 - 0 20:00 01/06/2026",
+          "name": "⚽ Indonesia U19 vs Myanmar U19 | H1 - 21' 0 - 0 20:00 01/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19149.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19152.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-247a223230",
+                          "id": "lnk-71a0e3d5b2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd0gr4uqmtt8y41hcjzgrzdrcbofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e73d46884c09585b6c81760a-178031947044944&wsIPSercert=43c64dbc73334c381d415a9938c994cf&wsBindIP=2&wsserid=1168140817791296288"
+                          "url": "https://tfwd3gr4dymttgwanhct3fa4d1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178032006074032&wsIPSercert=0d6fda853b59889dfa3c10e2b6b5c14e&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-cae36ace40",
+                          "id": "lnk-3fa5788847",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
