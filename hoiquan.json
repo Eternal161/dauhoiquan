@@ -1,12 +1,508 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:41 02/06/2026",
+  "last_updated": "01:50 02/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
-      "channels": []
+      "channels": [
+        {
+          "id": "kaytee-bddc938e5d47",
+          "name": "⚽ Norway vs Sweden | H2 - 89' 3 - 1 00:00 02/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/5.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bddc938e5d47",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bddc938e5d47",
+                  "name": "Norway vs Sweden",
+                  "streams": [
+                    {
+                      "id": "kaytee-bddc938e5d47",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d0f22818e8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwd0gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e7feef4c54a9619feb576549-178033984951121&wsIPSercert=ae7cc6b035cb20f375e10bc52e456344&wsBindIP=2&wsserid=1168214364742294105"
+                        },
+                        {
+                          "id": "lnk-c2860627d5",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-43806aaba1f3",
+          "name": "⚽ Türkiye vs Fyr Macedonia | H2 - 57' 3 - 0 00:30 02/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/777.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/330px-Flag_of_North_Macedonia.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/777.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-43806aaba1f3",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-43806aaba1f3",
+                  "name": "Türkiye vs Fyr Macedonia",
+                  "streams": [
+                    {
+                      "id": "kaytee-43806aaba1f3",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c9ea15450e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwd0gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=ae5d40028ae96af9e63375e8-178033985831871&wsIPSercert=ae7cc6b035cb20f375e10bc52e456344&wsBindIP=2&wsserid=1168176337059421885"
+                        },
+                        {
+                          "id": "lnk-096799ed3b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e25973809c92",
+          "name": "⚽ Austria vs Tunisia | Sắp bắt đầu - null' 0 - 0 01:45 02/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/775.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/775.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e25973809c92",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e25973809c92",
+                  "name": "Austria vs Tunisia",
+                  "streams": [
+                    {
+                      "id": "kaytee-e25973809c92",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b016d9fe30",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwd0gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=015f882d6bf28108fca60425-178033986679275&wsIPSercert=ae7cc6b035cb20f375e10bc52e456344&wsBindIP=2&wsserid=1168214263213094505"
+                        },
+                        {
+                          "id": "lnk-4c3b0bd7f8",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-bd5d431d2b60",
+          "name": "⚽ Ponte Preta vs Botafogo Sp | Sắp diễn ra vs 05:00 02/06/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/139.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2618.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/139.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bd5d431d2b60",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bd5d431d2b60",
+                  "name": "Ponte Preta vs Botafogo Sp",
+                  "streams": [
+                    {
+                      "id": "kaytee-bd5d431d2b60",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a2cfedcffbcd",
+          "name": "⚽ Colombia vs Costa Rica | Sắp diễn ra vs 06:00 02/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/250px-Flag_of_Costa_Rica_%28state%29.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a2cfedcffbcd",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a2cfedcffbcd",
+                  "name": "Colombia vs Costa Rica",
+                  "streams": [
+                    {
+                      "id": "kaytee-a2cfedcffbcd",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-aad62b95d5a2",
+          "name": "⚽ Canada vs Uzbekistan | Sắp diễn ra vs 08:00 02/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/1568.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-aad62b95d5a2",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-aad62b95d5a2",
+                  "name": "Canada vs Uzbekistan",
+                  "streams": [
+                    {
+                      "id": "kaytee-aad62b95d5a2",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8e4ed33307f4",
+          "name": "⚽ Thailand U19 vs Brunei U19 | Sắp diễn ra vs 16:00 02/06/2026",
+          "tournament": "ASEAN Championship U19",
+          "logo_nha": "https://media.api-sports.io/football/teams/19155.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/19147.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/19155.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8e4ed33307f4",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8e4ed33307f4",
+                  "name": "Thailand U19 vs Brunei U19",
+                  "streams": [
+                    {
+                      "id": "kaytee-8e4ed33307f4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6a05384f5b68",
+          "name": "⚽ Malaysia U19 vs Singapore U19 | Sắp diễn ra vs 20:00 02/06/2026",
+          "tournament": "ASEAN Championship U19",
+          "logo_nha": "https://media.api-sports.io/football/teams/19151.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/19154.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/19151.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6a05384f5b68",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6a05384f5b68",
+                  "name": "Malaysia U19 vs Singapore U19",
+                  "streams": [
+                    {
+                      "id": "kaytee-6a05384f5b68",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1bdc04e2dc89",
+          "name": "⚽ Al Kahrabaa vs Al-Karma | Sắp diễn ra vs 22:00 02/06/2026",
+          "tournament": "Iraqi League",
+          "logo_nha": "https://media.api-sports.io/football/teams/11064.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/25063.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/11064.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1bdc04e2dc89",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1bdc04e2dc89",
+                  "name": "Al Kahrabaa vs Al-Karma",
+                  "streams": [
+                    {
+                      "id": "kaytee-1bdc04e2dc89",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-02dab0015edf",
+          "name": "⚽ Croatia vs Belgium | Sắp diễn ra vs 23:00 02/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/1.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-02dab0015edf",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-02dab0015edf",
+                  "name": "Croatia vs Belgium",
+                  "streams": [
+                    {
+                      "id": "kaytee-02dab0015edf",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
