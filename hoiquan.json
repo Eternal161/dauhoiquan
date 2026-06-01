@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:51 01/06/2026",
+  "last_updated": "18:00 01/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-0519cc8f4161",
-          "name": "⚽ Vietnam U19 vs Timor Leste U19 | H2 - 90+3' 3 - 0 16:00 01/06/2026",
-          "tournament": "ASEAN Championship U19",
-          "logo_nha": "https://media.api-sports.io/football/teams/19157.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1280px-Flag_of_East_Timor.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/19157.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-0519cc8f4161",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-0519cc8f4161",
-                  "name": "Vietnam U19 vs Timor Leste U19",
-                  "streams": [
-                    {
-                      "id": "kaytee-0519cc8f4161",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cb83d4d0b2",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwd0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178031106875831&wsIPSercert=c239aab35af7cbf19b39fe421f49174e&wsBindIP=2&wsserid=1168202333418134578"
-                        },
-                        {
-                          "id": "lnk-7e853b484b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-37afaf38786c",
-          "name": "⚽ Vanraure Hachinohe vs Fukushima United | H1 - 45+2' 0 - 1 17:00 01/06/2026",
+          "name": "⚽ Vanraure Hachinohe vs Fukushima United | Giữa Hiệp - 45+3' 0 - 1 17:00 01/06/2026",
           "tournament": "J2/J3 League",
           "logo_nha": "https://media.api-sports.io/football/teams/4326.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4318.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-783d398b06",
+                          "id": "lnk-6edb2cdb10",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178031107706661&wsIPSercert=c239aab35af7cbf19b39fe421f49174e&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwd1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=ef0ccc7d875d9554e04de7b3-178031166017873&wsIPSercert=8f03ad4c97809a31af3ae08480f15d0f&wsBindIP=2&wsserid=1168243256629514822"
                         },
                         {
-                          "id": "lnk-4b7afdb95c",
+                          "id": "lnk-1e8bcf8988",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-5b0cc5d770f5",
-          "name": "⚽ France U17 vs Montenegro U17 | Sắp diễn ra vs 18:30 01/06/2026",
+          "name": "⚽ France U17 vs Montenegro U17 | Sắp bắt đầu - null' 0 - 0 18:30 01/06/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
           "logo_khach": "https://img.uefa.com/imgml/flags/240x240/MNE.png",
@@ -146,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +104,22 @@
                     {
                       "id": "kaytee-5b0cc5d770f5",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-7dfd85b3e5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwd1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=a5129cd9efa94706e9611638-178031166844420&wsIPSercert=8f03ad4c97809a31af3ae08480f15d0f&wsBindIP=2&wsserid=1168243256620077470"
+                        },
+                        {
+                          "id": "lnk-a36b08f6fa",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -478,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-a2cfedcffbcd",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-aad62b95d5a2",
+          "name": "⚽ Canada vs Uzbekistan | Sắp diễn ra vs 08:00 02/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/1568.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-aad62b95d5a2",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-aad62b95d5a2",
+                  "name": "Canada vs Uzbekistan",
+                  "streams": [
+                    {
+                      "id": "kaytee-aad62b95d5a2",
                       "name": "F",
                       "stream_links": []
                     }
