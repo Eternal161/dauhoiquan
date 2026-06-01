@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:21 01/06/2026",
+  "last_updated": "17:30 01/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-0519cc8f4161",
-          "name": "⚽ Vietnam U19 vs Timor Leste U19 | H2 - 63' 1 - 0 16:00 01/06/2026",
+          "name": "⚽ Vietnam U19 vs Timor Leste U19 | H2 - 72' 1 - 0 16:00 01/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19157.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1280px-Flag_of_East_Timor.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a1fd64c144",
+                          "id": "lnk-abe014a23d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=015f882d6bf28108fca60425-178030926942685&wsIPSercert=476d8ef7483421108f08d482af2e2fe4&wsBindIP=2&wsserid=1168176337061519089"
+                          "url": "https://tfwd3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178030986373192&wsIPSercert=a1c1cd406c128d48d820c95751afa404&wsBindIP=2&wsserid=1172666162445578538"
                         },
                         {
-                          "id": "lnk-a6501c88ec",
+                          "id": "lnk-dcc099804e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-37afaf38786c",
-          "name": "⚽ Vanraure Hachinohe vs Fukushima United | Live 0 - 0 17:00 01/06/2026",
+          "name": "⚽ Vanraure Hachinohe vs Fukushima United | H1 - 27' 0 - 1 17:00 01/06/2026",
           "tournament": "J2/J3 League",
           "logo_nha": "https://media.api-sports.io/football/teams/4326.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4318.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8f4ef4e74e",
+                          "id": "lnk-3de4c3d352",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-178030927782708&wsIPSercert=476d8ef7483421108f08d482af2e2fe4&wsBindIP=2&wsserid=1168176346313714739"
+                          "url": "https://tfwd3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178030987225178&wsIPSercert=a1c1cd406c128d48d820c95751afa404&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-1ebc4c6192",
+                          "id": "lnk-83f97bf0bb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
