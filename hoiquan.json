@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:11 01/06/2026",
+  "last_updated": "19:20 01/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-5b0cc5d770f5",
-          "name": "⚽ France U17 vs Montenegro U17 | H1 - 40' 1 - 0 18:30 01/06/2026",
+          "name": "⚽ France U17 vs Montenegro U17 | Giữa Hiệp - 45+3' 2 - 0 18:30 01/06/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
           "logo_khach": "https://img.uefa.com/imgml/flags/240x240/MNE.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8d0ff64cb4",
+                          "id": "lnk-233ed27e46",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b897078035d8e4cd82a99de7-178031587270152&wsIPSercert=4ba17a99c409d7bcdd30d157e198887b&wsBindIP=2&wsserid=1168140848411308775"
+                          "url": "https://tfwd0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b897078035d8e4cd82a99de7-178031645075478&wsIPSercert=c9e87e5dd7ce66ebc0bb615c7a3653e6&wsBindIP=2&wsserid=1168140848411308775"
                         },
                         {
-                          "id": "lnk-bdba83894a",
+                          "id": "lnk-dbf9f952df",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
