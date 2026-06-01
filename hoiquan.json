@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:11 01/06/2026",
+  "last_updated": "23:21 01/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1903433d9c66",
-          "name": "⚽ Slovakia vs Malta | H1 - 11' 1 - 0 23:00 01/06/2026",
+          "name": "⚽ Slovakia vs Malta | H1 - 21' 1 - 0 23:00 01/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/250px-Flag_of_Slovakia.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/960px-Flag_of_Malta.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5fbb046a7b",
+                          "id": "lnk-580253b997",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-178033029968493&wsIPSercert=b725c5588017aadb0d1666b57f881972&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfwd0gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=015f882d6bf28108fca60425-178033088169993&wsIPSercert=da952b13bf7a17de7fc33a46be662e1a&wsBindIP=2&wsserid=1168214263213094505"
                         },
                         {
-                          "id": "lnk-5567424fc2",
+                          "id": "lnk-5ade795a2a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
           ]
         },
         {
-          "id": "kaytee-0ead2d485ede",
+          "id": "kaytee-af00f2cfc889",
           "name": "⚽ Türkiye vs Fyr Macedonia | Sắp bắt đầu - null' 0 - 0 23:30 01/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/777.png",
@@ -94,23 +94,30 @@
           ],
           "sources": [
             {
-              "id": "kaytee-0ead2d485ede",
+              "id": "kaytee-af00f2cfc889",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-0ead2d485ede",
+                  "id": "kaytee-af00f2cfc889",
                   "name": "Türkiye vs Fyr Macedonia",
                   "streams": [
                     {
-                      "id": "kaytee-0ead2d485ede",
+                      "id": "kaytee-af00f2cfc889",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f0c45a79ca",
+                          "id": "lnk-b8e2e05ac6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
+                          "url": "https://tfwd0gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=015f882d6bf28108fca60425-178033089006229&wsIPSercert=da952b13bf7a17de7fc33a46be662e1a&wsBindIP=2&wsserid=1168214263213094505"
+                        },
+                        {
+                          "id": "lnk-ec8df9126c",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
                         }
                       ]
                     }
