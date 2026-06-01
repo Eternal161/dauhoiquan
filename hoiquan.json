@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:50 01/06/2026",
+  "last_updated": "19:01 01/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-37afaf38786c",
-          "name": "⚽ Vanraure Hachinohe vs Fukushima United | H2 - 90' 0 - 1 17:00 01/06/2026",
-          "tournament": "J2/J3 League",
-          "logo_nha": "https://media.api-sports.io/football/teams/4326.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/4318.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/4326.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-37afaf38786c",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-37afaf38786c",
-                  "name": "Vanraure Hachinohe vs Fukushima United",
-                  "streams": [
-                    {
-                      "id": "kaytee-37afaf38786c",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3eddeb336d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwd1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178031465799256&wsIPSercert=f26a10521b09180e17d31895d6926819&wsBindIP=2&wsserid=1168176581104105640"
-                        },
-                        {
-                          "id": "lnk-32b987f2ae",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-5b0cc5d770f5",
-          "name": "⚽ France U17 vs Montenegro U17 | H1 - 20' 0 - 0 18:30 01/06/2026",
+          "name": "⚽ France U17 vs Montenegro U17 | H1 - 30' 0 - 0 18:30 01/06/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
           "logo_khach": "https://img.uefa.com/imgml/flags/240x240/MNE.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f0e50f65ca",
+                          "id": "lnk-37e7c3bed2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178031466644740&wsIPSercert=f26a10521b09180e17d31895d6926819&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwd0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178031529220165&wsIPSercert=54bd09a19516b3a8e4cb7fd177d20ef0&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-2d8e06ec97",
+                          "id": "lnk-7963e93703",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-aad62b95d5a2",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8e4ed33307f4",
+          "name": "⚽ Thailand U19 vs Brunei U19 | Sắp diễn ra vs 16:00 02/06/2026",
+          "tournament": "ASEAN Championship U19",
+          "logo_nha": "https://media.api-sports.io/football/teams/19155.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/19147.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/19155.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8e4ed33307f4",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8e4ed33307f4",
+                  "name": "Thailand U19 vs Brunei U19",
+                  "streams": [
+                    {
+                      "id": "kaytee-8e4ed33307f4",
                       "name": "F",
                       "stream_links": []
                     }
