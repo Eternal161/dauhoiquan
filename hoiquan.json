@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:40 02/06/2026",
+  "last_updated": "00:51 02/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1903433d9c66",
-          "name": "⚽ Slovakia vs Malta | Live 0 - 0 23:00 01/06/2026",
+          "name": "⚽ Slovakia vs Malta | H2 - 90+5' 1 - 1 23:00 01/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/250px-Flag_of_Slovakia.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/960px-Flag_of_Malta.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b0671d6d4f",
+                          "id": "lnk-83eab76dc4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=015f882d6bf28108fca60425-178033565787633&wsIPSercert=11f56a7dc2264c05f4425e1b3861e7d5&wsBindIP=2&wsserid=1168214263213094505"
+                          "url": "https://tfwd3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178033629867707&wsIPSercert=be6fd51fb0f8d700dab52318f7fa87d1&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-97b7118bb4",
+                          "id": "lnk-c631f30069",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-bddc938e5d47",
-          "name": "⚽ Norway vs Sweden | Live 0 - 0 00:00 02/06/2026",
+          "name": "⚽ Norway vs Sweden | Giữa Hiệp - 45+1' 3 - 0 00:00 02/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6d5f597d7d",
+                          "id": "lnk-79f8a6a6d6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e7feef4c54a9619feb576549-178033566653472&wsIPSercert=11f56a7dc2264c05f4425e1b3861e7d5&wsBindIP=2&wsserid=1168214364742294105"
+                          "url": "https://tfwd3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178033630733414&wsIPSercert=be6fd51fb0f8d700dab52318f7fa87d1&wsBindIP=2&wsserid=1172666162445578538"
                         },
                         {
-                          "id": "lnk-586b1b1bab",
+                          "id": "lnk-4b77b1ebf2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-43806aaba1f3",
-          "name": "⚽ Türkiye vs Fyr Macedonia | H1 - 7' 1 - 0 00:30 02/06/2026",
+          "name": "⚽ Türkiye vs Fyr Macedonia | H1 - 18' 2 - 0 00:30 02/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/777.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/330px-Flag_of_North_Macedonia.svg.png",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-43806aaba1f3",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-eed30604fe",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwd3gr4dymttgwanhct3fa4d1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178033631622865&wsIPSercert=be6fd51fb0f8d700dab52318f7fa87d1&wsBindIP=2&wsserid=1172666312698126342"
+                        },
+                        {
+                          "id": "lnk-f4f921f3cf",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
