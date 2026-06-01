@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:30 02/06/2026",
+  "last_updated": "02:40 02/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e25973809c92",
-          "name": "⚽ Austria vs Tunisia | H1 - 40' 0 - 0 01:45 02/06/2026",
+          "name": "⚽ Austria vs Tunisia | Live 0 - 0 01:45 02/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/775.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d890d08f8a",
+                          "id": "lnk-6d23891db8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=dbd8f789bb7a7a2508c32238-178034225585387&wsIPSercert=bd548703d0bf1499fa48de427ecc1d44&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfwd0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=6e1279e156ce1898ee876f29-178034286022736&wsIPSercert=877bb6c4362ab70a2d5d7a4a7bfa9683&wsBindIP=2&wsserid=1168140817803879397"
                         },
                         {
-                          "id": "lnk-22926c9c26",
+                          "id": "lnk-9bbdf7aa66",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
