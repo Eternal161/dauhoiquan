@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:00 02/06/2026",
+  "last_updated": "05:10 02/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-bd5d431d2b60",
-          "name": "⚽ Ponte Preta vs Botafogo Sp | Sắp bắt đầu - null' 0 - 0 05:00 02/06/2026",
+          "name": "⚽ Ponte Preta vs Botafogo Sp | H1 - 10' 0 - 0 05:00 02/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/139.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2618.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c0dec201bb",
+                          "id": "lnk-ea72ea8304",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178035125659537&wsIPSercert=498208f144d37529ceb64a43971997b5&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwd1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=572f9e24ef0909ca5424c30d-178035186115212&wsIPSercert=2f3eaa2b4b70b7e8b8f8343242e92112&wsBindIP=2&wsserid=1168176346315811943"
                         },
                         {
-                          "id": "lnk-d38efd9bac",
+                          "id": "lnk-6957f4f6ac",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
