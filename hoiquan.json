@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:00 01/06/2026",
+  "last_updated": "07:10 01/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-ca850d948b69",
-          "name": "⚽ Brazil vs Panama | H2 - 90+4' 6 - 2 04:30 01/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ca850d948b69",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ca850d948b69",
-                  "name": "Brazil vs Panama",
-                  "streams": [
-                    {
-                      "id": "kaytee-ca850d948b69",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-148ab53185",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwd0gr4uqmtt8y41hcjzgrzdrcbofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e73d46884c09585b6c81760a-178027205943138&wsIPSercert=4351896db8ce028e0fa6427bb280cd7b&wsBindIP=2&wsserid=1168140817791296288"
-                        },
-                        {
-                          "id": "lnk-f58dd1cf03",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-ffd0c2feb17a",
-          "name": "⚽ Remo vs Sao Paulo | H1 - 30' 0 - 0 06:30 01/06/2026",
+          "name": "⚽ Remo vs Sao Paulo | H1 - 40' 0 - 0 06:30 01/06/2026",
           "tournament": "Serie A",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpoA87UXi8HzQ3oH8TUNkyRlaj8Axu1uNwg&s",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f327485edd",
+                          "id": "lnk-4c267574d8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178027206815214&wsIPSercert=4351896db8ce028e0fa6427bb280cd7b&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwd0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178027265107144&wsIPSercert=a5bc77067c8989c5a7baee96cd916b66&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-5a492e8eb5",
+                          "id": "lnk-348658a0ac",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-c04177cfaf14",
-          "name": "⚽ Palestino vs A. Italiano | Sắp bắt đầu - null' 0 - 0 07:00 01/06/2026",
+          "name": "⚽ Palestino vs A. Italiano | H1 - 9' 0 - 0 07:00 01/06/2026",
           "tournament": "Primera División",
           "logo_nha": "https://media.api-sports.io/football/teams/2318.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2329.png",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9fc9467bba",
+                          "id": "lnk-a51fa299bf",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd0gr4uqmtt8y41hcjzgrzdrcbofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e73d46884c09585b6c81760a-178027207663705&wsIPSercert=4351896db8ce028e0fa6427bb280cd7b&wsBindIP=2&wsserid=1168140817791296288"
+                          "url": "https://tfwd0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178027265938503&wsIPSercert=a5bc77067c8989c5a7baee96cd916b66&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-c9f003b6be",
+                          "id": "lnk-58bb0a83e2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-bddc938e5d47",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-62fec4952bf2",
+          "name": "⚽ Fc Voluntari vs Afc Hermannstadt | Sắp diễn ra vs 00:30 02/06/2026",
+          "tournament": "Liga I",
+          "logo_nha": "https://media.api-sports.io/football/teams/2578.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2579.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2578.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-62fec4952bf2",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-62fec4952bf2",
+                  "name": "Fc Voluntari vs Afc Hermannstadt",
+                  "streams": [
+                    {
+                      "id": "kaytee-62fec4952bf2",
                       "name": "F",
                       "stream_links": []
                     }
