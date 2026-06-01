@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:30 01/06/2026",
+  "last_updated": "23:40 01/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1903433d9c66",
-          "name": "⚽ Slovakia vs Malta | H1 - 31' 1 - 0 23:00 01/06/2026",
+          "name": "⚽ Slovakia vs Malta | H1 - 40' 1 - 1 23:00 01/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/250px-Flag_of_Slovakia.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/960px-Flag_of_Malta.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fcf078f480",
+                          "id": "lnk-2d54b8d653",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-178033145739291&wsIPSercert=fa467da587320889f7a93fd2f55f86e5&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfwd3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178033205502557&wsIPSercert=5eb20745ecc32cdb5f3c55bc43f183e5&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-d18f161671",
+                          "id": "lnk-60bb5deec5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,10 +106,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a79cd6ab88",
+                          "id": "lnk-60c2f91f91",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwd3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178033206349813&wsIPSercert=5eb20745ecc32cdb5f3c55bc43f183e5&wsBindIP=2&wsserid=1172666162445578538"
+                        },
+                        {
+                          "id": "lnk-802df4bda7",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
                         }
                       ]
@@ -159,7 +166,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5cf6247991",
+                          "id": "lnk-a72e80daa6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
