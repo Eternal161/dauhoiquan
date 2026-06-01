@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:20 01/06/2026",
+  "last_updated": "20:31 01/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-5b0cc5d770f5",
-          "name": "⚽ France U17 vs Montenegro U17 | H2 - 90+2' 5 - 0 18:30 01/06/2026",
-          "tournament": "UEFA U17 Championship",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
-          "logo_khach": "https://img.uefa.com/imgml/flags/240x240/MNE.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-5b0cc5d770f5",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-5b0cc5d770f5",
-                  "name": "France U17 vs Montenegro U17",
-                  "streams": [
-                    {
-                      "id": "kaytee-5b0cc5d770f5",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-169f76a18d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwd0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178032005195275&wsIPSercert=0d6fda853b59889dfa3c10e2b6b5c14e&wsBindIP=2&wsserid=1172666312704417830"
-                        },
-                        {
-                          "id": "lnk-ab6fef1da6",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-e449923fb544",
-          "name": "⚽ Indonesia U19 vs Myanmar U19 | H1 - 21' 0 - 0 20:00 01/06/2026",
+          "name": "⚽ Indonesia U19 vs Myanmar U19 | H1 - 31' 0 - 0 20:00 01/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19149.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19152.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-71a0e3d5b2",
+                          "id": "lnk-0b0ea8555c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd3gr4dymttgwanhct3fa4d1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178032006074032&wsIPSercert=0d6fda853b59889dfa3c10e2b6b5c14e&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwd1gr3uomttgr31hcj18yzd1qbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3d4ec92cc5aa77589788444e-178032067756681&wsIPSercert=35ffda4f81f57ffa8f5b15d07925f3fb&wsBindIP=2&wsserid=1168243256607494228"
                         },
                         {
-                          "id": "lnk-3fa5788847",
+                          "id": "lnk-6764bee84f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-8e4ed33307f4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6a05384f5b68",
+          "name": "⚽ Malaysia U19 vs Singapore U19 | Sắp diễn ra vs 20:00 02/06/2026",
+          "tournament": "ASEAN Championship U19",
+          "logo_nha": "https://media.api-sports.io/football/teams/19151.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/19154.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/19151.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6a05384f5b68",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6a05384f5b68",
+                  "name": "Malaysia U19 vs Singapore U19",
+                  "streams": [
+                    {
+                      "id": "kaytee-6a05384f5b68",
                       "name": "F",
                       "stream_links": []
                     }
