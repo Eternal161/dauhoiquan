@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:50 01/06/2026",
+  "last_updated": "09:00 01/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-c04177cfaf14",
-          "name": "⚽ Palestino vs A. Italiano | H2 - 89' 0 - 0 07:00 01/06/2026",
-          "tournament": "Primera División",
-          "logo_nha": "https://media.api-sports.io/football/teams/2318.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2329.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2318.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c04177cfaf14",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c04177cfaf14",
-                  "name": "Palestino vs A. Italiano",
-                  "streams": [
-                    {
-                      "id": "kaytee-c04177cfaf14",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d01034526f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwd0gr3uomttgr31hcjagczdnct1fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3799f553c0dacb46911cd001-178027866159835&wsIPSercert=abb2bef5d30e48b5f02c189bec13b245&wsBindIP=2&wsserid=1168195329517191416"
-                        },
-                        {
-                          "id": "lnk-cba702cd5e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-cb7619f00253",
           "name": "⚽ Vietnam U19 vs Timor Leste U19 | Sắp diễn ra vs 16:00 01/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-e25973809c92",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-bd5d431d2b60",
+          "name": "⚽ Ponte Preta vs Botafogo Sp | Sắp diễn ra vs 05:00 02/06/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/139.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2618.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/139.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bd5d431d2b60",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bd5d431d2b60",
+                  "name": "Ponte Preta vs Botafogo Sp",
+                  "streams": [
+                    {
+                      "id": "kaytee-bd5d431d2b60",
                       "name": "F",
                       "stream_links": []
                     }
