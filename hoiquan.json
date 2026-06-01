@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:20 01/06/2026",
+  "last_updated": "08:30 01/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-ffd0c2feb17a",
-          "name": "⚽ Remo vs Sao Paulo | Live 0 - 0 06:30 01/06/2026",
-          "tournament": "Serie A",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpoA87UXi8HzQ3oH8TUNkyRlaj8Axu1uNwg&s",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpoA87UXi8HzQ3oH8TUNkyRlaj8Axu1uNwg&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ffd0c2feb17a",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ffd0c2feb17a",
-                  "name": "Remo vs Sao Paulo",
-                  "streams": [
-                    {
-                      "id": "kaytee-ffd0c2feb17a",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-51c07e8599",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwd3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178027685820756&wsIPSercert=5ef217f0b49ebc74ee519625641d1480&wsBindIP=2&wsserid=1172666312704417830"
-                        },
-                        {
-                          "id": "lnk-8418f9883c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-c04177cfaf14",
-          "name": "⚽ Palestino vs A. Italiano | Live 0 - 0 07:00 01/06/2026",
+          "name": "⚽ Palestino vs A. Italiano | H2 - 69' 0 - 0 07:00 01/06/2026",
           "tournament": "Primera División",
           "logo_nha": "https://media.api-sports.io/football/teams/2318.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2329.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c679e8a18b",
+                          "id": "lnk-5f5c5d9d11",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwd3gr4dymttgwanhct3fa4d1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178027686691351&wsIPSercert=5ef217f0b49ebc74ee519625641d1480&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwd0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178027746653531&wsIPSercert=0a3f0884b727b70b503bebac9835b910&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-a3884566ab",
+                          "id": "lnk-60817a916b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-62fec4952bf2",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e25973809c92",
+          "name": "⚽ Austria vs Tunisia | Sắp diễn ra vs 01:45 02/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/775.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/775.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e25973809c92",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e25973809c92",
+                  "name": "Austria vs Tunisia",
+                  "streams": [
+                    {
+                      "id": "kaytee-e25973809c92",
                       "name": "F",
                       "stream_links": []
                     }
