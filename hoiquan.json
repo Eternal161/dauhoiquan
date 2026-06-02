@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:30 02/06/2026",
+  "last_updated": "07:40 02/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cbec6c7d78",
+                          "id": "lnk-ea1ac61cb8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-a2cfedcffbcd",
-          "name": "⚽ Colombia vs Costa Rica | H2 - 61' 2 - 1 06:00 02/06/2026",
+          "name": "⚽ Colombia vs Costa Rica | H2 - 71' 2 - 1 06:00 02/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/250px-Flag_of_Costa_Rica_%28state%29.svg.png",
@@ -99,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d773c309fc",
+                          "id": "lnk-beed61c90a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwe3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178036025912943&wsIPSercert=2fb7196dc9755ad7af22964976b3ac48&wsBindIP=2&wsserid=1172666312698126342"
+                          "url": "https://tfwe1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-178036086289809&wsIPSercert=01f216aa5bb36e4b2ae7f1d924f7473a&wsBindIP=2&wsserid=1172580915182858196"
                         },
                         {
-                          "id": "lnk-1564ed146b",
+                          "id": "lnk-fdef00c329",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -122,7 +122,7 @@
         },
         {
           "id": "kaytee-aad62b95d5a2",
-          "name": "⚽ Canada vs Uzbekistan | Sắp diễn ra vs 08:00 02/06/2026",
+          "name": "⚽ Canada vs Uzbekistan | Sắp bắt đầu - null' 0 - 0 08:00 02/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/1568.png",
@@ -139,10 +139,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -157,7 +157,22 @@
                     {
                       "id": "kaytee-aad62b95d5a2",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-5b7fbf0f58",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwe1gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=010895692e12e82cc6f46a15-178036087141867&wsIPSercert=01f216aa5bb36e4b2ae7f1d924f7473a&wsBindIP=2&wsserid=1172580915173420788"
+                        },
+                        {
+                          "id": "lnk-38739e8ede",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
