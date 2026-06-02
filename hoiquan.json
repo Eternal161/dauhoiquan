@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:30 02/06/2026",
+  "last_updated": "19:40 02/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6a05384f5b68",
-          "name": "⚽ Malaysia U19 vs Singapore U19 | Sắp diễn ra vs 20:00 02/06/2026",
+          "name": "⚽ Malaysia U19 vs Singapore U19 | Sắp bắt đầu - null' 0 - 0 20:00 02/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19151.png",
           "logo_khach": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-6a05384f5b68",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-dd49707a54",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwe3gr4uqmtt8y41hcjzgrzdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178040405136782&wsIPSercert=6a0b073d67023dec9dc57de621741122&wsBindIP=2&wsserid=1172666312698126342"
+                        },
+                        {
+                          "id": "lnk-44fae3d113",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
