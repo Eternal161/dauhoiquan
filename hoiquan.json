@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:40 02/06/2026",
+  "last_updated": "19:50 02/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6a05384f5b68",
-          "name": "⚽ Malaysia U19 vs Singapore U19 | Sắp bắt đầu - null' 0 - 0 20:00 02/06/2026",
+          "name": "⚽ Malaysia U19 vs Singapore U19 | Live 0 - 0 20:00 02/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19151.png",
           "logo_khach": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-dd49707a54",
+                          "id": "lnk-09f6a71577",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwe3gr4uqmtt8y41hcjzgrzdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178040405136782&wsIPSercert=6a0b073d67023dec9dc57de621741122&wsBindIP=2&wsserid=1172666312698126342"
+                          "url": "https://tfwe0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-178040465844156&wsIPSercert=146a4de3821c732dd27f0709b4f91642&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-44fae3d113",
+                          "id": "lnk-f1c3b32a80",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
