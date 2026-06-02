@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:40 02/06/2026",
+  "last_updated": "22:51 02/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-1bdc04e2dc89",
-          "name": "⚽ Al Kahrabaa vs Al-Karma | Sắp bắt đầu - null' 0 - 0 22:00 02/06/2026",
-          "tournament": "Iraqi League",
-          "logo_nha": "https://media.api-sports.io/football/teams/11064.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/25063.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/11064.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-1bdc04e2dc89",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-1bdc04e2dc89",
-                  "name": "Al Kahrabaa vs Al-Karma",
-                  "streams": [
-                    {
-                      "id": "kaytee-1bdc04e2dc89",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a554d18078",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwe0gr4uqmtt8y41hcjzgyzdrcjifi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178041485653929&wsIPSercert=8aa0f5093b37649c6f607d5ba92df45d&wsBindIP=2&wsserid=1172666312704417830"
-                        },
-                        {
-                          "id": "lnk-f25f17d1be",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-02dab0015edf",
           "name": "⚽ Croatia vs Belgium | Sắp bắt đầu - null' 0 - 0 23:00 02/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-77fef9b444",
+                          "id": "lnk-ddf3fbc1a6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwe3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178041486527774&wsIPSercert=8aa0f5093b37649c6f607d5ba92df45d&wsBindIP=2&wsserid=1172666162445578538"
+                          "url": "https://tfwe1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178041547026860&wsIPSercert=997afa987500ea514a87df97a722c720&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-8994e8a5d6",
+                          "id": "lnk-b1034015df",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-5bed2d52f0ab",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f895f4c84e75",
+          "name": "⚽ Philippines U19 vs Australia U19 | Sắp diễn ra vs 20:00 03/06/2026",
+          "tournament": "ASEAN Championship U19",
+          "logo_nha": "https://media.api-sports.io/football/teams/19153.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/22591.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/19153.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f895f4c84e75",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f895f4c84e75",
+                  "name": "Philippines U19 vs Australia U19",
+                  "streams": [
+                    {
+                      "id": "kaytee-f895f4c84e75",
                       "name": "F",
                       "stream_links": []
                     }
