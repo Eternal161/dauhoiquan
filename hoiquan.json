@@ -1,121 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:40 02/06/2026",
+  "last_updated": "08:51 02/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-bd5d431d2b60",
-          "name": "⚽ Ponte Preta vs Botafogo Sp | H2 - 90' 0 - 0 05:00 02/06/2026",
-          "tournament": "Serie B",
-          "logo_nha": "https://media.api-sports.io/football/teams/139.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2618.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/139.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-bd5d431d2b60",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-bd5d431d2b60",
-                  "name": "Ponte Preta vs Botafogo Sp",
-                  "streams": [
-                    {
-                      "id": "kaytee-bd5d431d2b60",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-471fcac110",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-a2cfedcffbcd",
-          "name": "⚽ Colombia vs Costa Rica | H1 - 28' 2 - 0 06:00 02/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/250px-Flag_of_Costa_Rica_%28state%29.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a2cfedcffbcd",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a2cfedcffbcd",
-                  "name": "Colombia vs Costa Rica",
-                  "streams": [
-                    {
-                      "id": "kaytee-a2cfedcffbcd",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-27a450bfe9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-aad62b95d5a2",
-          "name": "⚽ Canada vs Uzbekistan | H1 - 25' 0 - 0 08:00 02/06/2026",
+          "name": "⚽ Canada vs Uzbekistan | H1 - 36' 0 - 0 08:00 02/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/1568.png",
@@ -152,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e610b4d5ba",
+                          "id": "lnk-074bfc7f86",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwe3gr4uqmtt8y41hcjzgrzdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178036447090447&wsIPSercert=1d647db3e1146a5a7150c80acc0b044f&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwe3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178036508442315&wsIPSercert=d4c8c13cd165e888dceff620679f3410&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-38c397f9f3",
+                          "id": "lnk-d1377156bb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -479,6 +373,96 @@
                   "streams": [
                     {
                       "id": "kaytee-097c39262b39",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-2a8c1b4fddf8",
+          "name": "⚽ Haiti vs New Zealand | Sắp diễn ra vs 07:00 03/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-2a8c1b4fddf8",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-2a8c1b4fddf8",
+                  "name": "Haiti vs New Zealand",
+                  "streams": [
+                    {
+                      "id": "kaytee-2a8c1b4fddf8",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8c2c61106453",
+          "name": "⚽ Barracas Central vs Huracan | Sắp diễn ra vs 07:10 03/06/2026",
+          "tournament": "Copa Argentina",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEUH2RYSu0HFyVZ05p8ps-zOowmIzGxKox_A&s",
+          "logo_khach": "https://media.api-sports.io/football/teams/445.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEUH2RYSu0HFyVZ05p8ps-zOowmIzGxKox_A&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8c2c61106453",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8c2c61106453",
+                  "name": "Barracas Central vs Huracan",
+                  "streams": [
+                    {
+                      "id": "kaytee-8c2c61106453",
                       "name": "F",
                       "stream_links": []
                     }
