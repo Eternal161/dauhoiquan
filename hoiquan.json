@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:30 03/06/2026",
+  "last_updated": "02:40 03/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-097c39262b39",
-          "name": "⚽ Wales vs Ghana | H1 - 42' 0 - 0 01:45 03/06/2026",
+          "name": "⚽ Wales vs Ghana | Giữa Hiệp - 45+1' 0 - 0 01:45 03/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Wales.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-433dca9f79",
+                          "id": "lnk-156d1f32b8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwe3gr4uqmtt8y41hcjzgrzdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178042866313856&wsIPSercert=7312952d4708b182ea446823ec3d76e6&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwe0gr4uqmtt8y41hcjzgrzdrcbofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e73d46884c09585b6c81760a-178042925369097&wsIPSercert=b7175a8ae7ec36b4a908efb682684436&wsBindIP=2&wsserid=1168140817791296288"
                         },
                         {
-                          "id": "lnk-596539200f",
+                          "id": "lnk-8e31ba140c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
