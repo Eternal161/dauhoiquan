@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:10 03/06/2026",
+  "last_updated": "01:20 03/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-ef8728092135",
-          "name": "⚽ Georgia vs Romania | H2 - 50' 1 - 0 00:00 03/06/2026",
+          "name": "⚽ Georgia vs Romania | H2 - 61' 1 - 1 00:00 03/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/250px-Flag_of_Georgia.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10378.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-448d08bce1",
+                          "id": "lnk-f2acceb5c7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwe3gr4uqmtt8y41hcjzgrzdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178042386241074&wsIPSercert=6377697d36c04467f45028baa0b9560c&wsBindIP=2&wsserid=1172666312698126342"
+                          "url": "https://tfwe1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-178042446444376&wsIPSercert=0f915324b63ec844170a9f48cdcffee7&wsBindIP=2&wsserid=1168282035663924028"
                         },
                         {
-                          "id": "lnk-17dddde14d",
+                          "id": "lnk-e78a282198",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-0306853f5551",
-          "name": "⚽ Morocco vs Madagascar | H1 - 45+3' 2 - 0 00:00 03/06/2026",
+          "name": "⚽ Morocco vs Madagascar | Giữa Hiệp - 45+4' 2 - 0 00:00 03/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e0921e0e1b",
+                          "id": "lnk-6c6bff3ded",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwe0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178042387076186&wsIPSercert=6377697d36c04467f45028baa0b9560c&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwe1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=498ad6b0888bc9c29a6331ea-178042447310232&wsIPSercert=0f915324b63ec844170a9f48cdcffee7&wsBindIP=2&wsserid=1172580915176566596"
                         },
                         {
-                          "id": "lnk-e01129a8ed",
+                          "id": "lnk-2358ea18c3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-097c39262b39",
-          "name": "⚽ Wales vs Ghana | Sắp diễn ra vs 01:45 03/06/2026",
+          "name": "⚽ Wales vs Ghana | Sắp bắt đầu - null' 0 - 0 01:45 03/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Wales.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-097c39262b39",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-061915465d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwe1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-178042448146367&wsIPSercert=0f915324b63ec844170a9f48cdcffee7&wsBindIP=2&wsserid=1168282035663924028"
+                        },
+                        {
+                          "id": "lnk-4a59753cd8",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
