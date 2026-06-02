@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:10 02/06/2026",
+  "last_updated": "09:20 02/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-aad62b95d5a2",
-          "name": "⚽ Canada vs Uzbekistan | Giữa Hiệp - 45+2' 0 - 0 08:00 02/06/2026",
+          "name": "⚽ Canada vs Uzbekistan | H2 - 46' 0 - 0 08:00 02/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/1568.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1fc4261152",
+                          "id": "lnk-7704ed9e2f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwe0gr4uqmtt8y41hcjzgyzdrcjifi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178036624981314&wsIPSercert=9fdb135830a850bbfef15c6fc5ee836d&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwe1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178036685343683&wsIPSercert=61c8ac67c62f00f52ccd98d61a81eef7&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-0c12fc9156",
+                          "id": "lnk-d762636c53",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
