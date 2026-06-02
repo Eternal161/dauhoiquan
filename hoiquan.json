@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:20 02/06/2026",
+  "last_updated": "17:30 02/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8e4ed33307f4",
-          "name": "⚽ Thailand U19 vs Brunei U19 | H2 - 63' 7 - 0 16:00 02/06/2026",
+          "name": "⚽ Thailand U19 vs Brunei U19 | H2 - 73' 8 - 0 16:00 02/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19155.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19147.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2a48fd9a06",
+                          "id": "lnk-44f74802dc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwe1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178039565584617&wsIPSercert=6fafd2e507b81ece0a44feaccd47d4fc&wsBindIP=2&wsserid=1168176581102008440"
+                          "url": "https://tfwe3gr4dymttgwanhct3fa4d1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178039625513659&wsIPSercert=4d806a7cf8b7f1877521486984b95f0f&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-4c44b65d7d",
+                          "id": "lnk-f956f7b6ac",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
