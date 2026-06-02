@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:40 03/06/2026",
+  "last_updated": "06:50 03/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-239a90e741",
+                          "id": "lnk-268ca97346",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwe1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178044365957661&wsIPSercert=2595219fe0d2a778fc35794f9070433e&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwe0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178044425163567&wsIPSercert=5a43f7e6a549e6648d844198507842cf&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-9a737aab1c",
+                          "id": "lnk-ad88da86e4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-8c2c61106453",
-          "name": "⚽ Barracas Central vs Huracan | Sắp diễn ra vs 07:10 03/06/2026",
+          "name": "⚽ Barracas Central vs Huracan | Sắp bắt đầu - null' 0 - 0 07:10 03/06/2026",
           "tournament": "Copa Argentina",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEUH2RYSu0HFyVZ05p8ps-zOowmIzGxKox_A&s",
           "logo_khach": "https://media.api-sports.io/football/teams/445.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,15 @@
                     {
                       "id": "kaytee-8c2c61106453",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-e49c34d77d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
