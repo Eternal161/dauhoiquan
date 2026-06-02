@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:40 03/06/2026",
+  "last_updated": "03:50 03/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-097c39262b39",
-          "name": "⚽ Wales vs Ghana | H2 - 88' 0 - 1 01:45 03/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Wales.svg",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Wales.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-097c39262b39",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-097c39262b39",
-                  "name": "Wales vs Ghana",
-                  "streams": [
-                    {
-                      "id": "kaytee-097c39262b39",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-233935194f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwe0gr4uqmtt8y41hcjzgyzdrcjifi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178043285268617&wsIPSercert=eff9423228fff5c5e733f85caf52760d&wsBindIP=2&wsserid=1172666312704417830"
-                        },
-                        {
-                          "id": "lnk-a953002350",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-2a8c1b4fddf8",
           "name": "⚽ Haiti vs New Zealand | Sắp diễn ra vs 07:00 03/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-91307ce9d437",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3eae7dbf88a0",
+          "name": "⚽ Congo Dr vs Denmark | Sắp diễn ra vs 01:00 04/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/21.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3eae7dbf88a0",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3eae7dbf88a0",
+                  "name": "Congo Dr vs Denmark",
+                  "streams": [
+                    {
+                      "id": "kaytee-3eae7dbf88a0",
                       "name": "F",
                       "stream_links": []
                     }
