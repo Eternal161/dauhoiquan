@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:51 02/06/2026",
+  "last_updated": "23:00 02/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-02dab0015edf",
-          "name": "⚽ Croatia vs Belgium | Sắp bắt đầu - null' 0 - 0 23:00 02/06/2026",
+          "name": "⚽ Croatia vs Belgium | Live 0 - 0 23:00 02/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/1.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ddf3fbc1a6",
+                          "id": "lnk-51f818727d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwe1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178041547026860&wsIPSercert=997afa987500ea514a87df97a722c720&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwe3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178041606549615&wsIPSercert=c30a5cf89fd0e178fe80d5aad5932149&wsBindIP=2&wsserid=1172666162445578538"
                         },
                         {
-                          "id": "lnk-b1034015df",
+                          "id": "lnk-e2ddba12c0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
