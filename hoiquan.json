@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:50 02/06/2026",
+  "last_updated": "22:01 02/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-6a05384f5b68",
-          "name": "⚽ Malaysia U19 vs Singapore U19 | Live 0 - 0 20:00 02/06/2026",
-          "tournament": "ASEAN Championship U19",
-          "logo_nha": "https://media.api-sports.io/football/teams/19151.png",
-          "logo_khach": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/19151.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-6a05384f5b68",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-6a05384f5b68",
-                  "name": "Malaysia U19 vs Singapore U19",
-                  "streams": [
-                    {
-                      "id": "kaytee-6a05384f5b68",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f5bea7d092",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwe3gr4dymttgwanhct3fa4d1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178041185489796&wsIPSercert=093fe77df6a112e17c8a3c59337ba63e&wsBindIP=2&wsserid=1172666312698126342"
-                        },
-                        {
-                          "id": "lnk-4ba227e3fc",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-1bdc04e2dc89",
           "name": "⚽ Al Kahrabaa vs Al-Karma | Live 0 - 0 22:00 02/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a192d55d78",
+                          "id": "lnk-7140fab74c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwe3gr4dymttgwanhct3fa4d1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178041186352296&wsIPSercert=093fe77df6a112e17c8a3c59337ba63e&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwe1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-178041247068349&wsIPSercert=59cebb4e1ce58f26e2ecc067e447a015&wsBindIP=2&wsserid=1168282035663924028"
                         },
                         {
-                          "id": "lnk-7b19b0bb3c",
+                          "id": "lnk-a2d85b6cc9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-56d1b4da813e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-5bed2d52f0ab",
+          "name": "⚽ Philippines vs Guam | Sắp diễn ra vs 18:30 03/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://img.freepik.com/free-vector/illustration-philippinesflag_53876-27126.jpg?semt=ais_hybrid&w=740&q=80",
+          "logo_khach": "https://media.api-sports.io/football/teams/8119.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.freepik.com/free-vector/illustration-philippinesflag_53876-27126.jpg?semt=ais_hybrid&w=740&q=80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-5bed2d52f0ab",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-5bed2d52f0ab",
+                  "name": "Philippines vs Guam",
+                  "streams": [
+                    {
+                      "id": "kaytee-5bed2d52f0ab",
                       "name": "F",
                       "stream_links": []
                     }
