@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:50 03/06/2026",
+  "last_updated": "02:01 03/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-ef8728092135",
-          "name": "⚽ Georgia vs Romania | H2 - 90+1' 1 - 1 00:00 03/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/250px-Flag_of_Georgia.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/10378.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/250px-Flag_of_Georgia.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ef8728092135",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ef8728092135",
-                  "name": "Georgia vs Romania",
-                  "streams": [
-                    {
-                      "id": "kaytee-ef8728092135",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bfe8466ef7",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwe0gr4uqmtt8y41hcjzgyzdrcjifi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178042626329867&wsIPSercert=a02d2768f168c8709e430143643141aa&wsBindIP=2&wsserid=1172666312698126342"
-                        },
-                        {
-                          "id": "lnk-5587262645",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-0306853f5551",
-          "name": "⚽ Morocco vs Madagascar | H2 - 65' 2 - 0 00:00 03/06/2026",
+          "name": "⚽ Morocco vs Madagascar | H2 - 74' 2 - 0 00:00 03/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-69bdef7c8f",
+                          "id": "lnk-82f7a004dc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwe0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b897078035d8e4cd82a99de7-178042627185587&wsIPSercert=a02d2768f168c8709e430143643141aa&wsBindIP=2&wsserid=1168140848411308775"
+                          "url": "https://tfwe3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178042687367592&wsIPSercert=2e74ec3cad2ad9d65f5efba3443a001d&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-7899492920",
+                          "id": "lnk-576f7bc0f3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-097c39262b39",
-          "name": "⚽ Wales vs Ghana | H1 - 2' 0 - 0 01:45 03/06/2026",
+          "name": "⚽ Wales vs Ghana | H1 - 11' 0 - 0 01:45 03/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Wales.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4cf6c9ecba",
+                          "id": "lnk-60886f3a0e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwe0gr4uqmtt8y41hcjzgyzdrcjifi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178042628033271&wsIPSercert=a02d2768f168c8709e430143643141aa&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwe3gr4uqmtt8y41hcjzgrzdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178042688194740&wsIPSercert=2e74ec3cad2ad9d65f5efba3443a001d&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-4a491c789b",
+                          "id": "lnk-798e81012e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-ac745b3336d0",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-4bb88e2bfa04",
+          "name": "⚽ Latvia U17 vs Albania U17 | Sắp diễn ra vs 22:00 03/06/2026",
+          "tournament": "UEFA U17 Championship",
+          "logo_nha": "https://media.api-sports.io/football/teams/17960.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/17936.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/17960.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4bb88e2bfa04",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4bb88e2bfa04",
+                  "name": "Latvia U17 vs Albania U17",
+                  "streams": [
+                    {
+                      "id": "kaytee-4bb88e2bfa04",
                       "name": "F",
                       "stream_links": []
                     }
