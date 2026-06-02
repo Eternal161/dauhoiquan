@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:40 02/06/2026",
+  "last_updated": "21:50 02/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6a05384f5b68",
-          "name": "⚽ Malaysia U19 vs Singapore U19 | H2 - 85' 3 - 0 20:00 02/06/2026",
+          "name": "⚽ Malaysia U19 vs Singapore U19 | Live 0 - 0 20:00 02/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19151.png",
           "logo_khach": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c5d54cff32",
+                          "id": "lnk-f5bea7d092",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwe1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-178041126234409&wsIPSercert=579ffb7415e343563548ecefbfcb8d12&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfwe3gr4dymttgwanhct3fa4d1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178041185489796&wsIPSercert=093fe77df6a112e17c8a3c59337ba63e&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-b05fc1a55d",
+                          "id": "lnk-4ba227e3fc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-1bdc04e2dc89",
-          "name": "⚽ Al Kahrabaa vs Al-Karma | Sắp bắt đầu - null' 0 - 0 22:00 02/06/2026",
+          "name": "⚽ Al Kahrabaa vs Al-Karma | Live 0 - 0 22:00 02/06/2026",
           "tournament": "Iraqi League",
           "logo_nha": "https://media.api-sports.io/football/teams/11064.png",
           "logo_khach": "https://media.api-sports.io/football/teams/25063.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-824a8c6594",
+                          "id": "lnk-a192d55d78",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwe1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=895585cbd856a58ad54602a8-178041127124404&wsIPSercert=579ffb7415e343563548ecefbfcb8d12&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfwe3gr4dymttgwanhct3fa4d1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178041186352296&wsIPSercert=093fe77df6a112e17c8a3c59337ba63e&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-740fdba75e",
+                          "id": "lnk-7b19b0bb3c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
