@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:00 02/06/2026",
+  "last_updated": "07:10 02/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-bd5d431d2b60",
-          "name": "⚽ Ponte Preta vs Botafogo Sp | H2 - 90' 0 - 0 05:00 02/06/2026",
+          "name": "⚽ Ponte Preta vs Botafogo Sp | Live 0 - 0 05:00 02/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/139.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2618.png",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9a78fc2101",
+                          "id": "lnk-f8ab4d06d5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-a2cfedcffbcd",
-          "name": "⚽ Colombia vs Costa Rica | Giữa Hiệp - 45' 2 - 1 06:00 02/06/2026",
+          "name": "⚽ Colombia vs Costa Rica | Live 0 - 0 06:00 02/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/250px-Flag_of_Costa_Rica_%28state%29.svg.png",
@@ -99,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8e1bc33005",
+                          "id": "lnk-8b80c29bfe",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwe0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-178035846587218&wsIPSercert=cc92fbb7fa8482de49a82d0192c4be75&wsBindIP=2&wsserid=1168176346313714739"
+                          "url": "https://tfwe3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178035907569444&wsIPSercert=5f942e815533b102d440769d52bb968e&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-9980248499",
+                          "id": "lnk-9358442874",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
