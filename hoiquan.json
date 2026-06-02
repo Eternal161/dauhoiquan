@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:20 02/06/2026",
+  "last_updated": "10:30 02/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-aad62b95d5a2",
-          "name": "⚽ Canada vs Uzbekistan | H2 - 90+3' 2 - 0 08:00 02/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/1568.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-aad62b95d5a2",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-aad62b95d5a2",
-                  "name": "Canada vs Uzbekistan",
-                  "streams": [
-                    {
-                      "id": "kaytee-aad62b95d5a2",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-41030c43d4",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-8e4ed33307f4",
           "name": "⚽ Thailand U19 vs Brunei U19 | Sắp diễn ra vs 16:00 02/06/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-8c2c61106453",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0f86d8a9fd64",
+          "name": "⚽ Junior vs Atletico Nacional | Sắp diễn ra vs 07:30 03/06/2026",
+          "tournament": "Primera A",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaNCIKzpPJH83I5J2Exi7EAkD4McMVH54pA&s",
+          "logo_khach": "https://media.api-sports.io/football/teams/1137.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaNCIKzpPJH83I5J2Exi7EAkD4McMVH54pA&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0f86d8a9fd64",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0f86d8a9fd64",
+                  "name": "Junior vs Atletico Nacional",
+                  "streams": [
+                    {
+                      "id": "kaytee-0f86d8a9fd64",
                       "name": "F",
                       "stream_links": []
                     }
