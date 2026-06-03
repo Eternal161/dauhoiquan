@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:01 03/06/2026",
+  "last_updated": "09:10 03/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-2a8c1b4fddf8",
-          "name": "⚽ Haiti vs New Zealand | H2 - 65' 3 - 0 07:00 03/06/2026",
+          "name": "⚽ Haiti vs New Zealand | H2 - 75' 3 - 0 07:00 03/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3ba1fe726a",
+                          "id": "lnk-8343ea86c6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwf3gr4dymttgwanhct3fa4d1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178045207571130&wsIPSercert=a1182ebb30b8d2f47aaf46b639423011&wsBindIP=2&wsserid=1172666162445578538"
+                          "url": "https://tfwf3gr4dymttgwanhct3fa4d1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178045266191735&wsIPSercert=e029b8bda7bf476e9fb4b7479a363900&wsBindIP=2&wsserid=1172666162445578538"
                         },
                         {
-                          "id": "lnk-8ff0227247",
+                          "id": "lnk-72c929a201",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,68 +68,8 @@
           ]
         },
         {
-          "id": "kaytee-8c2c61106453",
-          "name": "⚽ Barracas Central vs Huracan | H2 - 90+2' 1 - 0 07:10 03/06/2026",
-          "tournament": "Copa Argentina",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEUH2RYSu0HFyVZ05p8ps-zOowmIzGxKox_A&s",
-          "logo_khach": "https://media.api-sports.io/football/teams/445.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEUH2RYSu0HFyVZ05p8ps-zOowmIzGxKox_A&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-8c2c61106453",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-8c2c61106453",
-                  "name": "Barracas Central vs Huracan",
-                  "streams": [
-                    {
-                      "id": "kaytee-8c2c61106453",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-932efbdbac",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwf3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178045208413727&wsIPSercert=a1182ebb30b8d2f47aaf46b639423011&wsBindIP=2&wsserid=1172666312704417830"
-                        },
-                        {
-                          "id": "lnk-3eedf1d777",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-0f86d8a9fd64",
-          "name": "⚽ Junior vs Atletico Nacional | H2 - 63' 3 - 0 07:30 03/06/2026",
+          "name": "⚽ Junior vs Atletico Nacional | H2 - 72' 3 - 0 07:30 03/06/2026",
           "tournament": "Primera A",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaNCIKzpPJH83I5J2Exi7EAkD4McMVH54pA&s",
           "logo_khach": "https://media.api-sports.io/football/teams/1137.png",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-421edf0550",
+                          "id": "lnk-e538b759af",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwf3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178045209263860&wsIPSercert=a1182ebb30b8d2f47aaf46b639423011&wsBindIP=2&wsserid=1172666312698126342"
+                          "url": "https://tfwf3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178045267051684&wsIPSercert=e029b8bda7bf476e9fb4b7479a363900&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-dfc26ea1fd",
+                          "id": "lnk-f611a571c3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-3eae7dbf88a0",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c2b66df1a40b",
+          "name": "⚽ Albania vs Israel | Sắp diễn ra vs 01:00 04/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/250px-Flag_of_Albania.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/250px-Flag_of_Israel.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/250px-Flag_of_Albania.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c2b66df1a40b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c2b66df1a40b",
+                  "name": "Albania vs Israel",
+                  "streams": [
+                    {
+                      "id": "kaytee-c2b66df1a40b",
                       "name": "F",
                       "stream_links": []
                     }
