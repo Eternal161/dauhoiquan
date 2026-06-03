@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:30 03/06/2026",
+  "last_updated": "09:40 03/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-0f86d8a9fd64",
-          "name": "⚽ Junior vs Atletico Nacional | H2 - 90+3' 3 - 0 07:30 03/06/2026",
-          "tournament": "Primera A",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaNCIKzpPJH83I5J2Exi7EAkD4McMVH54pA&s",
-          "logo_khach": "https://media.api-sports.io/football/teams/1137.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaNCIKzpPJH83I5J2Exi7EAkD4McMVH54pA&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-0f86d8a9fd64",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-0f86d8a9fd64",
-                  "name": "Junior vs Atletico Nacional",
-                  "streams": [
-                    {
-                      "id": "kaytee-0f86d8a9fd64",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cbf3eada9f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwf1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-178045386309061&wsIPSercert=85d82c27ab7c9ca07219d781bcd91b3f&wsBindIP=2&wsserid=1172580915182858196"
-                        },
-                        {
-                          "id": "lnk-c3e2707aa2",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-56d1b4da813e",
           "name": "⚽ Portugal U19 vs Kazakhstan U19 | Sắp diễn ra vs 16:00 03/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-fb1eae9ed62f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-066d49dc7878",
+          "name": "⚽ Poland vs Nigeria | Sắp diễn ra vs 01:45 04/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/24.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/24.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-066d49dc7878",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-066d49dc7878",
+                  "name": "Poland vs Nigeria",
+                  "streams": [
+                    {
+                      "id": "kaytee-066d49dc7878",
                       "name": "F",
                       "stream_links": []
                     }
