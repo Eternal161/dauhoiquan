@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:10 03/06/2026",
+  "last_updated": "18:20 03/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-56d1b4da813e",
-          "name": "⚽ Portugal U19 vs Kazakhstan U19 | H2 - 90+7' 1 - 1 16:00 03/06/2026",
-          "tournament": "UEFA U19 Championship - Qualification",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/1280px-Flag_of_Portugal_%28official%29.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1920px-Flag_of_Kazakhstan.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/1280px-Flag_of_Portugal_%28official%29.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-56d1b4da813e",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-56d1b4da813e",
-                  "name": "Portugal U19 vs Kazakhstan U19",
-                  "streams": [
-                    {
-                      "id": "kaytee-56d1b4da813e",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fcecebc113",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwf1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e7feef4c54a9619feb576549-178048505068322&wsIPSercert=6273400d04a6acccd6b828e8c4d80d7e&wsBindIP=2&wsserid=1168214364742294105"
-                        },
-                        {
-                          "id": "lnk-53f3aa46f2",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-5bed2d52f0ab",
           "name": "⚽ Philippines vs Guam | Sắp bắt đầu - null' 0 - 0 18:30 03/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-56c5223e96",
+                          "id": "lnk-2ca0d395d7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwf0gr4uqmtt8y41hcjzgazdnc3ofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=49caba0ae7b8a66c38e97d70-178048505937565&wsIPSercert=6273400d04a6acccd6b828e8c4d80d7e&wsBindIP=2&wsserid=1168041136565896200"
+                          "url": "https://tfwf3gr4dymttgwanhct3fa4d1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178048565108836&wsIPSercert=fd9691b5d830b5f35c1837daad1a15b8&wsBindIP=2&wsserid=1172666162445578538"
                         },
                         {
-                          "id": "lnk-90bacad7cf",
+                          "id": "lnk-217044df6d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-066d49dc7878",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f73c33afdbd8",
+          "name": "⚽ Luxembourg vs Italy | Sắp diễn ra vs 01:45 04/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/250px-Flag_of_Luxembourg.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/250px-Flag_of_Luxembourg.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f73c33afdbd8",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f73c33afdbd8",
+                  "name": "Luxembourg vs Italy",
+                  "streams": [
+                    {
+                      "id": "kaytee-f73c33afdbd8",
                       "name": "F",
                       "stream_links": []
                     }
