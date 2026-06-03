@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:00 04/06/2026",
+  "last_updated": "01:11 04/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1b8a81735ed6",
-          "name": "⚽ Congo Dr vs Denmark | Sắp bắt đầu - null' 0 - 0 01:00 04/06/2026",
+          "name": "⚽ Congo Dr vs Denmark | H1 - 9' 0 - 0 01:00 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/21.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-14768ba4cf",
+                          "id": "lnk-ec01bb7246",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwf0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178050966337437&wsIPSercert=d79c29eed7507a0dced0a9cca8eea85d&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwf1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178051027015323&wsIPSercert=f26a10521b09180e17d31895d6926819&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-3345d6c0af",
+                          "id": "lnk-6c619fc5a4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-0c0ee6fcf31b",
-          "name": "⚽ Albania vs Israel | Sắp bắt đầu - null' 0 - 0 01:00 04/06/2026",
+          "name": "⚽ Albania vs Israel | H1 - 9' 0 - 0 01:00 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/250px-Flag_of_Albania.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/250px-Flag_of_Israel.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cd544c330c",
+                          "id": "lnk-b64a5bb1c3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwf3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178050967184392&wsIPSercert=d79c29eed7507a0dced0a9cca8eea85d&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwf0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178051027864180&wsIPSercert=f26a10521b09180e17d31895d6926819&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-6c44637bb5",
+                          "id": "lnk-76d9abd578",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-fb1eae9ed62f",
-          "name": "⚽ Netherlands vs Algeria | Sắp diễn ra vs 01:45 04/06/2026",
+          "name": "⚽ Netherlands vs Algeria | Sắp bắt đầu - null' 0 - 0 01:45 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/1118.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-fb1eae9ed62f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-106bc78ef1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwf1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178051028709541&wsIPSercert=f26a10521b09180e17d31895d6926819&wsBindIP=2&wsserid=1168176581104105640"
+                        },
+                        {
+                          "id": "lnk-ae25b26e00",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -174,7 +189,7 @@
         },
         {
           "id": "kaytee-066d49dc7878",
-          "name": "⚽ Poland vs Nigeria | Sắp diễn ra vs 01:45 04/06/2026",
+          "name": "⚽ Poland vs Nigeria | Sắp bắt đầu - null' 0 - 0 01:45 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/24.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png",
@@ -191,10 +206,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -209,7 +224,22 @@
                     {
                       "id": "kaytee-066d49dc7878",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-428792eeb7",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwf0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-178051029536652&wsIPSercert=f26a10521b09180e17d31895d6926819&wsBindIP=2&wsserid=1168202392933970899"
+                        },
+                        {
+                          "id": "lnk-295d060a25",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
