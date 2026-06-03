@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:40 04/06/2026",
+  "last_updated": "00:50 04/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-552b955a4223",
-          "name": "⚽ Congo Dr vs Denmark | Sắp bắt đầu - null' 0 - 0 01:00 04/06/2026",
+          "name": "⚽ Congo Dr vs Denmark | Live 0 - 0 01:00 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/21.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5b4e39b468",
+                          "id": "lnk-863a40a53e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwf0gr4uqmtt8y41hcjzgyzdrcjifi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178050846362660&wsIPSercert=a4340f3bfcdf9e27ea45aa33b32ef2f1&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwf1gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=010895692e12e82cc6f46a15-178050905727391&wsIPSercert=c7ba0c8751c392b5b9c4c98b5f1f6050&wsBindIP=2&wsserid=1172580915173420788"
                         },
                         {
-                          "id": "lnk-9da721ef45",
+                          "id": "lnk-a77e54b806",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
