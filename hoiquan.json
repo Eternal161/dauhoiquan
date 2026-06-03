@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:51 03/06/2026",
+  "last_updated": "00:01 04/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-4bb88e2bfa04",
-          "name": "⚽ Latvia U17 vs Albania U17 | Sắp bắt đầu - null' 0 - 0 22:00 03/06/2026",
-          "tournament": "UEFA U17 Championship",
-          "logo_nha": "https://media.api-sports.io/football/teams/17960.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/17936.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/17960.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-4bb88e2bfa04",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-4bb88e2bfa04",
-                  "name": "Latvia U17 vs Albania U17",
-                  "streams": [
-                    {
-                      "id": "kaytee-4bb88e2bfa04",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-219b5ae7e0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwf1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=827aecba0ca8d7ff8c189169-178050547108795&wsIPSercert=535540121510d04d2efad3f68b847624&wsBindIP=2&wsserid=1172580915182858196"
-                        },
-                        {
-                          "id": "lnk-c2e2baf140",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-3eae7dbf88a0",
           "name": "⚽ Congo Dr vs Denmark | Sắp diễn ra vs 01:00 04/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-bc4d2ae67dbb",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-89d0e71844d9",
+          "name": "⚽ Maldives vs Pakistan | Sắp diễn ra vs 18:00 04/06/2026",
+          "tournament": "Giao Hữu",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/250px-Flag_of_Maldives.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/5535.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/250px-Flag_of_Maldives.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-89d0e71844d9",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-89d0e71844d9",
+                  "name": "Maldives vs Pakistan",
+                  "streams": [
+                    {
+                      "id": "kaytee-89d0e71844d9",
                       "name": "F",
                       "stream_links": []
                     }
