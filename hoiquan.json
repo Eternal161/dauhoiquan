@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:50 03/06/2026",
+  "last_updated": "20:00 03/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-5bed2d52f0ab",
-          "name": "⚽ Philippines vs Guam | Live 0 - 0 18:30 03/06/2026",
+          "name": "⚽ Philippines vs Guam | H2 - 72' 4 - 1 18:30 03/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://img.freepik.com/free-vector/illustration-philippinesflag_53876-27126.jpg?semt=ais_hybrid&w=740&q=80",
           "logo_khach": "https://media.api-sports.io/football/teams/8119.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3a77327257",
+                          "id": "lnk-d2db4d95ea",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwf0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178049105747062&wsIPSercert=67498484a3f72743f7d89c9d73804021&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwf0gr4uqmtt8y41hcjzgrzdrcbofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=49c6f846c0928a7a2f61f5f0-178049166237532&wsIPSercert=7963cfe7d3d63a6145a3e60b9a78b0e1&wsBindIP=2&wsserid=1168140817802830791"
                         },
                         {
-                          "id": "lnk-bd1424ce49",
+                          "id": "lnk-515756e4db",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-6d92cc3e09b6",
-          "name": "⚽ Philippines U19 vs Australia U19 | Sắp bắt đầu - null' 0 - 0 20:00 03/06/2026",
+          "name": "⚽ Philippines U19 vs Australia U19 | H1 - 1' 0 - 0 20:00 03/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19153.png",
           "logo_khach": "https://media.api-sports.io/football/teams/22591.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ecb56c877b",
+                          "id": "lnk-89fe3a6d05",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwf0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178049106577009&wsIPSercert=67498484a3f72743f7d89c9d73804021&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwf0gr4uqmtt8y41hcjzgrzdrcbofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e73d46884c09585b6c81760a-178049167093427&wsIPSercert=7963cfe7d3d63a6145a3e60b9a78b0e1&wsBindIP=2&wsserid=1168140817791296288"
                         },
                         {
-                          "id": "lnk-d6bbc71ac6",
+                          "id": "lnk-319b5518b5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
