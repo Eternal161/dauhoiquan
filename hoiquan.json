@@ -1,15 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:50 04/06/2026",
+  "last_updated": "01:00 04/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-552b955a4223",
-          "name": "⚽ Congo Dr vs Denmark | Live 0 - 0 01:00 04/06/2026",
+          "id": "kaytee-1b8a81735ed6",
+          "name": "⚽ Congo Dr vs Denmark | Sắp bắt đầu - null' 0 - 0 01:00 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/21.png",
@@ -34,26 +34,86 @@
           ],
           "sources": [
             {
-              "id": "kaytee-552b955a4223",
+              "id": "kaytee-1b8a81735ed6",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-552b955a4223",
+                  "id": "kaytee-1b8a81735ed6",
                   "name": "Congo Dr vs Denmark",
                   "streams": [
                     {
-                      "id": "kaytee-552b955a4223",
+                      "id": "kaytee-1b8a81735ed6",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-863a40a53e",
+                          "id": "lnk-14768ba4cf",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwf1gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=010895692e12e82cc6f46a15-178050905727391&wsIPSercert=c7ba0c8751c392b5b9c4c98b5f1f6050&wsBindIP=2&wsserid=1172580915173420788"
+                          "url": "https://tfwf0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178050966337437&wsIPSercert=d79c29eed7507a0dced0a9cca8eea85d&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-a77e54b806",
+                          "id": "lnk-3345d6c0af",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0c0ee6fcf31b",
+          "name": "⚽ Albania vs Israel | Sắp bắt đầu - null' 0 - 0 01:00 04/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/250px-Flag_of_Albania.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/250px-Flag_of_Israel.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/250px-Flag_of_Albania.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0c0ee6fcf31b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0c0ee6fcf31b",
+                  "name": "Albania vs Israel",
+                  "streams": [
+                    {
+                      "id": "kaytee-0c0ee6fcf31b",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cd544c330c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwf3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178050967184392&wsIPSercert=d79c29eed7507a0dced0a9cca8eea85d&wsBindIP=2&wsserid=1172666312704417830"
+                        },
+                        {
+                          "id": "lnk-6c44637bb5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -418,51 +478,6 @@
                   "streams": [
                     {
                       "id": "kaytee-89d0e71844d9",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-3d73366c1286",
-          "name": "⚽ Belgium U17 vs France U17 | Sắp diễn ra vs 18:30 04/06/2026",
-          "tournament": "UEFA U17 Championship",
-          "logo_nha": "https://media.api-sports.io/football/teams/1.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3d73366c1286",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3d73366c1286",
-                  "name": "Belgium U17 vs France U17",
-                  "streams": [
-                    {
-                      "id": "kaytee-3d73366c1286",
                       "name": "F",
                       "stream_links": []
                     }
