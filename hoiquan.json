@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:40 03/06/2026",
+  "last_updated": "17:50 03/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-910eb13c41",
+                          "id": "lnk-6d02d551e6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwf3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178048325398829&wsIPSercert=b2e6f0278c3d0a06860ab25ab7083323&wsBindIP=2&wsserid=1172666162445578538"
+                          "url": "https://tfwf0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178048384885802&wsIPSercert=ed896c9921c869ec3fadd4382c010599&wsBindIP=2&wsserid=1172666162445578538"
                         },
                         {
-                          "id": "lnk-f6387c42de",
+                          "id": "lnk-d78d9d73b0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-5bed2d52f0ab",
-          "name": "⚽ Philippines vs Guam | Sắp diễn ra vs 18:30 03/06/2026",
+          "name": "⚽ Philippines vs Guam | Live 0 - 0 18:30 03/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://img.freepik.com/free-vector/illustration-philippinesflag_53876-27126.jpg?semt=ais_hybrid&w=740&q=80",
           "logo_khach": "https://media.api-sports.io/football/teams/8119.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-5bed2d52f0ab",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-8dab3256c7",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwf3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178048385754340&wsIPSercert=ed896c9921c869ec3fadd4382c010599&wsBindIP=2&wsserid=1172666162445578538"
+                        },
+                        {
+                          "id": "lnk-1075f2b481",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
