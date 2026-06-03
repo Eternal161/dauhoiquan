@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:20 03/06/2026",
+  "last_updated": "17:30 03/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-56d1b4da813e",
-          "name": "⚽ Portugal U19 vs Kazakhstan U19 | Live 0 - 0 16:00 03/06/2026",
+          "name": "⚽ Portugal U19 vs Kazakhstan U19 | H2 - 67' 0 - 0 16:00 03/06/2026",
           "tournament": "UEFA U19 Championship - Qualification",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/1280px-Flag_of_Portugal_%28official%29.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1920px-Flag_of_Kazakhstan.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-65df399d67",
+                          "id": "lnk-a4a0f06a34",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwf1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178048205387652&wsIPSercert=73ae7d385a63f279ea55721ee177afa0&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwf1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=dbd8f789bb7a7a2508c32238-178048266504960&wsIPSercert=79569ab27b810ddf0a6e686ace3b5d90&wsBindIP=2&wsserid=1168278313570948617"
                         },
                         {
-                          "id": "lnk-b31ebb4343",
+                          "id": "lnk-4359798a78",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
