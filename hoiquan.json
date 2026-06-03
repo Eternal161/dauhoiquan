@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:50 04/06/2026",
+  "last_updated": "03:01 04/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-1b8a81735ed6",
-          "name": "⚽ Congo Dr vs Denmark | H2 - 90+2' 0 - 0 01:00 04/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/21.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-1b8a81735ed6",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-1b8a81735ed6",
-                  "name": "Congo Dr vs Denmark",
-                  "streams": [
-                    {
-                      "id": "kaytee-1b8a81735ed6",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e34d9bf32c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwf3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178051626452533&wsIPSercert=d5ac078001e38e187ef69a09b70549f5&wsBindIP=2&wsserid=1172666312704417830"
-                        },
-                        {
-                          "id": "lnk-7a7a50a32c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-0c0ee6fcf31b",
-          "name": "⚽ Albania vs Israel | H2 - 90+1' 0 - 1 01:00 04/06/2026",
+          "name": "⚽ Albania vs Israel | H2 - 90+8' 0 - 1 01:00 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/250px-Flag_of_Albania.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/250px-Flag_of_Israel.svg.png",
@@ -106,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6972f73f97",
+                          "id": "lnk-872651f7a4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwf0gr4uqmtt8y41hcjzgrzdrcbofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e73d46884c09585b6c81760a-178051627323419&wsIPSercert=d5ac078001e38e187ef69a09b70549f5&wsBindIP=2&wsserid=1168140817791296288"
-                        },
-                        {
-                          "id": "lnk-6071b49144",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
                         }
                       ]
@@ -129,7 +62,7 @@
         },
         {
           "id": "kaytee-fb1eae9ed62f",
-          "name": "⚽ Netherlands vs Algeria | Giữa Hiệp - 45+1' 0 - 0 01:45 04/06/2026",
+          "name": "⚽ Netherlands vs Algeria | H2 - 54' 0 - 0 01:45 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/1118.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
@@ -166,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1daa54e319",
+                          "id": "lnk-291c1dd6a7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwf3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178051628165647&wsIPSercert=d5ac078001e38e187ef69a09b70549f5&wsBindIP=2&wsserid=1172666162445578538"
+                          "url": "https://tfwf0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7f81183aa1d540da1c3fc7f7-178051688356998&wsIPSercert=bfb41c5c7e8b7259cd07827303b21d54&wsBindIP=2&wsserid=1168140848410257976"
                         },
                         {
-                          "id": "lnk-e76508f94c",
+                          "id": "lnk-2c8575d771",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -189,7 +122,7 @@
         },
         {
           "id": "kaytee-066d49dc7878",
-          "name": "⚽ Poland vs Nigeria | Giữa Hiệp - 45+4' 1 - 1 01:45 04/06/2026",
+          "name": "⚽ Poland vs Nigeria | H2 - 49' 1 - 1 01:45 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/24.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png",
@@ -226,14 +159,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-83926f60bb",
+                          "id": "lnk-1e22927374",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwf0gr4uqmtt8y41hcjzgrzdrcbofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=6e1279e156ce1898ee876f29-178051628994318&wsIPSercert=d5ac078001e38e187ef69a09b70549f5&wsBindIP=2&wsserid=1168140817803879397"
+                          "url": "https://tfwf3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178051689199357&wsIPSercert=bfb41c5c7e8b7259cd07827303b21d54&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-bb5192d5e6",
+                          "id": "lnk-b564efc5b9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -249,7 +182,7 @@
         },
         {
           "id": "kaytee-f73c33afdbd8",
-          "name": "⚽ Luxembourg vs Italy | H2 - 48' 0 - 0 01:45 04/06/2026",
+          "name": "⚽ Luxembourg vs Italy | H2 - 58' 0 - 1 01:45 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/250px-Flag_of_Luxembourg.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
@@ -286,14 +219,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f154a60e4a",
+                          "id": "lnk-b3f342e47d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwf0gr4uqmtt8y41hcjzgrzdrcbofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=49c6f846c0928a7a2f61f5f0-178051629862839&wsIPSercert=d5ac078001e38e187ef69a09b70549f5&wsBindIP=2&wsserid=1168140817802830791"
+                          "url": "https://tfwf3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178051690015245&wsIPSercert=bfb41c5c7e8b7259cd07827303b21d54&wsBindIP=2&wsserid=1172666162445578538"
                         },
                         {
-                          "id": "lnk-8d9686f8c2",
+                          "id": "lnk-d041e1c7c8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -523,6 +456,51 @@
                   "streams": [
                     {
                       "id": "kaytee-89d0e71844d9",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3d73366c1286",
+          "name": "⚽ Belgium U17 vs France U17 | Sắp diễn ra vs 18:30 04/06/2026",
+          "tournament": "UEFA U17 Championship",
+          "logo_nha": "https://media.api-sports.io/football/teams/1.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3d73366c1286",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3d73366c1286",
+                  "name": "Belgium U17 vs France U17",
+                  "streams": [
+                    {
+                      "id": "kaytee-3d73366c1286",
                       "name": "F",
                       "stream_links": []
                     }
