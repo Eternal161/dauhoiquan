@@ -1,132 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:40 04/06/2026",
+  "last_updated": "03:50 04/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-fb1eae9ed62f",
-          "name": "⚽ Netherlands vs Algeria | H2 - 90+4' 0 - 1 01:45 04/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/1118.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1118.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-fb1eae9ed62f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-fb1eae9ed62f",
-                  "name": "Netherlands vs Algeria",
-                  "streams": [
-                    {
-                      "id": "kaytee-fb1eae9ed62f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0649a70b58",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwf3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178051925307775&wsIPSercert=4a0435e4f68f94a223c5f722596ef3a7&wsBindIP=2&wsserid=1172666162445578538"
-                        },
-                        {
-                          "id": "lnk-891f91bbbd",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-066d49dc7878",
-          "name": "⚽ Poland vs Nigeria | H2 - 89' 1 - 2 01:45 04/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/24.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/24.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-066d49dc7878",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-066d49dc7878",
-                  "name": "Poland vs Nigeria",
-                  "streams": [
-                    {
-                      "id": "kaytee-066d49dc7878",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30072840c1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwf3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178051926195424&wsIPSercert=4a0435e4f68f94a223c5f722596ef3a7&wsBindIP=2&wsserid=1172666312698126342"
-                        },
-                        {
-                          "id": "lnk-b344e41cd6",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-f859d2eb839d",
           "name": "⚽ San Lorenzo vs Deportivo Riestra | Sắp diễn ra vs 07:10 04/06/2026",
@@ -478,6 +358,96 @@
                   "streams": [
                     {
                       "id": "kaytee-0e483e46f7ec",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1d8ed6197864",
+          "name": "⚽ Slovenia vs Cyprus | Sắp diễn ra vs 23:00 04/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/17979.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/4/48/Cyprus_Football_Association_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/17979.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1d8ed6197864",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1d8ed6197864",
+                  "name": "Slovenia vs Cyprus",
+                  "streams": [
+                    {
+                      "id": "kaytee-1d8ed6197864",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-fe2a124a9f64",
+          "name": "⚽ Northern Ireland vs Guinea | Sắp diễn ra vs 23:00 04/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/776.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1509.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/776.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-fe2a124a9f64",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-fe2a124a9f64",
+                  "name": "Northern Ireland vs Guinea",
+                  "streams": [
+                    {
+                      "id": "kaytee-fe2a124a9f64",
                       "name": "F",
                       "stream_links": []
                     }
