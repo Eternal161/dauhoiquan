@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:30 03/06/2026",
+  "last_updated": "15:40 03/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-56d1b4da813e",
-          "name": "⚽ Portugal U19 vs Kazakhstan U19 | Sắp diễn ra vs 16:00 03/06/2026",
+          "name": "⚽ Portugal U19 vs Kazakhstan U19 | Sắp bắt đầu - null' 0 - 0 16:00 03/06/2026",
           "tournament": "UEFA U19 Championship - Qualification",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/1280px-Flag_of_Portugal_%28official%29.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1920px-Flag_of_Kazakhstan.svg.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-56d1b4da813e",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-e58ce771e1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwf3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178047604850572&wsIPSercert=d73670c6f62cb34fb1f53449adb421c5&wsBindIP=2&wsserid=1172666162445578538"
+                        },
+                        {
+                          "id": "lnk-2c411863b2",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
