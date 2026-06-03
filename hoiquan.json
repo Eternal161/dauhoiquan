@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:30 04/06/2026",
+  "last_updated": "03:40 04/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-fb1eae9ed62f",
-          "name": "⚽ Netherlands vs Algeria | H2 - 84' 0 - 0 01:45 04/06/2026",
+          "name": "⚽ Netherlands vs Algeria | H2 - 90+4' 0 - 1 01:45 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/1118.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-35b4fef3cb",
+                          "id": "lnk-0649a70b58",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwf3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178051866018387&wsIPSercert=67a472ab6bb72df7212548605eeac440&wsBindIP=2&wsserid=1172666162445578538"
+                          "url": "https://tfwf3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178051925307775&wsIPSercert=4a0435e4f68f94a223c5f722596ef3a7&wsBindIP=2&wsserid=1172666162445578538"
                         },
                         {
-                          "id": "lnk-e6e5b22214",
+                          "id": "lnk-891f91bbbd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-066d49dc7878",
-          "name": "⚽ Poland vs Nigeria | H2 - 79' 1 - 2 01:45 04/06/2026",
+          "name": "⚽ Poland vs Nigeria | H2 - 89' 1 - 2 01:45 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/24.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png",
@@ -106,78 +106,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6d4450d57c",
+                          "id": "lnk-30072840c1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwf3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178051866906947&wsIPSercert=67a472ab6bb72df7212548605eeac440&wsBindIP=2&wsserid=1172666312698126342"
+                          "url": "https://tfwf3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178051926195424&wsIPSercert=4a0435e4f68f94a223c5f722596ef3a7&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-2e2814858c",
+                          "id": "lnk-b344e41cd6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-f73c33afdbd8",
-          "name": "⚽ Luxembourg vs Italy | H2 - 88' 0 - 1 01:45 04/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/250px-Flag_of_Luxembourg.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/250px-Flag_of_Luxembourg.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f73c33afdbd8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f73c33afdbd8",
-                  "name": "Luxembourg vs Italy",
-                  "streams": [
-                    {
-                      "id": "kaytee-f73c33afdbd8",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4e8c86badc",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwf3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=36cd5dd69e7e77ca8cf5ebaf-178051867739629&wsIPSercert=67a472ab6bb72df7212548605eeac440&wsBindIP=2&wsserid=1172666162445578538"
-                        },
-                        {
-                          "id": "lnk-0e3620b7ca",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
                         }
                       ]
                     }
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-7d442d9c8cf6",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0e483e46f7ec",
+          "name": "⚽ Timor Leste U19 vs Indonesia U19 | Sắp diễn ra vs 20:00 04/06/2026",
+          "tournament": "ASEAN Championship U19",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1280px-Flag_of_East_Timor.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/19149.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1280px-Flag_of_East_Timor.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0e483e46f7ec",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0e483e46f7ec",
+                  "name": "Timor Leste U19 vs Indonesia U19",
+                  "streams": [
+                    {
+                      "id": "kaytee-0e483e46f7ec",
                       "name": "F",
                       "stream_links": []
                     }
