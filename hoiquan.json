@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:50 03/06/2026",
+  "last_updated": "07:00 03/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-2a8c1b4fddf8",
-          "name": "⚽ Haiti vs New Zealand | Sắp bắt đầu - null' 0 - 0 07:00 03/06/2026",
+          "name": "⚽ Haiti vs New Zealand | Live 0 - 0 07:00 03/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-268ca97346",
+                          "id": "lnk-76930dc947",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwe0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178044425163567&wsIPSercert=5a43f7e6a549e6648d844198507842cf&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwf0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178044486229260&wsIPSercert=b66889e261a07717dde1451a522c6df4&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-ad88da86e4",
+                          "id": "lnk-e22d51c09f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-8c2c61106453",
-          "name": "⚽ Barracas Central vs Huracan | Sắp bắt đầu - null' 0 - 0 07:10 03/06/2026",
+          "name": "⚽ Barracas Central vs Huracan | Live 0 - 0 07:10 03/06/2026",
           "tournament": "Copa Argentina",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEUH2RYSu0HFyVZ05p8ps-zOowmIzGxKox_A&s",
           "logo_khach": "https://media.api-sports.io/football/teams/445.png",
@@ -106,7 +106,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e49c34d77d",
+                          "id": "lnk-549e280e90",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
