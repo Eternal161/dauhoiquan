@@ -1,15 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:20 04/06/2026",
+  "last_updated": "00:30 04/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-3eae7dbf88a0",
-          "name": "⚽ Congo Dr vs Denmark | Sắp diễn ra vs 01:00 04/06/2026",
+          "id": "kaytee-552b955a4223",
+          "name": "⚽ Congo Dr vs Denmark | Sắp bắt đầu - null' 0 - 0 01:00 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/21.png",
@@ -26,70 +26,40 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
             {
-              "id": "kaytee-3eae7dbf88a0",
+              "id": "kaytee-552b955a4223",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-3eae7dbf88a0",
+                  "id": "kaytee-552b955a4223",
                   "name": "Congo Dr vs Denmark",
                   "streams": [
                     {
-                      "id": "kaytee-3eae7dbf88a0",
+                      "id": "kaytee-552b955a4223",
                       "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-c2b66df1a40b",
-          "name": "⚽ Albania vs Israel | Sắp diễn ra vs 01:00 04/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/250px-Flag_of_Albania.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/250px-Flag_of_Israel.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/250px-Flag_of_Albania.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c2b66df1a40b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c2b66df1a40b",
-                  "name": "Albania vs Israel",
-                  "streams": [
-                    {
-                      "id": "kaytee-c2b66df1a40b",
-                      "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-33dba53f14",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwf0gr4uqmtt8y41hcjzgyzdrcjifi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=09a6646b9301c1355fed7450-178050785811894&wsIPSercert=4e5275068fa49f65cf8d8f52d19480ea&wsBindIP=2&wsserid=1172666312704417830"
+                        },
+                        {
+                          "id": "lnk-f9a8723d8b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -448,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-89d0e71844d9",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3d73366c1286",
+          "name": "⚽ Belgium U17 vs France U17 | Sắp diễn ra vs 18:30 04/06/2026",
+          "tournament": "UEFA U17 Championship",
+          "logo_nha": "https://media.api-sports.io/football/teams/1.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3d73366c1286",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3d73366c1286",
+                  "name": "Belgium U17 vs France U17",
+                  "streams": [
+                    {
+                      "id": "kaytee-3d73366c1286",
                       "name": "F",
                       "stream_links": []
                     }
