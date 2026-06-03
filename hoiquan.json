@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:11 03/06/2026",
+  "last_updated": "23:20 03/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,78 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fa20a40e41",
+                          "id": "lnk-60ac509de5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwf1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd62835041fe49ebfc13d2bc-178050307291555&wsIPSercert=de42a4691a0db299eee704e821714380&wsBindIP=2&wsserid=1168282035622980969"
+                          "url": "https://tfwf3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=e5a1724c8ccf6e2dc0bd5446-178050366664103&wsIPSercert=cb0806e023ece95d634df6dfaba7d9af&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-b01d9c594e",
+                          "id": "lnk-451de330d4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-91307ce9d437",
-          "name": "⚽ Viken vs Utsikten | Sắp bắt đầu - null' 0 - 0 23:30 03/06/2026",
-          "tournament": "Svenska Cupen",
-          "logo_nha": "https://media.api-sports.io/football/teams/16746.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/6706.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/16746.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-91307ce9d437",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-91307ce9d437",
-                  "name": "Viken vs Utsikten",
-                  "streams": [
-                    {
-                      "id": "kaytee-91307ce9d437",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-66d5ec4362",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwf1gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=010895692e12e82cc6f46a15-178050308146074&wsIPSercert=de42a4691a0db299eee704e821714380&wsBindIP=2&wsserid=1172580915173420788"
-                        },
-                        {
-                          "id": "lnk-e5ca3d6b05",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
                         }
                       ]
                     }
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-89597865a7b8",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-bc4d2ae67dbb",
+          "name": "⚽ Myanmar U19 vs Vietnam U19 | Sắp diễn ra vs 16:00 04/06/2026",
+          "tournament": "ASEAN Championship U19",
+          "logo_nha": "https://media.api-sports.io/football/teams/19152.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/19157.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/19152.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bc4d2ae67dbb",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bc4d2ae67dbb",
+                  "name": "Myanmar U19 vs Vietnam U19",
+                  "streams": [
+                    {
+                      "id": "kaytee-bc4d2ae67dbb",
                       "name": "F",
                       "stream_links": []
                     }
