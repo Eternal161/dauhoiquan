@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:20 03/06/2026",
+  "last_updated": "20:30 03/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-5bed2d52f0ab",
-          "name": "⚽ Philippines vs Guam | H2 - 90+2' 5 - 1 18:30 03/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://img.freepik.com/free-vector/illustration-philippinesflag_53876-27126.jpg?semt=ais_hybrid&w=740&q=80",
-          "logo_khach": "https://media.api-sports.io/football/teams/8119.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.freepik.com/free-vector/illustration-philippinesflag_53876-27126.jpg?semt=ais_hybrid&w=740&q=80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-5bed2d52f0ab",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-5bed2d52f0ab",
-                  "name": "Philippines vs Guam",
-                  "streams": [
-                    {
-                      "id": "kaytee-5bed2d52f0ab",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d6bf4e88ff",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwf0gr4uqmtt8y41hcjzgazdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=edec454b741202f36893c258-178049285785905&wsIPSercert=0253fee613ffa3a2eddd5f574c08ad0c&wsBindIP=2&wsserid=1168176346318957775"
-                        },
-                        {
-                          "id": "lnk-c6060ed0ea",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-6d92cc3e09b6",
-          "name": "⚽ Philippines U19 vs Australia U19 | H1 - 21' 0 - 1 20:00 03/06/2026",
+          "name": "⚽ Philippines U19 vs Australia U19 | H1 - 30' 0 - 3 20:00 03/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19153.png",
           "logo_khach": "https://media.api-sports.io/football/teams/22591.png",
@@ -106,65 +46,20 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9fdfd07dcb",
+                          "id": "lnk-25a9eda3ea",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwf0gr4uqmtt8y41hcjzgazdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-178049286661093&wsIPSercert=0253fee613ffa3a2eddd5f574c08ad0c&wsBindIP=2&wsserid=1168176346313714739"
+                          "url": "https://tfwf0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178049346038321&wsIPSercert=026740c13569023f0cf17df9674202f7&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-610adf3a1e",
+                          "id": "lnk-333fb443a3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
                         }
                       ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-ac745b3336d0",
-          "name": "⚽ Greece U19 vs Serbia U19 | Sắp diễn ra vs 22:00 03/06/2026",
-          "tournament": "UEFA U19 Championship - Qualification",
-          "logo_nha": "https://media.api-sports.io/football/teams/10364.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/10346.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10364.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ac745b3336d0",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ac745b3336d0",
-                  "name": "Greece U19 vs Serbia U19",
-                  "streams": [
-                    {
-                      "id": "kaytee-ac745b3336d0",
-                      "name": "F",
-                      "stream_links": []
                     }
                   ]
                 }
@@ -478,6 +373,96 @@
                   "streams": [
                     {
                       "id": "kaytee-f73c33afdbd8",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f859d2eb839d",
+          "name": "⚽ San Lorenzo vs Deportivo Riestra | Sắp diễn ra vs 07:10 04/06/2026",
+          "tournament": "Copa Argentina",
+          "logo_nha": "https://media.api-sports.io/football/teams/460.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Escudo_del_Club_Deportivo_Riestra.svg/250px-Escudo_del_Club_Deportivo_Riestra.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/460.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f859d2eb839d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f859d2eb839d",
+                  "name": "San Lorenzo vs Deportivo Riestra",
+                  "streams": [
+                    {
+                      "id": "kaytee-f859d2eb839d",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-78904862b437",
+          "name": "⚽ Panama vs Dominican Republic | Sắp diễn ra vs 07:45 04/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/1280px-Flag_of_the_Dominican_Republic.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-78904862b437",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-78904862b437",
+                  "name": "Panama vs Dominican Republic",
+                  "streams": [
+                    {
+                      "id": "kaytee-78904862b437",
                       "name": "F",
                       "stream_links": []
                     }
