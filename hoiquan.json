@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:50 04/06/2026",
+  "last_updated": "23:00 04/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,71 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-746833411b",
+                          "id": "lnk-17686c1625",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=3ba5af17125ac9bf4472fc03-178058824984416&wsIPSercert=cabce686e2a97327f3e068d535957055&wsBindIP=2&wsserid=1172666162445578538"
+                          "url": "https://tfwg1gr4uqmtt8y41hcjagyzdecjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=892072b260ed48db0d700b3c-178058886600753&wsIPSercert=e9572076ab80813de799075c7654aae0&wsBindIP=2&wsserid=1168167351549924720"
                         },
                         {
-                          "id": "lnk-1f43b4681c",
+                          "id": "lnk-f313df52e9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-ab972ed070a7",
-          "name": "⚽ Lebanon vs Yemen | Sắp bắt đầu - null' 0 - 0 23:00 04/06/2026",
-          "tournament": "Asian Cup - Qualification",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/250px-Flag_of_Lebanon.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/1280px-Flag_of_Yemen.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/250px-Flag_of_Lebanon.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ab972ed070a7",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ab972ed070a7",
-                  "name": "Lebanon vs Yemen",
-                  "streams": [
-                    {
-                      "id": "kaytee-ab972ed070a7",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8fa5fe0710",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
                         }
                       ]
                     }
@@ -159,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bbf7207e60",
+                          "id": "lnk-00aa5749fa",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=a0d8453133b83a3a56f80237-178058826696510&wsIPSercert=cabce686e2a97327f3e068d535957055&wsBindIP=2&wsserid=1172666312698126342"
+                          "url": "https://tfwg1gr4uqmtt8y41hcjagyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=b1ed8ee4bf0cc06b1e388d87-178058887472986&wsIPSercert=e9572076ab80813de799075c7654aae0&wsBindIP=2&wsserid=1168259296640705555"
                         },
                         {
-                          "id": "lnk-f275855858",
+                          "id": "lnk-8f11b071a0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -486,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-602b71eea97c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-02b01f65bb4b",
+          "name": "⚽ Daegu Fc vs Paju Citizen | Sắp diễn ra vs 17:30 05/06/2026",
+          "tournament": "K League 2",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a4/Daegu_FC.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/7098.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/a/a4/Daegu_FC.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-02b01f65bb4b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-02b01f65bb4b",
+                  "name": "Daegu Fc vs Paju Citizen",
+                  "streams": [
+                    {
+                      "id": "kaytee-02b01f65bb4b",
                       "name": "F",
                       "stream_links": []
                     }
