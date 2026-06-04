@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:30 05/06/2026",
+  "last_updated": "01:40 05/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-25e6f1ad2037",
-          "name": "⚽ Sweden vs Greece | H2 - 69' 2 - 1 00:00 05/06/2026",
+          "name": "⚽ Sweden vs Greece | H2 - 80' 2 - 1 00:00 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/5.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1117.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-22c18c1294",
+                          "id": "lnk-f2e56ff78b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=a6defa01f6e1e6463957ff66-178059785750021&wsIPSercert=8db12c506f8da718f08d7330fb7332bd&wsBindIP=2&wsserid=1168176581102008440"
+                          "url": "https://tfwg0gr4uqmtt8y41hcjzgazdnc3ofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=6650bde40cd33e680567646d-178059846081946&wsIPSercert=4eaf7536529fffcc0c4586c818ecf8cb&wsBindIP=2&wsserid=1168176346315811943"
                         },
                         {
-                          "id": "lnk-014321ef8b",
+                          "id": "lnk-67ea4089c4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-7b604a51be7e",
-          "name": "⚽ Spain vs Iraq | Sắp diễn ra vs 02:00 05/06/2026",
+          "name": "⚽ Spain vs Iraq | Sắp bắt đầu - null' 0 - 0 02:00 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/9.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1567.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-7b604a51be7e",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-ad2805d155",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwg0gr4uqmtt8y41hcjzgazdnc3ofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=1727692f2fcfce8af9ab5981-178059846930270&wsIPSercert=4eaf7536529fffcc0c4586c818ecf8cb&wsBindIP=2&wsserid=1168041062946239395"
+                        },
+                        {
+                          "id": "lnk-edfcb1cba4",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
