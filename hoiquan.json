@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:40 04/06/2026",
+  "last_updated": "17:50 04/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-bc4d2ae67dbb",
-          "name": "⚽ Myanmar U19 vs Vietnam U19 | H2 - 83' 0 - 4 16:00 04/06/2026",
+          "name": "⚽ Myanmar U19 vs Vietnam U19 | H2 - 90+3' 0 - 5 16:00 04/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19152.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19157.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3d99c1f5f5",
+                          "id": "lnk-fdee241317",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg3gr4dymttgwanhct3faau1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3ae822f92d9ae0a5ac36ec17-178056965613371&wsIPSercert=1812e93751e55de341195931f7353e51&wsBindIP=2&wsserid=1172666312483236046"
+                          "url": "https://tfwg1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178057026063179&wsIPSercert=fa143bdca839f8e5a3e384c5e9ab1a16&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-06dbacaabb",
+                          "id": "lnk-bb96b1fa2a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -383,6 +383,51 @@
           ]
         },
         {
+          "id": "kaytee-53ac32778198",
+          "name": "⚽ Italy U17 vs Spain U17 | Sắp diễn ra vs 00:00 05/06/2026",
+          "tournament": "UEFA U17 Championship",
+          "logo_nha": "https://tmssl.akamaized.net//images/wappen/big/23133.png?lm=1672672799",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1280px-Bandera_de_Espa%C3%B1a.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://tmssl.akamaized.net//images/wappen/big/23133.png?lm=1672672799",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-53ac32778198",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-53ac32778198",
+                  "name": "Italy U17 vs Spain U17",
+                  "streams": [
+                    {
+                      "id": "kaytee-53ac32778198",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-7bca5ca385b4",
           "name": "⚽ Spain vs Iraq | Sắp diễn ra vs 02:00 05/06/2026",
           "tournament": "Friendlies",
@@ -418,51 +463,6 @@
                   "streams": [
                     {
                       "id": "kaytee-7bca5ca385b4",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-7bce49e369d5",
-          "name": "⚽ France vs Ivory Coast | Sắp diễn ra vs 02:10 05/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/2.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-7bce49e369d5",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-7bce49e369d5",
-                  "name": "France vs Ivory Coast",
-                  "streams": [
-                    {
-                      "id": "kaytee-7bce49e369d5",
                       "name": "F",
                       "stream_links": []
                     }
