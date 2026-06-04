@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:30 04/06/2026",
+  "last_updated": "17:40 04/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-bc4d2ae67dbb",
-          "name": "⚽ Myanmar U19 vs Vietnam U19 | H2 - 73' 0 - 4 16:00 04/06/2026",
+          "name": "⚽ Myanmar U19 vs Vietnam U19 | H2 - 83' 0 - 4 16:00 04/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19152.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19157.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-517a3fff96",
+                          "id": "lnk-3d99c1f5f5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2bdea2174d4973e05984e7a8-178056905940114&wsIPSercert=7d892ca3d892ad1ccf66c485865f05c3&wsBindIP=2&wsserid=1168243256623223254"
+                          "url": "https://tfwg3gr4dymttgwanhct3faau1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3ae822f92d9ae0a5ac36ec17-178056965613371&wsIPSercert=1812e93751e55de341195931f7353e51&wsBindIP=2&wsserid=1172666312483236046"
                         },
                         {
-                          "id": "lnk-32ad04efc8",
+                          "id": "lnk-06dbacaabb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
