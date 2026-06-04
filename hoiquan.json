@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:30 05/06/2026",
+  "last_updated": "06:40 05/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0eec6dfbe7",
+                          "id": "lnk-5b5c42363c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-607e14799524",
-          "name": "⚽ Czech Republic vs Guatemala | Sắp diễn ra vs 07:00 05/06/2026",
+          "name": "⚽ Czech Republic vs Guatemala | Sắp bắt đầu - null' 0 - 0 07:00 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/770.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5161.png",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,22 @@
                     {
                       "id": "kaytee-607e14799524",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-389282cffc",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwg0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178061645127280&wsIPSercert=8b8b99a16b180a288c08a89b434c50e8&wsBindIP=2&wsserid=1168202333418134578"
+                        },
+                        {
+                          "id": "lnk-9809ddb5ff",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
