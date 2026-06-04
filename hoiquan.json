@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:50 05/06/2026",
+  "last_updated": "02:00 05/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-25e6f1ad2037",
-          "name": "⚽ Sweden vs Greece | H2 - 89' 2 - 1 00:00 05/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/5.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1117.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/5.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-25e6f1ad2037",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-25e6f1ad2037",
-                  "name": "Sweden vs Greece",
-                  "streams": [
-                    {
-                      "id": "kaytee-25e6f1ad2037",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8032eb7787",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwg0gr4uqmtt8y41hcjzgyzdrcjifi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=90c30043258119c1e5858f91-178059905779619&wsIPSercert=68e6f38479265422f4ad81e5b011418a&wsBindIP=2&wsserid=1172666312704417830"
-                        },
-                        {
-                          "id": "lnk-7d79a2bbf5",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-7b604a51be7e",
           "name": "⚽ Spain vs Iraq | Sắp bắt đầu - null' 0 - 0 02:00 05/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-12d99a7a11",
+                          "id": "lnk-1757319502",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg0gr4uqmtt8y41hcjzgyzdrcjifi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=a0d8453133b83a3a56f80237-178059906613833&wsIPSercert=68e6f38479265422f4ad81e5b011418a&wsBindIP=2&wsserid=1172666312698126342"
+                          "url": "https://tfwg3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=a0d8453133b83a3a56f80237-178059966102755&wsIPSercert=bd4862561beab3aa895c1e95aba72e23&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-68e81a3cc6",
+                          "id": "lnk-7b6915826d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a1820bbd99",
+                          "id": "lnk-eab74db53b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=90c30043258119c1e5858f91-178059907527354&wsIPSercert=68e6f38479265422f4ad81e5b011418a&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwg3gr4dymttgwanhct3faau1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=3ae822f92d9ae0a5ac36ec17-178059966964778&wsIPSercert=bd4862561beab3aa895c1e95aba72e23&wsBindIP=2&wsserid=1172666312483236046"
                         },
                         {
-                          "id": "lnk-6b7ea97c12",
+                          "id": "lnk-a8cc2e2f59",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-df460eb7d795",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-eb4051212af7",
+          "name": "⚽ Singapore U19 vs Thailand U19 | Sắp diễn ra vs 20:00 05/06/2026",
+          "tournament": "ASEAN Championship U19",
+          "logo_nha": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/19155.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-eb4051212af7",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-eb4051212af7",
+                  "name": "Singapore U19 vs Thailand U19",
+                  "streams": [
+                    {
+                      "id": "kaytee-eb4051212af7",
                       "name": "F",
                       "stream_links": []
                     }
