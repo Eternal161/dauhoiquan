@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:40 04/06/2026",
+  "last_updated": "20:51 04/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-ea64e89f7c48",
-          "name": "⚽ Cambodia vs Bhutan | H2 - 83' 3 - 0 19:30 04/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/1543.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1543.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ea64e89f7c48",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ea64e89f7c48",
-                  "name": "Cambodia vs Bhutan",
-                  "streams": [
-                    {
-                      "id": "kaytee-ea64e89f7c48",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3c2c27db55",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwg1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=a9aa461cfdfc0f954c33882f-178058045792779&wsIPSercert=619a1eaeeb90cabf692a332c19943c28&wsBindIP=2&wsserid=1168243256620077470"
-                        },
-                        {
-                          "id": "lnk-395da8ccf9",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-a38c29c2cdb0",
-          "name": "⚽ Timor Leste U19 vs Indonesia U19 | H1 - 41' 0 - 0 20:00 04/06/2026",
+          "name": "⚽ Timor Leste U19 vs Indonesia U19 | H1 - 45+6' 0 - 1 20:00 04/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1280px-Flag_of_East_Timor.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19149.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c6554f9694",
+                          "id": "lnk-26c3da1abb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg1gr3uomttgr31hcj18yzd1qbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=9ded7f0769b5da11fc29cc52-178058046656516&wsIPSercert=619a1eaeeb90cabf692a332c19943c28&wsBindIP=2&wsserid=1168243256613785902"
+                          "url": "https://tfwg1gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2c6a768ae9d6db114f710835-178058107449269&wsIPSercert=6377b3cfc4024e35da9f1585f5245d69&wsBindIP=2&wsserid=1168243256623223254"
                         },
                         {
-                          "id": "lnk-a3da15f0e4",
+                          "id": "lnk-9f24b52ba7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-f1ce2143c125",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-602b71eea97c",
+          "name": "⚽ Kamatamare Sanuki vs Parceiro Nagano | Sắp diễn ra vs 17:00 05/06/2026",
+          "tournament": "J2/J3 League",
+          "logo_nha": "https://media.api-sports.io/football/teams/317.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4323.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/317.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-602b71eea97c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-602b71eea97c",
+                  "name": "Kamatamare Sanuki vs Parceiro Nagano",
+                  "streams": [
+                    {
+                      "id": "kaytee-602b71eea97c",
                       "name": "F",
                       "stream_links": []
                     }
