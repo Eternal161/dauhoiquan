@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:50 05/06/2026",
+  "last_updated": "04:01 05/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-7b604a51be7e",
-          "name": "⚽ Spain vs Iraq | H2 - 89' 1 - 1 02:00 05/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/9.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1567.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/9.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-7b604a51be7e",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-7b604a51be7e",
-                  "name": "Spain vs Iraq",
-                  "streams": [
-                    {
-                      "id": "kaytee-7b604a51be7e",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bfca64f1fd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwg0gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=b13933daec94aca61dee8209-178060625168080&wsIPSercert=ada9442f88ce8704a2824fe4b5aa8f68&wsBindIP=2&wsserid=1168176337059421885"
-                        },
-                        {
-                          "id": "lnk-28fb14f798",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-7bce49e369d5",
-          "name": "⚽ France vs Ivory Coast | H2 - 77' 1 - 1 02:10 05/06/2026",
+          "name": "⚽ France vs Ivory Coast | H2 - 87' 1 - 2 02:10 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/2.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9e6f813506",
+                          "id": "lnk-3b58c865c8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg0gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=1727692f2fcfce8af9ab5981-178060626019562&wsIPSercert=ada9442f88ce8704a2824fe4b5aa8f68&wsBindIP=2&wsserid=1168041062946239395"
+                          "url": "https://tfwg1gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=cb7b951270b03144c4a20e3e-178060687805197&wsIPSercert=d8f36c13e76a678d71dcf4a0b8ae7bcd&wsBindIP=2&wsserid=1168176337057324681"
                         },
                         {
-                          "id": "lnk-0fe17056d3",
+                          "id": "lnk-b14d5df117",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-eb4051212af7",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-72ef33b9623b",
+          "name": "⚽ Indonesia vs Oman | Sắp diễn ra vs 20:00 05/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://i.imgur.com/P4sNAMH.png",
+          "logo_khach": "https://www.shutterstock.com/image-vector/oman-logo-flag-flat-illustration-260nw-424495153.jpg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://i.imgur.com/P4sNAMH.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-72ef33b9623b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-72ef33b9623b",
+                  "name": "Indonesia vs Oman",
+                  "streams": [
+                    {
+                      "id": "kaytee-72ef33b9623b",
                       "name": "F",
                       "stream_links": []
                     }
