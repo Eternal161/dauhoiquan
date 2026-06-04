@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:00 04/06/2026",
+  "last_updated": "23:10 04/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-fe2a124a9f64",
-          "name": "⚽ Northern Ireland vs Guinea | Sắp bắt đầu - null' 0 - 0 23:00 04/06/2026",
+          "name": "⚽ Northern Ireland vs Guinea | H1 - 10' 1 - 0 23:00 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/776.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1509.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-17686c1625",
+                          "id": "lnk-6e7cfcd402",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg1gr4uqmtt8y41hcjagyzdecjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=892072b260ed48db0d700b3c-178058886600753&wsIPSercert=e9572076ab80813de799075c7654aae0&wsBindIP=2&wsserid=1168167351549924720"
+                          "url": "https://tfwg1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178058946902593&wsIPSercert=4c5e5edbe68d1707b77ddd25e7534d34&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-f313df52e9",
+                          "id": "lnk-0ba9356f5a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-21ee6833fbef",
-          "name": "⚽ Slovenia vs Cyprus | Sắp bắt đầu - null' 0 - 0 23:00 04/06/2026",
+          "name": "⚽ Slovenia vs Cyprus | H1 - 8' 0 - 1 23:00 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/17979.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/4/48/Cyprus_Football_Association_logo.svg",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-00aa5749fa",
+                          "id": "lnk-a451ac8312",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg1gr4uqmtt8y41hcjagyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=b1ed8ee4bf0cc06b1e388d87-178058887472986&wsIPSercert=e9572076ab80813de799075c7654aae0&wsBindIP=2&wsserid=1168259296640705555"
+                          "url": "https://tfwg0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178058947752720&wsIPSercert=4c5e5edbe68d1707b77ddd25e7534d34&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-8f11b071a0",
+                          "id": "lnk-cffd89b084",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
