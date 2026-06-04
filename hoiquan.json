@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:30 04/06/2026",
+  "last_updated": "18:40 04/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-3d73366c1286",
-          "name": "⚽ Belgium U17 vs France U17 | Sắp bắt đầu - null' 0 - 0 18:30 04/06/2026",
-          "tournament": "UEFA U17 Championship",
-          "logo_nha": "https://media.api-sports.io/football/teams/1.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3d73366c1286",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3d73366c1286",
-                  "name": "Belgium U17 vs France U17",
-                  "streams": [
-                    {
-                      "id": "kaytee-3d73366c1286",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-38da89c2a2",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwg1gr4uqmtt8y41hcjagyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=5ea6b35beed3738c7bc75cad-178057266565789&wsIPSercert=6ce4a7c5e1e90c3c25b7fa61133ded66&wsBindIP=2&wsserid=1168259296640705555"
-                        },
-                        {
-                          "id": "lnk-6e3f3b4e5e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-7d442d9c8cf6",
-          "name": "⚽ Cambodia vs Bhutan | Sắp diễn ra vs 19:00 04/06/2026",
+          "name": "⚽ Cambodia vs Bhutan | Sắp bắt đầu - null' 0 - 0 19:00 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/1543.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg",
@@ -86,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +44,22 @@
                     {
                       "id": "kaytee-7d442d9c8cf6",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-751ee0ebec",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwg0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=08a97592fcdc472fa413e2d6-178057326453450&wsIPSercert=9887846f7bcf48cb3848f14f375ab91b&wsBindIP=2&wsserid=1168202333420231774"
+                        },
+                        {
+                          "id": "lnk-9d089237eb",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -193,51 +148,6 @@
                   "streams": [
                     {
                       "id": "kaytee-fe2a124a9f64",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-93ce1f639b83",
-          "name": "⚽ Burundi vs Equatorial Guinea | Sắp diễn ra vs 23:00 04/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/1528.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1509.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1528.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-93ce1f639b83",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-93ce1f639b83",
-                  "name": "Burundi vs Equatorial Guinea",
-                  "streams": [
-                    {
-                      "id": "kaytee-93ce1f639b83",
                       "name": "F",
                       "stream_links": []
                     }
@@ -463,6 +373,96 @@
                   "streams": [
                     {
                       "id": "kaytee-607e14799524",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-7131ceae1326",
+          "name": "⚽ Mexico vs Serbia | Sắp diễn ra vs 09:00 05/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-7131ceae1326",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-7131ceae1326",
+                  "name": "Mexico vs Serbia",
+                  "streams": [
+                    {
+                      "id": "kaytee-7131ceae1326",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f1ce2143c125",
+          "name": "⚽ Brunei U19 vs Malaysia U19 | Sắp diễn ra vs 16:00 05/06/2026",
+          "tournament": "ASEAN Championship U19",
+          "logo_nha": "https://media.api-sports.io/football/teams/19147.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/19151.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/19147.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f1ce2143c125",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f1ce2143c125",
+                  "name": "Brunei U19 vs Malaysia U19",
+                  "streams": [
+                    {
+                      "id": "kaytee-f1ce2143c125",
                       "name": "F",
                       "stream_links": []
                     }
