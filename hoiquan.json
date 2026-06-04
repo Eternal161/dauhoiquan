@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:30 04/06/2026",
+  "last_updated": "08:40 04/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-78904862b437",
-          "name": "⚽ Panama vs Dominican Republic | H1 - 37' 1 - 0 07:45 04/06/2026",
+          "name": "⚽ Panama vs Dominican Republic | Giữa Hiệp - 45+2' 2 - 0 07:45 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/1280px-Flag_of_the_Dominican_Republic.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ee27e4b6b0",
+                          "id": "lnk-f9a08193d9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=ef0ccc7d875d9554e04de7b3-178053665260546&wsIPSercert=74b39250c5258f0214d9fd6b46d85c29&wsBindIP=2&wsserid=1168243256629514822"
+                          "url": "https://tfwg1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178053726298302&wsIPSercert=6585652734b7b644a6bfc550b3cb1de2&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-5273ae0b84",
+                          "id": "lnk-4de6b8b5c0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-89597865a7b8",
-          "name": "⚽ South Korea vs El Salvador | H1 - 30' 0 - 0 08:00 04/06/2026",
+          "name": "⚽ South Korea vs El Salvador | H1 - 40' 0 - 0 08:00 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/1728.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/250px-Flag_of_El_Salvador.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-60d55e755b",
+                          "id": "lnk-fbcfd4c60e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2bdea2174d4973e05984e7a8-178053666100338&wsIPSercert=74b39250c5258f0214d9fd6b46d85c29&wsBindIP=2&wsserid=1168243256623223254"
+                          "url": "https://tfwg1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178053727195232&wsIPSercert=6585652734b7b644a6bfc550b3cb1de2&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-ceba743674",
+                          "id": "lnk-7d33b84ad3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
