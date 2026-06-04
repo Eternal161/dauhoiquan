@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:01 05/06/2026",
+  "last_updated": "04:10 05/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-7bce49e369d5",
-          "name": "⚽ France vs Ivory Coast | H2 - 87' 1 - 2 02:10 05/06/2026",
+          "name": "⚽ France vs Ivory Coast | H2 - 90+6' 1 - 2 02:10 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/2.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3b58c865c8",
+                          "id": "lnk-a9ef98a5fa",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg1gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=cb7b951270b03144c4a20e3e-178060687805197&wsIPSercert=d8f36c13e76a678d71dcf4a0b8ae7bcd&wsBindIP=2&wsserid=1168176337057324681"
+                          "url": "https://tfwg0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2bcac8c59898b1e728264dd4-178060745019463&wsIPSercert=874bdf0abbf5633a874a6b52bc96e121&wsBindIP=2&wsserid=1168202333420231774"
                         },
                         {
-                          "id": "lnk-b14d5df117",
+                          "id": "lnk-0cf6605b67",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
