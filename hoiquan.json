@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:41 04/06/2026",
+  "last_updated": "15:51 04/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4ecc09f67c",
+                          "id": "lnk-84de99d99d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178056247401103&wsIPSercert=e4cdfab14f843ccf8f3627837c774b40&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwg1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178056307360130&wsIPSercert=7f2f427e1b7f504d662962585cde3006&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-65f8b5a5b0",
+                          "id": "lnk-32c39e91f3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -248,51 +248,6 @@
           ]
         },
         {
-          "id": "kaytee-1d8ed6197864",
-          "name": "⚽ Slovenia vs Cyprus | Sắp diễn ra vs 23:00 04/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/17979.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/4/48/Cyprus_Football_Association_logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/17979.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-1d8ed6197864",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-1d8ed6197864",
-                  "name": "Slovenia vs Cyprus",
-                  "streams": [
-                    {
-                      "id": "kaytee-1d8ed6197864",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-fe2a124a9f64",
           "name": "⚽ Northern Ireland vs Guinea | Sắp diễn ra vs 23:00 04/06/2026",
           "tournament": "Friendlies",
@@ -463,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-25e6f1ad2037",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-7bca5ca385b4",
+          "name": "⚽ Spain vs Iraq | Sắp diễn ra vs 02:00 05/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/9.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1567.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/9.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-7bca5ca385b4",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-7bca5ca385b4",
+                  "name": "Spain vs Iraq",
+                  "streams": [
+                    {
+                      "id": "kaytee-7bca5ca385b4",
                       "name": "F",
                       "stream_links": []
                     }
