@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:00 05/06/2026",
+  "last_updated": "03:10 05/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-7b604a51be7e",
-          "name": "⚽ Spain vs Iraq | Giữa Hiệp - 45+1' 1 - 1 02:00 05/06/2026",
+          "name": "⚽ Spain vs Iraq | H2 - 49' 1 - 1 02:00 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/9.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1567.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-80696a6c2e",
+                          "id": "lnk-a14e2bb2e2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178060326051232&wsIPSercert=b81df1857d496bfd5cdf59ef088545bb&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfwg3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=a0d8453133b83a3a56f80237-178060385460986&wsIPSercert=f2346d05fdd06c85785f77fe2c9f0954&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-1124747b3f",
+                          "id": "lnk-0694c5dc1f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-7bce49e369d5",
-          "name": "⚽ France vs Ivory Coast | H1 - 45+6' 1 - 0 02:10 05/06/2026",
+          "name": "⚽ France vs Ivory Coast | Giữa Hiệp - 45+6' 1 - 0 02:10 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/2.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a68fea5e7d",
+                          "id": "lnk-6aa026c74d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2bcac8c59898b1e728264dd4-178060326903423&wsIPSercert=b81df1857d496bfd5cdf59ef088545bb&wsBindIP=2&wsserid=1168202333420231774"
+                          "url": "https://tfwg3gr4dymttgwanhct3faau1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=3ae822f92d9ae0a5ac36ec17-178060386310382&wsIPSercert=f2346d05fdd06c85785f77fe2c9f0954&wsBindIP=2&wsserid=1172666312483236046"
                         },
                         {
-                          "id": "lnk-a4760d6ced",
+                          "id": "lnk-bc9c6a66fc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
