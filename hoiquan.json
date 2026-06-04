@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:40 05/06/2026",
+  "last_updated": "01:50 05/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-25e6f1ad2037",
-          "name": "⚽ Sweden vs Greece | H2 - 80' 2 - 1 00:00 05/06/2026",
+          "name": "⚽ Sweden vs Greece | H2 - 89' 2 - 1 00:00 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/5.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1117.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f2e56ff78b",
+                          "id": "lnk-8032eb7787",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg0gr4uqmtt8y41hcjzgazdnc3ofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=6650bde40cd33e680567646d-178059846081946&wsIPSercert=4eaf7536529fffcc0c4586c818ecf8cb&wsBindIP=2&wsserid=1168176346315811943"
+                          "url": "https://tfwg0gr4uqmtt8y41hcjzgyzdrcjifi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=90c30043258119c1e5858f91-178059905779619&wsIPSercert=68e6f38479265422f4ad81e5b011418a&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-67ea4089c4",
+                          "id": "lnk-7d79a2bbf5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ad2805d155",
+                          "id": "lnk-12d99a7a11",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg0gr4uqmtt8y41hcjzgazdnc3ofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=1727692f2fcfce8af9ab5981-178059846930270&wsIPSercert=4eaf7536529fffcc0c4586c818ecf8cb&wsBindIP=2&wsserid=1168041062946239395"
+                          "url": "https://tfwg0gr4uqmtt8y41hcjzgyzdrcjifi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=a0d8453133b83a3a56f80237-178059906613833&wsIPSercert=68e6f38479265422f4ad81e5b011418a&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-edfcb1cba4",
+                          "id": "lnk-68e81a3cc6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-7bce49e369d5",
-          "name": "⚽ France vs Ivory Coast | Sắp diễn ra vs 02:10 05/06/2026",
+          "name": "⚽ France vs Ivory Coast | Sắp bắt đầu - null' 0 - 0 02:10 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/2.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-7bce49e369d5",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-a1820bbd99",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwg0gr4uqmtt8y41hcjzgyzdrcjifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=90c30043258119c1e5858f91-178059907527354&wsIPSercert=68e6f38479265422f4ad81e5b011418a&wsBindIP=2&wsserid=1172666312704417830"
+                        },
+                        {
+                          "id": "lnk-6b7ea97c12",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
