@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:10 04/06/2026",
+  "last_updated": "23:20 04/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-fe2a124a9f64",
-          "name": "⚽ Northern Ireland vs Guinea | H1 - 10' 1 - 0 23:00 04/06/2026",
+          "name": "⚽ Northern Ireland vs Guinea | H1 - 20' 1 - 0 23:00 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/776.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1509.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6e7cfcd402",
+                          "id": "lnk-5893f82fbd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178058946902593&wsIPSercert=4c5e5edbe68d1707b77ddd25e7534d34&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwg3gr4dymttgwanhct3faau1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=3ae822f92d9ae0a5ac36ec17-178059005807836&wsIPSercert=c6587fd2dc6b252627ea2abf5b50c8bf&wsBindIP=2&wsserid=1172666312483236046"
                         },
                         {
-                          "id": "lnk-0ba9356f5a",
+                          "id": "lnk-18aaea64bb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-21ee6833fbef",
-          "name": "⚽ Slovenia vs Cyprus | H1 - 8' 0 - 1 23:00 04/06/2026",
+          "name": "⚽ Slovenia vs Cyprus | H1 - 18' 0 - 1 23:00 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/17979.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/4/48/Cyprus_Football_Association_logo.svg",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a451ac8312",
+                          "id": "lnk-5f4911ac48",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178058947752720&wsIPSercert=4c5e5edbe68d1707b77ddd25e7534d34&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwg3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=a0d8453133b83a3a56f80237-178059006667652&wsIPSercert=c6587fd2dc6b252627ea2abf5b50c8bf&wsBindIP=2&wsserid=1172666312698126342"
                         },
                         {
-                          "id": "lnk-cffd89b084",
+                          "id": "lnk-8fec7dfc21",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -173,7 +173,7 @@
           ]
         },
         {
-          "id": "kaytee-7bca5ca385b4",
+          "id": "kaytee-7b604a51be7e",
           "name": "⚽ Spain vs Iraq | Sắp diễn ra vs 02:00 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/9.png",
@@ -199,15 +199,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-7bca5ca385b4",
+              "id": "kaytee-7b604a51be7e",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-7bca5ca385b4",
+                  "id": "kaytee-7b604a51be7e",
                   "name": "Spain vs Iraq",
                   "streams": [
                     {
-                      "id": "kaytee-7bca5ca385b4",
+                      "id": "kaytee-7b604a51be7e",
                       "name": "F",
                       "stream_links": []
                     }
