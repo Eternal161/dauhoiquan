@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:30 04/06/2026",
+  "last_updated": "22:40 04/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-fe2a124a9f64",
-          "name": "⚽ Northern Ireland vs Guinea | Sắp diễn ra vs 23:00 04/06/2026",
+          "name": "⚽ Northern Ireland vs Guinea | Live 0 - 0 23:00 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/776.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1509.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-fe2a124a9f64",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-a7d8b89a26",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwg3gr4dymttgwanhct3faau1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=3ae822f92d9ae0a5ac36ec17-178058765481704&wsIPSercert=527f061ecadaf89b6f6e600fd49d7e79&wsBindIP=2&wsserid=1172666312483236046"
+                        },
+                        {
+                          "id": "lnk-5a9b8c0a1d",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -54,7 +69,7 @@
         },
         {
           "id": "kaytee-ab972ed070a7",
-          "name": "⚽ Lebanon vs Yemen | Sắp diễn ra vs 23:00 04/06/2026",
+          "name": "⚽ Lebanon vs Yemen | Live 0 - 0 23:00 04/06/2026",
           "tournament": "Asian Cup - Qualification",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/250px-Flag_of_Lebanon.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/1280px-Flag_of_Yemen.svg.png",
@@ -71,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -89,7 +104,75 @@
                     {
                       "id": "kaytee-ab972ed070a7",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-314db447f9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-21ee6833fbef",
+          "name": "⚽ Slovenia vs Cyprus | Sắp bắt đầu - null' 0 - 0 23:00 04/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/17979.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/4/48/Cyprus_Football_Association_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/17979.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-21ee6833fbef",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-21ee6833fbef",
+                  "name": "Slovenia vs Cyprus",
+                  "streams": [
+                    {
+                      "id": "kaytee-21ee6833fbef",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d1d82b9b4b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwg3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=a0d8453133b83a3a56f80237-178058767221707&wsIPSercert=527f061ecadaf89b6f6e600fd49d7e79&wsBindIP=2&wsserid=1172666312698126342"
+                        },
+                        {
+                          "id": "lnk-faf175e3c7",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -403,51 +486,6 @@
                   "streams": [
                     {
                       "id": "kaytee-602b71eea97c",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-02b01f65bb4b",
-          "name": "⚽ Daegu Fc vs Paju Citizen | Sắp diễn ra vs 17:30 05/06/2026",
-          "tournament": "K League 2",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a4/Daegu_FC.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/7098.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/a/a4/Daegu_FC.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-02b01f65bb4b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-02b01f65bb4b",
-                  "name": "Daegu Fc vs Paju Citizen",
-                  "streams": [
-                    {
-                      "id": "kaytee-02b01f65bb4b",
                       "name": "F",
                       "stream_links": []
                     }
