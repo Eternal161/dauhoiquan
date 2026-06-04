@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:50 05/06/2026",
+  "last_updated": "01:00 05/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-fe2a124a9f64",
-          "name": "⚽ Northern Ireland vs Guinea | H2 - 85' 1 - 0 23:00 04/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/776.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1509.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/776.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-fe2a124a9f64",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-fe2a124a9f64",
-                  "name": "Northern Ireland vs Guinea",
-                  "streams": [
-                    {
-                      "id": "kaytee-fe2a124a9f64",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ff935f7483",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwg3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=3ba5af17125ac9bf4472fc03-178059545248336&wsIPSercert=dd01f56fb42338264972c23fbcf6527b&wsBindIP=2&wsserid=1172666162445578538"
-                        },
-                        {
-                          "id": "lnk-2271c88707",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-21ee6833fbef",
-          "name": "⚽ Slovenia vs Cyprus | H2 - 85' 1 - 1 23:00 04/06/2026",
+          "name": "⚽ Slovenia vs Cyprus | H2 - 90+5' 1 - 1 23:00 04/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/17979.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/4/48/Cyprus_Football_Association_logo.svg",
@@ -106,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7908cc59c6",
+                          "id": "lnk-b8244f5e42",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg3gr4dymttgwanhct3fa4d1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=a0d8453133b83a3a56f80237-178059546117927&wsIPSercert=dd01f56fb42338264972c23fbcf6527b&wsBindIP=2&wsserid=1172666312698126342"
-                        },
-                        {
-                          "id": "lnk-7671593901",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
                         }
                       ]
@@ -129,7 +62,7 @@
         },
         {
           "id": "kaytee-25e6f1ad2037",
-          "name": "⚽ Sweden vs Greece | H1 - 45+4' 0 - 1 00:00 05/06/2026",
+          "name": "⚽ Sweden vs Greece | Giữa Hiệp - 45+4' 0 - 1 00:00 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/5.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1117.png",
@@ -166,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8dad34b53a",
+                          "id": "lnk-4727e790f8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=90c30043258119c1e5858f91-178059546962395&wsIPSercert=dd01f56fb42338264972c23fbcf6527b&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwg0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178059607292743&wsIPSercert=736d9b568cbbe8a955cabe0cc9063d10&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-20870b4d04",
+                          "id": "lnk-9202de483e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +426,51 @@
                   "streams": [
                     {
                       "id": "kaytee-02b01f65bb4b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c2a29afe19d7",
+          "name": "⚽ Singapore vs China | Sắp diễn ra vs 18:30 05/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c2a29afe19d7",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c2a29afe19d7",
+                  "name": "Singapore vs China",
+                  "streams": [
+                    {
+                      "id": "kaytee-c2a29afe19d7",
                       "name": "F",
                       "stream_links": []
                     }
