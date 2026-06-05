@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:20 06/06/2026",
+  "last_updated": "01:30 06/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-88aec6f7928d",
-          "name": "⚽ Slovakia vs Montenegro | H2 - 89' 2 - 2 23:30 05/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/250px-Flag_of_Slovakia.svg.png",
-          "logo_khach": "https://img.uefa.com/imgml/flags/240x240/MNE.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/250px-Flag_of_Slovakia.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-88aec6f7928d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-88aec6f7928d",
-                  "name": "Slovakia vs Montenegro",
-                  "streams": [
-                    {
-                      "id": "kaytee-88aec6f7928d",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a4ee2e9a06",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwh0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=7ea55c3b42629c3c9fbf7f74-178068365104964&wsIPSercert=a40dcbd73a24047ea89c81aeafe6f95d&wsBindIP=2&wsserid=1168231884021661304"
-                        },
-                        {
-                          "id": "lnk-abba769ef1",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-112114dc8e6a",
-          "name": "⚽ Moldova vs Bulgaria | H2 - 61' 1 - 1 00:00 06/06/2026",
+          "name": "⚽ Moldova vs Bulgaria | H2 - 71' 1 - 1 00:00 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/330px-Flag_of_Moldova.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/250px-Flag_of_Bulgaria.svg.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b8765b057e",
+                          "id": "lnk-1519cc068a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=1d5c93cf4c29764bc1dcc4c2-178068365980728&wsIPSercert=a40dcbd73a24047ea89c81aeafe6f95d&wsBindIP=2&wsserid=1168283323277558487"
+                          "url": "https://tfwh1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=1d5c93cf4c29764bc1dcc4c2-178068425509263&wsIPSercert=ff605cbba5c912eb71b3a3ffe13d6524&wsBindIP=2&wsserid=1168283323277558487"
                         },
                         {
-                          "id": "lnk-e28ad6ce90",
+                          "id": "lnk-9750c0f822",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-926740812c96",
-          "name": "⚽ Hungary vs Finland | H1 - 35' 1 - 0 00:45 06/06/2026",
+          "name": "⚽ Hungary vs Finland | H1 - 44' 2 - 0 00:45 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/330px-Flag_of_Hungary.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1099.png",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-aed95b569a",
+                          "id": "lnk-57bd020172",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f6adb1702610db92c4f3692c-178068366814768&wsIPSercert=a40dcbd73a24047ea89c81aeafe6f95d&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfwh1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f6adb1702610db92c4f3692c-178068426393366&wsIPSercert=ff605cbba5c912eb71b3a3ffe13d6524&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-6b92bffd8e",
+                          "id": "lnk-07cfef5549",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -189,7 +129,7 @@
         },
         {
           "id": "kaytee-0b5cf0fefbec",
-          "name": "⚽ Azerbaijan vs Malta | H1 - 19' 0 - 0 01:00 06/06/2026",
+          "name": "⚽ Azerbaijan vs Malta | H1 - 29' 0 - 0 01:00 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/250px-Flag_of_Azerbaijan.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/960px-Flag_of_Malta.svg.png",
@@ -226,14 +166,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b8be062771",
+                          "id": "lnk-bf51de6b24",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178068367637850&wsIPSercert=a40dcbd73a24047ea89c81aeafe6f95d&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwh1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178068427272134&wsIPSercert=ff605cbba5c912eb71b3a3ffe13d6524&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-177c438bd7",
+                          "id": "lnk-4aba465067",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -508,6 +448,51 @@
                   "streams": [
                     {
                       "id": "kaytee-7360f6bb3cd9",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6e4735b4c87e",
+          "name": "⚽ Sagan Tosu vs Shonan Bellmare | Sắp diễn ra vs 17:00 06/06/2026",
+          "tournament": "J2/J3 League",
+          "logo_nha": "https://media.api-sports.io/football/teams/295.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/2/2c/ShonanBellmare.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/295.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6e4735b4c87e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6e4735b4c87e",
+                  "name": "Sagan Tosu vs Shonan Bellmare",
+                  "streams": [
+                    {
+                      "id": "kaytee-6e4735b4c87e",
                       "name": "F",
                       "stream_links": []
                     }
