@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:20 05/06/2026",
+  "last_updated": "18:30 05/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-02b01f65bb4b",
-          "name": "⚽ Daegu Fc vs Paju Citizen | H1 - 45+6' 0 - 0 17:30 05/06/2026",
-          "tournament": "K League 2",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a4/Daegu_FC.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/7098.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/a/a4/Daegu_FC.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-02b01f65bb4b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-02b01f65bb4b",
-                  "name": "Daegu Fc vs Paju Citizen",
-                  "streams": [
-                    {
-                      "id": "kaytee-02b01f65bb4b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d334e754ca",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwh1gr3uomttgr31hcj3fa3deqbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=ff1c663e0a7f623fca95554e-178065846142314&wsIPSercert=7d4278d523ce7304d6c6365e46e3ff88&wsBindIP=2&wsserid=1168168154451507561"
-                        },
-                        {
-                          "id": "lnk-443d8629d6",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-c2a29afe19d7",
-          "name": "⚽ Singapore vs China | Sắp bắt đầu - null' 0 - 0 18:30 05/06/2026",
+          "name": "⚽ Singapore vs China | H1 - 1' 0 - 0 18:30 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-19909ba443",
+                          "id": "lnk-17d11a5cfb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh1gr3uomttgr31hcj3fa3deqbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=e1cc7d83f669b6ac70984112-178065846970607&wsIPSercert=7d4278d523ce7304d6c6365e46e3ff88&wsBindIP=2&wsserid=1168168154453604765"
+                          "url": "https://tfwh1gr4uqmtt8y41hcjz8rzdeqjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=1727692f2fcfce8af9ab5981-178065905810713&wsIPSercert=8fe326fa5f8c9e810f0726479759c22c&wsBindIP=2&wsserid=1168041062946239395"
                         },
                         {
-                          "id": "lnk-5c7097ceca",
+                          "id": "lnk-8339c58c84",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -398,11 +338,11 @@
           ]
         },
         {
-          "id": "kaytee-92b358e4d4e9",
+          "id": "kaytee-112114dc8e6a",
           "name": "⚽ Moldova vs Bulgaria | Sắp diễn ra vs 00:00 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/330px-Flag_of_Moldova.svg.png",
-          "logo_khach": "https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/bulgaria.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/250px-Flag_of_Bulgaria.svg.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -424,15 +364,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-92b358e4d4e9",
+              "id": "kaytee-112114dc8e6a",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-92b358e4d4e9",
+                  "id": "kaytee-112114dc8e6a",
                   "name": "Moldova vs Bulgaria",
                   "streams": [
                     {
-                      "id": "kaytee-92b358e4d4e9",
+                      "id": "kaytee-112114dc8e6a",
                       "name": "F",
                       "stream_links": []
                     }
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-926740812c96",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0b5cf0fefbec",
+          "name": "⚽ Azerbaijan vs Malta | Sắp diễn ra vs 01:00 06/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/250px-Flag_of_Azerbaijan.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/960px-Flag_of_Malta.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/250px-Flag_of_Azerbaijan.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0b5cf0fefbec",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0b5cf0fefbec",
+                  "name": "Azerbaijan vs Malta",
+                  "streams": [
+                    {
+                      "id": "kaytee-0b5cf0fefbec",
                       "name": "F",
                       "stream_links": []
                     }
