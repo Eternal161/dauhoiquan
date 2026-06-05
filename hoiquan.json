@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:20 05/06/2026",
+  "last_updated": "10:30 05/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-7131ceae1326",
-          "name": "⚽ Mexico vs Serbia | H2 - 57' 2 - 1 09:00 05/06/2026",
+          "name": "⚽ Mexico vs Serbia | H2 - 62' 3 - 1 09:00 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-088823825d",
+                          "id": "lnk-35ea13d857",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=341fd1997b0c537d8c42fcb0-178062965293403&wsIPSercert=9887846f7bcf48cb3848f14f375ab91b&wsBindIP=2&wsserid=1172580915180761012"
+                          "url": "https://tfwh0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178063025660277&wsIPSercert=f3533ff868389f61b9ababce7565674e&wsBindIP=2&wsserid=1168283476093891044"
                         },
                         {
-                          "id": "lnk-50f5a7fda4",
+                          "id": "lnk-e87896c65f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
