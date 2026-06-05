@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:00 05/06/2026",
+  "last_updated": "16:10 05/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-d504a5402f41",
-          "name": "⚽ Brunei U19 vs Malaysia U19 | Sắp bắt đầu - null' 0 - 0 16:00 05/06/2026",
+          "name": "⚽ Brunei U19 vs Malaysia U19 | H1 - 11' 0 - 0 16:00 05/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19147.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19151.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f340273343",
+                          "id": "lnk-37f910e32d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh1gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=33c58bb968e119c20b02d306-178065006178147&wsIPSercert=a2debfb7465160d371726557ce411769&wsBindIP=2&wsserid=1168176346313714739"
+                          "url": "https://tfwh0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0e961616d49cc0b871242a4b-178065065902799&wsIPSercert=2cf20d57cbf282fce9859d08ca5d7a7a&wsBindIP=2&wsserid=1168283323302724409"
                         },
                         {
-                          "id": "lnk-1f06b29932",
+                          "id": "lnk-90e194de77",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
