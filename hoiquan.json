@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:50 05/06/2026",
+  "last_updated": "18:00 05/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-d504a5402f41",
-          "name": "⚽ Brunei U19 vs Malaysia U19 | H2 - 90+1' 0 - 2 16:00 05/06/2026",
-          "tournament": "ASEAN Championship U19",
-          "logo_nha": "https://media.api-sports.io/football/teams/19147.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/19151.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/19147.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-d504a5402f41",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-d504a5402f41",
-                  "name": "Brunei U19 vs Malaysia U19",
-                  "streams": [
-                    {
-                      "id": "kaytee-d504a5402f41",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f2f44e8a72",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwh3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=2910ae44fed8090eaa2dc83d-178065666618783&wsIPSercert=66a96a095ac1572ba8bc9557839f5005&wsBindIP=2&wsserid=1168158473487963106"
-                        },
-                        {
-                          "id": "lnk-5711b1c909",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-02b01f65bb4b",
-          "name": "⚽ Daegu Fc vs Paju Citizen | H1 - 21' 0 - 0 17:30 05/06/2026",
+          "name": "⚽ Daegu Fc vs Paju Citizen | H1 - 30' 0 - 0 17:30 05/06/2026",
           "tournament": "K League 2",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a4/Daegu_FC.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/7098.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b1d9086695",
+                          "id": "lnk-342df74e74",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh1gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=b53217f94dfc680cfadf6fe7-178065667485481&wsIPSercert=66a96a095ac1572ba8bc9557839f5005&wsBindIP=2&wsserid=1172580915173420788"
+                          "url": "https://tfwh0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f6adb1702610db92c4f3692c-178065726444020&wsIPSercert=e9967ac66035e6097439eb69f0a9002c&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-ce40259e5a",
+                          "id": "lnk-736e4109c0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-c2a29afe19d7",
-          "name": "⚽ Singapore vs China | Sắp diễn ra vs 18:30 05/06/2026",
+          "name": "⚽ Singapore vs China | Sắp bắt đầu - null' 0 - 0 18:30 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
@@ -146,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +104,22 @@
                     {
                       "id": "kaytee-c2a29afe19d7",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-4f7e143c1a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwh0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=1d5c93cf4c29764bc1dcc4c2-178065727304302&wsIPSercert=e9967ac66035e6097439eb69f0a9002c&wsBindIP=2&wsserid=1168283323277558487"
+                        },
+                        {
+                          "id": "lnk-de41a807bf",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -478,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-92b358e4d4e9",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-926740812c96",
+          "name": "⚽ Hungary vs Finland | Sắp diễn ra vs 00:45 06/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/330px-Flag_of_Hungary.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1099.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/330px-Flag_of_Hungary.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-926740812c96",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-926740812c96",
+                  "name": "Hungary vs Finland",
+                  "streams": [
+                    {
+                      "id": "kaytee-926740812c96",
                       "name": "F",
                       "stream_links": []
                     }
