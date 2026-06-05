@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:50 05/06/2026",
+  "last_updated": "23:00 05/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-be8aeda55436",
-          "name": "⚽ Georgia vs Bahrain | Sắp bắt đầu - null' 0 - 0 23:00 05/06/2026",
+          "name": "⚽ Georgia vs Bahrain | Live 0 - 0 23:00 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/250px-Flag_of_Georgia.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Emblem_of_Bahrain.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cdd9c631f4",
+                          "id": "lnk-6fc267b6ea",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178067465468591&wsIPSercert=a40dcbd73a24047ea89c81aeafe6f95d&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwh0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178067526853542&wsIPSercert=bfcc032c2102e9d88102125d814b9b23&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-b8eff94949",
+                          "id": "lnk-94dda9dec1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-9ada70d66f9a",
-          "name": "⚽ Belarus vs Syria | Sắp bắt đầu - null' 0 - 0 23:00 05/06/2026",
+          "name": "⚽ Belarus vs Syria | Live 0 - 0 23:00 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Flag_of_Belarus_%28variant%29.svg/250px-Flag_of_Belarus_%28variant%29.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Syria_%281930%E2%80%931958%2C_1961%E2%80%931963%29.svg/330px-Flag_of_Syria_%281930%E2%80%931958%2C_1961%E2%80%931963%29.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-93fe2fa3f5",
+                          "id": "lnk-92818e4b55",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178067466336661&wsIPSercert=a40dcbd73a24047ea89c81aeafe6f95d&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwh0gr4uqmtt8y41hcjsgyzdnct1fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f16633df8b04e79c54ce35aa-178067527750541&wsIPSercert=bfcc032c2102e9d88102125d814b9b23&wsBindIP=2&wsserid=1168283436454933174"
                         },
                         {
-                          "id": "lnk-888db80204",
+                          "id": "lnk-d30e289e43",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
