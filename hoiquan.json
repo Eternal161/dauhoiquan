@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:50 05/06/2026",
+  "last_updated": "22:01 05/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-72ef33b9623b",
-          "name": "⚽ Indonesia vs Oman | H2 - 83' 3 - 0 20:00 05/06/2026",
+          "name": "⚽ Indonesia vs Oman | Live 0 - 0 20:00 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://i.imgur.com/P4sNAMH.png",
           "logo_khach": "https://www.shutterstock.com/image-vector/oman-logo-flag-flat-illustration-260nw-424495153.jpg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a0810449fd",
+                          "id": "lnk-25cd123e70",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh1gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=61785e5dba4658081da27419-178067106067067&wsIPSercert=df606d1932dcf502353e9ef732fe4afb&wsBindIP=2&wsserid=1168176337061519089"
+                          "url": "https://tfwh3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7d691546f63683fe66c49005-178067166887548&wsIPSercert=b809b72ca3fd750bb84de47aa4c61b6e&wsBindIP=2&wsserid=1172662091344090222"
                         },
                         {
-                          "id": "lnk-42495459c2",
+                          "id": "lnk-a0cbe9108c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
