@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:50 06/06/2026",
+  "last_updated": "04:00 06/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-e94a7a5c2de2",
-          "name": "⚽ Angola vs Mauritania | H2 - 87' 0 - 0 02:00 06/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1280px-Flag_of_Angola.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1491.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1280px-Flag_of_Angola.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-e94a7a5c2de2",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-e94a7a5c2de2",
-                  "name": "Angola vs Mauritania",
-                  "streams": [
-                    {
-                      "id": "kaytee-e94a7a5c2de2",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-41a69c1704",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwh0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8e6b9a63c3bf8b47600cd06-178069266145232&wsIPSercert=c718deaea1cf570894439287095a7db7&wsBindIP=2&wsserid=1168283323207303220"
-                        },
-                        {
-                          "id": "lnk-90ecc2ac8a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-b3b3eb2277a8",
           "name": "⚽ Puerto Rico vs Saudi Arabia | Sắp diễn ra vs 06:00 06/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-c2dd37e32600",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a36fde0d0340",
+          "name": "⚽ Cambodia U19 vs Philippines U19 | Sắp diễn ra vs 20:00 06/06/2026",
+          "tournament": "ASEAN Championship U19",
+          "logo_nha": "https://media.api-sports.io/football/teams/19148.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/19153.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/19148.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a36fde0d0340",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a36fde0d0340",
+                  "name": "Cambodia U19 vs Philippines U19",
+                  "streams": [
+                    {
+                      "id": "kaytee-a36fde0d0340",
                       "name": "F",
                       "stream_links": []
                     }
