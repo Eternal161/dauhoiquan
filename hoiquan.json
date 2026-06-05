@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:20 05/06/2026",
+  "last_updated": "22:30 05/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-be8aeda55436",
-          "name": "⚽ Georgia vs Bahrain | Sắp diễn ra vs 23:00 05/06/2026",
+          "name": "⚽ Georgia vs Bahrain | Sắp bắt đầu - null' 0 - 0 23:00 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/250px-Flag_of_Georgia.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Emblem_of_Bahrain.svg",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-be8aeda55436",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-c80f2b9646",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwh1gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=61785e5dba4658081da27419-178067346569290&wsIPSercert=4e62b8ac28b62a7dca6a7360195853c3&wsBindIP=2&wsserid=1168176337061519089"
+                        },
+                        {
+                          "id": "lnk-af8e2a4e75",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -54,7 +69,7 @@
         },
         {
           "id": "kaytee-9ada70d66f9a",
-          "name": "⚽ Belarus vs Syria | Sắp diễn ra vs 23:00 05/06/2026",
+          "name": "⚽ Belarus vs Syria | Sắp bắt đầu - null' 0 - 0 23:00 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Flag_of_Belarus_%28variant%29.svg/250px-Flag_of_Belarus_%28variant%29.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Syria_%281930%E2%80%931958%2C_1961%E2%80%931963%29.svg/330px-Flag_of_Syria_%281930%E2%80%931958%2C_1961%E2%80%931963%29.svg.png",
@@ -71,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -89,52 +104,22 @@
                     {
                       "id": "kaytee-9ada70d66f9a",
                       "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-a6e06155a0fb",
-          "name": "⚽ Austria W vs Slovenia W | Sắp diễn ra vs 23:00 05/06/2026",
-          "tournament": "World Cup - Women - Qualification Europe",
-          "logo_nha": "https://media.api-sports.io/football/teams/14458.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1774.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/14458.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a6e06155a0fb",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a6e06155a0fb",
-                  "name": "Austria W vs Slovenia W",
-                  "streams": [
-                    {
-                      "id": "kaytee-a6e06155a0fb",
-                      "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-bf036e937e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwh1gr4uqmtt8y41hcjz8rzdeqjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=be04584b9a83e318e66b7880-178067347391288&wsIPSercert=4e62b8ac28b62a7dca6a7360195853c3&wsBindIP=2&wsserid=1168041136565896200"
+                        },
+                        {
+                          "id": "lnk-dd57fa9872",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -448,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-ef3b9b01da5c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-7e193e1583a9",
+          "name": "⚽ Fc Tokyo vs Cerezo Osaka | Sắp diễn ra vs 12:00 06/06/2026",
+          "tournament": "J1 League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/1/15/FC_Tokyo_Logo.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Cerezo_Osaka_logo.svg/250px-Cerezo_Osaka_logo.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/1/15/FC_Tokyo_Logo.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-7e193e1583a9",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-7e193e1583a9",
+                  "name": "Fc Tokyo vs Cerezo Osaka",
+                  "streams": [
+                    {
+                      "id": "kaytee-7e193e1583a9",
                       "name": "F",
                       "stream_links": []
                     }
