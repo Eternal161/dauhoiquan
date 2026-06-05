@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:20 06/06/2026",
+  "last_updated": "06:30 06/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b3b3eb2277a8",
-          "name": "⚽ Puerto Rico vs Saudi Arabia | H1 - 17' 0 - 0 06:00 06/06/2026",
+          "name": "⚽ Puerto Rico vs Saudi Arabia | H1 - 24' 0 - 0 06:00 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/1280px-Flag_of_Puerto_Rico.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2253a656fb",
+                          "id": "lnk-f27e908aeb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh0gr4uqmtt8y41hcjsgyzdnct1fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178070165452759&wsIPSercert=e7c5c1b2123a01ae3ecf57f7c3220920&wsBindIP=2&wsserid=1168283476093891044"
+                          "url": "https://tfwh3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=aa24efa3d9c613f611f4a7d6-178070225852619&wsIPSercert=a240f1f46d53a9e174cb5d570f6a27c4&wsBindIP=2&wsserid=1177063474761571144"
                         },
                         {
-                          "id": "lnk-6ed284ac29",
+                          "id": "lnk-3b25c100f9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-57e3498f62",
+                          "id": "lnk-df6cc4044f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178070166317150&wsIPSercert=e7c5c1b2123a01ae3ecf57f7c3220920&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwh1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7229091031e99425f798ab9d-178070226714187&wsIPSercert=a240f1f46d53a9e174cb5d570f6a27c4&wsBindIP=2&wsserid=1172580915182858212"
                         },
                         {
-                          "id": "lnk-556a85e7db",
+                          "id": "lnk-2cd2c475f3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
