@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:00 05/06/2026",
+  "last_updated": "17:10 05/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-d504a5402f41",
-          "name": "⚽ Brunei U19 vs Malaysia U19 | Giữa Hiệp - 45+3' 0 - 2 16:00 05/06/2026",
+          "name": "⚽ Brunei U19 vs Malaysia U19 | H2 - 52' 0 - 2 16:00 05/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19147.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19151.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-169f8d2679",
+                          "id": "lnk-c8689a09f3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh1gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=a1f53ea0c8ae941e53ed820c-178065366389033&wsIPSercert=93c3da6eb74aa28aaeae8cb84ef6e0f0&wsBindIP=2&wsserid=1168168154460945005"
+                          "url": "https://tfwh1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=546aa2412a0186b6905be8e9-178065426108207&wsIPSercert=006709151ef9b276bad464ed1f7272a7&wsBindIP=2&wsserid=1172580915182858196"
                         },
                         {
-                          "id": "lnk-aaa3321066",
+                          "id": "lnk-3e6718ec35",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-02b01f65bb4b",
-          "name": "⚽ Daegu Fc vs Paju Citizen | Sắp diễn ra vs 17:30 05/06/2026",
+          "name": "⚽ Daegu Fc vs Paju Citizen | Sắp bắt đầu - null' 0 - 0 17:30 05/06/2026",
           "tournament": "K League 2",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a4/Daegu_FC.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/7098.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-02b01f65bb4b",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-96325bc00c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwh1gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=b53217f94dfc680cfadf6fe7-178065426965023&wsIPSercert=006709151ef9b276bad464ed1f7272a7&wsBindIP=2&wsserid=1172580915173420788"
+                        },
+                        {
+                          "id": "lnk-b87d6059cb",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
