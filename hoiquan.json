@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:01 05/06/2026",
+  "last_updated": "22:10 05/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-72ef33b9623b",
-          "name": "⚽ Indonesia vs Oman | Live 0 - 0 20:00 05/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://i.imgur.com/P4sNAMH.png",
-          "logo_khach": "https://www.shutterstock.com/image-vector/oman-logo-flag-flat-illustration-260nw-424495153.jpg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://i.imgur.com/P4sNAMH.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-72ef33b9623b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-72ef33b9623b",
-                  "name": "Indonesia vs Oman",
-                  "streams": [
-                    {
-                      "id": "kaytee-72ef33b9623b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-25cd123e70",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwh3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7d691546f63683fe66c49005-178067166887548&wsIPSercert=b809b72ca3fd750bb84de47aa4c61b6e&wsBindIP=2&wsserid=1172662091344090222"
-                        },
-                        {
-                          "id": "lnk-a0cbe9108c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-be8aeda55436",
           "name": "⚽ Georgia vs Bahrain | Sắp diễn ra vs 23:00 05/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-c1f79b483ba2",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-ef3b9b01da5c",
+          "name": "⚽ Yokohama Fc vs Renofa Yamaguchi | Sắp diễn ra vs 12:00 06/06/2026",
+          "tournament": "J2/J3 League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/1/18/YokohamaFC.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/309.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/1/18/YokohamaFC.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-ef3b9b01da5c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-ef3b9b01da5c",
+                  "name": "Yokohama Fc vs Renofa Yamaguchi",
+                  "streams": [
+                    {
+                      "id": "kaytee-ef3b9b01da5c",
                       "name": "F",
                       "stream_links": []
                     }
