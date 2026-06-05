@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:20 05/06/2026",
+  "last_updated": "17:30 05/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-d504a5402f41",
-          "name": "⚽ Brunei U19 vs Malaysia U19 | H2 - 61' 0 - 2 16:00 05/06/2026",
+          "name": "⚽ Brunei U19 vs Malaysia U19 | H2 - 71' 0 - 2 16:00 05/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19147.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19151.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e205c2e937",
+                          "id": "lnk-cee88511f9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh1gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=a1f53ea0c8ae941e53ed820c-178065485595493&wsIPSercert=a5a90ad19ca382a8a10aed5944fd49e8&wsBindIP=2&wsserid=1168168154460945005"
+                          "url": "https://tfwh1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0e961616d49cc0b871242a4b-178065545317789&wsIPSercert=152cb5396317b47e7dd457a804ea98d4&wsBindIP=2&wsserid=1168283323302724409"
                         },
                         {
-                          "id": "lnk-c5206f1548",
+                          "id": "lnk-8a4ec5d9fb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0cbe7166c6",
+                          "id": "lnk-036bb4bd89",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh1gr3uomttgr31hcj3fa3deqbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=ff1c663e0a7f623fca95554e-178065486475414&wsIPSercert=a5a90ad19ca382a8a10aed5944fd49e8&wsBindIP=2&wsserid=1168168154451507561"
+                          "url": "https://tfwh0gr4uqmtt8y41hcjsgyzdnpb3fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178065546189847&wsIPSercert=152cb5396317b47e7dd457a804ea98d4&wsBindIP=2&wsserid=1168283476093891044"
                         },
                         {
-                          "id": "lnk-5b45367e62",
+                          "id": "lnk-59be5bc6cd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
