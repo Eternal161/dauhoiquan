@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:40 05/06/2026",
+  "last_updated": "17:50 05/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-d504a5402f41",
-          "name": "⚽ Brunei U19 vs Malaysia U19 | H2 - 81' 0 - 2 16:00 05/06/2026",
+          "name": "⚽ Brunei U19 vs Malaysia U19 | H2 - 90+1' 0 - 2 16:00 05/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19147.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19151.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-70640d9cde",
+                          "id": "lnk-f2f44e8a72",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=2910ae44fed8090eaa2dc83d-178065605869929&wsIPSercert=7e0a7b19a3fbdc77ae16c8c080028e62&wsBindIP=2&wsserid=1168158473487963106"
+                          "url": "https://tfwh3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=2910ae44fed8090eaa2dc83d-178065666618783&wsIPSercert=66a96a095ac1572ba8bc9557839f5005&wsBindIP=2&wsserid=1168158473487963106"
                         },
                         {
-                          "id": "lnk-0358d8c780",
+                          "id": "lnk-5711b1c909",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-02b01f65bb4b",
-          "name": "⚽ Daegu Fc vs Paju Citizen | H1 - 10' 0 - 0 17:30 05/06/2026",
+          "name": "⚽ Daegu Fc vs Paju Citizen | H1 - 21' 0 - 0 17:30 05/06/2026",
           "tournament": "K League 2",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a4/Daegu_FC.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/7098.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ff02c78a1b",
+                          "id": "lnk-b1d9086695",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh1gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=b53217f94dfc680cfadf6fe7-178065606737787&wsIPSercert=7e0a7b19a3fbdc77ae16c8c080028e62&wsBindIP=2&wsserid=1172580915173420788"
+                          "url": "https://tfwh1gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=b53217f94dfc680cfadf6fe7-178065667485481&wsIPSercert=66a96a095ac1572ba8bc9557839f5005&wsBindIP=2&wsserid=1172580915173420788"
                         },
                         {
-                          "id": "lnk-aa4055db0c",
+                          "id": "lnk-ce40259e5a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
