@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:20 06/06/2026",
+  "last_updated": "03:30 06/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e94a7a5c2de2",
-          "name": "⚽ Angola vs Mauritania | H2 - 57' 0 - 0 02:00 06/06/2026",
+          "name": "⚽ Angola vs Mauritania | H2 - 66' 0 - 0 02:00 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1280px-Flag_of_Angola.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1491.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-309208819d",
+                          "id": "lnk-6ac66d96cc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=7ea55c3b42629c3c9fbf7f74-178069085672746&wsIPSercert=0b66474b483fb820bd6dcf2cfc81d9c8&wsBindIP=2&wsserid=1168231884021661304"
+                          "url": "https://tfwh1gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=cb7b951270b03144c4a20e3e-178069145505931&wsIPSercert=5d4e9e71e399fc3a5a78cce0e35b9f50&wsBindIP=2&wsserid=1168176337057324681"
                         },
                         {
-                          "id": "lnk-aede7c859f",
+                          "id": "lnk-b27756bd31",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
