@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:00 05/06/2026",
+  "last_updated": "18:11 05/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-02b01f65bb4b",
-          "name": "⚽ Daegu Fc vs Paju Citizen | H1 - 30' 0 - 0 17:30 05/06/2026",
+          "name": "⚽ Daegu Fc vs Paju Citizen | H1 - 40' 0 - 0 17:30 05/06/2026",
           "tournament": "K League 2",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a4/Daegu_FC.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/7098.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-342df74e74",
+                          "id": "lnk-36051b2744",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f6adb1702610db92c4f3692c-178065726444020&wsIPSercert=e9967ac66035e6097439eb69f0a9002c&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfwh1gr3uomttgr31hcj3fa3dkcbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=149be663ef1389e0051f6ddb-178065786959123&wsIPSercert=4642cf154987fd2de934f1d40dbf0350&wsBindIP=2&wsserid=1168235283031012122"
                         },
                         {
-                          "id": "lnk-736e4109c0",
+                          "id": "lnk-c5a855b275",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4f7e143c1a",
+                          "id": "lnk-f31149b488",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=1d5c93cf4c29764bc1dcc4c2-178065727304302&wsIPSercert=e9967ac66035e6097439eb69f0a9002c&wsBindIP=2&wsserid=1168283323277558487"
+                          "url": "https://tfwh1gr3uomttgr31hcj3fa3dkcbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=a1f53ea0c8ae941e53ed820c-178065787777782&wsIPSercert=4642cf154987fd2de934f1d40dbf0350&wsBindIP=2&wsserid=1168168154460945005"
                         },
                         {
-                          "id": "lnk-de41a807bf",
+                          "id": "lnk-9df7b8ce25",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
