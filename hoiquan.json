@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:30 05/06/2026",
+  "last_updated": "16:40 05/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-d504a5402f41",
-          "name": "⚽ Brunei U19 vs Malaysia U19 | H1 - 31' 0 - 1 16:00 05/06/2026",
+          "name": "⚽ Brunei U19 vs Malaysia U19 | H1 - 40' 0 - 1 16:00 05/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19147.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19151.png",
@@ -46,65 +46,20 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e4884ec3e1",
+                          "id": "lnk-5fd1b0ae8d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0e961616d49cc0b871242a4b-178065185816352&wsIPSercert=a6e1c1bd40185f69d33cf760e89151e2&wsBindIP=2&wsserid=1168283323302724409"
+                          "url": "https://tfwh3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=2910ae44fed8090eaa2dc83d-178065245287116&wsIPSercert=cdc54d42a6bf6d77d7b8468060727aa4&wsBindIP=2&wsserid=1168158473487963106"
                         },
                         {
-                          "id": "lnk-b9470fc2ac",
+                          "id": "lnk-e3bb7fb65c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
                         }
                       ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-602b71eea97c",
-          "name": "⚽ Kamatamare Sanuki vs Parceiro Nagano | Sắp diễn ra vs 17:00 05/06/2026",
-          "tournament": "J2/J3 League",
-          "logo_nha": "https://media.api-sports.io/football/teams/317.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/4323.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/317.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-602b71eea97c",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-602b71eea97c",
-                  "name": "Kamatamare Sanuki vs Parceiro Nagano",
-                  "streams": [
-                    {
-                      "id": "kaytee-602b71eea97c",
-                      "name": "F",
-                      "stream_links": []
                     }
                   ]
                 }
@@ -463,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-a6e06155a0fb",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-92b358e4d4e9",
+          "name": "⚽ Moldova vs Bulgaria | Sắp diễn ra vs 00:00 06/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/330px-Flag_of_Moldova.svg.png",
+          "logo_khach": "https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/bulgaria.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/330px-Flag_of_Moldova.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-92b358e4d4e9",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-92b358e4d4e9",
+                  "name": "Moldova vs Bulgaria",
+                  "streams": [
+                    {
+                      "id": "kaytee-92b358e4d4e9",
                       "name": "F",
                       "stream_links": []
                     }
