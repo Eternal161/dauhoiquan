@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:01 05/06/2026",
+  "last_updated": "07:10 05/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-7bce49e369d5",
-          "name": "⚽ France vs Ivory Coast | H2 - 90+6' 1 - 2 02:10 05/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/2.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-7bce49e369d5",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-7bce49e369d5",
-                  "name": "France vs Ivory Coast",
-                  "streams": [
-                    {
-                      "id": "kaytee-7bce49e369d5",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2343084289",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-607e14799524",
-          "name": "⚽ Czech Republic vs Guatemala | Sắp bắt đầu - null' 0 - 0 07:00 05/06/2026",
+          "name": "⚽ Czech Republic vs Guatemala | Live 0 - 0 07:00 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/770.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5161.png",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b42492597a",
+                          "id": "lnk-b327d1460b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178061768189765&wsIPSercert=22649bf00ca1ceb8a3867a3e692f9ae1&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwh3gr4dymttgwanhct3fa4d1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=90c30043258119c1e5858f91-178061825443535&wsIPSercert=92f3e8eeb12353d4eccccb76c36c054b&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-dc0dfa6bfb",
+                          "id": "lnk-8ed065c02f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-72ef33b9623b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-be8aeda55436",
+          "name": "⚽ Georgia vs Bahrain | Sắp diễn ra vs 23:00 05/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/250px-Flag_of_Georgia.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Emblem_of_Bahrain.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/250px-Flag_of_Georgia.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-be8aeda55436",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-be8aeda55436",
+                  "name": "Georgia vs Bahrain",
+                  "streams": [
+                    {
+                      "id": "kaytee-be8aeda55436",
                       "name": "F",
                       "stream_links": []
                     }
