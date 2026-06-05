@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:30 05/06/2026",
+  "last_updated": "07:40 05/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-607e14799524",
-          "name": "⚽ Czech Republic vs Guatemala | H1 - 30' 1 - 0 07:00 05/06/2026",
+          "name": "⚽ Czech Republic vs Guatemala | H1 - 40' 1 - 0 07:00 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/770.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5161.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-38912fc8ae",
+                          "id": "lnk-fe03c92516",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh0gr4uqmtt8y41hcjzgyzdrcjifi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=90c30043258119c1e5858f91-178061946229393&wsIPSercert=a3b838d0db35e422c76101e8c81afd5f&wsBindIP=2&wsserid=1172666312704417830"
+                          "url": "https://tfwh3gr4dymttgwanhct3fa4uemmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=90c30043258119c1e5858f91-178062005307896&wsIPSercert=fe593cdc673a054bc24dcc5d00ae24ae&wsBindIP=2&wsserid=1172666312704417830"
                         },
                         {
-                          "id": "lnk-def2da6d87",
+                          "id": "lnk-8f96c9d6d5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
