@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:20 05/06/2026",
+  "last_updated": "08:30 05/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-607e14799524",
-          "name": "⚽ Czech Republic vs Guatemala | Live 0 - 0 07:00 05/06/2026",
+          "name": "⚽ Czech Republic vs Guatemala | H2 - 70' 1 - 1 07:00 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/770.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5161.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-215b30af16",
+                          "id": "lnk-38930cc9db",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh1gr4uqmtt8y41hcjz8rzdeqjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=6650bde40cd33e680567646d-178062245240116&wsIPSercert=388a03c22c4843f281a8640190b20bd3&wsBindIP=2&wsserid=1168176346315811943"
+                          "url": "https://tfwh0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178062305797978&wsIPSercert=635970da21c189fb2ccf39539dd2cc25&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-6b569c5fbf",
+                          "id": "lnk-dabcb76254",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-7131ceae1326",
-          "name": "⚽ Mexico vs Serbia | Sắp diễn ra vs 09:00 05/06/2026",
+          "name": "⚽ Mexico vs Serbia | Sắp bắt đầu - null' 0 - 0 09:00 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-7131ceae1326",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-68d983afb0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwh0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178062306646821&wsIPSercert=635970da21c189fb2ccf39539dd2cc25&wsBindIP=2&wsserid=1168202333418134578"
+                        },
+                        {
+                          "id": "lnk-7a9202c97b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
