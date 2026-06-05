@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:30 05/06/2026",
+  "last_updated": "18:40 05/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c2a29afe19d7",
-          "name": "⚽ Singapore vs China | H1 - 1' 0 - 0 18:30 05/06/2026",
+          "name": "⚽ Singapore vs China | H1 - 11' 0 - 0 18:30 05/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-17d11a5cfb",
+                          "id": "lnk-c1963e849e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwh1gr4uqmtt8y41hcjz8rzdeqjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=1727692f2fcfce8af9ab5981-178065905810713&wsIPSercert=8fe326fa5f8c9e810f0726479759c22c&wsBindIP=2&wsserid=1168041062946239395"
+                          "url": "https://tfwh1gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=b53217f94dfc680cfadf6fe7-178065965496869&wsIPSercert=32a135ae9930e6b98ee0376f0d368832&wsBindIP=2&wsserid=1172580915173420788"
                         },
                         {
-                          "id": "lnk-8339c58c84",
+                          "id": "lnk-701e2e6e14",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
