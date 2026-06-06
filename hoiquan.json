@@ -1,125 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:51 07/06/2026",
+  "last_updated": "04:01 07/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-778bba9329ac",
-          "name": "⚽ Usa vs Germany | H2 - 90+7' 1 - 2 01:30 07/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2384.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-778bba9329ac",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-778bba9329ac",
-                  "name": "Usa vs Germany",
-                  "streams": [
-                    {
-                      "id": "kaytee-778bba9329ac",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-20daf074a3",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-906b77b43a34",
-          "name": "⚽ Australia vs Switzerland | H2 - 90' 1 - 1 02:00 07/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-906b77b43a34",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-906b77b43a34",
-                  "name": "Australia vs Switzerland",
-                  "streams": [
-                    {
-                      "id": "kaytee-906b77b43a34",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ba41882c23",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwi0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178077907781216&wsIPSercert=3e2a2167906ac4a1b282ebf37e76c75d&wsBindIP=2&wsserid=1168202392933970899"
-                        },
-                        {
-                          "id": "lnk-a3b68ae077",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-0f82fc1728aa",
           "name": "⚽ England vs New Zealand | Giữa Hiệp - 45+4' 1 - 0 03:00 07/06/2026",
@@ -159,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7231316879",
+                          "id": "lnk-746f9ed98a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178077908634710&wsIPSercert=3e2a2167906ac4a1b282ebf37e76c75d&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnpb3fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f16633df8b04e79c54ce35aa-178077968895352&wsIPSercert=d37145ed80179cb7fcac178174d72e51&wsBindIP=2&wsserid=1168283436454933174"
                         },
                         {
-                          "id": "lnk-21b6fe7efc",
+                          "id": "lnk-fd4a5852bb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -486,6 +373,96 @@
                   "streams": [
                     {
                       "id": "kaytee-a672d06a827f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3a29c782d120",
+          "name": "⚽ Da Nang vs Thanh Hóa | Sắp diễn ra vs 18:00 07/06/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://media.api-sports.io/football/teams/3669.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3669.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3a29c782d120",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3a29c782d120",
+                  "name": "Da Nang vs Thanh Hóa",
+                  "streams": [
+                    {
+                      "id": "kaytee-3a29c782d120",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b4d74cd7187e",
+          "name": "⚽ Ha Noi vs Ho Chi Minh | Sắp diễn ra vs 18:00 07/06/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://media.api-sports.io/football/teams/3670.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/4/47/Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg/250px-Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3670.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b4d74cd7187e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b4d74cd7187e",
+                  "name": "Ha Noi vs Ho Chi Minh",
+                  "streams": [
+                    {
+                      "id": "kaytee-b4d74cd7187e",
                       "name": "F",
                       "stream_links": []
                     }
