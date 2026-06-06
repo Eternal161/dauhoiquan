@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:00 06/06/2026",
+  "last_updated": "22:10 06/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-174495e2c0d1",
-          "name": "⚽ Kyrgyzstan vs Palestine | H1 - 30' 0 - 0 21:30 06/06/2026",
+          "name": "⚽ Kyrgyzstan vs Palestine | H1 - 39' 0 - 0 21:30 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/10941.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Coat_of_arms_of_Palestine_%28alternative%29.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7ff00ab4f3",
+                          "id": "lnk-175a2cfb14",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178075806546474&wsIPSercert=f9ca71482af3d342002f8b442b839e62&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178075865964208&wsIPSercert=1844e879f4151d18e734dd0706e22124&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-01df03c4a2",
+                          "id": "lnk-825de2eb12",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-3cd6c0383807",
-          "name": "⚽ Portugal U19 vs Greece U19 | H1 - 4' 0 - 0 22:00 06/06/2026",
+          "name": "⚽ Portugal U19 vs Greece U19 | H1 - 9' 0 - 0 22:00 06/06/2026",
           "tournament": "UEFA U19 Championship - Qualification",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/1280px-Flag_of_Portugal_%28official%29.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10364.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f0346b9b69",
+                          "id": "lnk-63b86accb7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8e6b9a63c3bf8b47600cd06-178075807405474&wsIPSercert=f9ca71482af3d342002f8b442b839e62&wsBindIP=2&wsserid=1168283323207303220"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8e6b9a63c3bf8b47600cd06-178075866802726&wsIPSercert=1844e879f4151d18e734dd0706e22124&wsBindIP=2&wsserid=1168283323207303220"
                         },
                         {
-                          "id": "lnk-bd5459e906",
+                          "id": "lnk-ba8d6a4f52",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
