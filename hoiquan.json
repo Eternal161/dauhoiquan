@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:40 06/06/2026",
+  "last_updated": "20:50 06/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-02ad111945cc",
-          "name": "⚽ Belgium vs Tunisia | H1 - 38' 1 - 0 20:00 06/06/2026",
+          "name": "⚽ Belgium vs Tunisia | Live 0 - 0 20:00 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-300b79584f",
+                          "id": "lnk-06e2674c65",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=5e1d069d5924a7692bda43f2-178075325983187&wsIPSercert=a25e459c1808286c5ce15dbf6f54a8ee&wsBindIP=2&wsserid=1168283476522828939"
+                          "url": "https://tfwi1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ff1c663e0a7f623fca95554e-178075385117600&wsIPSercert=eee149bddae7d9c34be8b64bcbb0926a&wsBindIP=2&wsserid=1168168154451507561"
                         },
                         {
-                          "id": "lnk-e88b86a959",
+                          "id": "lnk-431ff1b806",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-c2dd37e32600",
-          "name": "⚽ Lithuania vs Latvia | H1 - 39' 1 - 0 20:00 06/06/2026",
+          "name": "⚽ Lithuania vs Latvia | Live 0 - 0 20:00 06/06/2026",
           "tournament": "Baltic Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/17962.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/250px-Flag_of_Latvia.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-92518ea699",
+                          "id": "lnk-4961d4b65f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=7ea55c3b42629c3c9fbf7f74-178075326850663&wsIPSercert=a25e459c1808286c5ce15dbf6f54a8ee&wsBindIP=2&wsserid=1168231884021661304"
+                          "url": "https://tfwi1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=e1cc7d83f669b6ac70984112-178075385957194&wsIPSercert=eee149bddae7d9c34be8b64bcbb0926a&wsBindIP=2&wsserid=1168168154453604765"
                         },
                         {
-                          "id": "lnk-4c7f8b7cd2",
+                          "id": "lnk-72626515dc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
