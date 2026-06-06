@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:31 07/06/2026",
+  "last_updated": "01:40 07/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-afda30e05b21",
-          "name": "⚽ Portugal vs Chile | H1 - 41' 0 - 0 00:45 07/06/2026",
+          "name": "⚽ Portugal vs Chile | Giữa Hiệp - 45+5' 0 - 0 00:45 07/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/27.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-06d7c9e61a",
+                          "id": "lnk-b9a527d1e7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7d691546f63683fe66c49005-178077067769028&wsIPSercert=61d73e9d7ed425186a7a6439918bce36&wsBindIP=2&wsserid=1172662091344090222"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178077125296565&wsIPSercert=4f8e9f16e70824be4f1f3336ca556a8e&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-d66eb9e52b",
+                          "id": "lnk-87b7b3d8b7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-778bba9329ac",
-          "name": "⚽ Usa vs Germany | Sắp bắt đầu - null' 0 - 0 01:30 07/06/2026",
+          "name": "⚽ Usa vs Germany | H1 - 3' 0 - 1 01:30 07/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fa371595f1",
+                          "id": "lnk-94d54d758a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=aa24efa3d9c613f611f4a7d6-178077068621494&wsIPSercert=61d73e9d7ed425186a7a6439918bce36&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8e6b9a63c3bf8b47600cd06-178077126170545&wsIPSercert=4f8e9f16e70824be4f1f3336ca556a8e&wsBindIP=2&wsserid=1168283323207303220"
                         },
                         {
-                          "id": "lnk-736b63b577",
+                          "id": "lnk-3c3c449c26",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-906b77b43a34",
-          "name": "⚽ Australia vs Switzerland | Sắp diễn ra vs 02:00 07/06/2026",
+          "name": "⚽ Australia vs Switzerland | Sắp bắt đầu - null' 0 - 0 02:00 07/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-906b77b43a34",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-f890f1dd4b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178077127040826&wsIPSercert=4f8e9f16e70824be4f1f3336ca556a8e&wsBindIP=2&wsserid=1168283323406534424"
+                        },
+                        {
+                          "id": "lnk-c4fe7ea9df",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
