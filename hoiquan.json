@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:30 06/06/2026",
+  "last_updated": "20:40 06/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-02ad111945cc",
-          "name": "⚽ Belgium vs Tunisia | H1 - 29' 0 - 0 20:00 06/06/2026",
+          "name": "⚽ Belgium vs Tunisia | H1 - 38' 1 - 0 20:00 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a19d53a057",
+                          "id": "lnk-300b79584f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=a1f53ea0c8ae941e53ed820c-178075265689018&wsIPSercert=e193ef4cb2ec2ab40af4480a8220bf89&wsBindIP=2&wsserid=1168168154460945005"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=5e1d069d5924a7692bda43f2-178075325983187&wsIPSercert=a25e459c1808286c5ce15dbf6f54a8ee&wsBindIP=2&wsserid=1168283476522828939"
                         },
                         {
-                          "id": "lnk-e322ba1c49",
+                          "id": "lnk-e88b86a959",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-c2dd37e32600",
-          "name": "⚽ Lithuania vs Latvia | H1 - 30' 1 - 0 20:00 06/06/2026",
+          "name": "⚽ Lithuania vs Latvia | H1 - 39' 1 - 0 20:00 06/06/2026",
           "tournament": "Baltic Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/17962.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/250px-Flag_of_Latvia.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f570cc5421",
+                          "id": "lnk-92518ea699",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=a1f53ea0c8ae941e53ed820c-178075266539313&wsIPSercert=e193ef4cb2ec2ab40af4480a8220bf89&wsBindIP=2&wsserid=1168168154460945005"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=7ea55c3b42629c3c9fbf7f74-178075326850663&wsIPSercert=a25e459c1808286c5ce15dbf6f54a8ee&wsBindIP=2&wsserid=1168231884021661304"
                         },
                         {
-                          "id": "lnk-8b1c1f8c00",
+                          "id": "lnk-4c7f8b7cd2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -218,11 +218,11 @@
           ]
         },
         {
-          "id": "kaytee-d3f781428a3f",
-          "name": "⚽ Armenia vs Kazakhstan | Sắp diễn ra vs 23:00 06/06/2026",
+          "id": "kaytee-633457ad594d",
+          "name": "⚽ Rwanda vs Comoros | Sắp diễn ra vs 23:00 06/06/2026",
           "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1920px-Flag_of_Kazakhstan.svg.png",
+          "logo_nha": "https://media.api-sports.io/football/teams/1514.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -230,7 +230,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
+            "url": "https://media.api-sports.io/football/teams/1514.png",
             "width": 1600,
             "height": 1200
           },
@@ -244,15 +244,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-d3f781428a3f",
+              "id": "kaytee-633457ad594d",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-d3f781428a3f",
-                  "name": "Armenia vs Kazakhstan",
+                  "id": "kaytee-633457ad594d",
+                  "name": "Rwanda vs Comoros",
                   "streams": [
                     {
-                      "id": "kaytee-d3f781428a3f",
+                      "id": "kaytee-633457ad594d",
                       "name": "F",
                       "stream_links": []
                     }
