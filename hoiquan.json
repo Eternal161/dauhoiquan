@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:20 07/06/2026",
+  "last_updated": "04:30 07/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-0f82fc1728aa",
-          "name": "⚽ England vs New Zealand | H2 - 57' 1 - 0 03:00 07/06/2026",
+          "name": "⚽ England vs New Zealand | H2 - 67' 1 - 0 03:00 07/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/10.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b7baf5dff0",
+                          "id": "lnk-ac6b880cb3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnct1fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=294f64d764e98f1ef278a8de-178078085288764&wsIPSercert=17ecc71fd2952b2104e75bbcf6d95423&wsBindIP=2&wsserid=1168283319030924262"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178078146113897&wsIPSercert=2abb51f8ce217b071e67a18c79abca4c&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-5b77c6186d",
+                          "id": "lnk-4f36486df1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
