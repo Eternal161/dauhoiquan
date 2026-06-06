@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:50 07/06/2026",
+  "last_updated": "03:00 07/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-afda30e05b21",
-          "name": "⚽ Portugal vs Chile | H2 - 90+4' 2 - 1 00:45 07/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/27.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/27.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-afda30e05b21",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-afda30e05b21",
-                  "name": "Portugal vs Chile",
-                  "streams": [
-                    {
-                      "id": "kaytee-afda30e05b21",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-97dc38fbab",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=61785e5dba4658081da27419-178077545416922&wsIPSercert=65d8e32069dc28e3d4588e0576b98bb2&wsBindIP=2&wsserid=1168176337061519089"
-                        },
-                        {
-                          "id": "lnk-685c7d8088",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-778bba9329ac",
-          "name": "⚽ Usa vs Germany | H2 - 52' 1 - 1 01:30 07/06/2026",
+          "name": "⚽ Usa vs Germany | H2 - 63' 1 - 2 01:30 07/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7b1ed37fca",
+                          "id": "lnk-fe3a6d4f93",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=cb7b951270b03144c4a20e3e-178077546255141&wsIPSercert=65d8e32069dc28e3d4588e0576b98bb2&wsBindIP=2&wsserid=1168176337057324681"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178077605822075&wsIPSercert=1a9e7ff60b686508917edbad9532efd7&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-1aaf47f66d",
+                          "id": "lnk-1c083bdd8a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5da312cd09",
+                          "id": "lnk-d5d59e19aa",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b13933daec94aca61dee8209-178077547105263&wsIPSercert=65d8e32069dc28e3d4588e0576b98bb2&wsBindIP=2&wsserid=1168176337059421885"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178077606675542&wsIPSercert=1a9e7ff60b686508917edbad9532efd7&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-28698d3d68",
+                          "id": "lnk-03e5f26c2d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -226,14 +166,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fd157abd70",
+                          "id": "lnk-9b88355661",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjz8rzdeqjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=be04584b9a83e318e66b7880-178077547954254&wsIPSercert=65d8e32069dc28e3d4588e0576b98bb2&wsBindIP=2&wsserid=1168041136565896200"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178077607526531&wsIPSercert=1a9e7ff60b686508917edbad9532efd7&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-fc88f096a4",
+                          "id": "lnk-2ddad00e8b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -508,6 +448,51 @@
                   "streams": [
                     {
                       "id": "kaytee-e572c0337e18",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a672d06a827f",
+          "name": "⚽ Binh Duong vs Hoang Anh Gia Lai | Sắp diễn ra vs 18:00 07/06/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3673.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a672d06a827f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a672d06a827f",
+                  "name": "Binh Duong vs Hoang Anh Gia Lai",
+                  "streams": [
+                    {
+                      "id": "kaytee-a672d06a827f",
                       "name": "F",
                       "stream_links": []
                     }
