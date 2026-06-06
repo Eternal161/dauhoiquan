@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:30 06/06/2026",
+  "last_updated": "16:40 06/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-9c7e89b01930",
-          "name": "⚽ Jubilo Iwata vs Osaka | Kết thúc - 113' 2 - 1 14:00 06/06/2026",
-          "tournament": "J2/J3 League",
-          "logo_nha": "https://media.api-sports.io/football/teams/280.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/7138.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/280.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-9c7e89b01930",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-9c7e89b01930",
-                  "name": "Jubilo Iwata vs Osaka",
-                  "streams": [
-                    {
-                      "id": "kaytee-9c7e89b01930",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3965de7159",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-7360f6bb3cd9",
-          "name": "⚽ Vanuatu vs Fiji | Sắp diễn ra vs 17:00 06/06/2026",
+          "name": "⚽ Vanuatu vs Fiji | H2 - 90' 2 - 1 17:00 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/5170.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5160.png",
@@ -79,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +44,22 @@
                     {
                       "id": "kaytee-7360f6bb3cd9",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-617de9756e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwi1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=4c6f8e2477eefb4aa1bc2109-178073885560734&wsIPSercert=816e30b664cdbdbdabd11ac88fe77df7&wsBindIP=2&wsserid=1172580915169226372"
+                        },
+                        {
+                          "id": "lnk-9496dfce7d",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -107,7 +69,7 @@
         },
         {
           "id": "kaytee-6e4735b4c87e",
-          "name": "⚽ Sagan Tosu vs Shonan Bellmare | Sắp diễn ra vs 17:00 06/06/2026",
+          "name": "⚽ Sagan Tosu vs Shonan Bellmare | Sắp bắt đầu - null' 0 - 0 17:00 06/06/2026",
           "tournament": "J2/J3 League",
           "logo_nha": "https://media.api-sports.io/football/teams/295.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/2/2c/ShonanBellmare.png",
@@ -124,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -142,7 +104,15 @@
                     {
                       "id": "kaytee-6e4735b4c87e",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-151d00d255",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -456,6 +426,51 @@
                   "streams": [
                     {
                       "id": "kaytee-d3f781428a3f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-dfd6a7c1e7a9",
+          "name": "⚽ Rwanda vs Comoros | Sắp diễn ra vs 23:00 06/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/1514.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1514.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-dfd6a7c1e7a9",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-dfd6a7c1e7a9",
+                  "name": "Rwanda vs Comoros",
+                  "streams": [
+                    {
+                      "id": "kaytee-dfd6a7c1e7a9",
                       "name": "F",
                       "stream_links": []
                     }
