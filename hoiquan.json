@@ -1,18 +1,18 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:00 06/06/2026",
+  "last_updated": "17:10 06/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-6e4735b4c87e",
-          "name": "⚽ Sagan Tosu vs Shonan Bellmare | Sắp bắt đầu - null' 0 - 0 17:00 06/06/2026",
-          "tournament": "J2/J3 League",
-          "logo_nha": "https://media.api-sports.io/football/teams/295.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/2/2c/ShonanBellmare.png",
+          "id": "kaytee-c2efb2eca7c1",
+          "name": "⚽ Kawasaki Frontale vs Sanfrecce Hiroshima | H1 - 7' 0 - 0 17:00 06/06/2026",
+          "tournament": "J1 League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/7/74/KawasakiFrontale.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/a/ad/SanfrecceHiroshima.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -20,7 +20,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/295.png",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/7/74/KawasakiFrontale.png",
             "width": 1600,
             "height": 1200
           },
@@ -34,26 +34,26 @@
           ],
           "sources": [
             {
-              "id": "kaytee-6e4735b4c87e",
+              "id": "kaytee-c2efb2eca7c1",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-6e4735b4c87e",
-                  "name": "Sagan Tosu vs Shonan Bellmare",
+                  "id": "kaytee-c2efb2eca7c1",
+                  "name": "Kawasaki Frontale vs Sanfrecce Hiroshima",
                   "streams": [
                     {
-                      "id": "kaytee-6e4735b4c87e",
+                      "id": "kaytee-c2efb2eca7c1",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e6aec2e98a",
+                          "id": "lnk-699a6a52ce",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=33c58bb968e119c20b02d306-178074005525816&wsIPSercert=8ecc5544ab81f20187de829a78deaaae&wsBindIP=2&wsserid=1168176346313714739"
+                          "url": "https://tfwi1gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=33c58bb968e119c20b02d306-178074064689124&wsIPSercert=d1d61d82b631a2bfa04f0080c0b51862&wsBindIP=2&wsserid=1168176346313714739"
                         },
                         {
-                          "id": "lnk-0ec1ef0486",
+                          "id": "lnk-ead3cf51d3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
