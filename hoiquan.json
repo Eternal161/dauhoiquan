@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:00 06/06/2026",
+  "last_updated": "21:10 06/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-02ad111945cc",
-          "name": "⚽ Belgium vs Tunisia | Giữa Hiệp - 45+4' 1 - 0 20:00 06/06/2026",
+          "name": "⚽ Belgium vs Tunisia | H2 - 50' 1 - 0 20:00 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-019149f7a7",
+                          "id": "lnk-4b85455713",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=5e1d069d5924a7692bda43f2-178075446258621&wsIPSercert=8a93d70cb7efbea20a486a73e25d0a7b&wsBindIP=2&wsserid=1168283476522828939"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178075504873450&wsIPSercert=b5125410b1b63924d11795556538463a&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-f81600158e",
+                          "id": "lnk-f72f28c057",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-c2dd37e32600",
-          "name": "⚽ Lithuania vs Latvia | Giữa Hiệp - 45+2' 1 - 0 20:00 06/06/2026",
+          "name": "⚽ Lithuania vs Latvia | H2 - 52' 1 - 0 20:00 06/06/2026",
           "tournament": "Baltic Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/17962.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/250px-Flag_of_Latvia.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-efe93ae52e",
+                          "id": "lnk-6e303ca7fc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=7ea55c3b42629c3c9fbf7f74-178075447128881&wsIPSercert=8a93d70cb7efbea20a486a73e25d0a7b&wsBindIP=2&wsserid=1168231884021661304"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8e6b9a63c3bf8b47600cd06-178075505708270&wsIPSercert=b5125410b1b63924d11795556538463a&wsBindIP=2&wsserid=1168283323207303220"
                         },
                         {
-                          "id": "lnk-6742fbf09a",
+                          "id": "lnk-d78ab5c7da",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-2d188ccdd1b0",
-          "name": "⚽ Kyrgyzstan vs Palestine | Sắp diễn ra vs 21:30 06/06/2026",
+          "name": "⚽ Kyrgyzstan vs Palestine | Sắp bắt đầu - null' 0 - 0 21:30 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/10941.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Coat_of_arms_of_Palestine_%28alternative%29.svg",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-2d188ccdd1b0",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-67f8e08d4b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0e961616d49cc0b871242a4b-178075506577197&wsIPSercert=b5125410b1b63924d11795556538463a&wsBindIP=2&wsserid=1168283323302724409"
+                        },
+                        {
+                          "id": "lnk-6b6c1dc7e4",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
