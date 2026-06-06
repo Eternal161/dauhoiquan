@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:00 06/06/2026",
+  "last_updated": "19:10 06/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-c2efb2eca7c1",
-          "name": "⚽ Kawasaki Frontale vs Sanfrecce Hiroshima | H2 - 90' 0 - 1 17:00 06/06/2026",
-          "tournament": "J1 League",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/7/74/KawasakiFrontale.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/a/ad/SanfrecceHiroshima.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/7/74/KawasakiFrontale.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c2efb2eca7c1",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c2efb2eca7c1",
-                  "name": "Kawasaki Frontale vs Sanfrecce Hiroshima",
-                  "streams": [
-                    {
-                      "id": "kaytee-c2efb2eca7c1",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1c7ee58a1f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-02ad111945cc",
           "name": "⚽ Belgium vs Tunisia | Sắp diễn ra vs 20:00 06/06/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-afda30e05b21",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-778bba9329ac",
+          "name": "⚽ Usa vs Germany | Sắp diễn ra vs 01:30 07/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2384.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-778bba9329ac",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-778bba9329ac",
+                  "name": "Usa vs Germany",
+                  "streams": [
+                    {
+                      "id": "kaytee-778bba9329ac",
                       "name": "F",
                       "stream_links": []
                     }
