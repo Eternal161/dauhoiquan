@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:50 06/06/2026",
+  "last_updated": "21:00 06/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-02ad111945cc",
-          "name": "⚽ Belgium vs Tunisia | Live 0 - 0 20:00 06/06/2026",
+          "name": "⚽ Belgium vs Tunisia | Giữa Hiệp - 45+4' 1 - 0 20:00 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-06e2674c65",
+                          "id": "lnk-019149f7a7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ff1c663e0a7f623fca95554e-178075385117600&wsIPSercert=eee149bddae7d9c34be8b64bcbb0926a&wsBindIP=2&wsserid=1168168154451507561"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=5e1d069d5924a7692bda43f2-178075446258621&wsIPSercert=8a93d70cb7efbea20a486a73e25d0a7b&wsBindIP=2&wsserid=1168283476522828939"
                         },
                         {
-                          "id": "lnk-431ff1b806",
+                          "id": "lnk-f81600158e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-c2dd37e32600",
-          "name": "⚽ Lithuania vs Latvia | Live 0 - 0 20:00 06/06/2026",
+          "name": "⚽ Lithuania vs Latvia | Giữa Hiệp - 45+2' 1 - 0 20:00 06/06/2026",
           "tournament": "Baltic Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/17962.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/250px-Flag_of_Latvia.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4961d4b65f",
+                          "id": "lnk-efe93ae52e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=e1cc7d83f669b6ac70984112-178075385957194&wsIPSercert=eee149bddae7d9c34be8b64bcbb0926a&wsBindIP=2&wsserid=1168168154453604765"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=7ea55c3b42629c3c9fbf7f74-178075447128881&wsIPSercert=8a93d70cb7efbea20a486a73e25d0a7b&wsBindIP=2&wsserid=1168231884021661304"
                         },
                         {
-                          "id": "lnk-72626515dc",
+                          "id": "lnk-6742fbf09a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -208,51 +208,6 @@
                   "streams": [
                     {
                       "id": "kaytee-3cd6c0383807",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-633457ad594d",
-          "name": "⚽ Rwanda vs Comoros | Sắp diễn ra vs 23:00 06/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/1514.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1514.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-633457ad594d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-633457ad594d",
-                  "name": "Rwanda vs Comoros",
-                  "streams": [
-                    {
-                      "id": "kaytee-633457ad594d",
                       "name": "F",
                       "stream_links": []
                     }
@@ -478,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-0f82fc1728aa",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-805e57e8bdd9",
+          "name": "⚽ Venezuela vs Türkiye | Sắp diễn ra vs 05:00 07/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/250px-Flag_of_Venezuela.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/777.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/250px-Flag_of_Venezuela.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-805e57e8bdd9",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-805e57e8bdd9",
+                  "name": "Venezuela vs Türkiye",
+                  "streams": [
+                    {
+                      "id": "kaytee-805e57e8bdd9",
                       "name": "F",
                       "stream_links": []
                     }
