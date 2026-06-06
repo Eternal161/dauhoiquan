@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:31 06/06/2026",
+  "last_updated": "21:40 06/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-02ad111945cc",
-          "name": "⚽ Belgium vs Tunisia | H2 - 70' 3 - 0 20:00 06/06/2026",
+          "name": "⚽ Belgium vs Tunisia | H2 - 80' 3 - 0 20:00 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-57fca3f5e1",
+                          "id": "lnk-37cc15d77e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7229091031e99425f798ab9d-178075627019758&wsIPSercert=b18279f0ad8fb4c7825f4602feb99cd1&wsBindIP=2&wsserid=1172580915182858212"
+                          "url": "https://tfwi1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2c6a768ae9d6db114f710835-178075684494593&wsIPSercert=faf37ad21e2e674241f95051c4203598&wsBindIP=2&wsserid=1168214364742294105"
                         },
                         {
-                          "id": "lnk-ae5d0b931d",
+                          "id": "lnk-db8b041dc8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-c2dd37e32600",
-          "name": "⚽ Lithuania vs Latvia | H2 - 72' 1 - 1 20:00 06/06/2026",
+          "name": "⚽ Lithuania vs Latvia | H2 - 82' 1 - 1 20:00 06/06/2026",
           "tournament": "Baltic Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/17962.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/250px-Flag_of_Latvia.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5ec0449b70",
+                          "id": "lnk-f3513e65b4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8f5eb2374077efe04080d65-178075627871775&wsIPSercert=b18279f0ad8fb4c7825f4602feb99cd1&wsBindIP=2&wsserid=1172580915176566596"
+                          "url": "https://tfwi1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=1727692f2fcfce8af9ab5981-178075685344002&wsIPSercert=faf37ad21e2e674241f95051c4203598&wsBindIP=2&wsserid=1168041062946239395"
                         },
                         {
-                          "id": "lnk-c643159fce",
+                          "id": "lnk-433828066a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-174495e2c0d1",
-          "name": "⚽ Kyrgyzstan vs Palestine | Sắp bắt đầu - null' 0 - 0 21:30 06/06/2026",
+          "name": "⚽ Kyrgyzstan vs Palestine | H1 - 10' 0 - 0 21:30 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/10941.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Coat_of_arms_of_Palestine_%28alternative%29.svg",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -164,22 +164,7 @@
                     {
                       "id": "kaytee-174495e2c0d1",
                       "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-785ee0ac5d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=4c6f8e2477eefb4aa1bc2109-178075628743759&wsIPSercert=b18279f0ad8fb4c7825f4602feb99cd1&wsBindIP=2&wsserid=1172580915169226372"
-                        },
-                        {
-                          "id": "lnk-5987b737e3",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -189,7 +174,7 @@
         },
         {
           "id": "kaytee-3cd6c0383807",
-          "name": "⚽ Portugal U19 vs Greece U19 | Sắp diễn ra vs 22:00 06/06/2026",
+          "name": "⚽ Portugal U19 vs Greece U19 | Sắp bắt đầu - null' 0 - 0 22:00 06/06/2026",
           "tournament": "UEFA U19 Championship - Qualification",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/1280px-Flag_of_Portugal_%28official%29.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10364.png",
@@ -206,10 +191,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -224,7 +209,22 @@
                     {
                       "id": "kaytee-3cd6c0383807",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-9646c64f36",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwi1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=1727692f2fcfce8af9ab5981-178075687014348&wsIPSercert=faf37ad21e2e674241f95051c4203598&wsBindIP=2&wsserid=1168041062946239395"
+                        },
+                        {
+                          "id": "lnk-b68da84c56",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
