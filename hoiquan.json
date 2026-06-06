@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:20 06/06/2026",
+  "last_updated": "07:30 06/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-11b19cc9c1",
+                          "id": "lnk-f5245cbbfd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjz8rzd1pbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=33c58bb968e119c20b02d306-178070525592651&wsIPSercert=829476791e5242634f74462c56b8b41a&wsBindIP=2&wsserid=1168176346313714739"
+                          "url": "https://tfwi1gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=b53217f94dfc680cfadf6fe7-178070586896260&wsIPSercert=af1a6bbae2f51239a367c8aedc73471d&wsBindIP=2&wsserid=1172580915173420788"
                         },
                         {
-                          "id": "lnk-4a5147e19f",
+                          "id": "lnk-b014b41f19",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-c1f79b483ba2",
-          "name": "⚽ Canada vs Rep. Of Ireland | H1 - 36' 1 - 0 06:30 06/06/2026",
+          "name": "⚽ Canada vs Rep. Of Ireland | H1 - 45+1' 1 - 0 06:30 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/776.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6c1e69f01a",
+                          "id": "lnk-fe9261de7d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2c6a768ae9d6db114f710835-178070526458195&wsIPSercert=829476791e5242634f74462c56b8b41a&wsBindIP=2&wsserid=1168214364742294105"
+                          "url": "https://tfwi3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7d691546f63683fe66c49005-178070587753289&wsIPSercert=af1a6bbae2f51239a367c8aedc73471d&wsBindIP=2&wsserid=1172662091344090222"
                         },
                         {
-                          "id": "lnk-ce2526f3bc",
+                          "id": "lnk-6086198952",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
