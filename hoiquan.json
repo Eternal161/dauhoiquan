@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:30 07/06/2026",
+  "last_updated": "03:40 07/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-778bba9329ac",
-          "name": "⚽ Usa vs Germany | H2 - 90+2' 1 - 2 01:30 07/06/2026",
+          "name": "⚽ Usa vs Germany | H2 - 90+7' 1 - 2 01:30 07/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3e3e71d8e9",
+                          "id": "lnk-aac465bfb8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178077786452362&wsIPSercert=d329ffd80ed6e9b6637662c5e1278e0f&wsBindIP=2&wsserid=1168283476093891044"
-                        },
-                        {
-                          "id": "lnk-f618cb55cb",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
                         }
                       ]
@@ -69,7 +62,7 @@
         },
         {
           "id": "kaytee-906b77b43a34",
-          "name": "⚽ Australia vs Switzerland | H2 - 69' 1 - 1 02:00 07/06/2026",
+          "name": "⚽ Australia vs Switzerland | H2 - 80' 1 - 1 02:00 07/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
@@ -106,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-caae364001",
+                          "id": "lnk-458f7b4592",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178077787299070&wsIPSercert=d329ffd80ed6e9b6637662c5e1278e0f&wsBindIP=2&wsserid=1168283476093891044"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178077846341781&wsIPSercert=d0eb56d4a20a74bbaae844d39021d68e&wsBindIP=2&wsserid=1168283476093891044"
                         },
                         {
-                          "id": "lnk-b047af1492",
+                          "id": "lnk-a62a01dcd0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +122,7 @@
         },
         {
           "id": "kaytee-0f82fc1728aa",
-          "name": "⚽ England vs New Zealand | H1 - 29' 0 - 0 03:00 07/06/2026",
+          "name": "⚽ England vs New Zealand | H1 - 39' 0 - 0 03:00 07/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/10.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
@@ -166,14 +159,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d680b7de5f",
+                          "id": "lnk-7d0a921b51",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178077788195005&wsIPSercert=d329ffd80ed6e9b6637662c5e1278e0f&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwi1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178077847122211&wsIPSercert=d0eb56d4a20a74bbaae844d39021d68e&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-471fbc97ff",
+                          "id": "lnk-a84c72bd53",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
