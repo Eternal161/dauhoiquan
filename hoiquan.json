@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:30 06/06/2026",
+  "last_updated": "08:40 06/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b3b3eb2277a8",
-          "name": "⚽ Puerto Rico vs Saudi Arabia | H1 - 24' 0 - 0 06:00 06/06/2026",
+          "name": "⚽ Puerto Rico vs Saudi Arabia | H1 - 44' 0 - 0 06:00 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/1280px-Flag_of_Puerto_Rico.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-793d3d6973",
+                          "id": "lnk-c3c7bde112",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjz8rzdeqjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=6650bde40cd33e680567646d-178070945040268&wsIPSercert=fc19127a9146773a02caf019d5626d41&wsBindIP=2&wsserid=1168176346315811943"
+                          "url": "https://tfwi1gr3uomttgr31hcj3fa3deqbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=ff1c663e0a7f623fca95554e-178071005609602&wsIPSercert=bbef4d31d89b155a70ea070685427b20&wsBindIP=2&wsserid=1168168154451507561"
                         },
                         {
-                          "id": "lnk-b4b1d2f8cb",
+                          "id": "lnk-95c629eddd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-c1f79b483ba2",
-          "name": "⚽ Canada vs Rep. Of Ireland | H2 - 87' 1 - 1 06:30 06/06/2026",
+          "name": "⚽ Canada vs Rep. Of Ireland | H2 - 90+6' 1 - 1 06:30 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/776.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-67fe76b5c4",
+                          "id": "lnk-44a4e0e698",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2c6a768ae9d6db114f710835-178070945898786&wsIPSercert=fc19127a9146773a02caf019d5626d41&wsBindIP=2&wsserid=1168214364742294105"
+                          "url": "https://tfwi1gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=a1f53ea0c8ae941e53ed820c-178071006456367&wsIPSercert=bbef4d31d89b155a70ea070685427b20&wsBindIP=2&wsserid=1168168154460945005"
                         },
                         {
-                          "id": "lnk-b46754cf81",
+                          "id": "lnk-73594f2ca3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
