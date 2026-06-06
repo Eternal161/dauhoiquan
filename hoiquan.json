@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "14:10 06/06/2026",
+  "last_updated": "14:20 06/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-9c7e89b01930",
-          "name": "⚽ Jubilo Iwata vs Osaka | Live 0 - 0 14:00 06/06/2026",
+          "name": "⚽ Jubilo Iwata vs Osaka | H1 - 17' 0 - 0 14:00 06/06/2026",
           "tournament": "J2/J3 League",
           "logo_nha": "https://media.api-sports.io/football/teams/280.png",
           "logo_khach": "https://media.api-sports.io/football/teams/7138.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3a6d79b88a",
+                          "id": "lnk-8a6e5fb9cd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=5e1d069d5924a7692bda43f2-178072985870069&wsIPSercert=6def7e3901bb9092ff24560b7ae1412c&wsBindIP=2&wsserid=1168283476522828939"
+                          "url": "https://tfwi1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178073045660526&wsIPSercert=53cbf807ce2d016df770dc6bfeb3e65f&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-4038d0f22b",
+                          "id": "lnk-f8412605d4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
