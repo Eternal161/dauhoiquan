@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:30 07/06/2026",
+  "last_updated": "00:40 07/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-347ed8b32c1a",
-          "name": "⚽ Romania vs Wales | Sắp bắt đầu - null' 0 - 0 00:45 07/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/10378.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Wales.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10378.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-347ed8b32c1a",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-347ed8b32c1a",
-                  "name": "Romania vs Wales",
-                  "streams": [
-                    {
-                      "id": "kaytee-347ed8b32c1a",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4a2b3cb2e7",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-afda30e05b21",
           "name": "⚽ Portugal vs Chile | Sắp bắt đầu - null' 0 - 0 00:45 07/06/2026",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-04f259a7ff",
+                          "id": "lnk-e993197eae",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2c6a768ae9d6db114f710835-178076706134732&wsIPSercert=ca0c55d24219f1a804fb7c5a3d0f30bc&wsBindIP=2&wsserid=1168214364742294105"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178076766056898&wsIPSercert=1c591adad5dbe0935e3e73c890a277d7&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-2a73455ac1",
+                          "id": "lnk-4648551a4e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-c4fc4a905580",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e572c0337e18",
+          "name": "⚽ Oita Trinita vs Montedio Yamagata | Sắp diễn ra vs 14:00 07/06/2026",
+          "tournament": "J2/J3 League",
+          "logo_nha": "https://media.api-sports.io/football/teams/298.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/312.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/298.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e572c0337e18",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e572c0337e18",
+                  "name": "Oita Trinita vs Montedio Yamagata",
+                  "streams": [
+                    {
+                      "id": "kaytee-e572c0337e18",
                       "name": "F",
                       "stream_links": []
                     }
