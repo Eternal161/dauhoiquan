@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:50 07/06/2026",
+  "last_updated": "01:01 07/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-afda30e05b21",
-          "name": "⚽ Portugal vs Chile | Sắp bắt đầu - null' 0 - 0 00:45 07/06/2026",
+          "name": "⚽ Portugal vs Chile | H1 - 10' 0 - 0 00:45 07/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/27.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5c0865197f",
+                          "id": "lnk-6fb265f84b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7d691546f63683fe66c49005-178076826012795&wsIPSercert=b73bab40b2df9617d2cf13a9dad0aa1e&wsBindIP=2&wsserid=1172662091344090222"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178076887239123&wsIPSercert=90d817ac1520b4174fcc708967a800de&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-38c431f86e",
+                          "id": "lnk-da1448c5dc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
