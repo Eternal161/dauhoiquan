@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "13:20 06/06/2026",
+  "last_updated": "13:30 06/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-ef3b9b01da5c",
-          "name": "⚽ Yokohama Fc vs Renofa Yamaguchi | H2 - 60' 1 - 1 12:00 06/06/2026",
+          "name": "⚽ Yokohama Fc vs Renofa Yamaguchi | H2 - 70' 1 - 1 12:00 06/06/2026",
           "tournament": "J2/J3 League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/1/18/YokohamaFC.png",
           "logo_khach": "https://media.api-sports.io/football/teams/309.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-64241a33b5",
+                          "id": "lnk-4b089ae85e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=ff1c663e0a7f623fca95554e-178072686213867&wsIPSercert=0500960132ad85702d002775bb275412&wsBindIP=2&wsserid=1168168154451507561"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=33c58bb968e119c20b02d306-178072745834713&wsIPSercert=55eef6506d8040162ff6e32559cdd271&wsBindIP=2&wsserid=1168176346313714739"
                         },
                         {
-                          "id": "lnk-17c1282a77",
+                          "id": "lnk-9ce112e097",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
