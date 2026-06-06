@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:10 06/06/2026",
+  "last_updated": "17:20 06/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c2efb2eca7c1",
-          "name": "⚽ Kawasaki Frontale vs Sanfrecce Hiroshima | H1 - 7' 0 - 0 17:00 06/06/2026",
+          "name": "⚽ Kawasaki Frontale vs Sanfrecce Hiroshima | Live 0 - 0 17:00 06/06/2026",
           "tournament": "J1 League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/7/74/KawasakiFrontale.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/a/ad/SanfrecceHiroshima.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-699a6a52ce",
+                          "id": "lnk-3784382e8f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=33c58bb968e119c20b02d306-178074064689124&wsIPSercert=d1d61d82b631a2bfa04f0080c0b51862&wsBindIP=2&wsserid=1168176346313714739"
+                          "url": "https://tfwi1gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4608f724b9c73d510579fc04-178074125929649&wsIPSercert=a916f19d5a3b20f52ed09e991e02e3b8&wsBindIP=2&wsserid=1168168154459896377"
                         },
                         {
-                          "id": "lnk-ead3cf51d3",
+                          "id": "lnk-d5ddf968b6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
