@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:40 07/06/2026",
+  "last_updated": "05:50 07/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-805e57e8bdd9",
-          "name": "⚽ Venezuela vs Türkiye | H1 - 39' 1 - 0 05:00 07/06/2026",
+          "name": "⚽ Venezuela vs Türkiye | Giữa Hiệp - 45+2' 1 - 1 05:00 07/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/250px-Flag_of_Venezuela.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/777.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3ee3ea2f0b",
+                          "id": "lnk-ead68c45c9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e1cc7d83f669b6ac70984112-178078565698048&wsIPSercert=2121f4c0f9ab9617b52811c5b3242fb9&wsBindIP=2&wsserid=1168168154453604765"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178078626447832&wsIPSercert=65b219941dc13bb57276fe14c18869f0&wsBindIP=2&wsserid=1168283476093891044"
                         },
                         {
-                          "id": "lnk-124ca5097c",
+                          "id": "lnk-d878f199f0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-f1c1fab72252",
-          "name": "⚽ Brazil vs Egypt | H1 - 34' 1 - 1 05:00 07/06/2026",
+          "name": "⚽ Brazil vs Egypt | H1 - 45' 1 - 1 05:00 07/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ddde6e24bb",
+                          "id": "lnk-433cb67b03",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ff1c663e0a7f623fca95554e-178078566551036&wsIPSercert=2121f4c0f9ab9617b52811c5b3242fb9&wsBindIP=2&wsserid=1168168154451507561"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=5e1d069d5924a7692bda43f2-178078627303505&wsIPSercert=65b219941dc13bb57276fe14c18869f0&wsBindIP=2&wsserid=1168283476522828939"
                         },
                         {
-                          "id": "lnk-10b1e555ee",
+                          "id": "lnk-67622e3d6b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
