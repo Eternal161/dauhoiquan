@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:30 06/06/2026",
+  "last_updated": "11:40 06/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-ef3b9b01da5c",
-          "name": "⚽ Yokohama Fc vs Renofa Yamaguchi | Sắp diễn ra vs 12:00 06/06/2026",
+          "name": "⚽ Yokohama Fc vs Renofa Yamaguchi | Sắp bắt đầu - null' 0 - 0 12:00 06/06/2026",
           "tournament": "J2/J3 League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/1/18/YokohamaFC.png",
           "logo_khach": "https://media.api-sports.io/football/teams/309.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "kaytee-ef3b9b01da5c",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-0c36fe0a5c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -54,7 +62,7 @@
         },
         {
           "id": "kaytee-7e193e1583a9",
-          "name": "⚽ Fc Tokyo vs Cerezo Osaka | Sắp diễn ra vs 12:00 06/06/2026",
+          "name": "⚽ Fc Tokyo vs Cerezo Osaka | Sắp bắt đầu - null' 0 - 0 12:00 06/06/2026",
           "tournament": "J1 League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/1/15/FC_Tokyo_Logo.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Cerezo_Osaka_logo.svg/250px-Cerezo_Osaka_logo.svg.png",
@@ -71,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -89,7 +97,15 @@
                     {
                       "id": "kaytee-7e193e1583a9",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-11ecd0af4e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
