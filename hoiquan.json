@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:40 06/06/2026",
+  "last_updated": "21:50 06/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-02ad111945cc",
-          "name": "⚽ Belgium vs Tunisia | H2 - 80' 3 - 0 20:00 06/06/2026",
+          "name": "⚽ Belgium vs Tunisia | H2 - 90' 5 - 0 20:00 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-37cc15d77e",
+                          "id": "lnk-7226d526e8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2c6a768ae9d6db114f710835-178075684494593&wsIPSercert=faf37ad21e2e674241f95051c4203598&wsBindIP=2&wsserid=1168214364742294105"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=61785e5dba4658081da27419-178075746640849&wsIPSercert=f668dadb177529f42ffc19c90f73649a&wsBindIP=2&wsserid=1168176337061519089"
                         },
                         {
-                          "id": "lnk-db8b041dc8",
+                          "id": "lnk-388f0a60f8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-c2dd37e32600",
-          "name": "⚽ Lithuania vs Latvia | H2 - 82' 1 - 1 20:00 06/06/2026",
+          "name": "⚽ Lithuania vs Latvia | H2 - 90' 1 - 1 20:00 06/06/2026",
           "tournament": "Baltic Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/17962.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/250px-Flag_of_Latvia.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f3513e65b4",
+                          "id": "lnk-d2e7d082e2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=1727692f2fcfce8af9ab5981-178075685344002&wsIPSercert=faf37ad21e2e674241f95051c4203598&wsBindIP=2&wsserid=1168041062946239395"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=cb7b951270b03144c4a20e3e-178075747480000&wsIPSercert=f668dadb177529f42ffc19c90f73649a&wsBindIP=2&wsserid=1168176337057324681"
                         },
                         {
-                          "id": "lnk-433828066a",
+                          "id": "lnk-21f0046271",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-174495e2c0d1",
-          "name": "⚽ Kyrgyzstan vs Palestine | H1 - 10' 0 - 0 21:30 06/06/2026",
+          "name": "⚽ Kyrgyzstan vs Palestine | H1 - 20' 0 - 0 21:30 06/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/10941.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Coat_of_arms_of_Palestine_%28alternative%29.svg",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-174495e2c0d1",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-6a7342e55f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwi0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b13933daec94aca61dee8209-178075748336728&wsIPSercert=f668dadb177529f42ffc19c90f73649a&wsBindIP=2&wsserid=1168176337059421885"
+                        },
+                        {
+                          "id": "lnk-6bf7baa787",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -211,14 +226,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9646c64f36",
+                          "id": "lnk-b67d0af6c0",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=1727692f2fcfce8af9ab5981-178075687014348&wsIPSercert=faf37ad21e2e674241f95051c4203598&wsBindIP=2&wsserid=1168041062946239395"
+                          "url": "https://tfwi0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=cb7b951270b03144c4a20e3e-178075749160175&wsIPSercert=f668dadb177529f42ffc19c90f73649a&wsBindIP=2&wsserid=1168176337057324681"
                         },
                         {
-                          "id": "lnk-b68da84c56",
+                          "id": "lnk-04d68563bc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
