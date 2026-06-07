@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:40 07/06/2026",
+  "last_updated": "23:50 07/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b8f2fa522bd5",
-          "name": "⚽ Denmark vs Ukraine | H1 - 10' 0 - 0 23:30 07/06/2026",
+          "name": "⚽ Denmark vs Ukraine | H1 - 20' 1 - 0 23:30 07/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/21.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ba73ec9248",
+                          "id": "lnk-297af6db9b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e1cc7d83f669b6ac70984112-178085045920888&wsIPSercert=1947e96ed59ec07d881c1e5824adf7c7&wsBindIP=2&wsserid=1168168154453604765"
+                          "url": "https://tfwj0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178085106775696&wsIPSercert=a52c928e39c268234c14a58b0435a540&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-9876857001",
+                          "id": "lnk-218f9e4bba",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ba7f235d8b",
+                          "id": "lnk-4e204cb6c3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=ff1c663e0a7f623fca95554e-178085046764716&wsIPSercert=1947e96ed59ec07d881c1e5824adf7c7&wsBindIP=2&wsserid=1168168154451507561"
+                          "url": "https://tfwj0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c86a3bc0281bce9bbc952701-178085107615374&wsIPSercert=a52c928e39c268234c14a58b0435a540&wsBindIP=2&wsserid=1168283477179400067"
                         },
                         {
-                          "id": "lnk-886ba976ac",
+                          "id": "lnk-a11a204f16",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
