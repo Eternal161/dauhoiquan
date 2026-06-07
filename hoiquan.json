@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:20 08/06/2026",
+  "last_updated": "06:30 08/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-302aa665d79b",
-          "name": "⚽ Colombia vs Jordan | H1 - 14' 0 - 0 06:00 08/06/2026",
+          "name": "⚽ Colombia vs Jordan | H1 - 25' 0 - 0 06:00 08/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a196d6c9b6",
+                          "id": "lnk-03f284e806",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0e961616d49cc0b871242a4b-178087445243167&wsIPSercert=cba762ccc9a5419832094c40ad4b0df5&wsBindIP=2&wsserid=1168283323302724409"
+                          "url": "https://tfwj0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=33c58bb968e119c20b02d306-178087505731611&wsIPSercert=8c8f7e0b0cf600f8fb66b1c9501f6111&wsBindIP=2&wsserid=1168176346313714739"
                         },
                         {
-                          "id": "lnk-b4b9491a51",
+                          "id": "lnk-15ea4148a3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
