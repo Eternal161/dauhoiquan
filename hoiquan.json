@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:00 07/06/2026",
+  "last_updated": "21:10 07/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e0f5c0380cde",
-          "name": "⚽ Indonesia U19 vs Vietnam U19 | Giữa Hiệp - 45+5' 1 - 0 20:00 07/06/2026",
+          "name": "⚽ Indonesia U19 vs Vietnam U19 | H2 - 51' 1 - 0 20:00 07/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19149.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19157.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-de43056c12",
+                          "id": "lnk-2e4abe7be5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178084085419925&wsIPSercert=8d96c611d7a68881e6c465c5d26cd870&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwj0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=61785e5dba4658081da27419-178084144970464&wsIPSercert=9eedc9c22fc1e7e563cc2b049f41ed2b&wsBindIP=2&wsserid=1168176337061519089"
                         },
                         {
-                          "id": "lnk-0be4c4c8e4",
+                          "id": "lnk-c4e16ad26a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-4caf90381971",
-          "name": "⚽ Shakhter Soligorsk vs Slonim | Sắp bắt đầu - null' 0 - 0 21:00 07/06/2026",
+          "name": "⚽ Shakhter Soligorsk vs Slonim | H1 - 10' 0 - 0 21:00 07/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/392.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3392.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b08a270f48",
+                          "id": "lnk-c672e5ca65",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=a6defa01f6e1e6463957ff66-178084086264931&wsIPSercert=8d96c611d7a68881e6c465c5d26cd870&wsBindIP=2&wsserid=1168176581102008440"
+                          "url": "https://tfwj0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b13933daec94aca61dee8209-178084145831156&wsIPSercert=9eedc9c22fc1e7e563cc2b049f41ed2b&wsBindIP=2&wsserid=1168176337059421885"
                         },
                         {
-                          "id": "lnk-934816de88",
+                          "id": "lnk-d4e8c1442e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
