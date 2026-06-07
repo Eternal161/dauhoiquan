@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:10 08/06/2026",
+  "last_updated": "00:20 08/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b8f2fa522bd5",
-          "name": "⚽ Denmark vs Ukraine | H1 - 35' 1 - 0 23:30 07/06/2026",
+          "name": "⚽ Denmark vs Ukraine | H1 - 45' 2 - 1 23:30 07/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/21.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2d64d00e76",
+                          "id": "lnk-bbff255d3b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b13933daec94aca61dee8209-178085225166628&wsIPSercert=c5309accb1fddbbad64a3be82fd34718&wsBindIP=2&wsserid=1168176337059421885"
+                          "url": "https://tfwj1gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=149be663ef1389e0051f6ddb-178085286114181&wsIPSercert=fa143bdca839f8e5a3e384c5e9ab1a16&wsBindIP=2&wsserid=1168235283031012122"
                         },
                         {
-                          "id": "lnk-907681a34e",
+                          "id": "lnk-ecc325f4b8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-9ce51ff569a5",
-          "name": "⚽ Belgium U17 vs Italy U17 | H1 - 8' 0 - 0 00:00 08/06/2026",
+          "name": "⚽ Belgium U17 vs Italy U17 | H1 - 18' 0 - 0 00:00 08/06/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
           "logo_khach": "https://tmssl.akamaized.net//images/wappen/big/23133.png?lm=1672672799",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-424494739a",
+                          "id": "lnk-2567efbd32",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=33c58bb968e119c20b02d306-178085226025604&wsIPSercert=c5309accb1fddbbad64a3be82fd34718&wsBindIP=2&wsserid=1168176346313714739"
+                          "url": "https://tfwj1gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4608f724b9c73d510579fc04-178085286935768&wsIPSercert=fa143bdca839f8e5a3e384c5e9ab1a16&wsBindIP=2&wsserid=1168168154459896377"
                         },
                         {
-                          "id": "lnk-45cbcb0c42",
+                          "id": "lnk-844ac9dbbd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
