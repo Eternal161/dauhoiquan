@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:20 07/06/2026",
+  "last_updated": "22:30 07/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-4caf90381971",
-          "name": "⚽ Shakhter Soligorsk vs Slonim | H2 - 63' 0 - 0 21:00 07/06/2026",
+          "name": "⚽ Shakhter Soligorsk vs Slonim | H2 - 73' 0 - 0 21:00 07/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/392.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3392.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-dd0aa28ea4",
+                          "id": "lnk-1fb16f1d7f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178084565410269&wsIPSercert=0cc4ef295e1905d843377bb14e425319&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfwj0gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=775c4fb7a60d7fa03f035c22-178084625548120&wsIPSercert=87608633410c7bee23fc389218fe55af&wsBindIP=2&wsserid=1168214263213094505"
                         },
                         {
-                          "id": "lnk-79575f53b5",
+                          "id": "lnk-c481e3a886",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
