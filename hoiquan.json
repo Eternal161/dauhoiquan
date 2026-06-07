@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "13:00 07/06/2026",
+  "last_updated": "13:10 07/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-c4fc4a905580",
-          "name": "⚽ Tokushima Vortis vs Iwaki | H2 - 90+5' 2 - 0 11:05 07/06/2026",
-          "tournament": "J2/J3 League",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Tokushima_Vortis_logo.svg/250px-Tokushima_Vortis_logo.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/7127.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Tokushima_Vortis_logo.svg/250px-Tokushima_Vortis_logo.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c4fc4a905580",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c4fc4a905580",
-                  "name": "Tokushima Vortis vs Iwaki",
-                  "streams": [
-                    {
-                      "id": "kaytee-c4fc4a905580",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-676083598b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwj0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=33c58bb968e119c20b02d306-178081205302618&wsIPSercert=ee0d92b20ec560740bc100b8c8a5ed5a&wsBindIP=2&wsserid=1168176346313714739"
-                        },
-                        {
-                          "id": "lnk-f1c684e58e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-ff8d5b6bcdf3",
-          "name": "⚽ Oita Trinita vs Montedio Yamagata | Sắp diễn ra vs 14:00 07/06/2026",
+          "name": "⚽ Oita Trinita vs Montedio Yamagata | Sắp bắt đầu - null' 0 - 0 14:00 07/06/2026",
           "tournament": "J2/J3 League",
           "logo_nha": "https://media.api-sports.io/football/teams/298.png",
           "logo_khach": "https://media.api-sports.io/football/teams/312.png",
@@ -86,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +44,15 @@
                     {
                       "id": "kaytee-ff8d5b6bcdf3",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6cca03c67",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -463,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-d61ef8ac7ddf",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e90fdec2f796",
+          "name": "⚽ Belgium U17 vs Italy U17 | Sắp diễn ra vs 00:00 08/06/2026",
+          "tournament": "UEFA U17 Championship",
+          "logo_nha": "https://media.api-sports.io/football/teams/1.png",
+          "logo_khach": "https://tmssl.akamaized.net//images/wappen/big/23133.png?lm=1672672799",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e90fdec2f796",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e90fdec2f796",
+                  "name": "Belgium U17 vs Italy U17",
+                  "streams": [
+                    {
+                      "id": "kaytee-e90fdec2f796",
                       "name": "F",
                       "stream_links": []
                     }
