@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:10 07/06/2026",
+  "last_updated": "07:20 07/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-75508eeb81",
+                          "id": "lnk-a8311329b7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=a6defa01f6e1e6463957ff66-178079105756923&wsIPSercert=117147c060585ec92b546878f04e37a5&wsBindIP=2&wsserid=1168176581102008440"
+                          "url": "https://tfwj1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=a6defa01f6e1e6463957ff66-178079166303378&wsIPSercert=3abfeec423bf98048e6a0be57f9ebca5&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-cae8274b50",
+                          "id": "lnk-580dbcbddd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,17 +106,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a37ec8a06b",
+                          "id": "lnk-129c87450a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178079106576387&wsIPSercert=117147c060585ec92b546878f04e37a5&wsBindIP=2&wsserid=1168176581104105640"
-                        },
-                        {
-                          "id": "lnk-da7343109d",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
                         }
                       ]
@@ -129,7 +122,7 @@
         },
         {
           "id": "kaytee-e354a99608cb",
-          "name": "⚽ Argentina vs Honduras | H1 - 4' 0 - 0 07:00 07/06/2026",
+          "name": "⚽ Argentina vs Honduras | H1 - 14' 0 - 0 07:00 07/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
           "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/nUt8y1weoBfa54Oi6JD4dw_96x96.png",
@@ -166,14 +159,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bbbc7a6536",
+                          "id": "lnk-8588db6472",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178079107427208&wsIPSercert=117147c060585ec92b546878f04e37a5&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwj1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178079168007874&wsIPSercert=3abfeec423bf98048e6a0be57f9ebca5&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-27922f5ffd",
+                          "id": "lnk-bccf4a3597",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -189,7 +182,7 @@
         },
         {
           "id": "kaytee-2e934d7be4b1",
-          "name": "⚽ Curaçao vs Aruba | Sắp bắt đầu - null' 0 - 0 07:00 07/06/2026",
+          "name": "⚽ Curaçao vs Aruba | H1 - 17' 0 - 0 07:00 07/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/250px-Flag_of_Cura%C3%A7ao.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/8167.png",
@@ -226,14 +219,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-75c02420de",
+                          "id": "lnk-b12c3a0019",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178079108251137&wsIPSercert=117147c060585ec92b546878f04e37a5&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwj1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178079168831235&wsIPSercert=3abfeec423bf98048e6a0be57f9ebca5&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-2f65f08a4d",
+                          "id": "lnk-6bf2c2f5fe",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
