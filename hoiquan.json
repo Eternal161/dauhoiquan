@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:40 08/06/2026",
+  "last_updated": "03:50 08/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-da530903405b",
-          "name": "⚽ Croatia vs Slovenia | Live 0 - 0 01:45 08/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/17979.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-da530903405b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-da530903405b",
-                  "name": "Croatia vs Slovenia",
-                  "streams": [
-                    {
-                      "id": "kaytee-da530903405b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5e19de2314",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwj0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2bcac8c59898b1e728264dd4-178086486228403&wsIPSercert=969e83d09308409d329ebc7639fa70b7&wsBindIP=2&wsserid=1168202333420231774"
-                        },
-                        {
-                          "id": "lnk-c0997c68f9",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-c425a445e408",
-          "name": "⚽ Morocco vs Norway | Live 0 - 0 02:00 08/06/2026",
+          "name": "⚽ Morocco vs Norway | H2 - 81' 1 - 1 02:00 08/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-34f3d14b25",
+                          "id": "lnk-f8684f9cd0",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178086487077829&wsIPSercert=969e83d09308409d329ebc7639fa70b7&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwj1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ff1c663e0a7f623fca95554e-178086545899418&wsIPSercert=a595079d930bcdc7db542c09d165b99c&wsBindIP=2&wsserid=1168168154451507561"
                         },
                         {
-                          "id": "lnk-3cd22297af",
+                          "id": "lnk-e5c315d2fd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-9b38cc2fa41f",
-          "name": "⚽ Greece vs Italy | Live 0 - 0 02:00 08/06/2026",
+          "name": "⚽ Greece vs Italy | H2 - 88' 0 - 1 02:00 08/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/1117.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7a15d28ae6",
+                          "id": "lnk-532d55efcb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178086487945852&wsIPSercert=969e83d09308409d329ebc7639fa70b7&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwj1gr3uomttgr31hcj3fa3dkcbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=4608f724b9c73d510579fc04-178086546756762&wsIPSercert=a595079d930bcdc7db542c09d165b99c&wsBindIP=2&wsserid=1168168154459896377"
                         },
                         {
-                          "id": "lnk-c174835fd9",
+                          "id": "lnk-83000b1313",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -189,7 +129,7 @@
         },
         {
           "id": "kaytee-32ede7bd3e72",
-          "name": "⚽ Ecuador vs Guatemala | Live 0 - 0 03:00 08/06/2026",
+          "name": "⚽ Ecuador vs Guatemala | H1 - 35' 1 - 0 03:00 08/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5161.png",
@@ -226,14 +166,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5fd69f54bf",
+                          "id": "lnk-ab868cd6e4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178086488746980&wsIPSercert=969e83d09308409d329ebc7639fa70b7&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfwj1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e1cc7d83f669b6ac70984112-178086547582789&wsIPSercert=a595079d930bcdc7db542c09d165b99c&wsBindIP=2&wsserid=1168168154453604765"
                         },
                         {
-                          "id": "lnk-aa5eead40c",
+                          "id": "lnk-1b10ef9c64",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -508,6 +448,51 @@
                   "streams": [
                     {
                       "id": "kaytee-4c7964826198",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-39494d2d4f5b",
+          "name": "⚽ France vs Northern Ireland | Sắp diễn ra vs 02:10 09/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/2.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/776.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-39494d2d4f5b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-39494d2d4f5b",
+                  "name": "France vs Northern Ireland",
+                  "streams": [
+                    {
+                      "id": "kaytee-39494d2d4f5b",
                       "name": "F",
                       "stream_links": []
                     }
