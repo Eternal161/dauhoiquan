@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:10 07/06/2026",
+  "last_updated": "21:20 07/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e0f5c0380cde",
-          "name": "⚽ Indonesia U19 vs Vietnam U19 | H2 - 51' 1 - 0 20:00 07/06/2026",
+          "name": "⚽ Indonesia U19 vs Vietnam U19 | H2 - 61' 1 - 0 20:00 07/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19149.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19157.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2e4abe7be5",
+                          "id": "lnk-ae7c90a035",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=61785e5dba4658081da27419-178084144970464&wsIPSercert=9eedc9c22fc1e7e563cc2b049f41ed2b&wsBindIP=2&wsserid=1168176337061519089"
+                          "url": "https://tfwj1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178084205524540&wsIPSercert=95e896b3724705d0ff30dda29e107169&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-c4e16ad26a",
+                          "id": "lnk-35d892338e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-4caf90381971",
-          "name": "⚽ Shakhter Soligorsk vs Slonim | H1 - 10' 0 - 0 21:00 07/06/2026",
+          "name": "⚽ Shakhter Soligorsk vs Slonim | H1 - 19' 0 - 0 21:00 07/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/392.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3392.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c672e5ca65",
+                          "id": "lnk-b758f2b1ac",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b13933daec94aca61dee8209-178084145831156&wsIPSercert=9eedc9c22fc1e7e563cc2b049f41ed2b&wsBindIP=2&wsserid=1168176337059421885"
+                          "url": "https://tfwj1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=a6defa01f6e1e6463957ff66-178084206339918&wsIPSercert=95e896b3724705d0ff30dda29e107169&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-d4e8c1442e",
+                          "id": "lnk-099b31c946",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -128,7 +128,7 @@
           ]
         },
         {
-          "id": "kaytee-d61ef8ac7ddf",
+          "id": "kaytee-b8f2fa522bd5",
           "name": "⚽ Denmark vs Ukraine | Sắp diễn ra vs 23:30 07/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/21.png",
@@ -154,15 +154,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-d61ef8ac7ddf",
+              "id": "kaytee-b8f2fa522bd5",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-d61ef8ac7ddf",
+                  "id": "kaytee-b8f2fa522bd5",
                   "name": "Denmark vs Ukraine",
                   "streams": [
                     {
-                      "id": "kaytee-d61ef8ac7ddf",
+                      "id": "kaytee-b8f2fa522bd5",
                       "name": "F",
                       "stream_links": []
                     }
@@ -173,7 +173,7 @@
           ]
         },
         {
-          "id": "kaytee-e90fdec2f796",
+          "id": "kaytee-9ce51ff569a5",
           "name": "⚽ Belgium U17 vs Italy U17 | Sắp diễn ra vs 00:00 08/06/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
@@ -199,15 +199,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-e90fdec2f796",
+              "id": "kaytee-9ce51ff569a5",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-e90fdec2f796",
+                  "id": "kaytee-9ce51ff569a5",
                   "name": "Belgium U17 vs Italy U17",
                   "streams": [
                     {
-                      "id": "kaytee-e90fdec2f796",
+                      "id": "kaytee-9ce51ff569a5",
                       "name": "F",
                       "stream_links": []
                     }
