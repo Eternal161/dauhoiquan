@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:00 07/06/2026",
+  "last_updated": "09:10 07/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-e354a99608cb",
-          "name": "⚽ Argentina vs Honduras | H2 - 90' 2 - 0 07:00 07/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
-          "logo_khach": "https://ssl.gstatic.com/onebox/media/sports/logos/nUt8y1weoBfa54Oi6JD4dw_96x96.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-e354a99608cb",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-e354a99608cb",
-                  "name": "Argentina vs Honduras",
-                  "streams": [
-                    {
-                      "id": "kaytee-e354a99608cb",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-949ea13fb7",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwj4gchnhcjo8rzdrpjtfa4144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=e1cc7d83f669b6ac70984112-178079765914380&wsIPSercert=6501b8fc1c35e449ec1ab4d9e19691b1&wsBindIP=2&wsserid=1168168154453604765"
-                        },
-                        {
-                          "id": "lnk-4de2ae2c57",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-c4fc4a905580",
           "name": "⚽ Tokushima Vortis vs Iwaki | Sắp diễn ra vs 11:05 07/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-e0f5c0380cde",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d61ef8ac7ddf",
+          "name": "⚽ Denmark vs Ukraine | Sắp diễn ra vs 23:30 07/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/21.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/21.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d61ef8ac7ddf",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d61ef8ac7ddf",
+                  "name": "Denmark vs Ukraine",
+                  "streams": [
+                    {
+                      "id": "kaytee-d61ef8ac7ddf",
                       "name": "F",
                       "stream_links": []
                     }
