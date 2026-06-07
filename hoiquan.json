@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "12:20 07/06/2026",
+  "last_updated": "12:30 07/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c4fc4a905580",
-          "name": "⚽ Tokushima Vortis vs Iwaki | H2 - 55' 1 - 0 11:05 07/06/2026",
+          "name": "⚽ Tokushima Vortis vs Iwaki | H2 - 65' 1 - 0 11:05 07/06/2026",
           "tournament": "J2/J3 League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Tokushima_Vortis_logo.svg/250px-Tokushima_Vortis_logo.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/7127.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-32b904a950",
+                          "id": "lnk-af700099a9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c86a3bc0281bce9bbc952701-178080965987500&wsIPSercert=0fdae15179d6791a0f687c724b31d4d3&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfwj0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178081025751090&wsIPSercert=7758b40ba8b14036e0fbc9cd988bf163&wsBindIP=2&wsserid=1168283476093891044"
                         },
                         {
-                          "id": "lnk-6b05e3bc3e",
+                          "id": "lnk-e9e2f52ac7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
