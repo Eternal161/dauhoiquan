@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:30 07/06/2026",
+  "last_updated": "20:40 07/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e0f5c0380cde",
-          "name": "⚽ Indonesia U19 vs Vietnam U19 | H1 - 30' 1 - 0 20:00 07/06/2026",
+          "name": "⚽ Indonesia U19 vs Vietnam U19 | H1 - 40' 1 - 0 20:00 07/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19149.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19157.png",
@@ -46,18 +46,78 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-36d1c612a6",
+                          "id": "lnk-bc7e7a162d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj4gchnhcjo8rzdrpjtfahn44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=a1f53ea0c8ae941e53ed820c-178083905555816&wsIPSercert=e4e001ddeab9fc6bc28f29a329f84c0d&wsBindIP=2&wsserid=1168168154460945005"
+                          "url": "https://tfwj0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178083964765950&wsIPSercert=74a509d7a31e38af19db7788991ec24f&wsBindIP=2&wsserid=1168283476093891044"
                         },
                         {
-                          "id": "lnk-927706c949",
+                          "id": "lnk-4e846a8aff",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-4caf90381971",
+          "name": "⚽ Shakhter Soligorsk vs Slonim | Sắp bắt đầu - null' 0 - 0 21:00 07/06/2026",
+          "tournament": "1. Division",
+          "logo_nha": "https://media.api-sports.io/football/teams/392.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3392.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/392.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4caf90381971",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4caf90381971",
+                  "name": "Shakhter Soligorsk vs Slonim",
+                  "streams": [
+                    {
+                      "id": "kaytee-4caf90381971",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-44f76eb34c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwj0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178083965612018&wsIPSercert=74a509d7a31e38af19db7788991ec24f&wsBindIP=2&wsserid=1168283476093891044"
+                        },
+                        {
+                          "id": "lnk-07d03d5c34",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
                         }
                       ]
                     }
@@ -418,51 +478,6 @@
                   "streams": [
                     {
                       "id": "kaytee-302aa665d79b",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-3fd0c8b6dc11",
-          "name": "⚽ Uganda vs Madagascar | Sắp diễn ra vs 19:00 08/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/250px-Flag_of_Uganda.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/250px-Flag_of_Uganda.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3fd0c8b6dc11",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3fd0c8b6dc11",
-                  "name": "Uganda vs Madagascar",
-                  "streams": [
-                    {
-                      "id": "kaytee-3fd0c8b6dc11",
                       "name": "F",
                       "stream_links": []
                     }
