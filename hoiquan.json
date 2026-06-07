@@ -1,375 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:50 07/06/2026",
+  "last_updated": "20:00 07/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-accf05b8b13d",
-          "name": "⚽ Binh Duong vs Hoang Anh Gia Lai | H2 - 88' 3 - 1 18:00 07/06/2026",
-          "tournament": "V.League 1",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/3673.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-accf05b8b13d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-accf05b8b13d",
-                  "name": "Binh Duong vs Hoang Anh Gia Lai",
-                  "streams": [
-                    {
-                      "id": "kaytee-accf05b8b13d",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8b13d17221",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwj1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8?wsSession=a6defa01f6e1e6463957ff66-178083665053549&wsIPSercert=0c81f7551294f882b38e8e8deb7ab119&wsBindIP=2&wsserid=1168176581102008440"
-                        },
-                        {
-                          "id": "lnk-be5d442def",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-3a29c782d120",
-          "name": "⚽ Da Nang vs Thanh Hóa | H2 - 88' 4 - 0 18:00 07/06/2026",
-          "tournament": "V.League 1",
-          "logo_nha": "https://media.api-sports.io/football/teams/3669.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/3669.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3a29c782d120",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3a29c782d120",
-                  "name": "Da Nang vs Thanh Hóa",
-                  "streams": [
-                    {
-                      "id": "kaytee-3a29c782d120",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c0737bc6fc",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwj1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178083665865948&wsIPSercert=0c81f7551294f882b38e8e8deb7ab119&wsBindIP=2&wsserid=1168176581104105640"
-                        },
-                        {
-                          "id": "lnk-74354e5e4b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-b4d74cd7187e",
-          "name": "⚽ Ha Noi vs Ho Chi Minh | H2 - 90' 1 - 1 18:00 07/06/2026",
-          "tournament": "V.League 1",
-          "logo_nha": "https://media.api-sports.io/football/teams/3670.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/4/47/Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg/250px-Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/3670.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b4d74cd7187e",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b4d74cd7187e",
-                  "name": "Ha Noi vs Ho Chi Minh",
-                  "streams": [
-                    {
-                      "id": "kaytee-b4d74cd7187e",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e3a2321a58",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwj0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178083666731787&wsIPSercert=0c81f7551294f882b38e8e8deb7ab119&wsBindIP=2&wsserid=1168202333418134578"
-                        },
-                        {
-                          "id": "lnk-78a895bc49",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-42afae9e210d",
-          "name": "⚽ Ninh Bình vs Hồng Lĩnh Hà Tĩnh | H2 - 89' 3 - 0 18:00 07/06/2026",
-          "tournament": "V.League 1",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-42afae9e210d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-42afae9e210d",
-                  "name": "Ninh Bình vs Hồng Lĩnh Hà Tĩnh",
-                  "streams": [
-                    {
-                      "id": "kaytee-42afae9e210d",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-70642695ea",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwj1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178083667544921&wsIPSercert=0c81f7551294f882b38e8e8deb7ab119&wsBindIP=2&wsserid=1168176581104105640"
-                        },
-                        {
-                          "id": "lnk-067cb96d29",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-ab927920d84e",
-          "name": "⚽ Song Lam Nghe An vs Pho Hien | H2 - 89' 1 - 3 18:00 07/06/2026",
-          "tournament": "V.League 1",
-          "logo_nha": "https://media.api-sports.io/football/teams/3678.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/9166.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/3678.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ab927920d84e",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ab927920d84e",
-                  "name": "Song Lam Nghe An vs Pho Hien",
-                  "streams": [
-                    {
-                      "id": "kaytee-ab927920d84e",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c91cef0258",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwj1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178083668396172&wsIPSercert=0c81f7551294f882b38e8e8deb7ab119&wsBindIP=2&wsserid=1168176581104105640"
-                        },
-                        {
-                          "id": "lnk-3b26ae7f1e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-e55dc4491f13",
-          "name": "⚽ Viettel vs Cahn | H2 - 87' 1 - 0 18:00 07/06/2026",
-          "tournament": "V.League 1",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/d/d1/Viettel_FC_2021.svg",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/d/d1/Viettel_FC_2021.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-e55dc4491f13",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-e55dc4491f13",
-                  "name": "Viettel vs Cahn",
-                  "streams": [
-                    {
-                      "id": "kaytee-e55dc4491f13",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e0a5a3c2d2",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwj1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178083669214679&wsIPSercert=0c81f7551294f882b38e8e8deb7ab119&wsBindIP=2&wsserid=1168176581104105640"
-                        },
-                        {
-                          "id": "lnk-baf8732fce",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-e0f5c0380cde",
-          "name": "⚽ Indonesia U19 vs Vietnam U19 | Sắp bắt đầu - null' 0 - 0 20:00 07/06/2026",
+          "name": "⚽ Indonesia U19 vs Vietnam U19 | H1 - 1' 0 - 0 20:00 07/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19149.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19157.png",
@@ -406,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-581d1aee00",
+                          "id": "lnk-f252e26982",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178083670065805&wsIPSercert=0c81f7551294f882b38e8e8deb7ab119&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwj1gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=a1f53ea0c8ae941e53ed820c-178083726228556&wsIPSercert=15558f1ad3a9c180cff2e0e586162c37&wsBindIP=2&wsserid=1168168154460945005"
                         },
                         {
-                          "id": "lnk-97cecf33be",
+                          "id": "lnk-ab32b90e54",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -553,6 +193,276 @@
                   "streams": [
                     {
                       "id": "kaytee-a6da3e41221a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-da530903405b",
+          "name": "⚽ Croatia vs Slovenia | Sắp diễn ra vs 01:45 08/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/17979.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-da530903405b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-da530903405b",
+                  "name": "Croatia vs Slovenia",
+                  "streams": [
+                    {
+                      "id": "kaytee-da530903405b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c425a445e408",
+          "name": "⚽ Morocco vs Norway | Sắp diễn ra vs 02:00 08/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c425a445e408",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c425a445e408",
+                  "name": "Morocco vs Norway",
+                  "streams": [
+                    {
+                      "id": "kaytee-c425a445e408",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-9b38cc2fa41f",
+          "name": "⚽ Greece vs Italy | Sắp diễn ra vs 02:00 08/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/1117.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1117.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-9b38cc2fa41f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-9b38cc2fa41f",
+                  "name": "Greece vs Italy",
+                  "streams": [
+                    {
+                      "id": "kaytee-9b38cc2fa41f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-32ede7bd3e72",
+          "name": "⚽ Ecuador vs Guatemala | Sắp diễn ra vs 03:00 08/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/5161.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-32ede7bd3e72",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-32ede7bd3e72",
+                  "name": "Ecuador vs Guatemala",
+                  "streams": [
+                    {
+                      "id": "kaytee-32ede7bd3e72",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-302aa665d79b",
+          "name": "⚽ Colombia vs Jordan | Sắp diễn ra vs 06:00 08/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-302aa665d79b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-302aa665d79b",
+                  "name": "Colombia vs Jordan",
+                  "streams": [
+                    {
+                      "id": "kaytee-302aa665d79b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3fd0c8b6dc11",
+          "name": "⚽ Uganda vs Madagascar | Sắp diễn ra vs 19:00 08/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/250px-Flag_of_Uganda.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/250px-Flag_of_Uganda.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3fd0c8b6dc11",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3fd0c8b6dc11",
+                  "name": "Uganda vs Madagascar",
+                  "streams": [
+                    {
+                      "id": "kaytee-3fd0c8b6dc11",
                       "name": "F",
                       "stream_links": []
                     }
