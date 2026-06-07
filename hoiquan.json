@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:10 07/06/2026",
+  "last_updated": "16:20 07/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c777722304",
+                          "id": "lnk-cd4d91e3a9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -61,7 +61,7 @@
           ]
         },
         {
-          "id": "kaytee-a672d06a827f",
+          "id": "kaytee-accf05b8b13d",
           "name": "⚽ Binh Duong vs Hoang Anh Gia Lai | Sắp diễn ra vs 18:00 07/06/2026",
           "tournament": "V.League 1",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png",
@@ -87,15 +87,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-a672d06a827f",
+              "id": "kaytee-accf05b8b13d",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-a672d06a827f",
+                  "id": "kaytee-accf05b8b13d",
                   "name": "Binh Duong vs Hoang Anh Gia Lai",
                   "streams": [
                     {
-                      "id": "kaytee-a672d06a827f",
+                      "id": "kaytee-accf05b8b13d",
                       "name": "F",
                       "stream_links": []
                     }
