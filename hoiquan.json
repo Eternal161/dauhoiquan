@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:00 08/06/2026",
+  "last_updated": "05:10 08/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-32ede7bd3e72",
-          "name": "⚽ Ecuador vs Guatemala | H2 - 84' 3 - 0 03:00 08/06/2026",
+          "name": "⚽ Ecuador vs Guatemala | H2 - 90+2' 3 - 0 03:00 08/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5161.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-79e8cd8e21",
+                          "id": "lnk-27991f4334",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178086966105445&wsIPSercert=0a8ed428ce4a1b4cc55558ab8cc70195&wsBindIP=2&wsserid=1168283476093891044"
+                          "url": "https://tfwj0gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=775c4fb7a60d7fa03f035c22-178087025641451&wsIPSercert=05437751cbb305657c57c6950925213d&wsBindIP=2&wsserid=1168214263213094505"
                         },
                         {
-                          "id": "lnk-1a0d091354",
+                          "id": "lnk-568944fb12",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
