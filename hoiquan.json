@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:20 07/06/2026",
+  "last_updated": "16:31 07/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-ff8d5b6bcdf3",
-          "name": "⚽ Oita Trinita vs Montedio Yamagata | H2 - 90+7' 1 - 0 14:00 07/06/2026",
-          "tournament": "J2/J3 League",
-          "logo_nha": "https://media.api-sports.io/football/teams/298.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/312.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/298.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ff8d5b6bcdf3",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ff8d5b6bcdf3",
-                  "name": "Oita Trinita vs Montedio Yamagata",
-                  "streams": [
-                    {
-                      "id": "kaytee-ff8d5b6bcdf3",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cd4d91e3a9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-accf05b8b13d",
           "name": "⚽ Binh Duong vs Hoang Anh Gia Lai | Sắp diễn ra vs 18:00 07/06/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-e90fdec2f796",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a6da3e41221a",
+          "name": "⚽ Kosovo vs Andorra | Sắp diễn ra vs 01:00 08/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1280px-Flag_of_Kosovo.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/250px-Flag_of_Andorra.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1280px-Flag_of_Kosovo.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a6da3e41221a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a6da3e41221a",
+                  "name": "Kosovo vs Andorra",
+                  "streams": [
+                    {
+                      "id": "kaytee-a6da3e41221a",
                       "name": "F",
                       "stream_links": []
                     }
