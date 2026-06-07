@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:01 08/06/2026",
+  "last_updated": "00:10 08/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b8f2fa522bd5",
-          "name": "⚽ Denmark vs Ukraine | H1 - 30' 1 - 0 23:30 07/06/2026",
+          "name": "⚽ Denmark vs Ukraine | H1 - 35' 1 - 0 23:30 07/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/21.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-96ca757edc",
+                          "id": "lnk-2d64d00e76",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178085166980328&wsIPSercert=e3b2916f9f991965374f19a68f5137a6&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwj0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b13933daec94aca61dee8209-178085225166628&wsIPSercert=c5309accb1fddbbad64a3be82fd34718&wsBindIP=2&wsserid=1168176337059421885"
                         },
                         {
-                          "id": "lnk-5ba4f1372e",
+                          "id": "lnk-907681a34e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-9ce51ff569a5",
-          "name": "⚽ Belgium U17 vs Italy U17 | Sắp bắt đầu - null' 0 - 0 00:00 08/06/2026",
+          "name": "⚽ Belgium U17 vs Italy U17 | H1 - 8' 0 - 0 00:00 08/06/2026",
           "tournament": "UEFA U17 Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
           "logo_khach": "https://tmssl.akamaized.net//images/wappen/big/23133.png?lm=1672672799",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-007c251318",
+                          "id": "lnk-424494739a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c86a3bc0281bce9bbc952701-178085167834010&wsIPSercert=e3b2916f9f991965374f19a68f5137a6&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfwj0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=33c58bb968e119c20b02d306-178085226025604&wsIPSercert=c5309accb1fddbbad64a3be82fd34718&wsBindIP=2&wsserid=1168176346313714739"
                         },
                         {
-                          "id": "lnk-6fff064be2",
+                          "id": "lnk-45cbcb0c42",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -128,7 +128,7 @@
           ]
         },
         {
-          "id": "kaytee-a6da3e41221a",
+          "id": "kaytee-c047a7546c87",
           "name": "⚽ Kosovo vs Andorra | Sắp diễn ra vs 01:00 08/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1280px-Flag_of_Kosovo.svg.png",
@@ -154,15 +154,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-a6da3e41221a",
+              "id": "kaytee-c047a7546c87",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-a6da3e41221a",
+                  "id": "kaytee-c047a7546c87",
                   "name": "Kosovo vs Andorra",
                   "streams": [
                     {
-                      "id": "kaytee-a6da3e41221a",
+                      "id": "kaytee-c047a7546c87",
                       "name": "F",
                       "stream_links": []
                     }
