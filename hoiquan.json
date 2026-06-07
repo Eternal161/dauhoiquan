@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:20 08/06/2026",
+  "last_updated": "05:30 08/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-32ede7bd3e72",
-          "name": "⚽ Ecuador vs Guatemala | H2 - 90+2' 3 - 0 03:00 08/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/5161.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-32ede7bd3e72",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-32ede7bd3e72",
-                  "name": "Ecuador vs Guatemala",
-                  "streams": [
-                    {
-                      "id": "kaytee-32ede7bd3e72",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e69f4684c0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-302aa665d79b",
           "name": "⚽ Colombia vs Jordan | Sắp diễn ra vs 06:00 08/06/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-ecdda9ff0648",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-5eb6ccca7f9a",
+          "name": "⚽ Timor-Leste vs Brunei | Sắp diễn ra vs 16:00 09/06/2026",
+          "tournament": "ASEAN Championship",
+          "logo_nha": "https://media.api-sports.io/football/teams/5537.png",
+          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwIDcwq4oT1Zh1_46HFg_wPJJRdS3NyWybA&s",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5537.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-5eb6ccca7f9a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-5eb6ccca7f9a",
+                  "name": "Timor-Leste vs Brunei",
+                  "streams": [
+                    {
+                      "id": "kaytee-5eb6ccca7f9a",
                       "name": "F",
                       "stream_links": []
                     }
