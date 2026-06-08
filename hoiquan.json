@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:00 08/06/2026",
+  "last_updated": "23:10 08/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-6fb0f55ba19f",
-          "name": "⚽ Masr vs Wadi Degla | Sắp bắt đầu - null' 0 - 0 21:00 08/06/2026",
-          "tournament": "League Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/7520.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1046.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/7520.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-6fb0f55ba19f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-6fb0f55ba19f",
-                  "name": "Masr vs Wadi Degla",
-                  "streams": [
-                    {
-                      "id": "kaytee-6fb0f55ba19f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-45d98fe3cd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwk0gr4uqmtt8y41hcjsgyzdnpb3fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f16633df8b04e79c54ce35aa-178093446590342&wsIPSercert=47b594efa162b47d49e81f8bdb5f09f3&wsBindIP=2&wsserid=1168283436454933174"
-                        },
-                        {
-                          "id": "lnk-707ea2ad52",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-5e7d0a5eb7dc",
           "name": "⚽ Venezuela U20 vs Portugal U20 | Sắp bắt đầu - null' 0 - 0 23:30 08/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f291ea073c",
+                          "id": "lnk-370e4ec814",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwk0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178093447440406&wsIPSercert=47b594efa162b47d49e81f8bdb5f09f3&wsBindIP=2&wsserid=1168283476093891044"
+                          "url": "https://tfwk0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178093506726601&wsIPSercert=d30cf15309de8641b871c79007e3b493&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-daa0897d0e",
+                          "id": "lnk-1ac0918efb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-c6caca46a24b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-243003219d09",
+          "name": "⚽ Botswana vs Niger | Sắp diễn ra vs 19:00 09/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWCfMst42ogd805skChF2kE3d-CuspBC8W-g&s",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/6/63/Niger_FF_%28logo%29.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWCfMst42ogd805skChF2kE3d-CuspBC8W-g&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-243003219d09",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-243003219d09",
+                  "name": "Botswana vs Niger",
+                  "streams": [
+                    {
+                      "id": "kaytee-243003219d09",
                       "name": "F",
                       "stream_links": []
                     }
