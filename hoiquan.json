@@ -1,132 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:01 08/06/2026",
+  "last_updated": "22:20 08/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-8f4294bc30e2",
-          "name": "⚽ Thailand U19 vs Malaysia U19 | Sắp bắt đầu - null' 0 - 0 20:00 08/06/2026",
-          "tournament": "ASEAN Championship U19",
-          "logo_nha": "https://media.api-sports.io/football/teams/19155.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/19151.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/19155.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-8f4294bc30e2",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-8f4294bc30e2",
-                  "name": "Thailand U19 vs Malaysia U19",
-                  "streams": [
-                    {
-                      "id": "kaytee-8f4294bc30e2",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-23f0c419ec",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwk0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178093087483498&wsIPSercert=0a0bc783f30a3f4bf64d31a5f0aec710&wsBindIP=2&wsserid=1168283323406534424"
-                        },
-                        {
-                          "id": "lnk-4cacb5fa99",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-cdd5ffe019c5",
-          "name": "⚽ Singapore U19 vs Brunei U19 | Sắp bắt đầu - null' 0 - 0 20:00 08/06/2026",
-          "tournament": "ASEAN Championship U19",
-          "logo_nha": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/19147.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-cdd5ffe019c5",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-cdd5ffe019c5",
-                  "name": "Singapore U19 vs Brunei U19",
-                  "streams": [
-                    {
-                      "id": "kaytee-cdd5ffe019c5",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-38f875de7e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwk0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8e6b9a63c3bf8b47600cd06-178093088335627&wsIPSercert=0a0bc783f30a3f4bf64d31a5f0aec710&wsBindIP=2&wsserid=1168283323207303220"
-                        },
-                        {
-                          "id": "lnk-3c71a4c48f",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-6fb0f55ba19f",
           "name": "⚽ Masr vs Wadi Degla | Sắp bắt đầu - null' 0 - 0 21:00 08/06/2026",
@@ -166,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8cd9b80a21",
+                          "id": "lnk-1aa180bae4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwk0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178093089253454&wsIPSercert=0a0bc783f30a3f4bf64d31a5f0aec710&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwk0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178093205329610&wsIPSercert=fb979941d8aa52a0fb62b04e04b08c11&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-a9bf13dbaf",
+                          "id": "lnk-371260cc4c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -189,7 +69,7 @@
         },
         {
           "id": "kaytee-73432549ee90",
-          "name": "⚽ Baghdad vs Karbala | Sắp diễn ra vs 22:30 08/06/2026",
+          "name": "⚽ Baghdad vs Karbala | Sắp bắt đầu - null' 0 - 0 22:30 08/06/2026",
           "tournament": "Iraqi League",
           "logo_nha": "https://media.api-sports.io/football/teams/11069.png",
           "logo_khach": "https://media.api-sports.io/football/teams/20464.png",
@@ -206,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -224,7 +104,22 @@
                     {
                       "id": "kaytee-73432549ee90",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-1a739380a4",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwk0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178093206170851&wsIPSercert=fb979941d8aa52a0fb62b04e04b08c11&wsBindIP=2&wsserid=1168202392933970899"
+                        },
+                        {
+                          "id": "lnk-bd3c72f230",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -493,6 +388,96 @@
                   "streams": [
                     {
                       "id": "kaytee-5eb6ccca7f9a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c1b20ca7db25",
+          "name": "⚽ China vs Thailand | Sắp diễn ra vs 18:35 09/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/1564.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c1b20ca7db25",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c1b20ca7db25",
+                  "name": "China vs Thailand",
+                  "streams": [
+                    {
+                      "id": "kaytee-c1b20ca7db25",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c6caca46a24b",
+          "name": "⚽ Angola vs Central African Republic | Sắp diễn ra vs 19:00 09/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1280px-Flag_of_Angola.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/1280px-Flag_of_the_Central_African_Republic.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1280px-Flag_of_Angola.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c6caca46a24b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c6caca46a24b",
+                  "name": "Angola vs Central African Republic",
+                  "streams": [
+                    {
+                      "id": "kaytee-c6caca46a24b",
                       "name": "F",
                       "stream_links": []
                     }
