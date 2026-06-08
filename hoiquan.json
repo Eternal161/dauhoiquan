@@ -1,57 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:01 08/06/2026",
+  "last_updated": "16:10 08/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-3fd0c8b6dc11",
-          "name": "⚽ Uganda vs Madagascar | Sắp diễn ra vs 19:00 08/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/250px-Flag_of_Uganda.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/250px-Flag_of_Uganda.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3fd0c8b6dc11",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3fd0c8b6dc11",
-                  "name": "Uganda vs Madagascar",
-                  "streams": [
-                    {
-                      "id": "kaytee-3fd0c8b6dc11",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-8f4294bc30e2",
           "name": "⚽ Thailand U19 vs Malaysia U19 | Sắp diễn ra vs 20:00 08/06/2026",
@@ -133,6 +88,96 @@
                   "streams": [
                     {
                       "id": "kaytee-cdd5ffe019c5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6fb0f55ba19f",
+          "name": "⚽ Masr vs Wadi Degla | Sắp diễn ra vs 21:00 08/06/2026",
+          "tournament": "League Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/7520.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1046.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/7520.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6fb0f55ba19f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6fb0f55ba19f",
+                  "name": "Masr vs Wadi Degla",
+                  "streams": [
+                    {
+                      "id": "kaytee-6fb0f55ba19f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-73432549ee90",
+          "name": "⚽ Baghdad vs Karbala | Sắp diễn ra vs 22:30 08/06/2026",
+          "tournament": "Iraqi League",
+          "logo_nha": "https://media.api-sports.io/football/teams/11069.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/20464.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/11069.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-73432549ee90",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-73432549ee90",
+                  "name": "Baghdad vs Karbala",
+                  "streams": [
+                    {
+                      "id": "kaytee-73432549ee90",
                       "name": "F",
                       "stream_links": []
                     }
@@ -403,51 +448,6 @@
                   "streams": [
                     {
                       "id": "kaytee-5eb6ccca7f9a",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-c1b20ca7db25",
-          "name": "⚽ China vs Thailand | Sắp diễn ra vs 18:35 09/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/1564.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c1b20ca7db25",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c1b20ca7db25",
-                  "name": "China vs Thailand",
-                  "streams": [
-                    {
-                      "id": "kaytee-c1b20ca7db25",
                       "name": "F",
                       "stream_links": []
                     }
