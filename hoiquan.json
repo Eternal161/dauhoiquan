@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:31 08/06/2026",
+  "last_updated": "22:40 08/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-695cabfcae",
+                          "id": "lnk-1a20710ac7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwk0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178093267705437&wsIPSercert=cc0331af4b9cb80dcf54a03e60d136f3&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwk0gr4uqmtt8y41hcjzgazdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2fbb71e8bd899055edae3fe8-178093325691739&wsIPSercert=a7a7a46904211a87d2dd6ce7c7c2d9c5&wsBindIP=2&wsserid=1168176346318957775"
                         },
                         {
-                          "id": "lnk-90c970324d",
+                          "id": "lnk-96a8ba22d3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,11 +68,11 @@
           ]
         },
         {
-          "id": "kaytee-73432549ee90",
-          "name": "⚽ Baghdad vs Karbala | Sắp bắt đầu - null' 0 - 0 22:30 08/06/2026",
-          "tournament": "Iraqi League",
-          "logo_nha": "https://media.api-sports.io/football/teams/11069.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/20464.png",
+          "id": "kaytee-71be98529ffb",
+          "name": "⚽ Kooteepee vs Haka | Sắp bắt đầu - null' 0 - 0 22:30 08/06/2026",
+          "tournament": "Ykkösliiga",
+          "logo_nha": "https://media.api-sports.io/football/teams/2076.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2080.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -80,7 +80,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/11069.png",
+            "url": "https://media.api-sports.io/football/teams/2076.png",
             "width": 1600,
             "height": 1200
           },
@@ -94,26 +94,26 @@
           ],
           "sources": [
             {
-              "id": "kaytee-73432549ee90",
+              "id": "kaytee-71be98529ffb",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-73432549ee90",
-                  "name": "Baghdad vs Karbala",
+                  "id": "kaytee-71be98529ffb",
+                  "name": "Kooteepee vs Haka",
                   "streams": [
                     {
-                      "id": "kaytee-73432549ee90",
+                      "id": "kaytee-71be98529ffb",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2e3047ae9b",
+                          "id": "lnk-3f0ac93918",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwk0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178093268541451&wsIPSercert=cc0331af4b9cb80dcf54a03e60d136f3&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfwk0gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=775c4fb7a60d7fa03f035c22-178093326573317&wsIPSercert=a7a7a46904211a87d2dd6ce7c7c2d9c5&wsBindIP=2&wsserid=1168214263213094505"
                         },
                         {
-                          "id": "lnk-067a4c3a61",
+                          "id": "lnk-f9eccca010",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
