@@ -1,135 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:50 09/06/2026",
+  "last_updated": "04:00 09/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-8b5b70095903",
-          "name": "⚽ Netherlands vs Uzbekistan | Sắp bắt đầu - null' 0 - 0 01:45 09/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/1118.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1568.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1118.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-8b5b70095903",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-8b5b70095903",
-                  "name": "Netherlands vs Uzbekistan",
-                  "streams": [
-                    {
-                      "id": "kaytee-8b5b70095903",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a963dd6681",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwk0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178095184582480&wsIPSercert=e717e1ea57b3c5825812a774487c33bd&wsBindIP=2&wsserid=1168202333418134578"
-                        },
-                        {
-                          "id": "lnk-1b8ef66206",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-4c7964826198",
-          "name": "⚽ Niger vs Mauritania | Sắp bắt đầu - null' 0 - 0 02:00 09/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/6/63/Niger_FF_%28logo%29.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1491.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/6/63/Niger_FF_%28logo%29.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-4c7964826198",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-4c7964826198",
-                  "name": "Niger vs Mauritania",
-                  "streams": [
-                    {
-                      "id": "kaytee-4c7964826198",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1a217aca74",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwk0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178095185418767&wsIPSercert=e717e1ea57b3c5825812a774487c33bd&wsBindIP=2&wsserid=1168202392933970899"
-                        },
-                        {
-                          "id": "lnk-f9a8de63d2",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-39494d2d4f5b",
-          "name": "⚽ France vs Northern Ireland | Sắp bắt đầu - null' 0 - 0 02:10 09/06/2026",
+          "name": "⚽ France vs Northern Ireland | Live 0 - 0 02:10 09/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/2.png",
           "logo_khach": "https://media.api-sports.io/football/teams/776.png",
@@ -166,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e6f8fd44a0",
+                          "id": "lnk-c05d7ae05d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwk0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178095186255582&wsIPSercert=e717e1ea57b3c5825812a774487c33bd&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfwk0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178095246699723&wsIPSercert=ec4c878eab1f619d734d2f469c186a6f&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-99313b8d18",
+                          "id": "lnk-cf356188a9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +373,96 @@
                   "streams": [
                     {
                       "id": "kaytee-7343eac80fe4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1e950a165bc3",
+          "name": "⚽ Australia U19 vs Cambodia U19 | Sắp diễn ra vs 20:00 09/06/2026",
+          "tournament": "ASEAN Championship U19",
+          "logo_nha": "https://media.api-sports.io/football/teams/22591.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/19148.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/22591.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1e950a165bc3",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1e950a165bc3",
+                  "name": "Australia U19 vs Cambodia U19",
+                  "streams": [
+                    {
+                      "id": "kaytee-1e950a165bc3",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-4c0a5a9ac83a",
+          "name": "⚽ Indonesia vs Mozambique | Sắp diễn ra vs 20:00 09/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://i.imgur.com/P4sNAMH.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://i.imgur.com/P4sNAMH.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4c0a5a9ac83a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4c0a5a9ac83a",
+                  "name": "Indonesia vs Mozambique",
+                  "streams": [
+                    {
+                      "id": "kaytee-4c0a5a9ac83a",
                       "name": "F",
                       "stream_links": []
                     }
