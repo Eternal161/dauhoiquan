@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:00 09/06/2026",
+  "last_updated": "04:10 09/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-39494d2d4f5b",
-          "name": "⚽ France vs Northern Ireland | Live 0 - 0 02:10 09/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/2.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/776.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-39494d2d4f5b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-39494d2d4f5b",
-                  "name": "France vs Northern Ireland",
-                  "streams": [
-                    {
-                      "id": "kaytee-39494d2d4f5b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c05d7ae05d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwk0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178095246699723&wsIPSercert=ec4c878eab1f619d734d2f469c186a6f&wsBindIP=2&wsserid=1168202333418134578"
-                        },
-                        {
-                          "id": "lnk-cf356188a9",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-98b3e5896c64",
           "name": "⚽ Atletico Nacional vs Junior | Sắp diễn ra vs 05:00 09/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-4c0a5a9ac83a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-65003e335107",
+          "name": "⚽ Bahrain vs Syria | Sắp diễn ra vs 21:00 09/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Emblem_of_Bahrain.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Syria_%281930%E2%80%931958%2C_1961%E2%80%931963%29.svg/330px-Flag_of_Syria_%281930%E2%80%931958%2C_1961%E2%80%931963%29.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Emblem_of_Bahrain.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-65003e335107",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-65003e335107",
+                  "name": "Bahrain vs Syria",
+                  "streams": [
+                    {
+                      "id": "kaytee-65003e335107",
                       "name": "F",
                       "stream_links": []
                     }
