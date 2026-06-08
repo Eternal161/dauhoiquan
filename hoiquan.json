@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:20 08/06/2026",
+  "last_updated": "20:30 08/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cf535ec158",
+                          "id": "lnk-696b57d995",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwk1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2c6a768ae9d6db114f710835-178092485415588&wsIPSercert=b8384ac1fade88c2878650fc3499a5cc&wsBindIP=2&wsserid=1168214364742294105"
+                          "url": "https://tfwk0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178092546807834&wsIPSercert=bf38adfbe11e82e8640e9551057bb89b&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-73ed6978e4",
+                          "id": "lnk-0352794eb8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e1362bc560",
+                          "id": "lnk-596739efd1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwk1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=1727692f2fcfce8af9ab5981-178092486274589&wsIPSercert=b8384ac1fade88c2878650fc3499a5cc&wsBindIP=2&wsserid=1168041062946239395"
+                          "url": "https://tfwk0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2bcac8c59898b1e728264dd4-178092547333604&wsIPSercert=bf38adfbe11e82e8640e9551057bb89b&wsBindIP=2&wsserid=1168202333420231774"
                         },
                         {
-                          "id": "lnk-1f0bce3bbe",
+                          "id": "lnk-138ebbc7c3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-6fb0f55ba19f",
-          "name": "⚽ Masr vs Wadi Degla | Sắp diễn ra vs 21:00 08/06/2026",
+          "name": "⚽ Masr vs Wadi Degla | Sắp bắt đầu - null' 0 - 0 21:00 08/06/2026",
           "tournament": "League Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/7520.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1046.png",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-6fb0f55ba19f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-0c55c25b6d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwk0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178092548224577&wsIPSercert=bf38adfbe11e82e8640e9551057bb89b&wsBindIP=2&wsserid=1168202333418134578"
+                        },
+                        {
+                          "id": "lnk-0bdeb249ce",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
