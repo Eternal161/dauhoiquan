@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:51 09/06/2026",
+  "last_updated": "23:01 09/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-f83ad6c215ad",
-          "name": "⚽ Kyrgyzstan vs Palestine | Sắp bắt đầu - null' 0 - 0 21:30 09/06/2026",
+          "name": "⚽ Kyrgyzstan vs Palestine | Live 0 - 0 21:30 09/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/10941.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Coat_of_arms_of_Palestine_%28alternative%29.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-97acf7aed4",
+                          "id": "lnk-cc9cad75c8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=4c6f8e2477eefb4aa1bc2109-178102027602024&wsIPSercert=ec383bb46017f335806e43e7e0a18381&wsBindIP=2&wsserid=1172580915169226372"
+                          "url": "https://tfwl1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=4c6f8e2477eefb4aa1bc2109-178102088639538&wsIPSercert=e644ccd31e0f760b78bae79aa3a1f537&wsBindIP=2&wsserid=1172580915169226372"
                         },
                         {
-                          "id": "lnk-2a1fba060f",
+                          "id": "lnk-b0514378ba",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-5bb9a77d1290",
-          "name": "⚽ Armenia vs Moldova | Sắp bắt đầu - null' 0 - 0 22:00 09/06/2026",
+          "name": "⚽ Armenia vs Moldova | Live 0 - 0 22:00 09/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/330px-Flag_of_Moldova.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-acc35baf44",
+                          "id": "lnk-3243e8e1fe",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8f5eb2374077efe04080d65-178102028451091&wsIPSercert=ec383bb46017f335806e43e7e0a18381&wsBindIP=2&wsserid=1172580915176566596"
+                          "url": "https://tfwl1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8f5eb2374077efe04080d65-178102089644941&wsIPSercert=e644ccd31e0f760b78bae79aa3a1f537&wsBindIP=2&wsserid=1172580915176566596"
                         },
                         {
-                          "id": "lnk-a973d22006",
+                          "id": "lnk-2d037a172e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
