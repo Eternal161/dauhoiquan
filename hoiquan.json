@@ -1,12 +1,486 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:50 10/06/2026",
+  "last_updated": "06:01 10/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
-      "channels": []
+      "channels": [
+        {
+          "id": "kaytee-402c28661998",
+          "name": "⚽ Nautico Recife vs Fortaleza Ec | Sắp bắt đầu - null' 0 - 0 05:00 10/06/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/755.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/154.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/755.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-402c28661998",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-402c28661998",
+                  "name": "Nautico Recife vs Fortaleza Ec",
+                  "streams": [
+                    {
+                      "id": "kaytee-402c28661998",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f85aae8804",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwl1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b8f5eb2374077efe04080d65-178104607193474&wsIPSercert=abe56ea04cabc68404384e5411d08f38&wsBindIP=2&wsserid=1172580915176566596"
+                        },
+                        {
+                          "id": "lnk-20fce37c1e",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-5cbd44d10a22",
+          "name": "⚽ Saudi Arabia vs Senegal | Sắp bắt đầu - null' 0 - 0 06:00 10/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-5cbd44d10a22",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-5cbd44d10a22",
+                  "name": "Saudi Arabia vs Senegal",
+                  "streams": [
+                    {
+                      "id": "kaytee-5cbd44d10a22",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4487fb8d40",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f36790ec3737",
+          "name": "⚽ Birmingham Legion vs Corpus Christi | Sắp diễn ra vs 07:00 10/06/2026",
+          "tournament": "USL League One Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/3989.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4043.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3989.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f36790ec3737",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f36790ec3737",
+                  "name": "Birmingham Legion vs Corpus Christi",
+                  "streams": [
+                    {
+                      "id": "kaytee-f36790ec3737",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a708b6eb7328",
+          "name": "⚽ Argentina vs Iceland | Sắp diễn ra vs 08:00 10/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/250px-Flag_of_Iceland.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a708b6eb7328",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a708b6eb7328",
+                  "name": "Argentina vs Iceland",
+                  "streams": [
+                    {
+                      "id": "kaytee-a708b6eb7328",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3695910e229a",
+          "name": "⚽ Iraq vs Venezuela | Sắp diễn ra vs 08:00 10/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/1567.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/250px-Flag_of_Venezuela.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1567.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3695910e229a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3695910e229a",
+                  "name": "Iraq vs Venezuela",
+                  "streams": [
+                    {
+                      "id": "kaytee-3695910e229a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-7ba95cd98304",
+          "name": "⚽ Cape Town City vs Magesi | Sắp diễn ra vs 20:00 10/06/2026",
+          "tournament": "Premier Soccer League",
+          "logo_nha": "https://media.api-sports.io/football/teams/2697.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/19999.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2697.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-7ba95cd98304",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-7ba95cd98304",
+                  "name": "Cape Town City vs Magesi",
+                  "streams": [
+                    {
+                      "id": "kaytee-7ba95cd98304",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a5fada1bb7c6",
+          "name": "⚽ Kups vs Vps | Sắp diễn ra vs 21:00 10/06/2026",
+          "tournament": "Suomen Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/650.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a5fada1bb7c6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a5fada1bb7c6",
+                  "name": "Kups vs Vps",
+                  "streams": [
+                    {
+                      "id": "kaytee-a5fada1bb7c6",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-7b2a94931257",
+          "name": "⚽ Pakistan vs Afghanistan | Sắp diễn ra vs 23:00 10/06/2026",
+          "tournament": "Giao Hữu",
+          "logo_nha": "https://media.api-sports.io/football/teams/5535.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg/960px-Flag_of_Afghanistan_%282013%E2%80%932021%29.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5535.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-7b2a94931257",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-7b2a94931257",
+                  "name": "Pakistan vs Afghanistan",
+                  "streams": [
+                    {
+                      "id": "kaytee-7b2a94931257",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f422fff0fec3",
+          "name": "⚽ Falu Bs vs Gefle If | Sắp diễn ra vs 23:00 10/06/2026",
+          "tournament": "Svenska Cupen",
+          "logo_nha": "https://media.api-sports.io/football/teams/22932.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/813.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/22932.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f422fff0fec3",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f422fff0fec3",
+                  "name": "Falu Bs vs Gefle If",
+                  "streams": [
+                    {
+                      "id": "kaytee-f422fff0fec3",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-fcc32b282499",
+          "name": "⚽ Malaga vs Las Palmas | Sắp diễn ra vs 02:00 11/06/2026",
+          "tournament": "Segunda División",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/c/c3/M%C3%A1laga_CF.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/534.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/c/c3/M%C3%A1laga_CF.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-fcc32b282499",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-fcc32b282499",
+                  "name": "Malaga vs Las Palmas",
+                  "streams": [
+                    {
+                      "id": "kaytee-fcc32b282499",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
