@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:00 09/06/2026",
+  "last_updated": "07:10 09/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-98b3e5896c64",
-          "name": "⚽ Atletico Nacional vs Junior | Sắp bắt đầu - null' 0 - 0 05:00 09/06/2026",
+          "name": "⚽ Atletico Nacional vs Junior | H2 - 90+9' 1 - 0 05:00 09/06/2026",
           "tournament": "Primera A",
           "logo_nha": "https://media.api-sports.io/football/teams/1137.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaNCIKzpPJH83I5J2Exi7EAkD4McMVH54pA&s",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cc6593fb1f",
+                          "id": "lnk-9554656df5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl0gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=6650bde40cd33e680567646d-178096326139133&wsIPSercert=9c07ab7820ec1044666927881fafc29e&wsBindIP=2&wsserid=1168176346315811943"
-                        },
-                        {
-                          "id": "lnk-87791b77a4",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
