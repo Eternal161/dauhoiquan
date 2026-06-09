@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:30 10/06/2026",
+  "last_updated": "02:40 10/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-4f583d7743f4",
-          "name": "⚽ Azerbaijan vs San Marino | Sắp bắt đầu - null' 0 - 0 01:00 10/06/2026",
+          "name": "⚽ Azerbaijan vs San Marino | Live 0 - 0 01:00 10/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/250px-Flag_of_Azerbaijan.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a1305cb22c",
+                          "id": "lnk-8848a7ae9c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl1gr4uqmtt8y41hcjz8rzdeqjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=1727692f2fcfce8af9ab5981-178103346399681&wsIPSercert=29ed9a4854a071408cfd383f373f02ff&wsBindIP=2&wsserid=1168041062946239395"
+                          "url": "https://tfwl0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178103405951332&wsIPSercert=f833dd3d949e00e93b3806e196964975&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-800364fc65",
+                          "id": "lnk-18ad3e7cdc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
