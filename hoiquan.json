@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:20 09/06/2026",
+  "last_updated": "21:31 09/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b744b7a7bd",
+                          "id": "lnk-e1f05db774",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178101485909810&wsIPSercert=329d7c2aae7f9c510edd1afc6d0c465b&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwl1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=da481daf8a97b77922119e8c-178101549925648&wsIPSercert=b06cea96e4c84430297b5a7e0063f03e&wsBindIP=2&wsserid=1168278313570948617"
                         },
                         {
-                          "id": "lnk-fac416c3f8",
+                          "id": "lnk-4547277a10",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f47d8a742a",
+                          "id": "lnk-485d771baf",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178101486772584&wsIPSercert=329d7c2aae7f9c510edd1afc6d0c465b&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwl1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=64b2b5440306679b7a6d88fc-178101550779758&wsIPSercert=b06cea96e4c84430297b5a7e0063f03e&wsBindIP=2&wsserid=1168282035663924028"
                         },
                         {
-                          "id": "lnk-c11a48afda",
+                          "id": "lnk-913d1c478a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +166,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-161cfd1c15",
+                          "id": "lnk-834064145e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178101487607643&wsIPSercert=329d7c2aae7f9c510edd1afc6d0c465b&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwl1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=da481daf8a97b77922119e8c-178101551636843&wsIPSercert=b06cea96e4c84430297b5a7e0063f03e&wsBindIP=2&wsserid=1168278313570948617"
                         },
                         {
-                          "id": "lnk-b4e29ad46a",
+                          "id": "lnk-16484e8dd9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -413,51 +413,6 @@
           ]
         },
         {
-          "id": "kaytee-c8e0c0431c4f",
-          "name": "⚽ Togo vs Benin | Sắp diễn ra vs 01:00 10/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/1920px-Flag_of_Togo.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/250px-Flag_of_Benin.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/1920px-Flag_of_Togo.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c8e0c0431c4f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c8e0c0431c4f",
-                  "name": "Togo vs Benin",
-                  "streams": [
-                    {
-                      "id": "kaytee-c8e0c0431c4f",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-402c28661998",
           "name": "⚽ Nautico Recife vs Fortaleza Ec | Sắp diễn ra vs 05:00 10/06/2026",
           "tournament": "Serie B",
@@ -493,6 +448,51 @@
                   "streams": [
                     {
                       "id": "kaytee-402c28661998",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-5cbd44d10a22",
+          "name": "⚽ Saudi Arabia vs Senegal | Sắp diễn ra vs 06:00 10/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-5cbd44d10a22",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-5cbd44d10a22",
+                  "name": "Saudi Arabia vs Senegal",
+                  "streams": [
+                    {
+                      "id": "kaytee-5cbd44d10a22",
                       "name": "F",
                       "stream_links": []
                     }
