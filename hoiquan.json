@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:00 09/06/2026",
+  "last_updated": "16:11 09/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-5eb6ccca7f9a",
-          "name": "⚽ Timor-Leste vs Brunei | Live 0 - 0 16:00 09/06/2026",
+          "name": "⚽ Timor-Leste vs Brunei | Sắp bắt đầu - null' 0 - 0 16:00 09/06/2026",
           "tournament": "ASEAN Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/5537.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwIDcwq4oT1Zh1_46HFg_wPJJRdS3NyWybA&s",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7d3f44b87a",
+                          "id": "lnk-8664e6c3e2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=da481daf8a97b77922119e8c-178099566420522&wsIPSercert=4e33f92c754f3f8169853be24d61d1d4&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfwl1gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=4c6f8e2477eefb4aa1bc2109-178099628946881&wsIPSercert=abadf85f9a762059b1576cf103ba0de9&wsBindIP=2&wsserid=1172580915169226372"
                         },
                         {
-                          "id": "lnk-8a015dc7c2",
+                          "id": "lnk-c911eceef6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
