@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:20 10/06/2026",
+  "last_updated": "00:31 10/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,10 +46,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a8d2fd21f2",
+                          "id": "lnk-584c9c09ef",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwl0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b13933daec94aca61dee8209-178102627358522&wsIPSercert=8742d39532d4b93ffb1431130751e6fe&wsBindIP=2&wsserid=1168176337059421885"
+                        },
+                        {
+                          "id": "lnk-39ed7623d7",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
                         }
                       ]
@@ -99,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-144cc94c7c",
+                          "id": "lnk-c809f3da9c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl0gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2fbb71e8bd899055edae3fe8-178102567333892&wsIPSercert=54acc3279b4c14d4c380cf7ad7e55ba1&wsBindIP=2&wsserid=1168176346318957775"
+                          "url": "https://tfwl0gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2fbb71e8bd899055edae3fe8-178102628229810&wsIPSercert=8742d39532d4b93ffb1431130751e6fe&wsBindIP=2&wsserid=1168176346318957775"
                         },
                         {
-                          "id": "lnk-1fb0953790",
+                          "id": "lnk-6a0c2d817e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -122,7 +129,7 @@
         },
         {
           "id": "kaytee-4f583d7743f4",
-          "name": "⚽ Azerbaijan vs San Marino | Sắp diễn ra vs 01:00 10/06/2026",
+          "name": "⚽ Azerbaijan vs San Marino | Sắp bắt đầu - null' 0 - 0 01:00 10/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/250px-Flag_of_Azerbaijan.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
@@ -139,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -157,7 +164,22 @@
                     {
                       "id": "kaytee-4f583d7743f4",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-9fd4adcf50",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwl0gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=b13933daec94aca61dee8209-178102629053340&wsIPSercert=8742d39532d4b93ffb1431130751e6fe&wsBindIP=2&wsserid=1168176337059421885"
+                        },
+                        {
+                          "id": "lnk-7268b0554f",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
