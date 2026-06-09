@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:30 09/06/2026",
+  "last_updated": "22:40 09/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-f83ad6c215ad",
-          "name": "⚽ Kyrgyzstan vs Palestine | Sắp bắt đầu - null' 0 - 0 21:30 09/06/2026",
+          "name": "⚽ Kyrgyzstan vs Palestine | Live 0 - 0 21:30 09/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/10941.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Coat_of_arms_of_Palestine_%28alternative%29.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e7b2b0a127",
+                          "id": "lnk-407b347970",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178101906777558&wsIPSercert=f7b8f01d7bff3971a9fa08887e1bb433&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwl0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178101966276289&wsIPSercert=a0cc8b3e97eef70f6eac10d7afb0960f&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-e176e1d40d",
+                          "id": "lnk-e324b7e6cd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-5bb9a77d1290",
-          "name": "⚽ Armenia vs Moldova | Sắp bắt đầu - null' 0 - 0 22:00 09/06/2026",
+          "name": "⚽ Armenia vs Moldova | Live 0 - 0 22:00 09/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/330px-Flag_of_Moldova.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1696c80ad5",
+                          "id": "lnk-a9be5d2c8a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8e6b9a63c3bf8b47600cd06-178101907647378&wsIPSercert=f7b8f01d7bff3971a9fa08887e1bb433&wsBindIP=2&wsserid=1168283323207303220"
+                          "url": "https://tfwl0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8e6b9a63c3bf8b47600cd06-178101967122005&wsIPSercert=a0cc8b3e97eef70f6eac10d7afb0960f&wsBindIP=2&wsserid=1168283323207303220"
                         },
                         {
-                          "id": "lnk-0684fa2b16",
+                          "id": "lnk-7ab3d800a9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-5e363d80812b",
-          "name": "⚽ Congo Dr vs Chile | Sắp diễn ra vs 23:00 09/06/2026",
+          "name": "⚽ Congo Dr vs Chile | Live 0 - 0 23:00 09/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-5e363d80812b",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-fee0f22380",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwl0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178101967995601&wsIPSercert=a0cc8b3e97eef70f6eac10d7afb0960f&wsBindIP=2&wsserid=1168283323406534424"
+                        },
+                        {
+                          "id": "lnk-6b1f9ad9e5",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
