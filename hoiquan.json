@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:40 09/06/2026",
+  "last_updated": "20:50 09/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c1b20ca7db25",
-          "name": "⚽ China vs Thailand | Sắp bắt đầu - null' 0 - 0 18:35 09/06/2026",
+          "name": "⚽ China vs Thailand | Live 0 - 0 18:35 09/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/1564.png",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5747ceca5c",
+                          "id": "lnk-04307e6c39",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8f5eb2374077efe04080d65-178101246723868&wsIPSercert=e022903d2c4b6f9dacc6cd6ec4b97cb3&wsBindIP=2&wsserid=1172580915176566596"
-                        },
-                        {
-                          "id": "lnk-1dc0a0e8da",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
                         }
                       ]
@@ -69,7 +62,7 @@
         },
         {
           "id": "kaytee-a6eaa7284563",
-          "name": "⚽ Cambodia vs Hong Kong | Sắp bắt đầu - null' 0 - 0 19:00 09/06/2026",
+          "name": "⚽ Cambodia vs Hong Kong | Live 0 - 0 19:00 09/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/1543.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4460.png",
@@ -106,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-de2edc7462",
+                          "id": "lnk-b92173b312",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=64b2b5440306679b7a6d88fc-178101247538988&wsIPSercert=e022903d2c4b6f9dacc6cd6ec4b97cb3&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfwl0gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=b13933daec94aca61dee8209-178101306844268&wsIPSercert=3e337da6e175e3fe9ec14a3d460959c9&wsBindIP=2&wsserid=1168176337059421885"
                         },
                         {
-                          "id": "lnk-5ad9f165be",
+                          "id": "lnk-cd01321f14",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +122,7 @@
         },
         {
           "id": "kaytee-1e950a165bc3",
-          "name": "⚽ Australia U19 vs Cambodia U19 | Sắp bắt đầu - null' 0 - 0 20:00 09/06/2026",
+          "name": "⚽ Australia U19 vs Cambodia U19 | Live 0 - 0 20:00 09/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/22591.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19148.png",
@@ -166,14 +159,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cf96d85d1c",
+                          "id": "lnk-f77a621530",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=da481daf8a97b77922119e8c-178101248388941&wsIPSercert=e022903d2c4b6f9dacc6cd6ec4b97cb3&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfwl0gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2fbb71e8bd899055edae3fe8-178101307686633&wsIPSercert=3e337da6e175e3fe9ec14a3d460959c9&wsBindIP=2&wsserid=1168176346318957775"
                         },
                         {
-                          "id": "lnk-aba91fea05",
+                          "id": "lnk-a4d1729415",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -189,7 +182,7 @@
         },
         {
           "id": "kaytee-4c0a5a9ac83a",
-          "name": "⚽ Indonesia vs Mozambique | Sắp bắt đầu - null' 0 - 0 20:00 09/06/2026",
+          "name": "⚽ Indonesia vs Mozambique | Live 0 - 0 20:00 09/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://i.imgur.com/P4sNAMH.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
@@ -226,14 +219,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8995fbfa5f",
+                          "id": "lnk-65823db5e2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=341fd1997b0c537d8c42fcb0-178101249211727&wsIPSercert=e022903d2c4b6f9dacc6cd6ec4b97cb3&wsBindIP=2&wsserid=1172580915180761012"
+                          "url": "https://tfwl0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=61785e5dba4658081da27419-178101308513955&wsIPSercert=3e337da6e175e3fe9ec14a3d460959c9&wsBindIP=2&wsserid=1168176337061519089"
                         },
                         {
-                          "id": "lnk-74b9c825e3",
+                          "id": "lnk-13b712feac",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
