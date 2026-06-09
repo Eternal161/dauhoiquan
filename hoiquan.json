@@ -1,128 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:50 09/06/2026",
+  "last_updated": "21:01 09/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-c1b20ca7db25",
-          "name": "⚽ China vs Thailand | Live 0 - 0 18:35 09/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/1564.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c1b20ca7db25",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c1b20ca7db25",
-                  "name": "China vs Thailand",
-                  "streams": [
-                    {
-                      "id": "kaytee-c1b20ca7db25",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-04307e6c39",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-a6eaa7284563",
-          "name": "⚽ Cambodia vs Hong Kong | Live 0 - 0 19:00 09/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/1543.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/4460.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1543.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a6eaa7284563",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a6eaa7284563",
-                  "name": "Cambodia vs Hong Kong",
-                  "streams": [
-                    {
-                      "id": "kaytee-a6eaa7284563",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b92173b312",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwl0gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=b13933daec94aca61dee8209-178101306844268&wsIPSercert=3e337da6e175e3fe9ec14a3d460959c9&wsBindIP=2&wsserid=1168176337059421885"
-                        },
-                        {
-                          "id": "lnk-cd01321f14",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-1e950a165bc3",
-          "name": "⚽ Australia U19 vs Cambodia U19 | Live 0 - 0 20:00 09/06/2026",
+          "name": "⚽ Australia U19 vs Cambodia U19 | Sắp bắt đầu - null' 0 - 0 20:00 09/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/22591.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19148.png",
@@ -159,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f77a621530",
+                          "id": "lnk-e267006c85",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl0gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2fbb71e8bd899055edae3fe8-178101307686633&wsIPSercert=3e337da6e175e3fe9ec14a3d460959c9&wsBindIP=2&wsserid=1168176346318957775"
+                          "url": "https://tfwl1gr4uqmtt8y41hcjz8rzdeqjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=be04584b9a83e318e66b7880-178101366943475&wsIPSercert=eb11bd5706a6583b5d96806d95f19a7b&wsBindIP=2&wsserid=1168041136565896200"
                         },
                         {
-                          "id": "lnk-a4d1729415",
+                          "id": "lnk-ff1dfbb9e9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -182,7 +69,7 @@
         },
         {
           "id": "kaytee-4c0a5a9ac83a",
-          "name": "⚽ Indonesia vs Mozambique | Live 0 - 0 20:00 09/06/2026",
+          "name": "⚽ Indonesia vs Mozambique | Sắp bắt đầu - null' 0 - 0 20:00 09/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://i.imgur.com/P4sNAMH.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
@@ -219,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-65823db5e2",
+                          "id": "lnk-940098adb3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=61785e5dba4658081da27419-178101308513955&wsIPSercert=3e337da6e175e3fe9ec14a3d460959c9&wsBindIP=2&wsserid=1168176337061519089"
+                          "url": "https://tfwl1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2c6a768ae9d6db114f710835-178101367804268&wsIPSercert=eb11bd5706a6583b5d96806d95f19a7b&wsBindIP=2&wsserid=1168214364742294105"
                         },
                         {
-                          "id": "lnk-13b712feac",
+                          "id": "lnk-9d304bd2d9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -501,6 +388,96 @@
                   "streams": [
                     {
                       "id": "kaytee-4f583d7743f4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c8e0c0431c4f",
+          "name": "⚽ Togo vs Benin | Sắp diễn ra vs 01:00 10/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/1920px-Flag_of_Togo.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/250px-Flag_of_Benin.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/1920px-Flag_of_Togo.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c8e0c0431c4f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c8e0c0431c4f",
+                  "name": "Togo vs Benin",
+                  "streams": [
+                    {
+                      "id": "kaytee-c8e0c0431c4f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-402c28661998",
+          "name": "⚽ Nautico Recife vs Fortaleza Ec | Sắp diễn ra vs 05:00 10/06/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/755.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/154.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/755.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-402c28661998",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-402c28661998",
+                  "name": "Nautico Recife vs Fortaleza Ec",
+                  "streams": [
+                    {
+                      "id": "kaytee-402c28661998",
                       "name": "F",
                       "stream_links": []
                     }
