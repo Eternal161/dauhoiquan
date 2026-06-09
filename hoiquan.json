@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:01 09/06/2026",
+  "last_updated": "23:10 09/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-f83ad6c215ad",
-          "name": "⚽ Kyrgyzstan vs Palestine | Live 0 - 0 21:30 09/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/10941.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Coat_of_arms_of_Palestine_%28alternative%29.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10941.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f83ad6c215ad",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f83ad6c215ad",
-                  "name": "Kyrgyzstan vs Palestine",
-                  "streams": [
-                    {
-                      "id": "kaytee-f83ad6c215ad",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cc9cad75c8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwl1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=4c6f8e2477eefb4aa1bc2109-178102088639538&wsIPSercert=e644ccd31e0f760b78bae79aa3a1f537&wsBindIP=2&wsserid=1172580915169226372"
-                        },
-                        {
-                          "id": "lnk-b0514378ba",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-5bb9a77d1290",
-          "name": "⚽ Armenia vs Moldova | Live 0 - 0 22:00 09/06/2026",
+          "name": "⚽ Armenia vs Moldova | Sắp bắt đầu - null' 0 - 0 22:00 09/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/330px-Flag_of_Moldova.svg.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3243e8e1fe",
+                          "id": "lnk-abedb8bf0e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8f5eb2374077efe04080d65-178102089644941&wsIPSercert=e644ccd31e0f760b78bae79aa3a1f537&wsBindIP=2&wsserid=1172580915176566596"
+                          "url": "https://tfwl0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=7ea55c3b42629c3c9fbf7f74-178102146322440&wsIPSercert=baf4137c11f300de976a516d1fa17b9f&wsBindIP=2&wsserid=1168231884021661304"
                         },
                         {
-                          "id": "lnk-2d037a172e",
+                          "id": "lnk-a6524d2c46",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-05cd9ea4e2d9",
-          "name": "⚽ Belarus vs Burkina Faso | Sắp diễn ra vs 23:30 09/06/2026",
+          "name": "⚽ Belarus vs Burkina Faso | Sắp bắt đầu - null' 0 - 0 23:30 09/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Flag_of_Belarus_%28variant%29.svg/250px-Flag_of_Belarus_%28variant%29.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/1280px-Flag_of_Burkina_Faso.svg.png",
@@ -146,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +104,22 @@
                     {
                       "id": "kaytee-05cd9ea4e2d9",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-792461aeba",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwl0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178102147167610&wsIPSercert=baf4137c11f300de976a516d1fa17b9f&wsBindIP=2&wsserid=1168283476093891044"
+                        },
+                        {
+                          "id": "lnk-99bd286551",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -478,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-3695910e229a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-7ba95cd98304",
+          "name": "⚽ Cape Town City vs Magesi | Sắp diễn ra vs 20:00 10/06/2026",
+          "tournament": "Premier Soccer League",
+          "logo_nha": "https://media.api-sports.io/football/teams/2697.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/19999.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2697.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-7ba95cd98304",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-7ba95cd98304",
+                  "name": "Cape Town City vs Magesi",
+                  "streams": [
+                    {
+                      "id": "kaytee-7ba95cd98304",
                       "name": "F",
                       "stream_links": []
                     }
