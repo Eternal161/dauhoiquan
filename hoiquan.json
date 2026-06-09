@@ -1,18 +1,18 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:50 09/06/2026",
+  "last_updated": "18:01 09/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-5eb6ccca7f9a",
-          "name": "⚽ Timor-Leste vs Brunei | Sắp bắt đầu - null' 0 - 0 16:00 09/06/2026",
-          "tournament": "ASEAN Championship",
-          "logo_nha": "https://media.api-sports.io/football/teams/5537.png",
-          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwIDcwq4oT1Zh1_46HFg_wPJJRdS3NyWybA&s",
+          "id": "kaytee-ed2dad158d0f",
+          "name": "⚽ Philippines vs Myanmar | Sắp bắt đầu - null' 0 - 0 18:30 09/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://img.freepik.com/free-vector/illustration-philippinesflag_53876-27126.jpg?semt=ais_hybrid&w=740&q=80",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/250px-Flag_of_Myanmar.svg.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -20,7 +20,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/5537.png",
+            "url": "https://img.freepik.com/free-vector/illustration-philippinesflag_53876-27126.jpg?semt=ais_hybrid&w=740&q=80",
             "width": 1600,
             "height": 1200
           },
@@ -34,30 +34,30 @@
           ],
           "sources": [
             {
-              "id": "kaytee-5eb6ccca7f9a",
+              "id": "kaytee-ed2dad158d0f",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-5eb6ccca7f9a",
-                  "name": "Timor-Leste vs Brunei",
+                  "id": "kaytee-ed2dad158d0f",
+                  "name": "Philippines vs Myanmar",
                   "streams": [
                     {
-                      "id": "kaytee-5eb6ccca7f9a",
+                      "id": "kaytee-ed2dad158d0f",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-be9428e4d0",
+                          "id": "lnk-311f0d5ef5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178100225812280&wsIPSercert=8e2b709a2c9c4a10ca6f13e817362d39&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwl1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b8f5eb2374077efe04080d65-178100288378566&wsIPSercert=18b8837a85ef4518e4da05602fa0d627&wsBindIP=2&wsserid=1172580915176566596"
                         },
                         {
-                          "id": "lnk-02a0f1a433",
+                          "id": "lnk-5e7a51de0d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
                     }
