@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:20 09/06/2026",
+  "last_updated": "16:30 09/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-252fd7f743",
+                          "id": "lnk-3e2b8fb03d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl1gr4uqmtt8y41hcjs8rzdrptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=4c6f8e2477eefb4aa1bc2109-178099686150752&wsIPSercert=4699ad6c9e64ae34f7c1ac2f2519feff&wsBindIP=2&wsserid=1172580915169226372"
+                          "url": "https://tfwl1gr4uqmtt8y41hcjz8rzdeqjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=be04584b9a83e318e66b7880-178099745784130&wsIPSercert=b8bbb5f755e72928e5ce2cf15c16057d&wsBindIP=2&wsserid=1168041136565896200"
                         },
                         {
-                          "id": "lnk-d228ae3c71",
+                          "id": "lnk-f99de21839",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -383,51 +383,6 @@
           ]
         },
         {
-          "id": "kaytee-f7d342a61b4d",
-          "name": "⚽ Serbia U19 vs Portugal U19 | Sắp diễn ra vs 22:00 09/06/2026",
-          "tournament": "UEFA U19 Championship - Qualification",
-          "logo_nha": "https://media.api-sports.io/football/teams/10346.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/1280px-Flag_of_Portugal_%28official%29.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10346.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f7d342a61b4d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f7d342a61b4d",
-                  "name": "Serbia U19 vs Portugal U19",
-                  "streams": [
-                    {
-                      "id": "kaytee-f7d342a61b4d",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-5bb9a77d1290",
           "name": "⚽ Armenia vs Moldova | Sắp diễn ra vs 22:00 09/06/2026",
           "tournament": "Friendlies",
@@ -463,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-5bb9a77d1290",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-5e363d80812b",
+          "name": "⚽ Congo Dr vs Chile | Sắp diễn ra vs 23:00 09/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-5e363d80812b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-5e363d80812b",
+                  "name": "Congo Dr vs Chile",
+                  "streams": [
+                    {
+                      "id": "kaytee-5e363d80812b",
                       "name": "F",
                       "stream_links": []
                     }
