@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:31 09/06/2026",
+  "last_updated": "21:40 09/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e1f05db774",
+                          "id": "lnk-e60522955e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=da481daf8a97b77922119e8c-178101549925648&wsIPSercert=b06cea96e4c84430297b5a7e0063f03e&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfwl0gr4uqmtt8y41hcjsgyzdnpb3fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f16633df8b04e79c54ce35aa-178101606753609&wsIPSercert=55a60096a4317a0792fe8327bb8d39ed&wsBindIP=2&wsserid=1168283436454933174"
                         },
                         {
-                          "id": "lnk-4547277a10",
+                          "id": "lnk-c08479c53d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-485d771baf",
+                          "id": "lnk-6a3d7a5cee",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=64b2b5440306679b7a6d88fc-178101550779758&wsIPSercert=b06cea96e4c84430297b5a7e0063f03e&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfwl0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178101607624962&wsIPSercert=55a60096a4317a0792fe8327bb8d39ed&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-913d1c478a",
+                          "id": "lnk-79703e08c7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +166,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-834064145e",
+                          "id": "lnk-678dc0d04b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=da481daf8a97b77922119e8c-178101551636843&wsIPSercert=b06cea96e4c84430297b5a7e0063f03e&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfwl0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178101608482136&wsIPSercert=55a60096a4317a0792fe8327bb8d39ed&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-16484e8dd9",
+                          "id": "lnk-d16e25f622",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -189,7 +189,7 @@
         },
         {
           "id": "kaytee-5bb9a77d1290",
-          "name": "⚽ Armenia vs Moldova | Sắp diễn ra vs 22:00 09/06/2026",
+          "name": "⚽ Armenia vs Moldova | Sắp bắt đầu - null' 0 - 0 22:00 09/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/330px-Flag_of_Moldova.svg.png",
@@ -206,10 +206,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -224,7 +224,22 @@
                     {
                       "id": "kaytee-5bb9a77d1290",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-c6f9d957b3",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwl0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8e6b9a63c3bf8b47600cd06-178101609311018&wsIPSercert=55a60096a4317a0792fe8327bb8d39ed&wsBindIP=2&wsserid=1168283323207303220"
+                        },
+                        {
+                          "id": "lnk-d8ea29a4dd",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
