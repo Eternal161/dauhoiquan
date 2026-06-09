@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:50 09/06/2026",
+  "last_updated": "00:01 10/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-5bb9a77d1290",
-          "name": "⚽ Armenia vs Moldova | Sắp bắt đầu - null' 0 - 0 22:00 09/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/330px-Flag_of_Moldova.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-5bb9a77d1290",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-5bb9a77d1290",
-                  "name": "Armenia vs Moldova",
-                  "streams": [
-                    {
-                      "id": "kaytee-5bb9a77d1290",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0984f5715a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwl0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=cb7b951270b03144c4a20e3e-178102386880596&wsIPSercert=f0f2affa966bf5802f7907bcf2cd9257&wsBindIP=2&wsserid=1168176337057324681"
-                        },
-                        {
-                          "id": "lnk-c351b90c5d",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-05cd9ea4e2d9",
           "name": "⚽ Belarus vs Burkina Faso | Sắp bắt đầu - null' 0 - 0 23:30 09/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ea3dcc7093",
+                          "id": "lnk-dffe58e627",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b13933daec94aca61dee8209-178102387727834&wsIPSercert=f0f2affa966bf5802f7907bcf2cd9257&wsBindIP=2&wsserid=1168176337059421885"
+                          "url": "https://tfwl0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178102448090033&wsIPSercert=856eee4cad2c0816d202053e3a664094&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-36309457f7",
+                          "id": "lnk-81b1daa6ff",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1e08a35030",
+                          "id": "lnk-bb350b5ede",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl0gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2fbb71e8bd899055edae3fe8-178102388603251&wsIPSercert=f0f2affa966bf5802f7907bcf2cd9257&wsBindIP=2&wsserid=1168176346318957775"
+                          "url": "https://tfwl0gr4uqmtt8y41hcjsgyzdnpb3fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f16633df8b04e79c54ce35aa-178102448937722&wsIPSercert=856eee4cad2c0816d202053e3a664094&wsBindIP=2&wsserid=1168283436454933174"
                         },
                         {
-                          "id": "lnk-b099f344a6",
+                          "id": "lnk-df0400784e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-7ba95cd98304",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a5fada1bb7c6",
+          "name": "⚽ Kups vs Vps | Sắp diễn ra vs 21:00 10/06/2026",
+          "tournament": "Suomen Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/650.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a5fada1bb7c6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a5fada1bb7c6",
+                  "name": "Kups vs Vps",
+                  "streams": [
+                    {
+                      "id": "kaytee-a5fada1bb7c6",
                       "name": "F",
                       "stream_links": []
                     }
