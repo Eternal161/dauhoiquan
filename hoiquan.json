@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:30 09/06/2026",
+  "last_updated": "23:40 09/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ca1aba2ca8",
+                          "id": "lnk-b984c7246b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8e6b9a63c3bf8b47600cd06-178102266469948&wsIPSercert=5835206402fd8730472f1539303ff175&wsBindIP=2&wsserid=1168283323207303220"
+                          "url": "https://tfwl0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2bcac8c59898b1e728264dd4-178102326282058&wsIPSercert=e0f51669272ee3d780fd90bbf1988e95&wsBindIP=2&wsserid=1168202333420231774"
                         },
                         {
-                          "id": "lnk-4ea5f24da8",
+                          "id": "lnk-26c7443490",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d3c92859c6",
+                          "id": "lnk-49c7f06f0c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178102267342038&wsIPSercert=5835206402fd8730472f1539303ff175&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwl0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178102327142837&wsIPSercert=e0f51669272ee3d780fd90bbf1988e95&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-0ea02dc705",
+                          "id": "lnk-48603f353d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-d3ccf20c8824",
-          "name": "⚽ Hungary vs Kazakhstan | Sắp diễn ra vs 00:00 10/06/2026",
+          "name": "⚽ Hungary vs Kazakhstan | Sắp bắt đầu - null' 0 - 0 00:00 10/06/2026",
           "tournament": "World Cup - Women - Qualification Europe",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/330px-Flag_of_Hungary.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1920px-Flag_of_Kazakhstan.svg.png",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-d3ccf20c8824",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-a8ef7aecac",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwl0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178102327989192&wsIPSercert=e0f51669272ee3d780fd90bbf1988e95&wsBindIP=2&wsserid=1168202333418134578"
+                        },
+                        {
+                          "id": "lnk-9ce89ef1ab",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
