@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:10 11/06/2026",
+  "last_updated": "04:21 11/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1eba0e52d798",
-          "name": "⚽ Portugal vs Nigeria | Live 0 - 0 02:45 11/06/2026",
+          "name": "⚽ Portugal vs Nigeria | H2 - 71' 1 - 1 02:45 11/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/27.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f8b57d2df1",
+                          "id": "lnk-75505c3850",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=7ea55c3b42629c3c9fbf7f74-178112586095109&wsIPSercert=44eff985857bffc7ef742bb677397f1c&wsBindIP=2&wsserid=1168231884021661304"
+                          "url": "https://tfwm1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=ff1c663e0a7f623fca95554e-178112648504825&wsIPSercert=d905f8e51991247da6572b325dd099d1&wsBindIP=2&wsserid=1168168154451507561"
                         },
                         {
-                          "id": "lnk-216c297041",
+                          "id": "lnk-12a50824f6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-be4c8ce2c6dd",
-          "name": "⚽ England vs Costa Rica | Live 0 - 0 04:00 11/06/2026",
+          "name": "⚽ England vs Costa Rica | H1 - 18' 1 - 0 04:00 11/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/10.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/250px-Flag_of_Costa_Rica_%28state%29.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1e31547d65",
+                          "id": "lnk-4dd28fcf8d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178112586946632&wsIPSercert=44eff985857bffc7ef742bb677397f1c&wsBindIP=2&wsserid=1168283476093891044"
+                          "url": "https://tfwm1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e1cc7d83f669b6ac70984112-178112649315841&wsIPSercert=d905f8e51991247da6572b325dd099d1&wsBindIP=2&wsserid=1168168154453604765"
                         },
                         {
-                          "id": "lnk-220addc236",
+                          "id": "lnk-75f966a603",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
