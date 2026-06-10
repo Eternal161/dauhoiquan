@@ -1,12 +1,486 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:10 11/06/2026",
+  "last_updated": "00:21 11/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
-      "channels": []
+      "channels": [
+        {
+          "id": "kaytee-7b2a94931257",
+          "name": "⚽ Pakistan vs Afghanistan | Live 0 - 0 23:00 10/06/2026",
+          "tournament": "Giao Hữu",
+          "logo_nha": "https://media.api-sports.io/football/teams/5535.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg/960px-Flag_of_Afghanistan_%282013%E2%80%932021%29.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5535.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-7b2a94931257",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-7b2a94931257",
+                  "name": "Pakistan vs Afghanistan",
+                  "streams": [
+                    {
+                      "id": "kaytee-7b2a94931257",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b2dd3d8944",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwm1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=1727692f2fcfce8af9ab5981-178111207759369&wsIPSercert=3a5f53a4524873f929c84fc6ce71ca4b&wsBindIP=2&wsserid=1168041062946239395"
+                        },
+                        {
+                          "id": "lnk-5d396be5eb",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-523da61e81e3",
+          "name": "⚽ Colombia U19 vs Tunisia U23 | Sắp bắt đầu - null' 0 - 0 00:00 11/06/2026",
+          "tournament": "Tournoi Maurice Revello",
+          "logo_nha": "https://media.api-sports.io/football/teams/18981.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/20562.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/18981.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-523da61e81e3",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-523da61e81e3",
+                  "name": "Colombia U19 vs Tunisia U23",
+                  "streams": [
+                    {
+                      "id": "kaytee-523da61e81e3",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-94aa29efab",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a8e2deae9ba2",
+          "name": "⚽ Malaga vs Las Palmas | Sắp diễn ra vs 02:00 11/06/2026",
+          "tournament": "Segunda División",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/c/c3/M%C3%A1laga_CF.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/534.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/c/c3/M%C3%A1laga_CF.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a8e2deae9ba2",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a8e2deae9ba2",
+                  "name": "Malaga vs Las Palmas",
+                  "streams": [
+                    {
+                      "id": "kaytee-a8e2deae9ba2",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1eba0e52d798",
+          "name": "⚽ Portugal vs Nigeria | Sắp diễn ra vs 02:45 11/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/27.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/27.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1eba0e52d798",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1eba0e52d798",
+                  "name": "Portugal vs Nigeria",
+                  "streams": [
+                    {
+                      "id": "kaytee-1eba0e52d798",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e95679e243a2",
+          "name": "⚽ England vs Costa Rica | Sắp diễn ra vs 03:00 11/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/10.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/250px-Flag_of_Costa_Rica_%28state%29.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/10.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e95679e243a2",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e95679e243a2",
+                  "name": "England vs Costa Rica",
+                  "streams": [
+                    {
+                      "id": "kaytee-e95679e243a2",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e5698c7b93e1",
+          "name": "⚽ Bolivia vs Algeria | Sắp diễn ra vs 03:00 11/06/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Escudo_de_Bolivia.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Escudo_de_Bolivia.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e5698c7b93e1",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e5698c7b93e1",
+                  "name": "Bolivia vs Algeria",
+                  "streams": [
+                    {
+                      "id": "kaytee-e5698c7b93e1",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-86db4a10c951",
+          "name": "⚽ Goias vs Novorizontino | Sắp diễn ra vs 06:00 11/06/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdA4dVwq19DxdhyjbUAo3wM3GSIMHaPl3tLg&s",
+          "logo_khach": "https://media.api-sports.io/football/teams/7834.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdA4dVwq19DxdhyjbUAo3wM3GSIMHaPl3tLg&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-86db4a10c951",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-86db4a10c951",
+                  "name": "Goias vs Novorizontino",
+                  "streams": [
+                    {
+                      "id": "kaytee-86db4a10c951",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d44c0a4a4e1a",
+          "name": "⚽ Phoenix Rising vs Louisville City | Sắp diễn ra vs 09:30 11/06/2026",
+          "tournament": "USL Championship",
+          "logo_nha": "https://media.api-sports.io/football/teams/4009.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4000.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4009.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d44c0a4a4e1a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d44c0a4a4e1a",
+                  "name": "Phoenix Rising vs Louisville City",
+                  "streams": [
+                    {
+                      "id": "kaytee-d44c0a4a4e1a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d4858c21539a",
+          "name": "⚽ Nam Dinh vs Ho Chi Minh | Sắp diễn ra vs 18:00 11/06/2026",
+          "tournament": "Cúp quốc gia Việt Nam",
+          "logo_nha": "https://media.api-sports.io/football/teams/3674.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/4/47/Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg/250px-Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3674.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d4858c21539a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d4858c21539a",
+                  "name": "Nam Dinh vs Ho Chi Minh",
+                  "streams": [
+                    {
+                      "id": "kaytee-d4858c21539a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-260b03ee3131",
+          "name": "⚽ Ninh Bình vs Viettel | Sắp diễn ra vs 18:00 11/06/2026",
+          "tournament": "Cúp quốc gia Việt Nam",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/d1/Viettel_FC_2021.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-260b03ee3131",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-260b03ee3131",
+                  "name": "Ninh Bình vs Viettel",
+                  "streams": [
+                    {
+                      "id": "kaytee-260b03ee3131",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
