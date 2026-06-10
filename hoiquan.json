@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:00 10/06/2026",
+  "last_updated": "23:10 10/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-a5fada1bb7c6",
-          "name": "⚽ Kups vs Vps | Sắp bắt đầu - null' 0 - 0 21:00 10/06/2026",
-          "tournament": "Suomen Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/650.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a5fada1bb7c6",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a5fada1bb7c6",
-                  "name": "Kups vs Vps",
-                  "streams": [
-                    {
-                      "id": "kaytee-a5fada1bb7c6",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5a242f0e33",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwm1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=775c4fb7a60d7fa03f035c22-178110726411628&wsIPSercert=931755dabda03e1853702873441dd4b6&wsBindIP=2&wsserid=1168214263213094505"
-                        },
-                        {
-                          "id": "lnk-12b0473eb3",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-7b2a94931257",
           "name": "⚽ Pakistan vs Afghanistan | Live 0 - 0 23:00 10/06/2026",
@@ -106,10 +46,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7de509974c",
+                          "id": "lnk-c8a7f63984",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwm0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2bcac8c59898b1e728264dd4-178110786464445&wsIPSercert=8ba48954fcf06e6cba60e62eecad1cce&wsBindIP=2&wsserid=1168202333420231774"
+                        },
+                        {
+                          "id": "lnk-32dac8ce44",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
                         }
                       ]
@@ -122,7 +69,7 @@
         },
         {
           "id": "kaytee-523da61e81e3",
-          "name": "⚽ Colombia U19 vs Tunisia U23 | Sắp diễn ra vs 00:00 11/06/2026",
+          "name": "⚽ Colombia U19 vs Tunisia U23 | Sắp bắt đầu - null' 0 - 0 00:00 11/06/2026",
           "tournament": "Tournoi Maurice Revello",
           "logo_nha": "https://media.api-sports.io/football/teams/18981.png",
           "logo_khach": "https://media.api-sports.io/football/teams/20562.png",
@@ -139,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -157,7 +104,22 @@
                     {
                       "id": "kaytee-523da61e81e3",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-d832133f5b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwm0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178110787278253&wsIPSercert=8ba48954fcf06e6cba60e62eecad1cce&wsBindIP=2&wsserid=1168202392933970899"
+                        },
+                        {
+                          "id": "lnk-46250b4276",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -471,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-d4858c21539a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-260b03ee3131",
+          "name": "⚽ Ninh Bình vs Viettel | Sắp diễn ra vs 18:00 11/06/2026",
+          "tournament": "Cúp quốc gia Việt Nam",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/d1/Viettel_FC_2021.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-260b03ee3131",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-260b03ee3131",
+                  "name": "Ninh Bình vs Viettel",
+                  "streams": [
+                    {
+                      "id": "kaytee-260b03ee3131",
                       "name": "F",
                       "stream_links": []
                     }
