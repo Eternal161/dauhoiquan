@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:50 11/06/2026",
+  "last_updated": "04:00 11/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-a8e2deae9ba2",
-          "name": "⚽ Malaga vs Las Palmas | H2 - 90+2' 1 - 1 02:00 11/06/2026",
-          "tournament": "Segunda División",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/c/c3/M%C3%A1laga_CF.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/534.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/c/c3/M%C3%A1laga_CF.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a8e2deae9ba2",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a8e2deae9ba2",
-                  "name": "Malaga vs Las Palmas",
-                  "streams": [
-                    {
-                      "id": "kaytee-a8e2deae9ba2",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ca6f574973",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwm0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=2bcac8c59898b1e728264dd4-178112465553268&wsIPSercert=a06a8d9d7913fc58be8b5042d5a93596&wsBindIP=2&wsserid=1168202333420231774"
-                        },
-                        {
-                          "id": "lnk-f40aec2b9b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-1eba0e52d798",
-          "name": "⚽ Portugal vs Nigeria | Giữa Hiệp - 45+4' 1 - 1 02:45 11/06/2026",
+          "name": "⚽ Portugal vs Nigeria | Live 0 - 0 02:45 11/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/27.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1665109cce",
+                          "id": "lnk-e1d1731e20",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2bcac8c59898b1e728264dd4-178112466391818&wsIPSercert=a06a8d9d7913fc58be8b5042d5a93596&wsBindIP=2&wsserid=1168202333420231774"
+                          "url": "https://tfwm1gr4uqmtt8y41hcjz8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=1727692f2fcfce8af9ab5981-178112526162888&wsIPSercert=47b221ea7cb0d8ee28097e358c9f4326&wsBindIP=2&wsserid=1168041062946239395"
                         },
                         {
-                          "id": "lnk-bc87d08030",
+                          "id": "lnk-4e55fd1eb6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-be4c8ce2c6dd",
-          "name": "⚽ England vs Costa Rica | Sắp bắt đầu - null' 0 - 0 04:00 11/06/2026",
+          "name": "⚽ England vs Costa Rica | Live 0 - 0 04:00 11/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/10.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/250px-Flag_of_Costa_Rica_%28state%29.svg.png",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b36e0d1ec6",
+                          "id": "lnk-5919bbdd71",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178112467242146&wsIPSercert=a06a8d9d7913fc58be8b5042d5a93596&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfwm1gr4uqmtt8y41hcjz8rzdrctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=775c4fb7a60d7fa03f035c22-178112527034228&wsIPSercert=47b221ea7cb0d8ee28097e358c9f4326&wsBindIP=2&wsserid=1168214263213094505"
                         },
                         {
-                          "id": "lnk-94d127ae97",
+                          "id": "lnk-410dbfb1ad",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-2131fb60e1bb",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-5c6791563dfc",
+          "name": "⚽ Tampere United vs Ols | Sắp diễn ra vs 22:30 11/06/2026",
+          "tournament": "Ykkönen",
+          "logo_nha": "https://media.api-sports.io/football/teams/9190.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/9195.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/9190.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-5c6791563dfc",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-5c6791563dfc",
+                  "name": "Tampere United vs Ols",
+                  "streams": [
+                    {
+                      "id": "kaytee-5c6791563dfc",
                       "name": "F",
                       "stream_links": []
                     }
