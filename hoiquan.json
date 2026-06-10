@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:40 11/06/2026",
+  "last_updated": "01:50 11/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-523da61e81e3",
-          "name": "⚽ Colombia U19 vs Tunisia U23 | H2 - 83' 0 - 0 00:00 11/06/2026",
+          "name": "⚽ Colombia U19 vs Tunisia U23 | Live 0 - 0 00:00 11/06/2026",
           "tournament": "Tournoi Maurice Revello",
           "logo_nha": "https://media.api-sports.io/football/teams/18981.png",
           "logo_khach": "https://media.api-sports.io/football/teams/20562.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-dd724e0973",
+                          "id": "lnk-ad69de67b1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm4gchnhcjo8rzdrpjtfa4144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e1cc7d83f669b6ac70984112-178111685896099&wsIPSercert=e54c932996412f3594390178e64d6f52&wsBindIP=2&wsserid=1168168154453604765"
+                          "url": "https://tfwm0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178111745179858&wsIPSercert=dbb59453b5c9d86ac27e8d8522c4c80d&wsBindIP=2&wsserid=1168283476093891044"
                         },
                         {
-                          "id": "lnk-3e4e98ae55",
+                          "id": "lnk-75dd8c139c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-a8e2deae9ba2",
-          "name": "⚽ Malaga vs Las Palmas | Sắp bắt đầu - null' 0 - 0 02:00 11/06/2026",
+          "name": "⚽ Malaga vs Las Palmas | Live 0 - 0 02:00 11/06/2026",
           "tournament": "Segunda División",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/c/c3/M%C3%A1laga_CF.png",
           "logo_khach": "https://media.api-sports.io/football/teams/534.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5e086c97dd",
+                          "id": "lnk-64a5e3316e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm4gchnhcjo8rzdrpjtfa4144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=ff1c663e0a7f623fca95554e-178111686747077&wsIPSercert=e54c932996412f3594390178e64d6f52&wsBindIP=2&wsserid=1168168154451507561"
+                          "url": "https://tfwm0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=9f85bcc648ec8dd007aeea5d-178111746051134&wsIPSercert=dbb59453b5c9d86ac27e8d8522c4c80d&wsBindIP=2&wsserid=1168270715630357023"
                         },
                         {
-                          "id": "lnk-f15c69e199",
+                          "id": "lnk-b55bc5a1d8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
