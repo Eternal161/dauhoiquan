@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:30 10/06/2026",
+  "last_updated": "23:40 10/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-eb78bcc6c6",
+                          "id": "lnk-fbe2652dd2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2bcac8c59898b1e728264dd4-178110906849185&wsIPSercert=949a9ec0bf31d940fa6c2670dd0c6326&wsBindIP=2&wsserid=1168202333420231774"
+                          "url": "https://tfwm0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8e6b9a63c3bf8b47600cd06-178110966218039&wsIPSercert=d26fe974044ee557705ce13e1f884def&wsBindIP=2&wsserid=1168283323207303220"
                         },
                         {
-                          "id": "lnk-2a0a0a8cfb",
+                          "id": "lnk-2186c4e382",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-523da61e81e3",
-          "name": "⚽ Colombia U19 vs Tunisia U23 | Sắp bắt đầu - null' 0 - 0 00:00 11/06/2026",
+          "name": "⚽ Colombia U19 vs Tunisia U23 | Live 0 - 0 00:00 11/06/2026",
           "tournament": "Tournoi Maurice Revello",
           "logo_nha": "https://media.api-sports.io/football/teams/18981.png",
           "logo_khach": "https://media.api-sports.io/football/teams/20562.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3d39e12dc5",
+                          "id": "lnk-069dc59baf",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178110907679162&wsIPSercert=949a9ec0bf31d940fa6c2670dd0c6326&wsBindIP=2&wsserid=1168202392933970899"
+                          "url": "https://tfwm0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178110967047793&wsIPSercert=d26fe974044ee557705ce13e1f884def&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-d2f0a5be3b",
+                          "id": "lnk-6505a7ae47",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
