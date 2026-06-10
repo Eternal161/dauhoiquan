@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:40 11/06/2026",
+  "last_updated": "03:50 11/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a8e2deae9ba2",
-          "name": "⚽ Malaga vs Las Palmas | H2 - 81' 1 - 1 02:00 11/06/2026",
+          "name": "⚽ Malaga vs Las Palmas | H2 - 90+2' 1 - 1 02:00 11/06/2026",
           "tournament": "Segunda División",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/c/c3/M%C3%A1laga_CF.png",
           "logo_khach": "https://media.api-sports.io/football/teams/534.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-884bf99e08",
+                          "id": "lnk-ca6f574973",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=61785e5dba4658081da27419-178112406066106&wsIPSercert=31a8019f79ff251dfbfc384ea40c5f02&wsBindIP=2&wsserid=1168176337061519089"
+                          "url": "https://tfwm0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=2bcac8c59898b1e728264dd4-178112465553268&wsIPSercert=a06a8d9d7913fc58be8b5042d5a93596&wsBindIP=2&wsserid=1168202333420231774"
                         },
                         {
-                          "id": "lnk-a1012195f9",
+                          "id": "lnk-f40aec2b9b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7f9ca83cad",
+                          "id": "lnk-1665109cce",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=cb7b951270b03144c4a20e3e-178112406890627&wsIPSercert=31a8019f79ff251dfbfc384ea40c5f02&wsBindIP=2&wsserid=1168176337057324681"
+                          "url": "https://tfwm0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2bcac8c59898b1e728264dd4-178112466391818&wsIPSercert=a06a8d9d7913fc58be8b5042d5a93596&wsBindIP=2&wsserid=1168202333420231774"
                         },
                         {
-                          "id": "lnk-c0fd5fd2d0",
+                          "id": "lnk-bc87d08030",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,10 +166,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9af1c51e9c",
+                          "id": "lnk-b36e0d1ec6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwm0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178112467242146&wsIPSercert=a06a8d9d7913fc58be8b5042d5a93596&wsBindIP=2&wsserid=1168202392933970899"
+                        },
+                        {
+                          "id": "lnk-94d127ae97",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
                         }
                       ]
