@@ -1,125 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:01 10/06/2026",
+  "last_updated": "10:10 10/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-a708b6eb7328",
-          "name": "⚽ Argentina vs Iceland | Sắp bắt đầu - null' 0 - 0 08:00 10/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/250px-Flag_of_Iceland.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a708b6eb7328",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a708b6eb7328",
-                  "name": "Argentina vs Iceland",
-                  "streams": [
-                    {
-                      "id": "kaytee-a708b6eb7328",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d0614ab4ef",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwm0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=33c58bb968e119c20b02d306-178106047941081&wsIPSercert=ae72570e683e59863260c999c5e1857b&wsBindIP=2&wsserid=1168176346313714739"
-                        },
-                        {
-                          "id": "lnk-7fa7d945a6",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-3695910e229a",
-          "name": "⚽ Iraq vs Venezuela | Sắp bắt đầu - null' 0 - 0 08:00 10/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/1567.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/250px-Flag_of_Venezuela.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1567.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3695910e229a",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3695910e229a",
-                  "name": "Iraq vs Venezuela",
-                  "streams": [
-                    {
-                      "id": "kaytee-3695910e229a",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ef211b397c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-7ba95cd98304",
           "name": "⚽ Cape Town City vs Magesi | Sắp diễn ra vs 20:00 10/06/2026",
@@ -471,6 +358,96 @@
                   "streams": [
                     {
                       "id": "kaytee-e5698c7b93e1",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-86db4a10c951",
+          "name": "⚽ Goias vs Novorizontino | Sắp diễn ra vs 06:00 11/06/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdA4dVwq19DxdhyjbUAo3wM3GSIMHaPl3tLg&s",
+          "logo_khach": "https://media.api-sports.io/football/teams/7834.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdA4dVwq19DxdhyjbUAo3wM3GSIMHaPl3tLg&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-86db4a10c951",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-86db4a10c951",
+                  "name": "Goias vs Novorizontino",
+                  "streams": [
+                    {
+                      "id": "kaytee-86db4a10c951",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-9e4f7a779b1e",
+          "name": "⚽ Sport Recife vs Athletic Club | Sắp diễn ra vs 07:00 11/06/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VAnv52Bj5vR_eOaVQiyM-aJo5PyseuSEbQ&s",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VAnv52Bj5vR_eOaVQiyM-aJo5PyseuSEbQ&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-9e4f7a779b1e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-9e4f7a779b1e",
+                  "name": "Sport Recife vs Athletic Club",
+                  "streams": [
+                    {
+                      "id": "kaytee-9e4f7a779b1e",
                       "name": "F",
                       "stream_links": []
                     }
