@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:10 11/06/2026",
+  "last_updated": "02:20 11/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a8e2deae9ba2",
-          "name": "⚽ Malaga vs Las Palmas | Live 0 - 0 02:00 11/06/2026",
+          "name": "⚽ Malaga vs Las Palmas | H1 - 20' 0 - 1 02:00 11/06/2026",
           "tournament": "Segunda División",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/c/c3/M%C3%A1laga_CF.png",
           "logo_khach": "https://media.api-sports.io/football/teams/534.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-022abb9247",
+                          "id": "lnk-610c03f461",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=61785e5dba4658081da27419-178111866111029&wsIPSercert=b2f8a5c4367ba42d2fe4ba29c2eedc48&wsBindIP=2&wsserid=1168176337061519089"
+                          "url": "https://tfwm0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=61785e5dba4658081da27419-178111925791189&wsIPSercert=d2fa075f4dce6a2645243b0d79b27fed&wsBindIP=2&wsserid=1168176337061519089"
                         },
                         {
-                          "id": "lnk-9469d902b6",
+                          "id": "lnk-21cb869580",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-1eba0e52d798",
-          "name": "⚽ Portugal vs Nigeria | Sắp diễn ra vs 02:45 11/06/2026",
+          "name": "⚽ Portugal vs Nigeria | Sắp bắt đầu - null' 0 - 0 02:45 11/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/27.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,15 @@
                     {
                       "id": "kaytee-1eba0e52d798",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-e3a1f380d1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -114,7 +122,7 @@
         },
         {
           "id": "kaytee-e95679e243a2",
-          "name": "⚽ England vs Costa Rica | Live 0 - 0 03:00 11/06/2026",
+          "name": "⚽ England vs Costa Rica | Sắp bắt đầu - null' 0 - 0 03:00 11/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/10.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/250px-Flag_of_Costa_Rica_%28state%29.svg.png",
@@ -151,10 +159,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2efe86cccc",
+                          "id": "lnk-314108f920",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwm0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b13933daec94aca61dee8209-178111927511694&wsIPSercert=d2fa075f4dce6a2645243b0d79b27fed&wsBindIP=2&wsserid=1168176337059421885"
+                        },
+                        {
+                          "id": "lnk-fdf407f6cc",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
                         }
                       ]
