@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:40 11/06/2026",
+  "last_updated": "02:50 11/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a8e2deae9ba2",
-          "name": "⚽ Malaga vs Las Palmas | H1 - 40' 0 - 1 02:00 11/06/2026",
+          "name": "⚽ Malaga vs Las Palmas | Giữa Hiệp - 45+2' 0 - 1 02:00 11/06/2026",
           "tournament": "Segunda División",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/c/c3/M%C3%A1laga_CF.png",
           "logo_khach": "https://media.api-sports.io/football/teams/534.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-601a11be7e",
+                          "id": "lnk-3033e3b1a1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm1gr3uomttgr31hcj1gozdoqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=a356a443777512472c219129-178112045018919&wsIPSercert=0cdfb0ca16c066c797035beedf9b6920&wsBindIP=2&wsserid=1168273202641018151"
+                          "url": "https://tfwm1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178112105424017&wsIPSercert=9f437bcdc8d4259895b96575bfeda333&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-5203b06666",
+                          "id": "lnk-22d540efd4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-1eba0e52d798",
-          "name": "⚽ Portugal vs Nigeria | Sắp bắt đầu - null' 0 - 0 02:45 11/06/2026",
+          "name": "⚽ Portugal vs Nigeria | H1 - 1' 0 - 0 02:45 11/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/27.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a58f3036dd",
+                          "id": "lnk-d847ad488d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm1gr3uomttgr31hcj1gozdoqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b574cb7022048e14bd67b928-178112045876067&wsIPSercert=0cdfb0ca16c066c797035beedf9b6920&wsBindIP=2&wsserid=1168273075058478743"
+                          "url": "https://tfwm1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178112106262053&wsIPSercert=9f437bcdc8d4259895b96575bfeda333&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-0e69141344",
+                          "id": "lnk-b19a0bdddf",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +166,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5b666d9d62",
+                          "id": "lnk-07d7cafb58",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm1gr3uomttgr31hcj1gozdoqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f4e7944da88701a43d52cfee-178112046749761&wsIPSercert=0cdfb0ca16c066c797035beedf9b6920&wsBindIP=2&wsserid=1168273075050089907"
+                          "url": "https://tfwm1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=a6defa01f6e1e6463957ff66-178112107100251&wsIPSercert=9f437bcdc8d4259895b96575bfeda333&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-ed3661584c",
+                          "id": "lnk-255e2215a6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -226,10 +226,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-146be17d01",
+                          "id": "lnk-04b108b478",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwm1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178112107930012&wsIPSercert=9f437bcdc8d4259895b96575bfeda333&wsBindIP=2&wsserid=1168176581104105640"
+                        },
+                        {
+                          "id": "lnk-ed5b31f40e",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
                         }
                       ]
