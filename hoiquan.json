@@ -1,14 +1,14 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:30 10/06/2026",
+  "last_updated": "19:40 10/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-99f9e90b6f26",
+          "id": "kaytee-d1bd7ad7869c",
           "name": "⚽ Buxdu vs Qiziriq | Sắp bắt đầu - null' 0 - 0 19:30 10/06/2026",
           "tournament": "Pro League A",
           "logo_nha": "https://media.api-sports.io/football/teams/27584.png",
@@ -34,26 +34,26 @@
           ],
           "sources": [
             {
-              "id": "kaytee-99f9e90b6f26",
+              "id": "kaytee-d1bd7ad7869c",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-99f9e90b6f26",
+                  "id": "kaytee-d1bd7ad7869c",
                   "name": "Buxdu vs Qiziriq",
                   "streams": [
                     {
-                      "id": "kaytee-99f9e90b6f26",
+                      "id": "kaytee-d1bd7ad7869c",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-047356936f",
+                          "id": "lnk-126d7e094f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178109466222813&wsIPSercert=6418f4b91ed86ed1c56d51bf89dec0e3&wsBindIP=2&wsserid=1168283476093891044"
+                          "url": "https://tfwm0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c86a3bc0281bce9bbc952701-178109526111081&wsIPSercert=55c3cf944a1702310af9c3e67cf43371&wsBindIP=2&wsserid=1168283477179400067"
                         },
                         {
-                          "id": "lnk-e5b1d41011",
+                          "id": "lnk-cf0f64a566",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-c1c1c856a6e2",
-          "name": "⚽ Shortan vs Gazalkent | Sắp diễn ra vs 20:00 10/06/2026",
+          "name": "⚽ Shortan vs Gazalkent | Sắp bắt đầu - null' 0 - 0 20:00 10/06/2026",
           "tournament": "Pro League A",
           "logo_nha": "https://media.api-sports.io/football/teams/4222.png",
           "logo_khach": "https://media.api-sports.io/football/teams/27585.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-c1c1c856a6e2",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-df87432968",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwm0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=9c5b089bdc441323d923da9f-178109526944979&wsIPSercert=55c3cf944a1702310af9c3e67cf43371&wsBindIP=2&wsserid=1168283618402913555"
+                        },
+                        {
+                          "id": "lnk-e6acb53cde",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
