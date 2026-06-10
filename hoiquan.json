@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:31 10/06/2026",
+  "last_updated": "22:51 10/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,10 +46,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8b3443ee3b",
+                          "id": "lnk-8e3b2c2360",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwm1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=4c6f8e2477eefb4aa1bc2109-178110671886379&wsIPSercert=55d9b80ac86d484c603039bbe94f85e0&wsBindIP=2&wsserid=1172580915169226372"
+                        },
+                        {
+                          "id": "lnk-44d7398e79",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
                         }
                       ]
@@ -62,7 +69,7 @@
         },
         {
           "id": "kaytee-7b2a94931257",
-          "name": "⚽ Pakistan vs Afghanistan | Sắp diễn ra vs 23:00 10/06/2026",
+          "name": "⚽ Pakistan vs Afghanistan | Live 0 - 0 23:00 10/06/2026",
           "tournament": "Giao Hữu",
           "logo_nha": "https://media.api-sports.io/football/teams/5535.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg/960px-Flag_of_Afghanistan_%282013%E2%80%932021%29.svg.png",
@@ -79,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +104,22 @@
                     {
                       "id": "kaytee-7b2a94931257",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-1ae3103523",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwm1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8f5eb2374077efe04080d65-178110672864001&wsIPSercert=55d9b80ac86d484c603039bbe94f85e0&wsBindIP=2&wsserid=1172580915176566596"
+                        },
+                        {
+                          "id": "lnk-fd4c1975dd",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -106,11 +128,11 @@
           ]
         },
         {
-          "id": "kaytee-f422fff0fec3",
-          "name": "⚽ Falu Bs vs Gefle If | Sắp diễn ra vs 23:00 10/06/2026",
-          "tournament": "Svenska Cupen",
-          "logo_nha": "https://media.api-sports.io/football/teams/22932.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/813.png",
+          "id": "kaytee-523da61e81e3",
+          "name": "⚽ Colombia U19 vs Tunisia U23 | Sắp diễn ra vs 00:00 11/06/2026",
+          "tournament": "Tournoi Maurice Revello",
+          "logo_nha": "https://media.api-sports.io/football/teams/18981.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/20562.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -118,7 +140,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/22932.png",
+            "url": "https://media.api-sports.io/football/teams/18981.png",
             "width": 1600,
             "height": 1200
           },
@@ -132,15 +154,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-f422fff0fec3",
+              "id": "kaytee-523da61e81e3",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-f422fff0fec3",
-                  "name": "Falu Bs vs Gefle If",
+                  "id": "kaytee-523da61e81e3",
+                  "name": "Colombia U19 vs Tunisia U23",
                   "streams": [
                     {
-                      "id": "kaytee-f422fff0fec3",
+                      "id": "kaytee-523da61e81e3",
                       "name": "F",
                       "stream_links": []
                     }
