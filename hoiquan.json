@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:50 11/06/2026",
+  "last_updated": "06:00 11/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-be4c8ce2c6dd",
-          "name": "⚽ England vs Costa Rica | H2 - 83' 2 - 0 04:00 11/06/2026",
+          "name": "⚽ England vs Costa Rica | Live 0 - 0 04:00 11/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://media.api-sports.io/football/teams/10.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/250px-Flag_of_Costa_Rica_%28state%29.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c3c320b636",
+                          "id": "lnk-71b0719efe",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=775c4fb7a60d7fa03f035c22-178113185737570&wsIPSercert=cc87ee185dbffad99093cbebcfaab0ab&wsBindIP=2&wsserid=1168214263213094505"
+                          "url": "https://tfwm0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178113245946190&wsIPSercert=e0d6366ac97a8f0cd937d09f73435d25&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-be214473e1",
+                          "id": "lnk-9c689dbbfe",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-86db4a10c951",
-          "name": "⚽ Goias vs Novorizontino | Sắp bắt đầu - null' 0 - 0 06:00 11/06/2026",
+          "name": "⚽ Goias vs Novorizontino | Live 0 - 0 06:00 11/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdA4dVwq19DxdhyjbUAo3wM3GSIMHaPl3tLg&s",
           "logo_khach": "https://media.api-sports.io/football/teams/7834.png",
@@ -106,7 +106,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f6c725285b",
+                          "id": "lnk-5e7a94b764",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
