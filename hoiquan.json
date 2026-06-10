@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:10 10/06/2026",
+  "last_updated": "07:20 10/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-5cbd44d10a22",
-          "name": "⚽ Saudi Arabia vs Senegal | Giữa Hiệp - 45+4' 0 - 0 06:00 10/06/2026",
+          "name": "⚽ Saudi Arabia vs Senegal | H2 - 47' 0 - 0 06:00 10/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1934adefc9",
+                          "id": "lnk-a8268cc991",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-f36790ec3737",
-          "name": "⚽ Birmingham Legion vs Corpus Christi | H1 - 3' 0 - 0 07:00 10/06/2026",
+          "name": "⚽ Birmingham Legion vs Corpus Christi | H1 - 10' 1 - 0 07:00 10/06/2026",
           "tournament": "USL League One Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/3989.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4043.png",
@@ -99,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-592e316ed8",
+                          "id": "lnk-a736a32081",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178105026473051&wsIPSercert=d979a00f18073764c83283e1cc15a4c2&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwm0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178105086501381&wsIPSercert=45671474665641f897f329adf2f97f38&wsBindIP=2&wsserid=1168283476093891044"
                         },
                         {
-                          "id": "lnk-8805f65b2d",
+                          "id": "lnk-302e3af413",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
