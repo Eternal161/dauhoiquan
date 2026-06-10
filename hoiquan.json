@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:50 10/06/2026",
+  "last_updated": "10:01 10/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7628410468",
+                          "id": "lnk-d0614ab4ef",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm1gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=149be663ef1389e0051f6ddb-178105986478605&wsIPSercert=417327d1694929274bb9da1415be9007&wsBindIP=2&wsserid=1168235283031012122"
+                          "url": "https://tfwm0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=33c58bb968e119c20b02d306-178106047941081&wsIPSercert=ae72570e683e59863260c999c5e1857b&wsBindIP=2&wsserid=1168176346313714739"
                         },
                         {
-                          "id": "lnk-cd5a5067dc",
+                          "id": "lnk-7fa7d945a6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,17 +106,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3f725a3952",
+                          "id": "lnk-ef211b397c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm1gr3uomttgr31hcj3fa3dkcbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=4608f724b9c73d510579fc04-178105987340395&wsIPSercert=417327d1694929274bb9da1415be9007&wsBindIP=2&wsserid=1168168154459896377"
-                        },
-                        {
-                          "id": "lnk-ec10b9b40a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
                         }
                       ]
