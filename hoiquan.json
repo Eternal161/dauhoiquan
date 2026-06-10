@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:00 11/06/2026",
+  "last_updated": "06:10 11/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-be4c8ce2c6dd",
-          "name": "⚽ England vs Costa Rica | Live 0 - 0 04:00 11/06/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/10.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/250px-Flag_of_Costa_Rica_%28state%29.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-be4c8ce2c6dd",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-be4c8ce2c6dd",
-                  "name": "England vs Costa Rica",
-                  "streams": [
-                    {
-                      "id": "kaytee-be4c8ce2c6dd",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-71b0719efe",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwm0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ca8819a9ad0923739c967ec1-178113245946190&wsIPSercert=e0d6366ac97a8f0cd937d09f73435d25&wsBindIP=2&wsserid=1168283323406534424"
-                        },
-                        {
-                          "id": "lnk-9c689dbbfe",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-86db4a10c951",
-          "name": "⚽ Goias vs Novorizontino | Live 0 - 0 06:00 11/06/2026",
+          "name": "⚽ Goias vs Novorizontino | H1 - 10' 0 - 0 06:00 11/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdA4dVwq19DxdhyjbUAo3wM3GSIMHaPl3tLg&s",
           "logo_khach": "https://media.api-sports.io/football/teams/7834.png",
@@ -106,10 +46,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5e7a94b764",
+                          "id": "lnk-2d2bd613ec",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwm0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178113306159748&wsIPSercert=38d6f73ae4d8d4692d976b72a568b8eb&wsBindIP=2&wsserid=1168283476093891044"
+                        },
+                        {
+                          "id": "lnk-42cbf76efa",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-50ee377ef9ab",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-057ff9d27872",
+          "name": "⚽ Västra Frölunda vs Onsala | Sắp diễn ra vs 00:00 12/06/2026",
+          "tournament": "Svenska Cupen",
+          "logo_nha": "https://media.api-sports.io/football/teams/12609.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/12606.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/12609.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-057ff9d27872",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-057ff9d27872",
+                  "name": "Västra Frölunda vs Onsala",
+                  "streams": [
+                    {
+                      "id": "kaytee-057ff9d27872",
                       "name": "F",
                       "stream_links": []
                     }
