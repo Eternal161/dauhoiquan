@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:00 10/06/2026",
+  "last_updated": "19:10 10/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-99f9e90b6f26",
-          "name": "⚽ Buxdu vs Qiziriq | Sắp diễn ra vs 19:30 10/06/2026",
+          "name": "⚽ Buxdu vs Qiziriq | Sắp bắt đầu - null' 0 - 0 19:30 10/06/2026",
           "tournament": "Pro League A",
           "logo_nha": "https://media.api-sports.io/football/teams/27584.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKK-vHJCg-8idZtd2ngnD0PY8l0lfgbV-ejA&s",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "kaytee-99f9e90b6f26",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-9da9c8fa66",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
