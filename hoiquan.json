@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:30 11/06/2026",
+  "last_updated": "02:40 11/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a8e2deae9ba2",
-          "name": "⚽ Malaga vs Las Palmas | H1 - 30' 0 - 1 02:00 11/06/2026",
+          "name": "⚽ Malaga vs Las Palmas | H1 - 40' 0 - 1 02:00 11/06/2026",
           "tournament": "Segunda División",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/c/c3/M%C3%A1laga_CF.png",
           "logo_khach": "https://media.api-sports.io/football/teams/534.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8616cf826b",
+                          "id": "lnk-601a11be7e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=2c6a768ae9d6db114f710835-178111986467378&wsIPSercert=759cef6124f5c53889ab6cc445663d8e&wsBindIP=2&wsserid=1168214364742294105"
+                          "url": "https://tfwm1gr3uomttgr31hcj1gozdoqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=a356a443777512472c219129-178112045018919&wsIPSercert=0cdfb0ca16c066c797035beedf9b6920&wsBindIP=2&wsserid=1168273202641018151"
                         },
                         {
-                          "id": "lnk-f1ba924be1",
+                          "id": "lnk-5203b06666",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-18c452c64e",
+                          "id": "lnk-a58f3036dd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=1727692f2fcfce8af9ab5981-178111987332799&wsIPSercert=759cef6124f5c53889ab6cc445663d8e&wsBindIP=2&wsserid=1168041062946239395"
+                          "url": "https://tfwm1gr3uomttgr31hcj1gozdoqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b574cb7022048e14bd67b928-178112045876067&wsIPSercert=0cdfb0ca16c066c797035beedf9b6920&wsBindIP=2&wsserid=1168273075058478743"
                         },
                         {
-                          "id": "lnk-0d1ba4e5dc",
+                          "id": "lnk-0e69141344",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +166,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c1669c10e2",
+                          "id": "lnk-5b666d9d62",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=775c4fb7a60d7fa03f035c22-178111988171642&wsIPSercert=759cef6124f5c53889ab6cc445663d8e&wsBindIP=2&wsserid=1168214263213094505"
+                          "url": "https://tfwm1gr3uomttgr31hcj1gozdoqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f4e7944da88701a43d52cfee-178112046749761&wsIPSercert=0cdfb0ca16c066c797035beedf9b6920&wsBindIP=2&wsserid=1168273075050089907"
                         },
                         {
-                          "id": "lnk-8c57bc5db4",
+                          "id": "lnk-ed3661584c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -189,7 +189,7 @@
         },
         {
           "id": "kaytee-e5698c7b93e1",
-          "name": "⚽ Bolivia vs Algeria | Sắp diễn ra vs 03:00 11/06/2026",
+          "name": "⚽ Bolivia vs Algeria | Sắp bắt đầu - null' 0 - 0 03:00 11/06/2026",
           "tournament": "Friendlies",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Escudo_de_Bolivia.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
@@ -206,10 +206,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -224,7 +224,15 @@
                     {
                       "id": "kaytee-e5698c7b93e1",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-146be17d01",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
