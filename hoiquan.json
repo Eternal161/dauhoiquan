@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:20 11/06/2026",
+  "last_updated": "02:30 11/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a8e2deae9ba2",
-          "name": "⚽ Malaga vs Las Palmas | H1 - 20' 0 - 1 02:00 11/06/2026",
+          "name": "⚽ Malaga vs Las Palmas | H1 - 30' 0 - 1 02:00 11/06/2026",
           "tournament": "Segunda División",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/c/c3/M%C3%A1laga_CF.png",
           "logo_khach": "https://media.api-sports.io/football/teams/534.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-610c03f461",
+                          "id": "lnk-8616cf826b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=61785e5dba4658081da27419-178111925791189&wsIPSercert=d2fa075f4dce6a2645243b0d79b27fed&wsBindIP=2&wsserid=1168176337061519089"
+                          "url": "https://tfwm1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=2c6a768ae9d6db114f710835-178111986467378&wsIPSercert=759cef6124f5c53889ab6cc445663d8e&wsBindIP=2&wsserid=1168214364742294105"
                         },
                         {
-                          "id": "lnk-21cb869580",
+                          "id": "lnk-f1ba924be1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,10 +106,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e3a1f380d1",
+                          "id": "lnk-18c452c64e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwm1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=1727692f2fcfce8af9ab5981-178111987332799&wsIPSercert=759cef6124f5c53889ab6cc445663d8e&wsBindIP=2&wsserid=1168041062946239395"
+                        },
+                        {
+                          "id": "lnk-0d1ba4e5dc",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
                         }
                       ]
@@ -159,14 +166,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-314108f920",
+                          "id": "lnk-c1669c10e2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b13933daec94aca61dee8209-178111927511694&wsIPSercert=d2fa075f4dce6a2645243b0d79b27fed&wsBindIP=2&wsserid=1168176337059421885"
+                          "url": "https://tfwm1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=775c4fb7a60d7fa03f035c22-178111988171642&wsIPSercert=759cef6124f5c53889ab6cc445663d8e&wsBindIP=2&wsserid=1168214263213094505"
                         },
                         {
-                          "id": "lnk-fdf407f6cc",
+                          "id": "lnk-8c57bc5db4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
