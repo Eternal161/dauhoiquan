@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:50 11/06/2026",
+  "last_updated": "18:00 11/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-d5e48429962d",
-          "name": "⚽ Thailand U19 vs Cambodia U19 | Live 0 - 0 16:00 11/06/2026",
-          "tournament": "ASEAN Championship U19",
-          "logo_nha": "https://media.api-sports.io/football/teams/19155.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/19148.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/19155.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-d5e48429962d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-d5e48429962d",
-                  "name": "Thailand U19 vs Cambodia U19",
-                  "streams": [
-                    {
-                      "id": "kaytee-d5e48429962d",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-43ab2ff5d0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwn0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8?wsSession=a6ec7b54f604532cd8b39bb0-178117505264343&wsIPSercert=d5cddc6ce07baec40c217d92479ce8c1&wsBindIP=2&wsserid=1168283323277558487"
-                        },
-                        {
-                          "id": "lnk-56bb0205dc",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-d4858c21539a",
           "name": "⚽ Nam Dinh vs Ho Chi Minh | Sắp bắt đầu - null' 0 - 0 18:00 11/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d68872d3bf",
+                          "id": "lnk-b0f56d2c86",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwn0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178117506154526&wsIPSercert=d5cddc6ce07baec40c217d92479ce8c1&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwn0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178117566094073&wsIPSercert=cf78915d82b36443723fa47fa400251b&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-a2abd90090",
+                          "id": "lnk-a82c992a3f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-260b03ee3131",
-          "name": "⚽ Ninh Bình vs Viettel | Sắp bắt đầu - null' 0 - 0 18:00 11/06/2026",
+          "name": "⚽ Ninh Bình vs Viettel | H1 - 1' 0 - 0 18:00 11/06/2026",
           "tournament": "Cúp quốc gia Việt Nam",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/d1/Viettel_FC_2021.svg",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d7445706e3",
+                          "id": "lnk-275b42da5b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwn0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=56d2bb5a325c7a8bfd1440f3-178117507005692&wsIPSercert=d5cddc6ce07baec40c217d92479ce8c1&wsBindIP=2&wsserid=1168283323207303220"
+                          "url": "https://tfwn0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=56d2bb5a325c7a8bfd1440f3-178117566952619&wsIPSercert=cf78915d82b36443723fa47fa400251b&wsBindIP=2&wsserid=1168283323207303220"
                         },
                         {
-                          "id": "lnk-c3c9500ef3",
+                          "id": "lnk-68a450be21",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-a9161b21d2c4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a6f45487f86c",
+          "name": "⚽ South Korea vs Czech Republic | Sắp diễn ra vs 09:00 12/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/1728.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/770.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1728.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a6f45487f86c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a6f45487f86c",
+                  "name": "South Korea vs Czech Republic",
+                  "streams": [
+                    {
+                      "id": "kaytee-a6f45487f86c",
                       "name": "F",
                       "stream_links": []
                     }
