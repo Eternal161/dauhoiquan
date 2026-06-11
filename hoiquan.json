@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:00 11/06/2026",
+  "last_updated": "18:10 11/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-d4858c21539a",
-          "name": "⚽ Nam Dinh vs Ho Chi Minh | Sắp bắt đầu - null' 0 - 0 18:00 11/06/2026",
+          "name": "⚽ Nam Dinh vs Ho Chi Minh | H1 - 10' 0 - 0 18:00 11/06/2026",
           "tournament": "Cúp quốc gia Việt Nam",
           "logo_nha": "https://media.api-sports.io/football/teams/3674.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/4/47/Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg/250px-Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b0f56d2c86",
+                          "id": "lnk-a1c4bdae8b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwn0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178117566094073&wsIPSercert=cf78915d82b36443723fa47fa400251b&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwn0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178117624865320&wsIPSercert=2191a528c05fe0823d6ead03023a9577&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-a82c992a3f",
+                          "id": "lnk-b74876e743",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-260b03ee3131",
-          "name": "⚽ Ninh Bình vs Viettel | H1 - 1' 0 - 0 18:00 11/06/2026",
+          "name": "⚽ Ninh Bình vs Viettel | H1 - 11' 0 - 0 18:00 11/06/2026",
           "tournament": "Cúp quốc gia Việt Nam",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/d1/Viettel_FC_2021.svg",
@@ -106,65 +106,20 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-275b42da5b",
+                          "id": "lnk-601d031e32",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwn0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=56d2bb5a325c7a8bfd1440f3-178117566952619&wsIPSercert=cf78915d82b36443723fa47fa400251b&wsBindIP=2&wsserid=1168283323207303220"
+                          "url": "https://tfwn0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2bcac8c59898b1e728264dd4-178117625668278&wsIPSercert=2191a528c05fe0823d6ead03023a9577&wsBindIP=2&wsserid=1168202333420231774"
                         },
                         {
-                          "id": "lnk-68a450be21",
+                          "id": "lnk-5ceae842db",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
                         }
                       ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-b343023afe5d",
-          "name": "⚽ Dinamo Stavropol vs Zenit 2 | Sắp diễn ra vs 20:00 11/06/2026",
-          "tournament": "Second League A - Division A Silver",
-          "logo_nha": "https://media.api-sports.io/football/teams/6796.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2005.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/6796.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b343023afe5d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b343023afe5d",
-                  "name": "Dinamo Stavropol vs Zenit 2",
-                  "streams": [
-                    {
-                      "id": "kaytee-b343023afe5d",
-                      "name": "F",
-                      "stream_links": []
                     }
                   ]
                 }
@@ -478,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-a6f45487f86c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d3b88c3e81c8",
+          "name": "⚽ Suwon Fmc vs Gumi Sportstoto W | Sắp diễn ra vs 17:00 12/06/2026",
+          "tournament": "WK-League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Suwon_FC_2016.svg/1280px-Suwon_FC_2016.svg.png",
+          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9wP95xQE7Y3gaGPvkt2WAacKfJgoGKVuT4w&s",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Suwon_FC_2016.svg/1280px-Suwon_FC_2016.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d3b88c3e81c8",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d3b88c3e81c8",
+                  "name": "Suwon Fmc vs Gumi Sportstoto W",
+                  "streams": [
+                    {
+                      "id": "kaytee-d3b88c3e81c8",
                       "name": "F",
                       "stream_links": []
                     }
