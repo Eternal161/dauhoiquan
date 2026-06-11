@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:01 12/06/2026",
+  "last_updated": "02:11 12/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a9161b21d2c4",
-          "name": "⚽ Mexico vs South Africa | Sắp bắt đầu - null' 0 - 0 02:00 12/06/2026",
+          "name": "⚽ Mexico vs South Africa | Live 0 - 0 02:00 12/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7705a93f82",
+                          "id": "lnk-b91160caa2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwn3gr4nhct1gwzdrc3afa4dqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=9ad8cb701a86c72ab13b8887-178120447021057&wsIPSercert=2b6f9416243ff4eac7e1fc2169fd9adb&wsBindIP=2&wsserid=1172608806928256405"
+                          "url": "https://tfwn0grzdkpbqgrzdncbtfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0ea239425b2dbc51cd326081-178120511628196&wsIPSercert=bf85c0add04b6eaeef9c52d2f2a1ed85&wsBindIP=2&wsserid=1168269799861013811"
                         },
                         {
-                          "id": "lnk-3d9331fac3",
+                          "id": "lnk-26fcd7c65a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
