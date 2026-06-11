@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:20 11/06/2026",
+  "last_updated": "22:31 11/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bde49330d7",
+                          "id": "lnk-7ad08914ae",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -99,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-46bfba4733",
+                          "id": "lnk-08f2bd8d01",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwn0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=fc387c98748ade8f54f1ef90-178119127677468&wsIPSercert=171ac4e7f1bd7b3345d9ca6190ac850a&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwn0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178119189369890&wsIPSercert=fd5b9f3e07680f4b3933c8f8d5fc355b&wsBindIP=2&wsserid=1168231589572867007"
                         },
                         {
-                          "id": "lnk-da7112f4b3",
+                          "id": "lnk-2c4f5155a2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -122,7 +122,7 @@
         },
         {
           "id": "kaytee-50ee377ef9ab",
-          "name": "⚽ Elva vs Maardu | Sắp diễn ra vs 23:00 11/06/2026",
+          "name": "⚽ Elva vs Maardu | Sắp bắt đầu - null' 0 - 0 23:00 11/06/2026",
           "tournament": "Esiliiga A",
           "logo_nha": "https://media.api-sports.io/football/teams/3516.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3527.png",
@@ -139,10 +139,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -157,7 +157,22 @@
                     {
                       "id": "kaytee-50ee377ef9ab",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-40479474a1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwn0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0e049b26c5ec10b00ed2fc6c-178119190281362&wsIPSercert=fd5b9f3e07680f4b3933c8f8d5fc355b&wsBindIP=2&wsserid=1168283323302724409"
+                        },
+                        {
+                          "id": "lnk-7921f9b432",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
