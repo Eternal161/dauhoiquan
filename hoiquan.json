@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:50 12/06/2026",
+  "last_updated": "02:01 12/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-ef1fe2f24f25",
-          "name": "⚽ Portugal U20 vs Canada U20 | H2 - 90+1' 6 - 1 00:00 12/06/2026",
-          "tournament": "Tournoi Maurice Revello",
-          "logo_nha": "https://media.api-sports.io/football/teams/10299.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/10992.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10299.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ef1fe2f24f25",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ef1fe2f24f25",
-                  "name": "Portugal U20 vs Canada U20",
-                  "streams": [
-                    {
-                      "id": "kaytee-ef1fe2f24f25",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3fb6e24d39",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwn0grzdkpbqgrzdncbtfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=5d4b6723774757b92452d810-178120386671876&wsIPSercert=81f232f54a4179233fd9a57d815a5bef&wsBindIP=2&wsserid=1168269799864159653"
-                        },
-                        {
-                          "id": "lnk-ddf52b6ab3",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-a9161b21d2c4",
           "name": "⚽ Mexico vs South Africa | Sắp bắt đầu - null' 0 - 0 02:00 12/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7098305fb8",
+                          "id": "lnk-7705a93f82",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwn0grzdkpbqgrzdncbtfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e649eacd089953d12081af01-178120387502085&wsIPSercert=81f232f54a4179233fd9a57d815a5bef&wsBindIP=2&wsserid=1168269799855770760"
+                          "url": "https://tfwn3gr4nhct1gwzdrc3afa4dqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=9ad8cb701a86c72ab13b8887-178120447021057&wsIPSercert=2b6f9416243ff4eac7e1fc2169fd9adb&wsBindIP=2&wsserid=1172608806928256405"
                         },
                         {
-                          "id": "lnk-11febc05da",
+                          "id": "lnk-3d9331fac3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-9c2d07270903",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-5fc86661dbc0",
+          "name": "⚽ Atletico Goianiense vs Crb | Sắp diễn ra vs 05:00 13/06/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/144.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/146.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/144.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-5fc86661dbc0",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-5fc86661dbc0",
+                  "name": "Atletico Goianiense vs Crb",
+                  "streams": [
+                    {
+                      "id": "kaytee-5fc86661dbc0",
                       "name": "F",
                       "stream_links": []
                     }
