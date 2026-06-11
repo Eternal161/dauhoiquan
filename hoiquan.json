@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:30 11/06/2026",
+  "last_updated": "07:40 11/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-86db4a10c951",
-          "name": "⚽ Goias vs Novorizontino | H2 - 69' 0 - 2 06:00 11/06/2026",
+          "name": "⚽ Goias vs Novorizontino | H2 - 79' 0 - 4 06:00 11/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdA4dVwq19DxdhyjbUAo3wM3GSIMHaPl3tLg&s",
           "logo_khach": "https://media.api-sports.io/football/teams/7834.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9f206f5960",
+                          "id": "lnk-a7f0bbaeba",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwn1gr3uomttgr31hctwfa3dyc3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=2d364de4a1c7f9de47110745-178113785558471&wsIPSercert=3aa9d9bcc3ab80053a0091fffcd8bc7e&wsBindIP=2&wsserid=1177055146896570971"
+                          "url": "https://tfwn0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178113845272479&wsIPSercert=9f446f7926b04f05a196cb41adaf7b2d&wsBindIP=2&wsserid=1168283476093891044"
                         },
                         {
-                          "id": "lnk-94184320af",
+                          "id": "lnk-a681683966",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
