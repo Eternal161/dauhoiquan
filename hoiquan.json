@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:01 12/06/2026",
+  "last_updated": "04:11 12/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-a9161b21d2c4",
-          "name": "⚽ Mexico vs South Africa | H2 - 90+4' 2 - 0 02:00 12/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a9161b21d2c4",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a9161b21d2c4",
-                  "name": "Mexico vs South Africa",
-                  "streams": [
-                    {
-                      "id": "kaytee-a9161b21d2c4",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6f08a7ac7f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwn3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b93726b0c644658cca80b5c8-178121167721330&wsIPSercert=80c201eee500d3e483248fdef6382622&wsBindIP=2&wsserid=1168239733746099117"
-                        },
-                        {
-                          "id": "lnk-a0c051c165",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-a6f45487f86c",
           "name": "⚽ South Korea vs Czech Republic | Sắp diễn ra vs 09:00 12/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-5fc86661dbc0",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-881a064f335f",
+          "name": "⚽ A. Italiano vs D. La Serena | Sắp diễn ra vs 07:00 13/06/2026",
+          "tournament": "Primera División",
+          "logo_nha": "https://media.api-sports.io/football/teams/2329.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2341.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2329.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-881a064f335f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-881a064f335f",
+                  "name": "A. Italiano vs D. La Serena",
+                  "streams": [
+                    {
+                      "id": "kaytee-881a064f335f",
                       "name": "F",
                       "stream_links": []
                     }
