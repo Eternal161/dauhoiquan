@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:20 12/06/2026",
+  "last_updated": "03:30 12/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a9161b21d2c4",
-          "name": "⚽ Mexico vs South Africa | H2 - 54' 1 - 0 02:00 12/06/2026",
+          "name": "⚽ Mexico vs South Africa | H2 - 64' 1 - 0 02:00 12/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -44,22 +44,7 @@
                     {
                       "id": "kaytee-a9161b21d2c4",
                       "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0da68d1a04",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwn3gr4nhct1gwzdrc3afa4dqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=bc0526004fe64444895c0d24-178120925933707&wsIPSercert=1ae4a28ed16820d910ddc216cf9820c1&wsBindIP=2&wsserid=1172608807398018768"
-                        },
-                        {
-                          "id": "lnk-3d64e4ea99",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
