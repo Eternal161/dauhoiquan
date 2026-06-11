@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:30 11/06/2026",
+  "last_updated": "11:40 11/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-d44c0a4a4e1a",
-          "name": "⚽ Phoenix Rising vs Louisville City | Live 0 - 0 09:30 11/06/2026",
-          "tournament": "USL Championship",
-          "logo_nha": "https://media.api-sports.io/football/teams/4009.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/4000.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/4009.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-d44c0a4a4e1a",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-d44c0a4a4e1a",
-                  "name": "Phoenix Rising vs Louisville City",
-                  "streams": [
-                    {
-                      "id": "kaytee-d44c0a4a4e1a",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bb0cdb7614",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwn0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178115226002301&wsIPSercert=d41889192340d04662156cf8d38e00a7&wsBindIP=2&wsserid=1168283476093891044"
-                        },
-                        {
-                          "id": "lnk-f8c1312ea4",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-f0a6039b8e08",
           "name": "⚽ Thailand U19 vs Cambodia U19 | Sắp diễn ra vs 16:00 11/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-a9161b21d2c4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a6f45487f86c",
+          "name": "⚽ South Korea vs Czech Republic | Sắp diễn ra vs 09:00 12/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/1728.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/770.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1728.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a6f45487f86c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a6f45487f86c",
+                  "name": "South Korea vs Czech Republic",
+                  "streams": [
+                    {
+                      "id": "kaytee-a6f45487f86c",
                       "name": "F",
                       "stream_links": []
                     }
