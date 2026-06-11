@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:30 11/06/2026",
+  "last_updated": "23:40 11/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-2131fb60e1bb",
-          "name": "⚽ Indonesia U19 vs Australia U19 | Live 0 - 0 20:15 11/06/2026",
-          "tournament": "ASEAN Championship U19",
-          "logo_nha": "https://media.api-sports.io/football/teams/19149.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/22591.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/19149.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-2131fb60e1bb",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-2131fb60e1bb",
-                  "name": "Indonesia U19 vs Australia U19",
-                  "streams": [
-                    {
-                      "id": "kaytee-2131fb60e1bb",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d6a523bd72",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-5c6791563dfc",
-          "name": "⚽ Tampere United vs Ols | Giữa Hiệp - 45' 2 - 0 22:30 11/06/2026",
+          "name": "⚽ Tampere United vs Ols | H2 - 54' 2 - 0 22:30 11/06/2026",
           "tournament": "Ykkönen",
           "logo_nha": "https://media.api-sports.io/football/teams/9190.png",
           "logo_khach": "https://media.api-sports.io/football/teams/9195.png",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-74c6d5564c",
+                          "id": "lnk-37d8da8f86",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwn1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=94245d5293b2ddbce4bab474-178119547745462&wsIPSercert=fdad694d3337bc1d1c000486c785e057&wsBindIP=2&wsserid=1168176581102008440"
+                          "url": "https://tfwn0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178119606783890&wsIPSercert=75ec5d2fdc546209fc36042366707fbd&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-6cca54f295",
+                          "id": "lnk-cd93f4eadd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -122,7 +69,7 @@
         },
         {
           "id": "kaytee-50ee377ef9ab",
-          "name": "⚽ Elva vs Maardu | H1 - 30' 1 - 2 23:00 11/06/2026",
+          "name": "⚽ Elva vs Maardu | H1 - 40' 1 - 2 23:00 11/06/2026",
           "tournament": "Esiliiga A",
           "logo_nha": "https://media.api-sports.io/football/teams/3516.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3527.png",
@@ -159,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-132d3a7966",
+                          "id": "lnk-497117219f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwn0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fc387c98748ade8f54f1ef90-178119549112872&wsIPSercert=fdad694d3337bc1d1c000486c785e057&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwn0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=00489e5fa24fa852f6673a81-178119607661067&wsIPSercert=75ec5d2fdc546209fc36042366707fbd&wsBindIP=2&wsserid=1168231589574964209"
                         },
                         {
-                          "id": "lnk-d24034f11d",
+                          "id": "lnk-dac09f7dd0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -219,14 +166,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0aad4616eb",
+                          "id": "lnk-20e2b1bb84",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwn0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fc387c98748ade8f54f1ef90-178119549914483&wsIPSercert=fdad694d3337bc1d1c000486c785e057&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwn0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=6a4094de2f01003befc3243a-178119608531407&wsIPSercert=75ec5d2fdc546209fc36042366707fbd&wsBindIP=2&wsserid=1168231589578109987"
                         },
                         {
-                          "id": "lnk-0f8cbc7af1",
+                          "id": "lnk-1cb558a007",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -242,7 +189,7 @@
         },
         {
           "id": "kaytee-ef1fe2f24f25",
-          "name": "⚽ Portugal U20 vs Canada U20 | Sắp diễn ra vs 00:00 12/06/2026",
+          "name": "⚽ Portugal U20 vs Canada U20 | Sắp bắt đầu - null' 0 - 0 00:00 12/06/2026",
           "tournament": "Tournoi Maurice Revello",
           "logo_nha": "https://media.api-sports.io/football/teams/10299.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10992.png",
@@ -259,10 +206,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -277,7 +224,22 @@
                     {
                       "id": "kaytee-ef1fe2f24f25",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-0210db4e10",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwn0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178119609338497&wsIPSercert=75ec5d2fdc546209fc36042366707fbd&wsBindIP=2&wsserid=1168231785641135723"
+                        },
+                        {
+                          "id": "lnk-5e58fb8816",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -501,6 +463,51 @@
                   "streams": [
                     {
                       "id": "kaytee-c1bf68461ef3",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-45a14c18387b",
+          "name": "⚽ Ekibastuz vs Arys | Sắp diễn ra vs 19:00 12/06/2026",
+          "tournament": "1. Division",
+          "logo_nha": "https://media.api-sports.io/football/teams/4551.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10414.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4551.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-45a14c18387b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-45a14c18387b",
+                  "name": "Ekibastuz vs Arys",
+                  "streams": [
+                    {
+                      "id": "kaytee-45a14c18387b",
                       "name": "F",
                       "stream_links": []
                     }
