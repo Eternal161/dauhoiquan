@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:20 11/06/2026",
+  "last_updated": "18:30 11/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-d4858c21539a",
-          "name": "⚽ Nam Dinh vs Ho Chi Minh | H1 - 20' 0 - 1 18:00 11/06/2026",
+          "name": "⚽ Nam Dinh vs Ho Chi Minh | H1 - 30' 0 - 2 18:00 11/06/2026",
           "tournament": "Cúp quốc gia Việt Nam",
           "logo_nha": "https://media.api-sports.io/football/teams/3674.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/4/47/Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg/250px-Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d67c433f00",
+                          "id": "lnk-bcb135f62a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwn0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178117685330050&wsIPSercert=c718deaea1cf570894439287095a7db7&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwn0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178117746471139&wsIPSercert=6612f2e3db5a4b1f06b7a7ef3e2fce0d&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-88b1774ec5",
+                          "id": "lnk-f3b8cee529",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-260b03ee3131",
-          "name": "⚽ Ninh Bình vs Viettel | H1 - 21' 1 - 0 18:00 11/06/2026",
+          "name": "⚽ Ninh Bình vs Viettel | H1 - 31' 1 - 0 18:00 11/06/2026",
           "tournament": "Cúp quốc gia Việt Nam",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/d1/Viettel_FC_2021.svg",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-158c5cec3f",
+                          "id": "lnk-a36943aade",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwn0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=56d2bb5a325c7a8bfd1440f3-178117686198433&wsIPSercert=c718deaea1cf570894439287095a7db7&wsBindIP=2&wsserid=1168283323207303220"
+                          "url": "https://tfwn0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2bcac8c59898b1e728264dd4-178117747302963&wsIPSercert=6612f2e3db5a4b1f06b7a7ef3e2fce0d&wsBindIP=2&wsserid=1168202333420231774"
                         },
                         {
-                          "id": "lnk-ae241350a2",
+                          "id": "lnk-9257fbf034",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
