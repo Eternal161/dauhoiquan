@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:01 12/06/2026",
+  "last_updated": "01:10 12/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d0f5676c1b",
+                          "id": "lnk-922404b5d2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwn3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fcf1d3180b6c9d5e74948e4a-178120089503663&wsIPSercert=076c0efaac683c30d0a1f4af6458169b&wsBindIP=2&wsserid=1168239733243780912"
+                          "url": "https://tfwn1grzdkpbqgrzd1pjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=aca4534f605db40845917ef5-178120145697928&wsIPSercert=28f755f3781b6c1bae9ba30c64bada77&wsBindIP=2&wsserid=1172662689755987508"
                         },
                         {
-                          "id": "lnk-b660e63676",
+                          "id": "lnk-ea3835893a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-ef1fe2f24f25",
-          "name": "⚽ Portugal U20 vs Canada U20 | Giữa Hiệp - 45+3' 3 - 0 00:00 12/06/2026",
+          "name": "⚽ Portugal U20 vs Canada U20 | H2 - 51' 3 - 0 00:00 12/06/2026",
           "tournament": "Tournoi Maurice Revello",
           "logo_nha": "https://media.api-sports.io/football/teams/10299.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10992.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f221baaa0b",
+                          "id": "lnk-1cdc6c75ae",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwn3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=fcf1d3180b6c9d5e74948e4a-178120090306239&wsIPSercert=076c0efaac683c30d0a1f4af6458169b&wsBindIP=2&wsserid=1168239733243780912"
+                          "url": "https://tfwn1grzdkpbqgrzd1pjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e1995c469b11225a1e1fc2fc-178120146517522&wsIPSercert=28f755f3781b6c1bae9ba30c64bada77&wsBindIP=2&wsserid=1172662689752841678"
                         },
                         {
-                          "id": "lnk-83e7364bae",
+                          "id": "lnk-bd65fa7f30",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-a9161b21d2c4",
-          "name": "⚽ Mexico vs South Africa | Sắp diễn ra vs 02:00 12/06/2026",
+          "name": "⚽ Mexico vs South Africa | Sắp bắt đầu - null' 0 - 0 02:00 12/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-a9161b21d2c4",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-be4b159f85",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwn1grzdkpbqgrzd1pjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e1995c469b11225a1e1fc2fc-178120147367580&wsIPSercert=28f755f3781b6c1bae9ba30c64bada77&wsBindIP=2&wsserid=1172662689752841678"
+                        },
+                        {
+                          "id": "lnk-e35b3cef1b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
