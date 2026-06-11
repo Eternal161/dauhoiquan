@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:20 11/06/2026",
+  "last_updated": "09:30 11/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-d44c0a4a4e1a",
-          "name": "⚽ Phoenix Rising vs Louisville City | Sắp bắt đầu - null' 0 - 0 09:30 11/06/2026",
+          "name": "⚽ Phoenix Rising vs Louisville City | Live 0 - 0 09:30 11/06/2026",
           "tournament": "USL Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/4009.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4000.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -44,15 +44,7 @@
                     {
                       "id": "kaytee-d44c0a4a4e1a",
                       "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f9001f60e9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
