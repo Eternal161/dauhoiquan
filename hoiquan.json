@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:01 11/06/2026",
+  "last_updated": "22:10 11/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5ddc9b858f",
+                          "id": "lnk-b8087444cb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwn0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=fc387c98748ade8f54f1ef90-178119008099675&wsIPSercert=f4b6a5ac6b57347e6326fad93b48d369&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwn1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f64ed1182ed1d47a38e6ed7e-178119065776263&wsIPSercert=fc584b5e8f968931a88f895274de3088&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-a2edc09c89",
+                          "id": "lnk-c369d26ef1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-5c6791563dfc",
-          "name": "⚽ Tampere United vs Ols | Sắp diễn ra vs 22:30 11/06/2026",
+          "name": "⚽ Tampere United vs Ols | Sắp bắt đầu - null' 0 - 0 22:30 11/06/2026",
           "tournament": "Ykkönen",
           "logo_nha": "https://media.api-sports.io/football/teams/9190.png",
           "logo_khach": "https://media.api-sports.io/football/teams/9195.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-5c6791563dfc",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-af08eb75c6",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwn1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=94245d5293b2ddbce4bab474-178119066636146&wsIPSercert=fc584b5e8f968931a88f895274de3088&wsBindIP=2&wsserid=1168176581102008440"
+                        },
+                        {
+                          "id": "lnk-e7e39068d8",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
