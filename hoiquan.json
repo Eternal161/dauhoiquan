@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:00 11/06/2026",
+  "last_updated": "08:10 11/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-86db4a10c951",
-          "name": "⚽ Goias vs Novorizontino | H2 - 90+4' 0 - 4 06:00 11/06/2026",
-          "tournament": "Serie B",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdA4dVwq19DxdhyjbUAo3wM3GSIMHaPl3tLg&s",
-          "logo_khach": "https://media.api-sports.io/football/teams/7834.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdA4dVwq19DxdhyjbUAo3wM3GSIMHaPl3tLg&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-86db4a10c951",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-86db4a10c951",
-                  "name": "Goias vs Novorizontino",
-                  "streams": [
-                    {
-                      "id": "kaytee-86db4a10c951",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-175e91bb93",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-d44c0a4a4e1a",
           "name": "⚽ Phoenix Rising vs Louisville City | Sắp diễn ra vs 09:30 11/06/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-057ff9d27872",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a9161b21d2c4",
+          "name": "⚽ Mexico vs South Africa | Sắp diễn ra vs 02:00 12/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a9161b21d2c4",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a9161b21d2c4",
+                  "name": "Mexico vs South Africa",
+                  "streams": [
+                    {
+                      "id": "kaytee-a9161b21d2c4",
                       "name": "F",
                       "stream_links": []
                     }
