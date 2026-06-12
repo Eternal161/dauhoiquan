@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:01 12/06/2026",
+  "last_updated": "23:10 12/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-7b4f2840460f",
-          "name": "⚽ Fc Isloch Minsk R. vs Naftan | H2 - 90+4' 3 - 1 21:00 12/06/2026",
-          "tournament": "VĐQG Belarus",
-          "logo_nha": "https://media.api-sports.io/football/teams/391.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/750.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/391.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-7b4f2840460f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-7b4f2840460f",
-                  "name": "Fc Isloch Minsk R. vs Naftan",
-                  "streams": [
-                    {
-                      "id": "kaytee-7b4f2840460f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2b0e95f8cd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-f786440561ef",
-          "name": "⚽ Belshina vs Bate Borisov | H1 - 1' 0 - 0 23:00 12/06/2026",
+          "name": "⚽ Belshina vs Bate Borisov | H1 - 11' 0 - 0 23:00 12/06/2026",
           "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/3384.png",
           "logo_khach": "https://media.api-sports.io/football/teams/388.png",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c0f32bfa8c",
+                          "id": "lnk-086a896889",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo1gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=de40530e31dc965cd08ee763-178128008552816&wsIPSercert=2f6a724c0c529184c7537fd88f3bad5e&wsBindIP=2&wsserid=1168243256623223254"
+                          "url": "https://tfwo1gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=de40530e31dc965cd08ee763-178128066434282&wsIPSercert=1261627c88b793b5bd7bc09d44f1d487&wsBindIP=2&wsserid=1168243256623223254"
                         },
                         {
-                          "id": "lnk-4fd855e655",
+                          "id": "lnk-dd5d1517fe",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-6df4fbeebcf8",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b8ab879977cc",
+          "name": "⚽ Hebei Kungfu vs Suzhou Dongwu | Sắp diễn ra vs 18:30 13/06/2026",
+          "tournament": "League One",
+          "logo_nha": "https://media.api-sports.io/football/teams/17264.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/5688.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/17264.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b8ab879977cc",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b8ab879977cc",
+                  "name": "Hebei Kungfu vs Suzhou Dongwu",
+                  "streams": [
+                    {
+                      "id": "kaytee-b8ab879977cc",
                       "name": "F",
                       "stream_links": []
                     }
