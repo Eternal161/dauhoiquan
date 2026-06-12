@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:10 12/06/2026",
+  "last_updated": "20:21 12/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-63eee8614b",
+                          "id": "lnk-b056c1e817",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178126985263748&wsIPSercert=1f65f471137edae5b2d1cda6fdeae45c&wsBindIP=2&wsserid=1168283323406534424"
-                        },
-                        {
-                          "id": "lnk-e2f2be0a39",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
                         }
                       ]
@@ -69,7 +62,7 @@
         },
         {
           "id": "kaytee-07050d690b58",
-          "name": "⚽ Ekibastuz vs Arys | H2 - 53' 0 - 0 19:00 12/06/2026",
+          "name": "⚽ Ekibastuz vs Arys | H2 - 64' 0 - 0 19:00 12/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/4551.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10414.png",
@@ -106,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ab874cc834",
+                          "id": "lnk-8c6ae07ec1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=56d2bb5a325c7a8bfd1440f3-178126986099650&wsIPSercert=1f65f471137edae5b2d1cda6fdeae45c&wsBindIP=2&wsserid=1168283323207303220"
+                          "url": "https://tfwo1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=56d2bb5a325c7a8bfd1440f3-178127048309874&wsIPSercert=7102952353ce68b5d22eff6a164e7be2&wsBindIP=2&wsserid=1168283323207303220"
                         },
                         {
-                          "id": "lnk-f9aca9307f",
+                          "id": "lnk-478d1866b6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
