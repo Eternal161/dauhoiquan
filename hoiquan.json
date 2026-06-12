@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:11 13/06/2026",
+  "last_updated": "03:21 13/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-9c2d07270903",
-          "name": "⚽ Canada vs Bosnia & Herzegovina | H2 - 50' 0 - 1 02:00 13/06/2026",
+          "name": "⚽ Canada vs Bosnia & Herzegovina | H2 - 60' 0 - 1 02:00 13/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/1113.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f7ce1cf14e",
+                          "id": "lnk-acea5b3c33",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo4grauqmtofaauqmt1gyan44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=21b83b2aa5ee3f6d24797b8b-178129510258296&wsIPSercert=485cacfae60c019afc502638cf9f6166&wsBindIP=2&wsserid=1168235948349548660"
+                          "url": "https://tfwo1gwhnhcjagazdnqbafaauecjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=76d0100332f194d3c245c00c-178129567617639&wsIPSercert=bbb8568d9e72802208dfb2325441967f&wsBindIP=2&wsserid=1168159941862548106"
                         },
                         {
-                          "id": "lnk-10893d166a",
+                          "id": "lnk-eac5ad494b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
