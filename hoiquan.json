@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:30 12/06/2026",
+  "last_updated": "20:41 12/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-07050d690b58",
-          "name": "⚽ Ekibastuz vs Arys | H2 - 73' 0 - 0 19:00 12/06/2026",
+          "name": "⚽ Ekibastuz vs Arys | H2 - 84' 0 - 0 19:00 12/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/4551.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10414.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fbe27792de",
+                          "id": "lnk-8e10bd4297",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo3gr3uomttgr31hctsfa3dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178127106497642&wsIPSercert=11b9697114c7e72c04b3c7a5f0b4c6a2&wsBindIP=2&wsserid=1168056276210707857"
+                          "url": "https://tfwo1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=56d2bb5a325c7a8bfd1440f3-178127168244523&wsIPSercert=ae24d2cf3b0edade259f1a8b07853e68&wsBindIP=2&wsserid=1168283323207303220"
                         },
                         {
-                          "id": "lnk-7b72f23ad4",
+                          "id": "lnk-d795fde72e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-7b4f2840460f",
-          "name": "⚽ Fc Isloch Minsk R. vs Naftan | Sắp diễn ra vs 21:00 12/06/2026",
+          "name": "⚽ Fc Isloch Minsk R. vs Naftan | Sắp bắt đầu - null' 0 - 0 21:00 12/06/2026",
           "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/391.png",
           "logo_khach": "https://media.api-sports.io/football/teams/750.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,15 @@
                     {
                       "id": "kaytee-7b4f2840460f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-68a7c4c803",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
