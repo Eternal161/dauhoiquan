@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:20 12/06/2026",
+  "last_updated": "23:31 12/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-f786440561ef",
-          "name": "⚽ Belshina vs Bate Borisov | H1 - 21' 0 - 0 23:00 12/06/2026",
+          "name": "⚽ Belshina vs Bate Borisov | Live 0 - 0 23:00 12/06/2026",
           "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/3384.png",
           "logo_khach": "https://media.api-sports.io/football/teams/388.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9e029d7d5a",
+                          "id": "lnk-9621f237ff",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178128125802032&wsIPSercert=f707b8f892dd63bccf83d6a2e9540568&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfwo4gchnhcjo8rzdrpjtfahn47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=1a7e779dd8ced2edf73e23dc-178128187517135&wsIPSercert=d092fc730a8d33682b263e533bb79a33&wsBindIP=2&wsserid=1168235283031012122"
                         },
                         {
-                          "id": "lnk-90ed6b63c8",
+                          "id": "lnk-93d05062b0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
