@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:00 12/06/2026",
+  "last_updated": "17:10 12/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-939c043e91ba",
-          "name": "⚽ Suwon Fmc vs Gumi Sportstoto W | Sắp bắt đầu - null' 0 - 0 17:00 12/06/2026",
+          "name": "⚽ Suwon Fmc vs Gumi Sportstoto W | H1 - 10' 0 - 0 17:00 12/06/2026",
           "tournament": "WK-League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Suwon_FC_2016.svg/1280px-Suwon_FC_2016.svg.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9wP95xQE7Y3gaGPvkt2WAacKfJgoGKVuT4w&s",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c62b84541c",
+                          "id": "lnk-56ab489e5f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178125846392650&wsIPSercert=27244c5ba61d7e9ddb36e1eccbd82f5b&wsBindIP=2&wsserid=1168231589572867007"
+                          "url": "https://tfwo0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178125905399221&wsIPSercert=e0bf753f84934d62ff4ad30b0654e19d&wsBindIP=2&wsserid=1168231589572867007"
                         },
                         {
-                          "id": "lnk-d3559902f0",
+                          "id": "lnk-d9d1e91c99",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7bfef6518a",
+                          "id": "lnk-f5b8266833",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178125847283622&wsIPSercert=27244c5ba61d7e9ddb36e1eccbd82f5b&wsBindIP=2&wsserid=1168231785641135723"
+                          "url": "https://tfwo0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178125906254595&wsIPSercert=e0bf753f84934d62ff4ad30b0654e19d&wsBindIP=2&wsserid=1168231785641135723"
                         },
                         {
-                          "id": "lnk-9b70973369",
+                          "id": "lnk-69f61b9869",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
