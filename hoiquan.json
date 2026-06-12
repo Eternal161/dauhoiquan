@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:50 12/06/2026",
+  "last_updated": "11:01 12/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-a6f45487f86c",
-          "name": "⚽ South Korea vs Czech Republic | Live 0 - 0 09:00 12/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/1728.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/770.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1728.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a6f45487f86c",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a6f45487f86c",
-                  "name": "South Korea vs Czech Republic",
-                  "streams": [
-                    {
-                      "id": "kaytee-a6f45487f86c",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5b05236aa4",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwo3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fcf1d3180b6c9d5e74948e4a-178123625865217&wsIPSercert=550c7d300d6c80a8a80ebf0c7ffa9234&wsBindIP=2&wsserid=1168239733243780912"
-                        },
-                        {
-                          "id": "lnk-d43d5ab87d",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-d3b88c3e81c8",
           "name": "⚽ Suwon Fmc vs Gumi Sportstoto W | Sắp diễn ra vs 17:00 12/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-881a064f335f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-4fcc7fc0b3fd",
+          "name": "⚽ Usa vs Paraguay | Sắp diễn ra vs 08:00 13/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2384.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4fcc7fc0b3fd",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4fcc7fc0b3fd",
+                  "name": "Usa vs Paraguay",
+                  "streams": [
+                    {
+                      "id": "kaytee-4fcc7fc0b3fd",
                       "name": "F",
                       "stream_links": []
                     }
