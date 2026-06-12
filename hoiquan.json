@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:20 12/06/2026",
+  "last_updated": "22:30 12/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-7b4f2840460f",
-          "name": "⚽ Fc Isloch Minsk R. vs Naftan | H2 - 63' 3 - 0 21:00 12/06/2026",
+          "name": "⚽ Fc Isloch Minsk R. vs Naftan | H2 - 73' 3 - 0 21:00 12/06/2026",
           "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/391.png",
           "logo_khach": "https://media.api-sports.io/football/teams/750.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1f33353bc1",
+                          "id": "lnk-00f81e7cea",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=706d286fa60d1f2a8282d305-178127765526631&wsIPSercert=0a4e0ed6c8db5477265b7fedee67dc4f&wsBindIP=2&wsserid=1168243256667264290"
+                          "url": "https://tfwo0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178127826431745&wsIPSercert=be1b56d1f775d204be5c8af541474867&wsBindIP=2&wsserid=1168231785641135723"
                         },
                         {
-                          "id": "lnk-7e411665c1",
+                          "id": "lnk-904f240b47",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
