@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:30 13/06/2026",
+  "last_updated": "01:40 13/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-9c2d07270903",
-          "name": "⚽ Canada vs Bosnia & Herzegovina | Live 0 - 0 02:00 13/06/2026",
+          "name": "⚽ Canada vs Bosnia & Herzegovina | Sắp bắt đầu - null' 0 - 0 02:00 13/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/1113.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8446730d7b",
+                          "id": "lnk-dd0408168c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo6grauqmtofaauomtzgessohmcpf5gkmu3cf3gha5rpazga4mscw.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=cb799a1fbfcd290de7a79916-178128906566582&wsIPSercert=4cc848b913e4cc128384f83a111edc77&wsBindIP=2&wsserid=1168235375202971420"
+                          "url": "https://tfwo1gwhnhcjagazdnqbafaauecjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=76d0100332f194d3c245c00c-178128966540556&wsIPSercert=ceffbedaac4dd0328ed60b4ad2024768&wsBindIP=2&wsserid=1168159941862548106"
                         },
                         {
-                          "id": "lnk-64f77481f0",
+                          "id": "lnk-bb7cbd7b63",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -293,6 +293,51 @@
           ]
         },
         {
+          "id": "kaytee-ecd4a9532f1f",
+          "name": "⚽ Cambodia U19 vs Indonesia U19 | Sắp diễn ra vs 16:00 13/06/2026",
+          "tournament": "ASEAN Championship U19",
+          "logo_nha": "https://media.api-sports.io/football/teams/19148.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/19149.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/19148.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-ecd4a9532f1f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-ecd4a9532f1f",
+                  "name": "Cambodia U19 vs Indonesia U19",
+                  "streams": [
+                    {
+                      "id": "kaytee-ecd4a9532f1f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-084c45558454",
           "name": "⚽ Laagri vs Kuressaare | Sắp diễn ra vs 16:30 13/06/2026",
           "tournament": "Meistriliiga",
@@ -418,51 +463,6 @@
                   "streams": [
                     {
                       "id": "kaytee-b8ab879977cc",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-cbbde09316ad",
-          "name": "⚽ Inter Turku vs Ac Oulu | Sắp diễn ra vs 19:00 13/06/2026",
-          "tournament": "Veikkausliiga",
-          "logo_nha": "https://media.api-sports.io/football/teams/1164.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2077.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1164.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-cbbde09316ad",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-cbbde09316ad",
-                  "name": "Inter Turku vs Ac Oulu",
-                  "streams": [
-                    {
-                      "id": "kaytee-cbbde09316ad",
                       "name": "F",
                       "stream_links": []
                     }
