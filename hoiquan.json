@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:50 13/06/2026",
+  "last_updated": "01:00 13/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-f786440561ef",
-          "name": "⚽ Belshina vs Bate Borisov | H2 - 90' 1 - 1 23:00 12/06/2026",
-          "tournament": "VĐQG Belarus",
-          "logo_nha": "https://media.api-sports.io/football/teams/3384.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/388.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/3384.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f786440561ef",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f786440561ef",
-                  "name": "Belshina vs Bate Borisov",
-                  "streams": [
-                    {
-                      "id": "kaytee-f786440561ef",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-45a90fe1bf",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwo6grauqmtofaauomts8ysze3dcpf5gkmu3cf3gha5rpazga4mscw.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0d4c3759a7255627883b4d91-178128666978717&wsIPSercert=82059b06ae4ba75224f9d454070d592a&wsBindIP=2&wsserid=1168235375215554582"
-                        },
-                        {
-                          "id": "lnk-ed5aeba887",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-e3154e4e6763",
           "name": "⚽ Khai Mạc Wc vs Khai Mạc Wc | Live 0 - 0 00:30 13/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bdf58e1d9a",
+                          "id": "lnk-81f31c9de5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo6grauqmtofaauomts8yssohmcpf5gkmu3cf3gha5rpazga4mscw.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=0b275eec23c58ad63a30118d-178128667845306&wsIPSercert=82059b06ae4ba75224f9d454070d592a&wsBindIP=2&wsserid=1168235375259595680"
+                          "url": "https://tfwo1gwhnhcjagazdnqbafaauecjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=ab1728d73a83f30175dcad29-178128726826540&wsIPSercert=94e869fbb37a2efcbf21441a200f1727&wsBindIP=2&wsserid=1168159941864645324"
                         },
                         {
-                          "id": "lnk-57ba63e5ff",
+                          "id": "lnk-7b6030420f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-b8ab879977cc",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-cbbde09316ad",
+          "name": "⚽ Inter Turku vs Ac Oulu | Sắp diễn ra vs 19:00 13/06/2026",
+          "tournament": "Veikkausliiga",
+          "logo_nha": "https://media.api-sports.io/football/teams/1164.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2077.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1164.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-cbbde09316ad",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-cbbde09316ad",
+                  "name": "Inter Turku vs Ac Oulu",
+                  "streams": [
+                    {
+                      "id": "kaytee-cbbde09316ad",
                       "name": "F",
                       "stream_links": []
                     }
