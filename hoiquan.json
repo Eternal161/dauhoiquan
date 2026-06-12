@@ -1,12 +1,493 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:20 12/06/2026",
+  "last_updated": "17:30 12/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
-      "channels": []
+      "channels": [
+        {
+          "id": "kaytee-939c043e91ba",
+          "name": "⚽ Suwon Fmc vs Gumi Sportstoto W | H1 - 29' 1 - 0 17:00 12/06/2026",
+          "tournament": "WK-League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Suwon_FC_2016.svg/1280px-Suwon_FC_2016.svg.png",
+          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9wP95xQE7Y3gaGPvkt2WAacKfJgoGKVuT4w&s",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Suwon_FC_2016.svg/1280px-Suwon_FC_2016.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-939c043e91ba",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-939c043e91ba",
+                  "name": "Suwon Fmc vs Gumi Sportstoto W",
+                  "streams": [
+                    {
+                      "id": "kaytee-939c043e91ba",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0329efa611",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwo4gchnhcjo8rzdrpjtfahn47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=1a7e779dd8ced2edf73e23dc-178126025512369&wsIPSercert=43807eda3f834ba93c3de9366ea9c954&wsBindIP=2&wsserid=1168235283031012122"
+                        },
+                        {
+                          "id": "lnk-6235ac8fbe",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-7d4310f44e7f",
+          "name": "⚽ Eastern United vs Adelaide Olympic | H1 - 6' 0 - 0 17:15 12/06/2026",
+          "tournament": "South Australia State League 1",
+          "logo_nha": "https://media.api-sports.io/football/teams/16766.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3787.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/16766.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-7d4310f44e7f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-7d4310f44e7f",
+                  "name": "Eastern United vs Adelaide Olympic",
+                  "streams": [
+                    {
+                      "id": "kaytee-7d4310f44e7f",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9b1991ae1c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwo4gchnhcjo8rzdrpjtfa4144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=2c45ec0ee708bf7b239c6926-178126026409965&wsIPSercert=43807eda3f834ba93c3de9366ea9c954&wsBindIP=2&wsserid=1168168154451507561"
+                        },
+                        {
+                          "id": "lnk-d8e87ffbb9",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c1bf68461ef3",
+          "name": "⚽ Pvf-Cand vs Bắc Ninh | Sắp diễn ra vs 18:00 12/06/2026",
+          "tournament": "V.League 1",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/d/db/Logo_CLB_PVF-CAND.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/26601.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/vi/d/db/Logo_CLB_PVF-CAND.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c1bf68461ef3",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c1bf68461ef3",
+                  "name": "Pvf-Cand vs Bắc Ninh",
+                  "streams": [
+                    {
+                      "id": "kaytee-c1bf68461ef3",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-45a14c18387b",
+          "name": "⚽ Ekibastuz vs Arys | Sắp diễn ra vs 19:00 12/06/2026",
+          "tournament": "1. Division",
+          "logo_nha": "https://media.api-sports.io/football/teams/4551.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10414.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4551.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-45a14c18387b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-45a14c18387b",
+                  "name": "Ekibastuz vs Arys",
+                  "streams": [
+                    {
+                      "id": "kaytee-45a14c18387b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b5fe05c41796",
+          "name": "⚽ Fc Isloch Minsk R. vs Naftan | Sắp diễn ra vs 21:00 12/06/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/391.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/750.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/391.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b5fe05c41796",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b5fe05c41796",
+                  "name": "Fc Isloch Minsk R. vs Naftan",
+                  "streams": [
+                    {
+                      "id": "kaytee-b5fe05c41796",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f786440561ef",
+          "name": "⚽ Belshina vs Bate Borisov | Sắp diễn ra vs 23:00 12/06/2026",
+          "tournament": "VĐQG Belarus",
+          "logo_nha": "https://media.api-sports.io/football/teams/3384.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/388.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3384.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f786440561ef",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f786440561ef",
+                  "name": "Belshina vs Bate Borisov",
+                  "streams": [
+                    {
+                      "id": "kaytee-f786440561ef",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-9c2d07270903",
+          "name": "⚽ Canada vs Bosnia & Herzegovina | Sắp diễn ra vs 02:00 13/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/1113.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-9c2d07270903",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-9c2d07270903",
+                  "name": "Canada vs Bosnia & Herzegovina",
+                  "streams": [
+                    {
+                      "id": "kaytee-9c2d07270903",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-5fc86661dbc0",
+          "name": "⚽ Atletico Goianiense vs Crb | Sắp diễn ra vs 05:00 13/06/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/144.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/146.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/144.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-5fc86661dbc0",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-5fc86661dbc0",
+                  "name": "Atletico Goianiense vs Crb",
+                  "streams": [
+                    {
+                      "id": "kaytee-5fc86661dbc0",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-881a064f335f",
+          "name": "⚽ A. Italiano vs D. La Serena | Sắp diễn ra vs 07:00 13/06/2026",
+          "tournament": "Primera División",
+          "logo_nha": "https://media.api-sports.io/football/teams/2329.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2341.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2329.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-881a064f335f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-881a064f335f",
+                  "name": "A. Italiano vs D. La Serena",
+                  "streams": [
+                    {
+                      "id": "kaytee-881a064f335f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-4fcc7fc0b3fd",
+          "name": "⚽ Usa vs Paraguay | Sắp diễn ra vs 08:00 13/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2384.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4fcc7fc0b3fd",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4fcc7fc0b3fd",
+                  "name": "Usa vs Paraguay",
+                  "streams": [
+                    {
+                      "id": "kaytee-4fcc7fc0b3fd",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
