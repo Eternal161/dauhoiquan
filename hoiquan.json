@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:30 12/06/2026",
+  "last_updated": "18:41 12/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-939c043e91ba",
-          "name": "⚽ Suwon Fmc vs Gumi Sportstoto W | H2 - 69' 2 - 0 17:00 12/06/2026",
+          "name": "⚽ Suwon Fmc vs Gumi Sportstoto W | H2 - 79' 4 - 0 17:00 12/06/2026",
           "tournament": "WK-League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Suwon_FC_2016.svg/1280px-Suwon_FC_2016.svg.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9wP95xQE7Y3gaGPvkt2WAacKfJgoGKVuT4w&s",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3cb6492576",
+                          "id": "lnk-3da0b848e4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo1gr4uqmtt8y41hcjs8rzdrc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0b0dfdc868cc75663ff75080-178126385853540&wsIPSercert=ee4f99daba596516e5e460585452cc8f&wsBindIP=2&wsserid=1168228942752121565"
+                          "url": "https://tfwo3gr3uomttgr31hctsfa3dommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178126447184366&wsIPSercert=ba7ee3267189ffe25d08124fa3494198&wsBindIP=2&wsserid=1168056276210707857"
                         },
                         {
-                          "id": "lnk-f846c644aa",
+                          "id": "lnk-fb0c299ff8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-7d4310f44e7f",
-          "name": "⚽ Eastern United vs Adelaide Olympic | Giữa Hiệp - 45+5' 1 - 0 17:15 12/06/2026",
+          "name": "⚽ Eastern United vs Adelaide Olympic | H2 - 56' 1 - 0 17:15 12/06/2026",
           "tournament": "South Australia State League 1",
           "logo_nha": "https://media.api-sports.io/football/teams/16766.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3787.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-35a3a1d3c7",
+                          "id": "lnk-6e6493f338",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo3gr3uomttgr31hctsfa3dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178126386711082&wsIPSercert=ee4f99daba596516e5e460585452cc8f&wsBindIP=2&wsserid=1168056276210707857"
+                          "url": "https://tfwo3gr3uomttgr31hctsfa3dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178126448039220&wsIPSercert=ba7ee3267189ffe25d08124fa3494198&wsBindIP=2&wsserid=1168056276210707857"
                         },
                         {
-                          "id": "lnk-42fdd33d28",
+                          "id": "lnk-13e579f34b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -164,22 +164,7 @@
                     {
                       "id": "kaytee-c1bf68461ef3",
                       "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-096727560b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwo3gr3uomttgr31hctsfa3dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178126387571423&wsIPSercert=ee4f99daba596516e5e460585452cc8f&wsBindIP=2&wsserid=1168056276210707857"
-                        },
-                        {
-                          "id": "lnk-d02de2b808",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -226,14 +211,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-24e391d309",
+                          "id": "lnk-2967a3741f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo3gr3uomttgr31hctsfa3dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178126388371778&wsIPSercert=ee4f99daba596516e5e460585452cc8f&wsBindIP=2&wsserid=1168056276210707857"
+                          "url": "https://tfwo3gr3uomttgr31hctsfa3dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178126449703014&wsIPSercert=ba7ee3267189ffe25d08124fa3494198&wsBindIP=2&wsserid=1168056276210707857"
                         },
                         {
-                          "id": "lnk-b734c29dd1",
+                          "id": "lnk-8c82607131",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
