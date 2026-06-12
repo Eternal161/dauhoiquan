@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:50 12/06/2026",
+  "last_updated": "19:00 12/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-939c043e91ba",
-          "name": "⚽ Suwon Fmc vs Gumi Sportstoto W | H2 - 89' 5 - 0 17:00 12/06/2026",
-          "tournament": "WK-League",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Suwon_FC_2016.svg/1280px-Suwon_FC_2016.svg.png",
-          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9wP95xQE7Y3gaGPvkt2WAacKfJgoGKVuT4w&s",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Suwon_FC_2016.svg/1280px-Suwon_FC_2016.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-939c043e91ba",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-939c043e91ba",
-                  "name": "Suwon Fmc vs Gumi Sportstoto W",
-                  "streams": [
-                    {
-                      "id": "kaytee-939c043e91ba",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b99cebf9ae",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwo1gr4uqmtt8y41hcjs8rzdrc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0b0dfdc868cc75663ff75080-178126506169965&wsIPSercert=34e12749fd24c14f2c6b828ce78a3cc3&wsBindIP=2&wsserid=1168228942752121565"
-                        },
-                        {
-                          "id": "lnk-01fd544529",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-7d4310f44e7f",
-          "name": "⚽ Eastern United vs Adelaide Olympic | H2 - 65' 1 - 0 17:15 12/06/2026",
+          "name": "⚽ Eastern United vs Adelaide Olympic | H2 - 75' 1 - 1 17:15 12/06/2026",
           "tournament": "South Australia State League 1",
           "logo_nha": "https://media.api-sports.io/football/teams/16766.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3787.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-42f2893f8d",
+                          "id": "lnk-0c58b8308a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo1gr3uomttgr31hctsfaau1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178126507077987&wsIPSercert=34e12749fd24c14f2c6b828ce78a3cc3&wsBindIP=2&wsserid=1168056276210707857"
+                          "url": "https://tfwo3gr3uomttgr31hctsfa3dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178126566445641&wsIPSercert=f861574d616ffd544e3af6ef290a5e7d&wsBindIP=2&wsserid=1168056276210707857"
                         },
                         {
-                          "id": "lnk-1c936919e3",
+                          "id": "lnk-7b62fc029b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-de552c237a",
+                          "id": "lnk-a728703562",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo1gr3uomttgr31hctsfaau1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178126507892455&wsIPSercert=34e12749fd24c14f2c6b828ce78a3cc3&wsBindIP=2&wsserid=1168056276210707857"
+                          "url": "https://tfwo3gr3uomttgr31hctsfa3dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178126567295542&wsIPSercert=f861574d616ffd544e3af6ef290a5e7d&wsBindIP=2&wsserid=1168056276210707857"
                         },
                         {
-                          "id": "lnk-efbce9a692",
+                          "id": "lnk-5d0fb39583",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -226,14 +166,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6d743fbe2e",
+                          "id": "lnk-b8450741e4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo1gr3uomttgr31hctsfaau1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178126508850559&wsIPSercert=34e12749fd24c14f2c6b828ce78a3cc3&wsBindIP=2&wsserid=1168056276210707857"
+                          "url": "https://tfwo3gr3uomttgr31hctsfa3dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178126568168435&wsIPSercert=f861574d616ffd544e3af6ef290a5e7d&wsBindIP=2&wsserid=1168056276210707857"
                         },
                         {
-                          "id": "lnk-208a8a2892",
+                          "id": "lnk-3516f5018f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -508,6 +448,51 @@
                   "streams": [
                     {
                       "id": "kaytee-881a064f335f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-4fcc7fc0b3fd",
+          "name": "⚽ Usa vs Paraguay | Sắp diễn ra vs 08:00 13/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2384.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4fcc7fc0b3fd",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4fcc7fc0b3fd",
+                  "name": "Usa vs Paraguay",
+                  "streams": [
+                    {
+                      "id": "kaytee-4fcc7fc0b3fd",
                       "name": "F",
                       "stream_links": []
                     }
