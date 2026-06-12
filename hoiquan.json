@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:10 13/06/2026",
+  "last_updated": "00:20 13/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-f786440561ef",
-          "name": "⚽ Belshina vs Bate Borisov | H2 - 55' 0 - 1 23:00 12/06/2026",
+          "name": "⚽ Belshina vs Bate Borisov | H2 - 60' 1 - 1 23:00 12/06/2026",
           "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/3384.png",
           "logo_khach": "https://media.api-sports.io/football/teams/388.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-38020c71b4",
+                          "id": "lnk-9d980ef474",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo6grauqmtofaauomts8rsze3dcpf5gkmu3cf3gha5rpazga4mscw.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0d4c3759a7255627883b4d91-178128426823239&wsIPSercert=ec4c878eab1f619d734d2f469c186a6f&wsBindIP=2&wsserid=1168235375215554582"
+                          "url": "https://tfwo6grauqmtofaauomtzgwsze3dcpf5gkmu3cf3gha5rpazga4mscw.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0d4c3759a7255627883b4d91-178128485797422&wsIPSercert=e5467aadd2621f5bc5a7816c156d1707&wsBindIP=2&wsserid=1168235375215554582"
                         },
                         {
-                          "id": "lnk-82843e1a1c",
+                          "id": "lnk-b14fbae343",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5d64cb5d04",
+                          "id": "lnk-5b323bd67d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo6grauqmtofaauomts8yssohmcpf5gkmu3cf3gha5rpazga4mscw.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=0b275eec23c58ad63a30118d-178128427716146&wsIPSercert=ec4c878eab1f619d734d2f469c186a6f&wsBindIP=2&wsserid=1168235375259595680"
+                          "url": "https://tfwo6grauqmtofaauomtzgwssohmcpf5gkmu3cf3gha5rpazga4mscw.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=0b275eec23c58ad63a30118d-178128486654044&wsIPSercert=e5467aadd2621f5bc5a7816c156d1707&wsBindIP=2&wsserid=1168235375259595680"
                         },
                         {
-                          "id": "lnk-8a3c6b7ff6",
+                          "id": "lnk-d1f2d600a4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
