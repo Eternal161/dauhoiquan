@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:10 12/06/2026",
+  "last_updated": "19:20 12/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-7d4310f44e7f",
-          "name": "⚽ Eastern United vs Adelaide Olympic | Live 0 - 0 17:15 12/06/2026",
-          "tournament": "South Australia State League 1",
-          "logo_nha": "https://media.api-sports.io/football/teams/16766.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/3787.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/16766.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-7d4310f44e7f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-7d4310f44e7f",
-                  "name": "Eastern United vs Adelaide Olympic",
-                  "streams": [
-                    {
-                      "id": "kaytee-7d4310f44e7f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-46ee744ed4",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwo1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=f64ed1182ed1d47a38e6ed7e-178126625545134&wsIPSercert=ca8aa39205b643780bae871ecb71b5b2&wsBindIP=2&wsserid=1168176581104105640"
-                        },
-                        {
-                          "id": "lnk-576f25d7f2",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-c1bf68461ef3",
           "name": "⚽ Pvf-Cand vs Bắc Ninh | Live 0 - 0 18:00 12/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d9afab6b03",
+                          "id": "lnk-667b92625f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f64ed1182ed1d47a38e6ed7e-178126626409147&wsIPSercert=ca8aa39205b643780bae871ecb71b5b2&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwo3gr3uomttgr31hctsfa3dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178126687029660&wsIPSercert=d878b324f4249a6dbb7c175a75c637d5&wsBindIP=2&wsserid=1168056276210707857"
                         },
                         {
-                          "id": "lnk-0e27c7cdcf",
+                          "id": "lnk-70622ed1d8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-07050d690b58",
-          "name": "⚽ Ekibastuz vs Arys | H1 - 11' 0 - 0 19:00 12/06/2026",
+          "name": "⚽ Ekibastuz vs Arys | H1 - 21' 0 - 0 19:00 12/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/4551.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10414.png",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-eec85fe7fe",
+                          "id": "lnk-871c864521",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=f64ed1182ed1d47a38e6ed7e-178126627239414&wsIPSercert=ca8aa39205b643780bae871ecb71b5b2&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwo3gr3uomttgr31hctsfa3dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178126687915222&wsIPSercert=d878b324f4249a6dbb7c175a75c637d5&wsBindIP=2&wsserid=1168056276210707857"
                         },
                         {
-                          "id": "lnk-419f3c733a",
+                          "id": "lnk-0499e609dd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -188,9 +128,9 @@
           ]
         },
         {
-          "id": "kaytee-2f00b6c9f539",
+          "id": "kaytee-7b4f2840460f",
           "name": "⚽ Fc Isloch Minsk R. vs Naftan | Sắp diễn ra vs 21:00 12/06/2026",
-          "tournament": "Premier League",
+          "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/391.png",
           "logo_khach": "https://media.api-sports.io/football/teams/750.png",
           "type": "single",
@@ -214,15 +154,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-2f00b6c9f539",
+              "id": "kaytee-7b4f2840460f",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-2f00b6c9f539",
+                  "id": "kaytee-7b4f2840460f",
                   "name": "Fc Isloch Minsk R. vs Naftan",
                   "streams": [
                     {
-                      "id": "kaytee-2f00b6c9f539",
+                      "id": "kaytee-7b4f2840460f",
                       "name": "F",
                       "stream_links": []
                     }
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-4fcc7fc0b3fd",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3cdd0a5280e1",
+          "name": "⚽ Changchun Yatai vs Dalian Huayi | Sắp diễn ra vs 14:30 13/06/2026",
+          "tournament": "League One",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzlfhmJARhzPrVKMwuFLSrBIsvCgKqClnx0w&s",
+          "logo_khach": "https://media.api-sports.io/football/teams/5652.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzlfhmJARhzPrVKMwuFLSrBIsvCgKqClnx0w&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3cdd0a5280e1",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3cdd0a5280e1",
+                  "name": "Changchun Yatai vs Dalian Huayi",
+                  "streams": [
+                    {
+                      "id": "kaytee-3cdd0a5280e1",
                       "name": "F",
                       "stream_links": []
                     }
