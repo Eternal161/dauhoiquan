@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:50 12/06/2026",
+  "last_updated": "21:00 12/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-07050d690b58",
-          "name": "⚽ Ekibastuz vs Arys | H2 - 90+3' 1 - 0 19:00 12/06/2026",
-          "tournament": "1. Division",
-          "logo_nha": "https://media.api-sports.io/football/teams/4551.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/10414.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/4551.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-07050d690b58",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-07050d690b58",
-                  "name": "Ekibastuz vs Arys",
-                  "streams": [
-                    {
-                      "id": "kaytee-07050d690b58",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d85ddd7939",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwo3gr3uomttgr31hctsfa3dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178127226072227&wsIPSercert=a1c241eb2c00ebe890143f4adf1f60c1&wsBindIP=2&wsserid=1168056276210707857"
-                        },
-                        {
-                          "id": "lnk-26716a08cc",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-7b4f2840460f",
           "name": "⚽ Fc Isloch Minsk R. vs Naftan | Sắp bắt đầu - null' 0 - 0 21:00 12/06/2026",
@@ -106,10 +46,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b0dafc1017",
+                          "id": "lnk-9feef0ab31",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwo4gchnhcjo8rzdrpjtfa4144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=2c45ec0ee708bf7b239c6926-178127286817137&wsIPSercert=fc273467d344ce81329664e697ba8b3e&wsBindIP=2&wsserid=1168168154451507561"
+                        },
+                        {
+                          "id": "lnk-1a11cf54a3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-084c45558454",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6df4fbeebcf8",
+          "name": "⚽ Nanjing City vs Ningbo Professional | Sắp diễn ra vs 18:30 13/06/2026",
+          "tournament": "League One",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/6/63/Nanjing_City_F.C.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/27556.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/6/63/Nanjing_City_F.C.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6df4fbeebcf8",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6df4fbeebcf8",
+                  "name": "Nanjing City vs Ningbo Professional",
+                  "streams": [
+                    {
+                      "id": "kaytee-6df4fbeebcf8",
                       "name": "F",
                       "stream_links": []
                     }
