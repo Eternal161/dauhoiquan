@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:00 12/06/2026",
+  "last_updated": "09:10 12/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a6f45487f86c",
-          "name": "⚽ South Korea vs Czech Republic | Sắp bắt đầu - null' 0 - 0 09:00 12/06/2026",
+          "name": "⚽ South Korea vs Czech Republic | H1 - 6' 0 - 0 09:00 12/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1728.png",
           "logo_khach": "https://media.api-sports.io/football/teams/770.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bc35cb20fa",
+                          "id": "lnk-a76f4d3536",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo1grzdkpbqgrzd1pjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=aca4534f605db40845917ef5-178122966062942&wsIPSercert=366ca2c12d4d0a1e9dd37e8434c79df2&wsBindIP=2&wsserid=1172662689755987508"
+                          "url": "https://tfwo3gr4nhct1gwzdrc3afa4dqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=99e066a4c4bc1c09755f1d1f-178123025786284&wsIPSercert=18cef50a049d99e6331ce471c268ab40&wsBindIP=2&wsserid=1172608806926159169"
                         },
                         {
-                          "id": "lnk-992da28e0e",
+                          "id": "lnk-2b0a0a7109",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
