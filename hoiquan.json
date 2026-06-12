@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:21 12/06/2026",
+  "last_updated": "20:30 12/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-c1bf68461ef3",
-          "name": "⚽ Pvf-Cand vs Bắc Ninh | Live 0 - 0 18:00 12/06/2026",
-          "tournament": "V.League 1",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/d/db/Logo_CLB_PVF-CAND.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/26601.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/d/db/Logo_CLB_PVF-CAND.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c1bf68461ef3",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c1bf68461ef3",
-                  "name": "Pvf-Cand vs Bắc Ninh",
-                  "streams": [
-                    {
-                      "id": "kaytee-c1bf68461ef3",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b056c1e817",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-07050d690b58",
-          "name": "⚽ Ekibastuz vs Arys | H2 - 64' 0 - 0 19:00 12/06/2026",
+          "name": "⚽ Ekibastuz vs Arys | H2 - 73' 0 - 0 19:00 12/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/4551.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10414.png",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8c6ae07ec1",
+                          "id": "lnk-fbe27792de",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=56d2bb5a325c7a8bfd1440f3-178127048309874&wsIPSercert=7102952353ce68b5d22eff6a164e7be2&wsBindIP=2&wsserid=1168283323207303220"
+                          "url": "https://tfwo3gr3uomttgr31hctsfa3dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178127106497642&wsIPSercert=11b9697114c7e72c04b3c7a5f0b4c6a2&wsBindIP=2&wsserid=1168056276210707857"
                         },
                         {
-                          "id": "lnk-478d1866b6",
+                          "id": "lnk-7b72f23ad4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-3cdd0a5280e1",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-084c45558454",
+          "name": "⚽ Laagri vs Kuressaare | Sắp diễn ra vs 16:30 13/06/2026",
+          "tournament": "Meistriliiga",
+          "logo_nha": "https://media.api-sports.io/football/teams/18657.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3526.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/18657.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-084c45558454",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-084c45558454",
+                  "name": "Laagri vs Kuressaare",
+                  "streams": [
+                    {
+                      "id": "kaytee-084c45558454",
                       "name": "F",
                       "stream_links": []
                     }
