@@ -1,15 +1,68 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:01 13/06/2026",
+  "last_updated": "22:10 13/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
+          "id": "kaytee-2b2d8c17d356",
+          "name": "⚽ Changchun Dazhong Nữ vs Shaanxi Changan Nữ | Live 0 - 0 16:00 13/06/2026",
+          "tournament": "Super League Nữ",
+          "logo_nha": "https://static.flashscore.com/res/image/data/WKc6mHyS-tEXwrGhb.png",
+          "logo_khach": "https://static.flashscore.com/res/image/data/C8nTZQ9r-YaMzy9gF.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://static.flashscore.com/res/image/data/WKc6mHyS-tEXwrGhb.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-2b2d8c17d356",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-2b2d8c17d356",
+                  "name": "Changchun Dazhong Nữ vs Shaanxi Changan Nữ",
+                  "streams": [
+                    {
+                      "id": "kaytee-2b2d8c17d356",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f56bedb8b2",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-1325be05a731",
-          "name": "⚽ Thailand U19 vs Australia U19 | H2 - 86' 0 - 1 20:15 13/06/2026",
+          "name": "⚽ Thailand U19 vs Australia U19 | H2 - 90+5' 0 - 1 20:15 13/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19155.png",
           "logo_khach": "https://media.api-sports.io/football/teams/22591.png",
@@ -46,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a0e4020a11",
+                          "id": "lnk-86a978c27c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=de40530e31dc965cd08ee763-178136289641318&wsIPSercert=9d5a25877cb8c019fd98002234343221&wsBindIP=2&wsserid=1168243256623223254"
+                          "url": "https://tfwp0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178136346354576&wsIPSercert=178399b457a0fbb47dc3cce3e73e5fdb&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-62af5f97fb",
+                          "id": "lnk-573f72daf9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +122,7 @@
         },
         {
           "id": "kaytee-d1d9cdc2191f",
-          "name": "⚽ Vps vs Kups | Giữa Hiệp - 45+1' 1 - 0 21:00 13/06/2026",
+          "name": "⚽ Vps vs Kups | H2 - 50' 1 - 0 21:00 13/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/650.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
@@ -86,10 +139,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +157,22 @@
                     {
                       "id": "kaytee-d1d9cdc2191f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-ae5bc436df",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwp0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178136347212445&wsIPSercert=178399b457a0fbb47dc3cce3e73e5fdb&wsBindIP=2&wsserid=1168231589572867007"
+                        },
+                        {
+                          "id": "lnk-0c15d013be",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -418,51 +486,6 @@
                   "streams": [
                     {
                       "id": "kaytee-3bc05f9e5eb8",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-3b0b1e99bc6b",
-          "name": "⚽ Oakland Roots vs Miami Fc | Sắp diễn ra vs 09:00 14/06/2026",
-          "tournament": "USL Championship",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Oakland_Roots_SC_logo.svg/250px-Oakland_Roots_SC_logo.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/9030.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Oakland_Roots_SC_logo.svg/250px-Oakland_Roots_SC_logo.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3b0b1e99bc6b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3b0b1e99bc6b",
-                  "name": "Oakland Roots vs Miami Fc",
-                  "streams": [
-                    {
-                      "id": "kaytee-3b0b1e99bc6b",
                       "name": "F",
                       "stream_links": []
                     }
