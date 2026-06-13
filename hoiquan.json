@@ -1,188 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:20 13/06/2026",
+  "last_updated": "18:30 13/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-ecd4a9532f1f",
-          "name": "⚽ Cambodia U19 vs Indonesia U19 | H2 - 90+6' 0 - 1 16:00 13/06/2026",
-          "tournament": "ASEAN Championship U19",
-          "logo_nha": "https://media.api-sports.io/football/teams/19148.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/19149.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/19148.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ecd4a9532f1f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ecd4a9532f1f",
-                  "name": "Cambodia U19 vs Indonesia U19",
-                  "streams": [
-                    {
-                      "id": "kaytee-ecd4a9532f1f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e3bb69b323",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-084c45558454",
-          "name": "⚽ Laagri vs Kuressaare | H2 - 90+1' 2 - 2 16:30 13/06/2026",
-          "tournament": "Meistriliiga",
-          "logo_nha": "https://media.api-sports.io/football/teams/18657.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/3526.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/18657.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-084c45558454",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-084c45558454",
-                  "name": "Laagri vs Kuressaare",
-                  "streams": [
-                    {
-                      "id": "kaytee-084c45558454",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-138a4099a8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwp1gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0de74705abe5721b1a19c464-178134966299001&wsIPSercert=ac7d999cae582755f222836ad5a90b62&wsBindIP=2&wsserid=1168243343857585137"
-                        },
-                        {
-                          "id": "lnk-e47a95201c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-a3267d0b1e50",
-          "name": "⚽ Harju Jk Laagri vs Fc Kuressaare | Live 0 - 0 16:30 13/06/2026",
-          "tournament": "VĐQG Estonia",
-          "logo_nha": "https://static.flashscore.com/res/image/data/Ao79cLzB-xdabbQpB.png",
-          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXq_lk-Y3Ea41GxFwwmY8XjaaB97QMApFVtw&s",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://static.flashscore.com/res/image/data/Ao79cLzB-xdabbQpB.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a3267d0b1e50",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a3267d0b1e50",
-                  "name": "Harju Jk Laagri vs Fc Kuressaare",
-                  "streams": [
-                    {
-                      "id": "kaytee-a3267d0b1e50",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5358f9f7ce",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwp1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e851a2b515b39bfc1b7fa041-178134967133537&wsIPSercert=ac7d999cae582755f222836ad5a90b62&wsBindIP=2&wsserid=1168243256629514822"
-                        },
-                        {
-                          "id": "lnk-c0d9ae13e2",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-8efc6a50c951",
-          "name": "⚽ Nanjing City vs Ningbo Professional | Sắp bắt đầu - null' 0 - 0 18:30 13/06/2026",
+          "name": "⚽ Nanjing City vs Ningbo Professional | H1 - 1' 0 - 0 18:30 13/06/2026",
           "tournament": "League One",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/6/63/Nanjing_City_F.C.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/27556.png",
@@ -219,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bff65a656e",
+                          "id": "lnk-e38ed507bf",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e851a2b515b39bfc1b7fa041-178134967945717&wsIPSercert=ac7d999cae582755f222836ad5a90b62&wsBindIP=2&wsserid=1168243256629514822"
+                          "url": "https://tfwp1gr4uqmtt8y41hcjs8rzdrc3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=0b0dfdc868cc75663ff75080-178135026582779&wsIPSercert=d979a00f18073764c83283e1cc15a4c2&wsBindIP=2&wsserid=1168228942752121565"
                         },
                         {
-                          "id": "lnk-425d1e207f",
+                          "id": "lnk-85e3f423be",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -279,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2e068a380d",
+                          "id": "lnk-7182db6ba1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp1gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0de74705abe5721b1a19c464-178134968808567&wsIPSercert=ac7d999cae582755f222836ad5a90b62&wsBindIP=2&wsserid=1168243343857585137"
+                          "url": "https://tfwp1gr4uqmtt8y41hcjs8rzdrc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0b0dfdc868cc75663ff75080-178135027442201&wsIPSercert=d979a00f18073764c83283e1cc15a4c2&wsBindIP=2&wsserid=1168228942752121565"
                         },
                         {
-                          "id": "lnk-b38dab3553",
+                          "id": "lnk-db4ce95a26",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -436,7 +263,7 @@
           ]
         },
         {
-          "id": "kaytee-9ba2207fe455",
+          "id": "kaytee-d1d9cdc2191f",
           "name": "⚽ Vps vs Kups | Sắp diễn ra vs 21:00 13/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/650.png",
@@ -462,15 +289,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-9ba2207fe455",
+              "id": "kaytee-d1d9cdc2191f",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-9ba2207fe455",
+                  "id": "kaytee-d1d9cdc2191f",
                   "name": "Vps vs Kups",
                   "streams": [
                     {
-                      "id": "kaytee-9ba2207fe455",
+                      "id": "kaytee-d1d9cdc2191f",
                       "name": "F",
                       "stream_links": []
                     }
@@ -516,6 +343,141 @@
                   "streams": [
                     {
                       "id": "kaytee-62aff6f72521",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a6cdc14fcfd7",
+          "name": "⚽ Dinamo Minsk vs Fc Gomel | Sắp diễn ra vs 23:00 13/06/2026",
+          "tournament": "VĐQG Belarus",
+          "logo_nha": "https://media.api-sports.io/football/teams/394.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/389.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/394.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a6cdc14fcfd7",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a6cdc14fcfd7",
+                  "name": "Dinamo Minsk vs Fc Gomel",
+                  "streams": [
+                    {
+                      "id": "kaytee-a6cdc14fcfd7",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-64a62a3fdb6f",
+          "name": "⚽ Dinamo Brest vs Neman | Sắp diễn ra vs 01:00 14/06/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/386.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/387.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/386.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-64a62a3fdb6f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-64a62a3fdb6f",
+                  "name": "Dinamo Brest vs Neman",
+                  "streams": [
+                    {
+                      "id": "kaytee-64a62a3fdb6f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-91fd6a98ad4a",
+          "name": "⚽ Qatar vs Switzerland | Sắp diễn ra vs 02:00 14/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://cdn.haitrieu.com/wp-content/uploads/2022/05/Logo-Doi-Tuyen-Qatar.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn.haitrieu.com/wp-content/uploads/2022/05/Logo-Doi-Tuyen-Qatar.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-91fd6a98ad4a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-91fd6a98ad4a",
+                  "name": "Qatar vs Switzerland",
+                  "streams": [
+                    {
+                      "id": "kaytee-91fd6a98ad4a",
                       "name": "F",
                       "stream_links": []
                     }
