@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:30 13/06/2026",
+  "last_updated": "23:40 13/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a6cdc14fcfd7",
-          "name": "⚽ Dinamo Minsk vs Fc Gomel | H1 - 30' 2 - 0 23:00 13/06/2026",
+          "name": "⚽ Dinamo Minsk vs Fc Gomel | H1 - 40' 2 - 0 23:00 13/06/2026",
           "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/394.png",
           "logo_khach": "https://media.api-sports.io/football/teams/389.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7a04511f82",
+                          "id": "lnk-ad24eb820d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp3gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3a3ddfb0ca0fd79a326e7377-178136825404871&wsIPSercert=1fea1eeaa09db61fdfa7ee61c8093972&wsBindIP=2&wsserid=1168239097222411122"
+                          "url": "https://tfwp3gr4nhct1gwzdepjqgr5uommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3a8294388c4b3c7c46191384-178136885728712&wsIPSercert=509ad743f6d66b533c54a28428113d15&wsBindIP=2&wsserid=1168271908997640246"
                         },
                         {
-                          "id": "lnk-86ff6bc810",
+                          "id": "lnk-c350101d19",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
