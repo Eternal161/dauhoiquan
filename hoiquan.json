@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:01 13/06/2026",
+  "last_updated": "10:10 13/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-4fcc7fc0b3fd",
-          "name": "⚽ Usa vs Paraguay | H2 - 90+7' 3 - 1 08:00 13/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2384.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-4fcc7fc0b3fd",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-4fcc7fc0b3fd",
-                  "name": "Usa vs Paraguay",
-                  "streams": [
-                    {
-                      "id": "kaytee-4fcc7fc0b3fd",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f9d3dd4da0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwp4grauqmtofaauqmt1gy5144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=9aa80462487e054020a5670a-178131968909755&wsIPSercert=d73e5be8bf46b2d73b890ddd719e41f2&wsBindIP=2&wsserid=1168235948372617680"
-                        },
-                        {
-                          "id": "lnk-e1ae8d5a4a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-3cdd0a5280e1",
           "name": "⚽ Changchun Yatai vs Dalian Huayi | Sắp diễn ra vs 14:30 13/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-9ba2207fe455",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-62aff6f72521",
+          "name": "⚽ Lahti vs Sjk | Sắp diễn ra vs 23:00 13/06/2026",
+          "tournament": "Veikkausliiga",
+          "logo_nha": "https://media.api-sports.io/football/teams/1166.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/689.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1166.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-62aff6f72521",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-62aff6f72521",
+                  "name": "Lahti vs Sjk",
+                  "streams": [
+                    {
+                      "id": "kaytee-62aff6f72521",
                       "name": "F",
                       "stream_links": []
                     }
