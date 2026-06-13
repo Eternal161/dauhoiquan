@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:00 14/06/2026",
+  "last_updated": "01:10 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8a0c3f84709e",
-          "name": "⚽ Dinamo Brest vs Neman | Sắp bắt đầu - null' 0 - 0 01:00 14/06/2026",
+          "name": "⚽ Dinamo Brest vs Neman | H1 - 10' 1 - 0 01:00 14/06/2026",
           "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/386.png",
           "logo_khach": "https://media.api-sports.io/football/teams/387.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-de6fba928c",
+                          "id": "lnk-26b809f850",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp3gr4nhct1gwzdepjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=4d0dc05b56b8dacf0f2a5310-178137366568284&wsIPSercert=5074f7b1d9d2765bff8824ddcb1911ef&wsBindIP=2&wsserid=1172648044479413382"
+                          "url": "https://tfwp3gr4nhct1gwzdepjqgr5uommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=221e31d450141dc605e1fa47-178137426703865&wsIPSercert=59bad9fea75fa5235c05133b37da3bff&wsBindIP=2&wsserid=1168271908994494404"
                         },
                         {
-                          "id": "lnk-6890e89b4c",
+                          "id": "lnk-391824d3df",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
