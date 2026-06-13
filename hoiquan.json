@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:30 13/06/2026",
+  "last_updated": "15:40 13/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-d525c6143a21",
-          "name": "⚽ Changchun Yatai vs Dalian Huayi | Giữa Hiệp - 45+3' 2 - 1 14:30 13/06/2026",
+          "name": "⚽ Changchun Yatai vs Dalian Huayi | H2 - 52' 2 - 1 14:30 13/06/2026",
           "tournament": "League One",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzlfhmJARhzPrVKMwuFLSrBIsvCgKqClnx0w&s",
           "logo_khach": "https://media.api-sports.io/football/teams/5652.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1ec2130d19",
+                          "id": "lnk-8312a806e0",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=f64ed1182ed1d47a38e6ed7e-178133947045399&wsIPSercert=bca25ba6b6dcf86402b6b0d44fd4f961&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwp1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e851a2b515b39bfc1b7fa041-178134005731051&wsIPSercert=5ba52e51c7d56d93a09187f007dd69a8&wsBindIP=2&wsserid=1168243256629514822"
                         },
                         {
-                          "id": "lnk-d7f70fc050",
+                          "id": "lnk-05882a6d83",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-ecd4a9532f1f",
-          "name": "⚽ Cambodia U19 vs Indonesia U19 | Sắp diễn ra vs 16:00 13/06/2026",
+          "name": "⚽ Cambodia U19 vs Indonesia U19 | Sắp bắt đầu - null' 0 - 0 16:00 13/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19148.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19149.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-ecd4a9532f1f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-130d213ec6",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwp1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=9b1083a56b5533e485918882-178134006609898&wsIPSercert=5ba52e51c7d56d93a09187f007dd69a8&wsBindIP=2&wsserid=1168243256620077470"
+                        },
+                        {
+                          "id": "lnk-e97266cdf1",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
