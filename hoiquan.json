@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "14:30 13/06/2026",
+  "last_updated": "14:40 13/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-d525c6143a21",
-          "name": "⚽ Changchun Yatai vs Dalian Huayi | Live 0 - 0 14:30 13/06/2026",
+          "name": "⚽ Changchun Yatai vs Dalian Huayi | H1 - 9' 0 - 0 14:30 13/06/2026",
           "tournament": "League One",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzlfhmJARhzPrVKMwuFLSrBIsvCgKqClnx0w&s",
           "logo_khach": "https://media.api-sports.io/football/teams/5652.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-387d86791f",
+                          "id": "lnk-6af5d043c2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp1gr4uqmtt8y41hcjs8rzdrc3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=0b0dfdc868cc75663ff75080-178133586320779&wsIPSercert=a4a72942707eda7b20c978dc3cb4ec69&wsBindIP=2&wsserid=1168228942752121565"
+                          "url": "https://tfwp1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=2c45ec0ee708bf7b239c6926-178133646082076&wsIPSercert=ed8ddf5d077867a78c51d1d2f8b439d2&wsBindIP=2&wsserid=1168168154451507561"
                         },
                         {
-                          "id": "lnk-41bcd66e01",
+                          "id": "lnk-75aa59dc9f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
