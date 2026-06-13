@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:20 14/06/2026",
+  "last_updated": "06:31 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-276300dac07c",
-          "name": "⚽ Colo Colo vs Cobresal | Live 0 - 0 04:30 14/06/2026",
+          "name": "⚽ Colo Colo vs Cobresal | H2 - 90+5' 3 - 0 04:30 14/06/2026",
           "tournament": "Primera División",
           "logo_nha": "https://media.api-sports.io/football/teams/2315.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2331.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-661149ba22",
+                          "id": "lnk-6b84c64add",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp3gr4nhct1gwzdepjqgr5uommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c0f35dab7150efa780436009-178139286049718&wsIPSercert=8cfe737307b023aa42a69619fe0a9fdf&wsBindIP=2&wsserid=1168271909007077544"
+                          "url": "https://tfwp3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=2e43619de47635a76c7caf13-178139347755422&wsIPSercert=769976722040d21d2d0f9c3cffbd7e1a&wsBindIP=2&wsserid=1168271909244056829"
                         },
                         {
-                          "id": "lnk-fcf644ec4a",
+                          "id": "lnk-7e78099c42",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-73febafe2694",
-          "name": "⚽ Brazil vs Morocco | Live 0 - 0 05:00 14/06/2026",
+          "name": "⚽ Brazil vs Morocco | H2 - 66' 1 - 1 05:00 14/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b86e709711",
+                          "id": "lnk-ef4a023120",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp3gr4nhct1gwzdepjqgr5uommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=15f0f7fcfccc1275c09424cd-178139286858022&wsIPSercert=8cfe737307b023aa42a69619fe0a9fdf&wsBindIP=2&wsserid=1168272001227032450"
+                          "url": "https://tfwp3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b619bea668504ad7c4fc7309-178139348553253&wsIPSercert=769976722040d21d2d0f9c3cffbd7e1a&wsBindIP=2&wsserid=1168271909250348456"
                         },
                         {
-                          "id": "lnk-acefbfd4da",
+                          "id": "lnk-608c9ffdbc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
