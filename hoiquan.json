@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:30 13/06/2026",
+  "last_updated": "09:40 13/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-4fcc7fc0b3fd",
-          "name": "⚽ Usa vs Paraguay | Live 0 - 0 08:00 13/06/2026",
+          "name": "⚽ Usa vs Paraguay | H2 - 77' 3 - 1 08:00 13/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b54d8e52e9",
+                          "id": "lnk-6e8bc553a2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp1gwhnhcjagazdnqbafaauecjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=76d0100332f194d3c245c00c-178131785927583&wsIPSercert=d0f5c1640105e9c91284a6cc247996ef&wsBindIP=2&wsserid=1168159941862548106"
+                          "url": "https://tfwp6grauqmtofaauomts8yssohmcpf5gkmu3cf3gha5rpazga4mscw.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0d4c3759a7255627883b4d91-178131846243722&wsIPSercert=59cebb4e1ce58f26e2ecc067e447a015&wsBindIP=2&wsserid=1168235375215554582"
                         },
                         {
-                          "id": "lnk-ae0d32f615",
+                          "id": "lnk-9660355d75",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
