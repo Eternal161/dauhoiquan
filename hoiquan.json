@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:20 13/06/2026",
+  "last_updated": "20:30 13/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8efc6a50c951",
-          "name": "⚽ Nanjing City vs Ningbo Professional | H2 - 90+2' 1 - 2 18:30 13/06/2026",
+          "name": "⚽ Nanjing City vs Ningbo Professional | H2 - 90+9' 1 - 2 18:30 13/06/2026",
           "tournament": "League One",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/6/63/Nanjing_City_F.C.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/27556.png",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-30189c9b75",
+                          "id": "lnk-7a2174a9fd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp4gchnhcjo8rzdrpjtfahn44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=a494d14ca8a5025163275316-178135686266243&wsIPSercert=a585d19660c06c78358f7ac22630a125&wsBindIP=2&wsserid=1168168154459896377"
-                        },
-                        {
-                          "id": "lnk-5b9bd6f278",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
@@ -69,7 +62,7 @@
         },
         {
           "id": "kaytee-cbbde09316ad",
-          "name": "⚽ Inter Turku vs Ac Oulu | H2 - 59' 0 - 0 19:00 13/06/2026",
+          "name": "⚽ Inter Turku vs Ac Oulu | H2 - 69' 0 - 0 19:00 13/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/1164.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2077.png",
@@ -106,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-339780e32b",
+                          "id": "lnk-46615cbbaa",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp4gchnhcjo8rzdrpjtfahn47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=a494d14ca8a5025163275316-178135687121628&wsIPSercert=a585d19660c06c78358f7ac22630a125&wsBindIP=2&wsserid=1168168154459896377"
+                          "url": "https://tfwp0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178135746925098&wsIPSercert=280f099b2bf12f1365b8a460ad94ff3f&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-c791c22be4",
+                          "id": "lnk-e1c55760fe",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +122,7 @@
         },
         {
           "id": "kaytee-989ea2872caa",
-          "name": "⚽ Ilves vs Turku Ps | H2 - 61' 0 - 0 19:00 13/06/2026",
+          "name": "⚽ Ilves vs Turku Ps | H2 - 71' 0 - 0 19:00 13/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/1163.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1168.png",
@@ -166,14 +159,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-992cf2b4cf",
+                          "id": "lnk-873e33aaf2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp4gchnhcjo8rzdrpjtfahn44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=1a7e779dd8ced2edf73e23dc-178135687957661&wsIPSercert=a585d19660c06c78358f7ac22630a125&wsBindIP=2&wsserid=1168235283031012122"
+                          "url": "https://tfwp0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178135747777605&wsIPSercert=280f099b2bf12f1365b8a460ad94ff3f&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-66fc669e23",
+                          "id": "lnk-cfc87b7d9f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -189,7 +182,7 @@
         },
         {
           "id": "kaytee-1325be05a731",
-          "name": "⚽ Thailand U19 vs Australia U19 | H1 - 3' 0 - 0 20:15 13/06/2026",
+          "name": "⚽ Thailand U19 vs Australia U19 | H1 - 13' 0 - 0 20:15 13/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19155.png",
           "logo_khach": "https://media.api-sports.io/football/teams/22591.png",
@@ -226,18 +219,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fe5596ca3c",
+                          "id": "lnk-0f986b1bfd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp4gchnhcjo8rzdrpjtfahn44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=6d3d810ef4bd4df8f26f8b50-178135688781589&wsIPSercert=a585d19660c06c78358f7ac22630a125&wsBindIP=2&wsserid=1168168154460945005"
-                        },
-                        {
-                          "id": "lnk-ebc8a6fe11",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                          "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8"
                         }
                       ]
                     }
