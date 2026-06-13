@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:30 14/06/2026",
+  "last_updated": "01:40 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8a0c3f84709e",
-          "name": "⚽ Dinamo Brest vs Neman | H1 - 30' 1 - 1 01:00 14/06/2026",
+          "name": "⚽ Dinamo Brest vs Neman | H1 - 40' 1 - 1 01:00 14/06/2026",
           "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/386.png",
           "logo_khach": "https://media.api-sports.io/football/teams/387.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-15a2ac9b8b",
+                          "id": "lnk-7ba6f8e4eb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp3gr4nhct1gwzdepjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=4d0dc05b56b8dacf0f2a5310-178137545637002&wsIPSercert=a24ad7bbe09d6e6a61a9a39c0d97b486&wsBindIP=2&wsserid=1172648044479413382"
+                          "url": "https://tfwp3gr4nhct1gwzdepjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=4d0dc05b56b8dacf0f2a5310-178137606872191&wsIPSercert=4351896db8ce028e0fa6427bb280cd7b&wsBindIP=2&wsserid=1172648044479413382"
                         },
                         {
-                          "id": "lnk-cbdbada030",
+                          "id": "lnk-f44e70dfc6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-91fd6a98ad4a",
-          "name": "⚽ Qatar vs Switzerland | Sắp diễn ra vs 02:00 14/06/2026",
+          "name": "⚽ Qatar vs Switzerland | Sắp bắt đầu - null' 0 - 0 02:00 14/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://cdn.haitrieu.com/wp-content/uploads/2022/05/Logo-Doi-Tuyen-Qatar.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-91fd6a98ad4a",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-2f1ccad2e9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwp3gr4nhct1gwzdepjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=88f0a4062ffbc1b0954dcaee-178137607684492&wsIPSercert=4351896db8ce028e0fa6427bb280cd7b&wsBindIP=2&wsserid=1172648044469976162"
+                        },
+                        {
+                          "id": "lnk-4245bc73d8",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
