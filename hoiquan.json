@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:00 13/06/2026",
+  "last_updated": "08:10 13/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-881a064f335f",
-          "name": "⚽ A. Italiano vs D. La Serena | Giữa Hiệp - 45' 0 - 0 07:00 13/06/2026",
+          "name": "⚽ A. Italiano vs D. La Serena | H2 - 51' 0 - 0 07:00 13/06/2026",
           "tournament": "Primera División",
           "logo_nha": "https://media.api-sports.io/football/teams/2329.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2341.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-29bb17db2e",
+                          "id": "lnk-1550544f48",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=d38cb7b00fb0f53881fd7f12-178131246673762&wsIPSercert=4565ddf01c416ea60e796b6f32b124ce&wsBindIP=2&wsserid=1168271556798807710"
+                          "url": "https://tfwp6grauqmtofaauomts8yssohmcpf5gkmu3cf3gha5rpazga4mscw.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=af77dd921cf5bee2d806d283-178131306365613&wsIPSercert=037530f0e27a02df3329e95b5d3606ac&wsBindIP=2&wsserid=1168235375212408782"
                         },
                         {
-                          "id": "lnk-a816bffb9f",
+                          "id": "lnk-148874433e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-4fcc7fc0b3fd",
-          "name": "⚽ Usa vs Paraguay | Sắp bắt đầu - null' 0 - 0 08:00 13/06/2026",
+          "name": "⚽ Usa vs Paraguay | H1 - 9' 1 - 0 08:00 13/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-91f3b7a6cf",
+                          "id": "lnk-f887a3a41c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=dd4bb502e89ec83c9bff36ac-178131247440915&wsIPSercert=4565ddf01c416ea60e796b6f32b124ce&wsBindIP=2&wsserid=1168276518868027036"
+                          "url": "https://tfwp6grauqmtofaauomts8yssohmcpf5gkmu3cf3gha5rpazga4mscw.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=18d3250f959c8aeeb0a89058-178131307186792&wsIPSercert=037530f0e27a02df3329e95b5d3606ac&wsBindIP=2&wsserid=1168235375218700378"
                         },
                         {
-                          "id": "lnk-a014a12d3f",
+                          "id": "lnk-936725f6d3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
