@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:30 14/06/2026",
+  "last_updated": "00:40 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a6cdc14fcfd7",
-          "name": "⚽ Dinamo Minsk vs Fc Gomel | H2 - 69' 2 - 0 23:00 13/06/2026",
+          "name": "⚽ Dinamo Minsk vs Fc Gomel | H2 - 79' 2 - 0 23:00 13/06/2026",
           "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/394.png",
           "logo_khach": "https://media.api-sports.io/football/teams/389.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d6f5d5b80f",
+                          "id": "lnk-1f07b120d2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp3gr4nhct1gwzdepjqgeaurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=12d33b50aac9e72c284962da-178137185812613&wsIPSercert=b741a0f00685b03882d789eb36724926&wsBindIP=2&wsserid=1172648037437176343"
+                          "url": "https://tfwp3gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3a3ddfb0ca0fd79a326e7377-178137246344010&wsIPSercert=eba6dae6dff8f92cc990618321159359&wsBindIP=2&wsserid=1168239097222411122"
                         },
                         {
-                          "id": "lnk-4acd2b4a45",
+                          "id": "lnk-2887f1e7b6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2b8f999c89",
+                          "id": "lnk-3269c84f8e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp3gr4nhct1gwzdepjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=4d0dc05b56b8dacf0f2a5310-178137186689687&wsIPSercert=b741a0f00685b03882d789eb36724926&wsBindIP=2&wsserid=1172648044479413382"
+                          "url": "https://tfwp3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=603d041721ccfa302d95abed-178137247215375&wsIPSercert=eba6dae6dff8f92cc990618321159359&wsBindIP=2&wsserid=1168239097216119550"
                         },
                         {
-                          "id": "lnk-d37ac279cb",
+                          "id": "lnk-afc7a9c4c8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
