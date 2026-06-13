@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:31 14/06/2026",
+  "last_updated": "06:40 14/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-276300dac07c",
-          "name": "⚽ Colo Colo vs Cobresal | H2 - 90+5' 3 - 0 04:30 14/06/2026",
-          "tournament": "Primera División",
-          "logo_nha": "https://media.api-sports.io/football/teams/2315.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2331.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2315.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-276300dac07c",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-276300dac07c",
-                  "name": "Colo Colo vs Cobresal",
-                  "streams": [
-                    {
-                      "id": "kaytee-276300dac07c",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6b84c64add",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwp3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=2e43619de47635a76c7caf13-178139347755422&wsIPSercert=769976722040d21d2d0f9c3cffbd7e1a&wsBindIP=2&wsserid=1168271909244056829"
-                        },
-                        {
-                          "id": "lnk-7e78099c42",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-73febafe2694",
-          "name": "⚽ Brazil vs Morocco | H2 - 66' 1 - 1 05:00 14/06/2026",
+          "name": "⚽ Brazil vs Morocco | Live 0 - 0 05:00 14/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ef4a023120",
+                          "id": "lnk-a122547667",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b619bea668504ad7c4fc7309-178139348553253&wsIPSercert=769976722040d21d2d0f9c3cffbd7e1a&wsBindIP=2&wsserid=1168271909250348456"
+                          "url": "https://tfwp1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e851a2b515b39bfc1b7fa041-178139405282597&wsIPSercert=70e24a9f10b133804eea9ecd5bdb2482&wsBindIP=2&wsserid=1168243256629514822"
                         },
                         {
-                          "id": "lnk-608c9ffdbc",
+                          "id": "lnk-20ad56898e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-752b9f5888e8",
-          "name": "⚽ Nublense vs Huachipato | Sắp diễn ra vs 07:00 14/06/2026",
+          "name": "⚽ Nublense vs Huachipato | Live 0 - 0 07:00 14/06/2026",
           "tournament": "Primera División",
           "logo_nha": "https://media.api-sports.io/football/teams/2337.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2328.png",
@@ -146,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +104,22 @@
                     {
                       "id": "kaytee-752b9f5888e8",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-d37ed1d800",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwp1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e851a2b515b39bfc1b7fa041-178139406125817&wsIPSercert=70e24a9f10b133804eea9ecd5bdb2482&wsBindIP=2&wsserid=1168243256629514822"
+                        },
+                        {
+                          "id": "lnk-660c14f70f",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -478,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-cebb4f7dae46",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3846b4085376",
+          "name": "⚽ Ulytau vs Zhenys | Sắp diễn ra vs 19:00 14/06/2026",
+          "tournament": "Ngoại hạng Kazakhstan",
+          "logo_nha": "https://media.api-sports.io/football/teams/21010.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/16611.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/21010.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3846b4085376",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3846b4085376",
+                  "name": "Ulytau vs Zhenys",
+                  "streams": [
+                    {
+                      "id": "kaytee-3846b4085376",
                       "name": "F",
                       "stream_links": []
                     }
