@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:01 14/06/2026",
+  "last_updated": "04:10 14/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-91fd6a98ad4a",
-          "name": "⚽ Qatar vs Switzerland | H2 - 90+4' 0 - 1 02:00 14/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://cdn.haitrieu.com/wp-content/uploads/2022/05/Logo-Doi-Tuyen-Qatar.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn.haitrieu.com/wp-content/uploads/2022/05/Logo-Doi-Tuyen-Qatar.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-91fd6a98ad4a",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-91fd6a98ad4a",
-                  "name": "Qatar vs Switzerland",
-                  "streams": [
-                    {
-                      "id": "kaytee-91fd6a98ad4a",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fcfd78c362",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwp3gr4nhct1gwzdepjqgr5uommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=3a8294388c4b3c7c46191384-178138447713669&wsIPSercert=9a659daf66dac86fd30a174b3022198c&wsBindIP=2&wsserid=1168271908997640246"
-                        },
-                        {
-                          "id": "lnk-d2492ede1a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-276300dac07c",
-          "name": "⚽ Colo Colo vs Cobresal | Sắp diễn ra vs 04:30 14/06/2026",
+          "name": "⚽ Colo Colo vs Cobresal | Sắp bắt đầu - null' 0 - 0 04:30 14/06/2026",
           "tournament": "Primera División",
           "logo_nha": "https://media.api-sports.io/football/teams/2315.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2331.png",
@@ -86,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +44,22 @@
                     {
                       "id": "kaytee-276300dac07c",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-28eb57dd0b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwp3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=dd67e4e1ba2ab3dcd1e556bd-178138505572846&wsIPSercert=15e5525c3c4b73000c5cc85cea49642a&wsBindIP=2&wsserid=1168239097241285722"
+                        },
+                        {
+                          "id": "lnk-39585b2b61",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -463,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-0bf66132a0cb",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-cebb4f7dae46",
+          "name": "⚽ Wuxi Wugou vs Meizhou Kejia | Sắp diễn ra vs 18:00 14/06/2026",
+          "tournament": "League One",
+          "logo_nha": "https://media.api-sports.io/football/teams/17269.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1439.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/17269.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-cebb4f7dae46",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-cebb4f7dae46",
+                  "name": "Wuxi Wugou vs Meizhou Kejia",
+                  "streams": [
+                    {
+                      "id": "kaytee-cebb4f7dae46",
                       "name": "F",
                       "stream_links": []
                     }
