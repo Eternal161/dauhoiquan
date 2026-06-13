@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:30 13/06/2026",
+  "last_updated": "20:40 13/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-8efc6a50c951",
-          "name": "⚽ Nanjing City vs Ningbo Professional | H2 - 90+9' 1 - 2 18:30 13/06/2026",
-          "tournament": "League One",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/6/63/Nanjing_City_F.C.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/27556.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/6/63/Nanjing_City_F.C.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-8efc6a50c951",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-8efc6a50c951",
-                  "name": "Nanjing City vs Ningbo Professional",
-                  "streams": [
-                    {
-                      "id": "kaytee-8efc6a50c951",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7a2174a9fd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-cbbde09316ad",
-          "name": "⚽ Inter Turku vs Ac Oulu | H2 - 69' 0 - 0 19:00 13/06/2026",
+          "name": "⚽ Inter Turku vs Ac Oulu | H2 - 79' 0 - 0 19:00 13/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/1164.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2077.png",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-46615cbbaa",
+                          "id": "lnk-c6723b50f6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178135746925098&wsIPSercert=280f099b2bf12f1365b8a460ad94ff3f&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwp1gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=45be673f9c0838073bc08b6e-178135805600747&wsIPSercert=636b035232d1914686e4988b649b9fe8&wsBindIP=2&wsserid=1168243343860730937"
                         },
                         {
-                          "id": "lnk-e1c55760fe",
+                          "id": "lnk-ea62c3f196",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -122,7 +69,7 @@
         },
         {
           "id": "kaytee-989ea2872caa",
-          "name": "⚽ Ilves vs Turku Ps | H2 - 71' 0 - 0 19:00 13/06/2026",
+          "name": "⚽ Ilves vs Turku Ps | H2 - 81' 1 - 0 19:00 13/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/1163.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1168.png",
@@ -159,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-873e33aaf2",
+                          "id": "lnk-d07d211731",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178135747777605&wsIPSercert=280f099b2bf12f1365b8a460ad94ff3f&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwp1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=eb70f8498029e49ad4e5bdab-178135806458770&wsIPSercert=636b035232d1914686e4988b649b9fe8&wsBindIP=2&wsserid=1168243343870168317"
                         },
                         {
-                          "id": "lnk-cfc87b7d9f",
+                          "id": "lnk-892e76ba77",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -182,7 +129,7 @@
         },
         {
           "id": "kaytee-1325be05a731",
-          "name": "⚽ Thailand U19 vs Australia U19 | H1 - 13' 0 - 0 20:15 13/06/2026",
+          "name": "⚽ Thailand U19 vs Australia U19 | H1 - 23' 0 - 0 20:15 13/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19155.png",
           "logo_khach": "https://media.api-sports.io/football/teams/22591.png",
@@ -219,11 +166,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0f986b1bfd",
+                          "id": "lnk-65815b7aef",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8"
+                          "url": "https://tfwp1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=49dc2719b8fc592deb946af6-178135807314447&wsIPSercert=636b035232d1914686e4988b649b9fe8&wsBindIP=2&wsserid=1168243256664118498"
+                        },
+                        {
+                          "id": "lnk-e67b015dc3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
                         }
                       ]
                     }
@@ -235,7 +189,7 @@
         },
         {
           "id": "kaytee-d1d9cdc2191f",
-          "name": "⚽ Vps vs Kups | Sắp diễn ra vs 21:00 13/06/2026",
+          "name": "⚽ Vps vs Kups | Sắp bắt đầu - null' 0 - 0 21:00 13/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/650.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
@@ -252,10 +206,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -270,7 +224,22 @@
                     {
                       "id": "kaytee-d1d9cdc2191f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-21347b5a3b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwp1gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0de74705abe5721b1a19c464-178135808147198&wsIPSercert=636b035232d1914686e4988b649b9fe8&wsBindIP=2&wsserid=1168243343857585137"
+                        },
+                        {
+                          "id": "lnk-4dedd38d20",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -494,6 +463,51 @@
                   "streams": [
                     {
                       "id": "kaytee-276300dac07c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-73febafe2694",
+          "name": "⚽ Brazil vs Morocco | Sắp diễn ra vs 05:00 14/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-73febafe2694",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-73febafe2694",
+                  "name": "Brazil vs Morocco",
+                  "streams": [
+                    {
+                      "id": "kaytee-73febafe2694",
                       "name": "F",
                       "stream_links": []
                     }
