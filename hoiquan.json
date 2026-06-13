@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:30 13/06/2026",
+  "last_updated": "16:40 13/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-ecd4a9532f1f",
-          "name": "⚽ Cambodia U19 vs Indonesia U19 | H1 - 30' 0 - 0 16:00 13/06/2026",
+          "name": "⚽ Cambodia U19 vs Indonesia U19 | H1 - 40' 0 - 0 16:00 13/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19148.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19149.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5cd4a7148c",
+                          "id": "lnk-ac75741d92",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=f64ed1182ed1d47a38e6ed7e-178134306187007&wsIPSercert=c9bd9c7286e90c889d3cd39148f5c4ae&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwp3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178134366099974&wsIPSercert=2b12876ba6f32909602c6c3a78005236&wsBindIP=2&wsserid=1177063474761571144"
                         },
                         {
-                          "id": "lnk-f4e4364e30",
+                          "id": "lnk-6802b6a22e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-084c45558454",
-          "name": "⚽ Laagri vs Kuressaare | Sắp bắt đầu - null' 0 - 0 16:30 13/06/2026",
+          "name": "⚽ Laagri vs Kuressaare | H1 - 10' 0 - 0 16:30 13/06/2026",
           "tournament": "Meistriliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/18657.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3526.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a385529436",
+                          "id": "lnk-aaae751122",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=fc387c98748ade8f54f1ef90-178134307051341&wsIPSercert=c9bd9c7286e90c889d3cd39148f5c4ae&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwp3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178134366980086&wsIPSercert=2b12876ba6f32909602c6c3a78005236&wsBindIP=2&wsserid=1177063474761571144"
                         },
                         {
-                          "id": "lnk-2f22ec6277",
+                          "id": "lnk-5dba8ded87",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
