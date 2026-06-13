@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:50 14/06/2026",
+  "last_updated": "01:00 14/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-a6cdc14fcfd7",
-          "name": "⚽ Dinamo Minsk vs Fc Gomel | Live 0 - 0 23:00 13/06/2026",
-          "tournament": "VĐQG Belarus",
-          "logo_nha": "https://media.api-sports.io/football/teams/394.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/389.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/394.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a6cdc14fcfd7",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a6cdc14fcfd7",
-                  "name": "Dinamo Minsk vs Fc Gomel",
-                  "streams": [
-                    {
-                      "id": "kaytee-a6cdc14fcfd7",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ef852a8b94",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwp3gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3a3ddfb0ca0fd79a326e7377-178137308142762&wsIPSercert=fa96c5d496611a66f326e0934ff766a6&wsBindIP=2&wsserid=1168239097222411122"
-                        },
-                        {
-                          "id": "lnk-694cd4af6f",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-8a0c3f84709e",
-          "name": "⚽ Dinamo Brest vs Neman | Live 0 - 0 01:00 14/06/2026",
+          "name": "⚽ Dinamo Brest vs Neman | Sắp bắt đầu - null' 0 - 0 01:00 14/06/2026",
           "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/386.png",
           "logo_khach": "https://media.api-sports.io/football/teams/387.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c80aa7fff2",
+                          "id": "lnk-de6fba928c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp3gr4nhct1gwzdepjqgr5uommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=221e31d450141dc605e1fa47-178137309028535&wsIPSercert=fa96c5d496611a66f326e0934ff766a6&wsBindIP=2&wsserid=1168271908994494404"
+                          "url": "https://tfwp3gr4nhct1gwzdepjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=4d0dc05b56b8dacf0f2a5310-178137366568284&wsIPSercert=5074f7b1d9d2765bff8824ddcb1911ef&wsBindIP=2&wsserid=1172648044479413382"
                         },
                         {
-                          "id": "lnk-5da1cee632",
+                          "id": "lnk-6890e89b4c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-be25564cff10",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a0488b868c0a",
+          "name": "⚽ Qingdao Red Lions vs Shanghai Port Ii | Sắp diễn ra vs 15:00 14/06/2026",
+          "tournament": "League Two",
+          "logo_nha": "https://media.api-sports.io/football/teams/5679.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/23289.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5679.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a0488b868c0a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a0488b868c0a",
+                  "name": "Qingdao Red Lions vs Shanghai Port Ii",
+                  "streams": [
+                    {
+                      "id": "kaytee-a0488b868c0a",
                       "name": "F",
                       "stream_links": []
                     }
