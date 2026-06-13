@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:01 14/06/2026",
+  "last_updated": "02:10 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-91fd6a98ad4a",
-          "name": "⚽ Qatar vs Switzerland | Live 0 - 0 02:00 14/06/2026",
+          "name": "⚽ Qatar vs Switzerland | H1 - 6' 0 - 0 02:00 14/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://cdn.haitrieu.com/wp-content/uploads/2022/05/Logo-Doi-Tuyen-Qatar.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-686d9d1ab0",
+                          "id": "lnk-41559c931e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp3gr4nhct1gwzdrcbqgr5ucmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=6064a06326c247d5c961d808-178137727163705&wsIPSercert=8ea5cdb784df0a78edb15c309eecb671&wsBindIP=2&wsserid=1172648037436127737"
+                          "url": "https://tfwp3gr4nhct1gwzdepjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=4d0dc05b56b8dacf0f2a5310-178137785672140&wsIPSercert=6d0afb5fd97628842d22c792ffdfdad6&wsBindIP=2&wsserid=1172648044479413382"
                         },
                         {
-                          "id": "lnk-31d54ed23f",
+                          "id": "lnk-13f724a5da",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
