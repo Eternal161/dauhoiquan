@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:30 13/06/2026",
+  "last_updated": "18:40 13/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8efc6a50c951",
-          "name": "⚽ Nanjing City vs Ningbo Professional | H1 - 1' 0 - 0 18:30 13/06/2026",
+          "name": "⚽ Nanjing City vs Ningbo Professional | H1 - 11' 1 - 0 18:30 13/06/2026",
           "tournament": "League One",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/6/63/Nanjing_City_F.C.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/27556.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e38ed507bf",
+                          "id": "lnk-acb587bfd9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp1gr4uqmtt8y41hcjs8rzdrc3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=0b0dfdc868cc75663ff75080-178135026582779&wsIPSercert=d979a00f18073764c83283e1cc15a4c2&wsBindIP=2&wsserid=1168228942752121565"
+                          "url": "https://tfwp4gchnhcjo8rzdrpjtfa4144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=2c45ec0ee708bf7b239c6926-178135085885147&wsIPSercert=06cdc78f481049543f20a4cd5da4ba55&wsBindIP=2&wsserid=1168168154451507561"
                         },
                         {
-                          "id": "lnk-85e3f423be",
+                          "id": "lnk-2eb952a2e6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,68 +68,8 @@
           ]
         },
         {
-          "id": "kaytee-b8ab879977cc",
-          "name": "⚽ Hebei Kungfu vs Suzhou Dongwu | Sắp bắt đầu - null' 0 - 0 18:30 13/06/2026",
-          "tournament": "League One",
-          "logo_nha": "https://media.api-sports.io/football/teams/17264.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/5688.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/17264.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b8ab879977cc",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b8ab879977cc",
-                  "name": "Hebei Kungfu vs Suzhou Dongwu",
-                  "streams": [
-                    {
-                      "id": "kaytee-b8ab879977cc",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7182db6ba1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwp1gr4uqmtt8y41hcjs8rzdrc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0b0dfdc868cc75663ff75080-178135027442201&wsIPSercert=d979a00f18073764c83283e1cc15a4c2&wsBindIP=2&wsserid=1168228942752121565"
-                        },
-                        {
-                          "id": "lnk-db4ce95a26",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-cbbde09316ad",
-          "name": "⚽ Inter Turku vs Ac Oulu | Sắp diễn ra vs 19:00 13/06/2026",
+          "name": "⚽ Inter Turku vs Ac Oulu | Sắp bắt đầu - null' 0 - 0 19:00 13/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/1164.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2077.png",
@@ -146,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +104,22 @@
                     {
                       "id": "kaytee-cbbde09316ad",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-5f638f6284",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwp4gchnhcjo8rzdrpjtfa4147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2c45ec0ee708bf7b239c6926-178135086758218&wsIPSercert=06cdc78f481049543f20a4cd5da4ba55&wsBindIP=2&wsserid=1168168154451507561"
+                        },
+                        {
+                          "id": "lnk-e0bf2b70f9",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -174,7 +129,7 @@
         },
         {
           "id": "kaytee-989ea2872caa",
-          "name": "⚽ Ilves vs Turku Ps | Sắp diễn ra vs 19:00 13/06/2026",
+          "name": "⚽ Ilves vs Turku Ps | Sắp bắt đầu - null' 0 - 0 19:00 13/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/1163.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1168.png",
@@ -191,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -209,7 +164,22 @@
                     {
                       "id": "kaytee-989ea2872caa",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-c2467563d0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwp4gchnhcjo8rzdrpjtfa4144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f7e42543e61847d2fa7bb4d5-178135087614013&wsIPSercert=06cdc78f481049543f20a4cd5da4ba55&wsBindIP=2&wsserid=1168168154453604765"
+                        },
+                        {
+                          "id": "lnk-1d5c65b60a",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -478,6 +448,51 @@
                   "streams": [
                     {
                       "id": "kaytee-91fd6a98ad4a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-276300dac07c",
+          "name": "⚽ Colo Colo vs Cobresal | Sắp diễn ra vs 04:30 14/06/2026",
+          "tournament": "Primera División",
+          "logo_nha": "https://media.api-sports.io/football/teams/2315.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2331.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2315.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-276300dac07c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-276300dac07c",
+                  "name": "Colo Colo vs Cobresal",
+                  "streams": [
+                    {
+                      "id": "kaytee-276300dac07c",
                       "name": "F",
                       "stream_links": []
                     }
