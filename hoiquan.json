@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:51 13/06/2026",
+  "last_updated": "07:01 13/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-5fc86661dbc0",
-          "name": "⚽ Atletico Goianiense vs Crb | H2 - 90+1' 3 - 4 05:00 13/06/2026",
-          "tournament": "Serie B",
-          "logo_nha": "https://media.api-sports.io/football/teams/144.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/146.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/144.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-5fc86661dbc0",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-5fc86661dbc0",
-                  "name": "Atletico Goianiense vs Crb",
-                  "streams": [
-                    {
-                      "id": "kaytee-5fc86661dbc0",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a0d67b2953",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwo6grauqmtofaauomtzgwssohmcpf5gkmu3cf3gha5rpazga4mscw.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=af77dd921cf5bee2d806d283-178130830663797&wsIPSercert=454bbd5b756c2ff79d7608a4564872db&wsBindIP=2&wsserid=1168235375212408782"
-                        },
-                        {
-                          "id": "lnk-d39462b98e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-aa57cd5fefd0",
           "name": "⚽ Khai Mạc Wc vs Khai Mạc Wc | Live 0 - 0 06:30 13/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-47e045ef35",
+                          "id": "lnk-88df9ae012",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo6grauqmtofaauomtzgwssohmcpf5gkmu3cf3gha5rpazga4mscw.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=af77dd921cf5bee2d806d283-178130831483988&wsIPSercert=454bbd5b756c2ff79d7608a4564872db&wsBindIP=2&wsserid=1168235375212408782"
+                          "url": "https://tfwp6grauqmtofaauomts8rssohmcpf5gkmu3cf3gha5rpazga4mscw.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f700ec4e85d01d6d8eff9319-178130888389536&wsIPSercert=a760dace5a492fe14dba46b8fa76fb13&wsBindIP=2&wsserid=1168235375269033072"
                         },
                         {
-                          "id": "lnk-39202ace2c",
+                          "id": "lnk-97c0d7c0e1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-881a064f335f",
-          "name": "⚽ A. Italiano vs D. La Serena | Sắp bắt đầu - null' 0 - 0 07:00 13/06/2026",
+          "name": "⚽ A. Italiano vs D. La Serena | H1 - 2' 0 - 0 07:00 13/06/2026",
           "tournament": "Primera División",
           "logo_nha": "https://media.api-sports.io/football/teams/2329.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2341.png",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-dc7e105f71",
+                          "id": "lnk-59a5866b8b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwo6grauqmtofaauomtzgwssohmcpf5gkmu3cf3gha5rpazga4mscw.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=af77dd921cf5bee2d806d283-178130832322962&wsIPSercert=454bbd5b756c2ff79d7608a4564872db&wsBindIP=2&wsserid=1168235375212408782"
+                          "url": "https://tfwp6grauqmtofaauomts8rssohmcpf5gkmu3cf3gha5rpazga4mscw.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=af77dd921cf5bee2d806d283-178130889196974&wsIPSercert=a760dace5a492fe14dba46b8fa76fb13&wsBindIP=2&wsserid=1168235375212408782"
                         },
                         {
-                          "id": "lnk-232dbedeb4",
+                          "id": "lnk-7a99183841",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-cbbde09316ad",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-989ea2872caa",
+          "name": "⚽ Ilves vs Turku Ps | Sắp diễn ra vs 19:00 13/06/2026",
+          "tournament": "Veikkausliiga",
+          "logo_nha": "https://media.api-sports.io/football/teams/1163.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1168.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1163.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-989ea2872caa",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-989ea2872caa",
+                  "name": "Ilves vs Turku Ps",
+                  "streams": [
+                    {
+                      "id": "kaytee-989ea2872caa",
                       "name": "F",
                       "stream_links": []
                     }
