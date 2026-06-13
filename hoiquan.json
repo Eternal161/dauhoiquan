@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:50 14/06/2026",
+  "last_updated": "02:01 14/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-8a0c3f84709e",
-          "name": "⚽ Dinamo Brest vs Neman | Giữa Hiệp - 45+3' 1 - 1 01:00 14/06/2026",
-          "tournament": "VĐQG Belarus",
-          "logo_nha": "https://media.api-sports.io/football/teams/386.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/387.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/386.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-8a0c3f84709e",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-8a0c3f84709e",
-                  "name": "Dinamo Brest vs Neman",
-                  "streams": [
-                    {
-                      "id": "kaytee-8a0c3f84709e",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-41cbf9e1fc",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwp3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=603d041721ccfa302d95abed-178137665741449&wsIPSercert=f5b397eb527ec90846d381280f2c2c45&wsBindIP=2&wsserid=1168239097216119550"
-                        },
-                        {
-                          "id": "lnk-5b29466912",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-91fd6a98ad4a",
-          "name": "⚽ Qatar vs Switzerland | Sắp bắt đầu - null' 0 - 0 02:00 14/06/2026",
+          "name": "⚽ Qatar vs Switzerland | Live 0 - 0 02:00 14/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://cdn.haitrieu.com/wp-content/uploads/2022/05/Logo-Doi-Tuyen-Qatar.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c905411a18",
+                          "id": "lnk-686d9d1ab0",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=603d041721ccfa302d95abed-178137666542427&wsIPSercert=f5b397eb527ec90846d381280f2c2c45&wsBindIP=2&wsserid=1168239097216119550"
+                          "url": "https://tfwp3gr4nhct1gwzdrcbqgr5ucmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=6064a06326c247d5c961d808-178137727163705&wsIPSercert=8ea5cdb784df0a78edb15c309eecb671&wsBindIP=2&wsserid=1172648037436127737"
                         },
                         {
-                          "id": "lnk-b2fea17df6",
+                          "id": "lnk-31d54ed23f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-a0488b868c0a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0bf66132a0cb",
+          "name": "⚽ Changchun Dazhong Nữ vs Shaanxi Changan Nữ | Sắp diễn ra vs 16:00 14/06/2026",
+          "tournament": "Super League Nữ",
+          "logo_nha": "https://static.flashscore.com/res/image/data/WKc6mHyS-tEXwrGhb.png",
+          "logo_khach": "https://static.flashscore.com/res/image/data/C8nTZQ9r-YaMzy9gF.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://static.flashscore.com/res/image/data/WKc6mHyS-tEXwrGhb.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0bf66132a0cb",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0bf66132a0cb",
+                  "name": "Changchun Dazhong Nữ vs Shaanxi Changan Nữ",
+                  "streams": [
+                    {
+                      "id": "kaytee-0bf66132a0cb",
                       "name": "F",
                       "stream_links": []
                     }
