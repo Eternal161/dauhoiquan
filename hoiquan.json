@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:01 13/06/2026",
+  "last_updated": "18:10 13/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f6794dc4b8",
+                          "id": "lnk-981458c0f7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-084c45558454",
-          "name": "⚽ Laagri vs Kuressaare | H2 - 71' 1 - 1 16:30 13/06/2026",
+          "name": "⚽ Laagri vs Kuressaare | H2 - 81' 1 - 2 16:30 13/06/2026",
           "tournament": "Meistriliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/18657.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3526.png",
@@ -99,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-30c69e3d65",
+                          "id": "lnk-325881ecba",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp4gchnhcjo8rzdrpjtfahn47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=1a7e779dd8ced2edf73e23dc-178134847805659&wsIPSercert=b989f22e0ea7b74cd57b0822edd1828e&wsBindIP=2&wsserid=1168235283031012122"
+                          "url": "https://tfwp4gchnhcjo8rzdrpjtfahn47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=1a7e779dd8ced2edf73e23dc-178134907691290&wsIPSercert=d51b34b76ae69962461f81e82c1b1086&wsBindIP=2&wsserid=1168235283031012122"
                         },
                         {
-                          "id": "lnk-4029c07cfc",
+                          "id": "lnk-8833580652",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -159,14 +159,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a887932a23",
+                          "id": "lnk-9acd754e3b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=2c45ec0ee708bf7b239c6926-178134848648614&wsIPSercert=b989f22e0ea7b74cd57b0822edd1828e&wsBindIP=2&wsserid=1168168154451507561"
+                          "url": "https://tfwp4gchnhcjo8rzdrpjtfahn44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=a494d14ca8a5025163275316-178134908524817&wsIPSercert=d51b34b76ae69962461f81e82c1b1086&wsBindIP=2&wsserid=1168168154459896377"
                         },
                         {
-                          "id": "lnk-f8e00e8492",
+                          "id": "lnk-9560f288d8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -182,7 +182,7 @@
         },
         {
           "id": "kaytee-8efc6a50c951",
-          "name": "⚽ Nanjing City vs Ningbo Professional | Sắp diễn ra vs 18:30 13/06/2026",
+          "name": "⚽ Nanjing City vs Ningbo Professional | Sắp bắt đầu - null' 0 - 0 18:30 13/06/2026",
           "tournament": "League One",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/6/63/Nanjing_City_F.C.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/27556.png",
@@ -199,10 +199,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -217,7 +217,22 @@
                     {
                       "id": "kaytee-8efc6a50c951",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-53eb28d00c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwp4gchnhcjo8rzdrpjtfahn44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=a494d14ca8a5025163275316-178134909393432&wsIPSercert=d51b34b76ae69962461f81e82c1b1086&wsBindIP=2&wsserid=1168168154459896377"
+                        },
+                        {
+                          "id": "lnk-05d82a7bbf",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -227,7 +242,7 @@
         },
         {
           "id": "kaytee-b8ab879977cc",
-          "name": "⚽ Hebei Kungfu vs Suzhou Dongwu | Sắp diễn ra vs 18:30 13/06/2026",
+          "name": "⚽ Hebei Kungfu vs Suzhou Dongwu | Sắp bắt đầu - null' 0 - 0 18:30 13/06/2026",
           "tournament": "League One",
           "logo_nha": "https://media.api-sports.io/football/teams/17264.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5688.png",
@@ -244,10 +259,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -262,7 +277,22 @@
                     {
                       "id": "kaytee-b8ab879977cc",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-5cc3462d1d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwp4gchnhcjo8rzdrpjtfahn47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=1a7e779dd8ced2edf73e23dc-178134910258566&wsIPSercert=d51b34b76ae69962461f81e82c1b1086&wsBindIP=2&wsserid=1168235283031012122"
+                        },
+                        {
+                          "id": "lnk-c82a43a04a",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
