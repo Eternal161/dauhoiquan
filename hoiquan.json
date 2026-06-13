@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:20 13/06/2026",
+  "last_updated": "16:30 13/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-d525c6143a21",
-          "name": "⚽ Changchun Yatai vs Dalian Huayi | H2 - 90+2' 2 - 1 14:30 13/06/2026",
-          "tournament": "League One",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzlfhmJARhzPrVKMwuFLSrBIsvCgKqClnx0w&s",
-          "logo_khach": "https://media.api-sports.io/football/teams/5652.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzlfhmJARhzPrVKMwuFLSrBIsvCgKqClnx0w&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-d525c6143a21",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-d525c6143a21",
-                  "name": "Changchun Yatai vs Dalian Huayi",
-                  "streams": [
-                    {
-                      "id": "kaytee-d525c6143a21",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-be6b421d4f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwp0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178134245832876&wsIPSercert=8758fb05341be39be62b9c83e7a9c006&wsBindIP=2&wsserid=1168231785641135723"
-                        },
-                        {
-                          "id": "lnk-7010702d7b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-ecd4a9532f1f",
-          "name": "⚽ Cambodia U19 vs Indonesia U19 | H1 - 20' 0 - 0 16:00 13/06/2026",
+          "name": "⚽ Cambodia U19 vs Indonesia U19 | H1 - 30' 0 - 0 16:00 13/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19148.png",
           "logo_khach": "https://media.api-sports.io/football/teams/19149.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b526649d6f",
+                          "id": "lnk-5cd4a7148c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=6a4094de2f01003befc3243a-178134246699470&wsIPSercert=8758fb05341be39be62b9c83e7a9c006&wsBindIP=2&wsserid=1168231589578109987"
+                          "url": "https://tfwp1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=f64ed1182ed1d47a38e6ed7e-178134306187007&wsIPSercert=c9bd9c7286e90c889d3cd39148f5c4ae&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-13f391d5f5",
+                          "id": "lnk-f4e4364e30",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6f7a96674d",
+                          "id": "lnk-a385529436",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178134247584268&wsIPSercert=8758fb05341be39be62b9c83e7a9c006&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfwp0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=fc387c98748ade8f54f1ef90-178134307051341&wsIPSercert=c9bd9c7286e90c889d3cd39148f5c4ae&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-b1b51c6af3",
+                          "id": "lnk-2f22ec6277",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-62aff6f72521",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a6cdc14fcfd7",
+          "name": "⚽ Dinamo Minsk vs Fc Gomel | Sắp diễn ra vs 23:00 13/06/2026",
+          "tournament": "VĐQG Belarus",
+          "logo_nha": "https://media.api-sports.io/football/teams/394.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/389.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/394.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a6cdc14fcfd7",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a6cdc14fcfd7",
+                  "name": "Dinamo Minsk vs Fc Gomel",
+                  "streams": [
+                    {
+                      "id": "kaytee-a6cdc14fcfd7",
                       "name": "F",
                       "stream_links": []
                     }
