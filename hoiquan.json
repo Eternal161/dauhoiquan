@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:41 13/06/2026",
+  "last_updated": "21:50 13/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1325be05a731",
-          "name": "⚽ Thailand U19 vs Australia U19 | H2 - 65' 0 - 1 20:15 13/06/2026",
+          "name": "⚽ Thailand U19 vs Australia U19 | H2 - 75' 0 - 1 20:15 13/06/2026",
           "tournament": "ASEAN Championship U19",
           "logo_nha": "https://media.api-sports.io/football/teams/19155.png",
           "logo_khach": "https://media.api-sports.io/football/teams/22591.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c859547e95",
+                          "id": "lnk-7cc4f36e07",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=6a4094de2f01003befc3243a-178136168203203&wsIPSercert=b9c22ac33628173f692b90795c90eab6&wsBindIP=2&wsserid=1168231589578109987"
+                          "url": "https://tfwp0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=6a4094de2f01003befc3243a-178136226536757&wsIPSercert=6318eeb25d4396f31157fba2a6853ef6&wsBindIP=2&wsserid=1168231589578109987"
                         },
                         {
-                          "id": "lnk-fbc2c38731",
+                          "id": "lnk-bae65e44ce",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-d1d9cdc2191f",
-          "name": "⚽ Vps vs Kups | H1 - 40' 1 - 0 21:00 13/06/2026",
+          "name": "⚽ Vps vs Kups | Giữa Hiệp - 45+1' 1 - 0 21:00 13/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/650.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-65390fbaa2",
+                          "id": "lnk-3c31d93aec",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178136169104105&wsIPSercert=b9c22ac33628173f692b90795c90eab6&wsBindIP=2&wsserid=1168231589572867007"
+                          "url": "https://tfwp0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178136227414615&wsIPSercert=6318eeb25d4396f31157fba2a6853ef6&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-a05f1b5682",
+                          "id": "lnk-b843e9df4f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
