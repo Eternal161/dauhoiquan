@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:40 14/06/2026",
+  "last_updated": "21:50 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-4419d47f93cd",
-          "name": "⚽ Ljungskile Sk vs Ostersunds Fk | Live 0 - 0 20:00 14/06/2026",
+          "name": "⚽ Ljungskile Sk vs Ostersunds Fk | H2 - 90+5' 1 - 1 20:00 14/06/2026",
           "tournament": "Superettan",
           "logo_nha": "https://media.api-sports.io/football/teams/2165.png",
           "logo_khach": "https://media.api-sports.io/football/teams/376.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-42313edef2",
+                          "id": "lnk-1373ff39a2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178144805816202&wsIPSercert=d82a79fb5072e2f1fcd2041a615b0fcd&wsBindIP=2&wsserid=1168231589572867007"
+                          "url": "https://tfwq1gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=45be673f9c0838073bc08b6e-178144866601984&wsIPSercert=a0e667a0d65d9a3a08cb98e032f06a72&wsBindIP=2&wsserid=1168243343860730937"
                         },
                         {
-                          "id": "lnk-ba8fb6c77e",
+                          "id": "lnk-1a7fe96f3e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-1699870e3571",
-          "name": "⚽ São Bernardo vs Sport Recife | Live 0 - 0 21:00 14/06/2026",
+          "name": "⚽ São Bernardo vs Sport Recife | H1 - 45+4' 0 - 0 21:00 14/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/7865.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VAnv52Bj5vR_eOaVQiyM-aJo5PyseuSEbQ&s",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-639d12005d",
+                          "id": "lnk-8438c494bf",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178144806696809&wsIPSercert=d82a79fb5072e2f1fcd2041a615b0fcd&wsBindIP=2&wsserid=1168231785641135723"
+                          "url": "https://tfwq1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=1dcbe5f7cb158398529deaa3-178144867443571&wsIPSercert=a0e667a0d65d9a3a08cb98e032f06a72&wsBindIP=2&wsserid=1168243256626369038"
                         },
                         {
-                          "id": "lnk-6b77f14cf9",
+                          "id": "lnk-823808ef4f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-8c4d11c9acc3",
-          "name": "⚽ Fc Dnepr Mogilev vs Arsenal Dzerzhinsk | Live 0 - 0 22:00 14/06/2026",
+          "name": "⚽ Fc Dnepr Mogilev vs Arsenal Dzerzhinsk | Sắp bắt đầu - null' 0 - 0 22:00 14/06/2026",
           "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/384.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/3/3b/%D0%A4%D0%9A_%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B0%D0%BB_%D0%94%D0%B7%D1%8F%D1%80%D0%B6%D1%8B%D0%BD%D1%81%D0%BA.gif?utm_source=www.wikidata.org&utm_campaign=index&utm_content=thumbnail_unscaled",
@@ -166,10 +166,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2e44299eb3",
+                          "id": "lnk-391d411872",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwq1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e851a2b515b39bfc1b7fa041-178144868312153&wsIPSercert=a0e667a0d65d9a3a08cb98e032f06a72&wsBindIP=2&wsserid=1168243256629514822"
+                        },
+                        {
+                          "id": "lnk-c714a873e9",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
