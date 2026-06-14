@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:20 14/06/2026",
+  "last_updated": "15:30 14/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-be25564cff10",
-          "name": "⚽ Rockdale City Suns vs Sd Raiders | H2 - 90+1' 0 - 1 13:30 14/06/2026",
-          "tournament": "New South Wales NPL",
-          "logo_nha": "https://media.api-sports.io/football/teams/3770.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/16777.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/3770.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-be25564cff10",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-be25564cff10",
-                  "name": "Rockdale City Suns vs Sd Raiders",
-                  "streams": [
-                    {
-                      "id": "kaytee-be25564cff10",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-259bb79c6e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwq0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178142526281730&wsIPSercert=f34856ed6834dea872aed02cbdbef094&wsBindIP=2&wsserid=1168231589572867007"
-                        },
-                        {
-                          "id": "lnk-3f70b151aa",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-a0488b868c0a",
-          "name": "⚽ Qingdao Red Lions vs Shanghai Port Ii | H1 - 19' 1 - 0 15:00 14/06/2026",
+          "name": "⚽ Qingdao Red Lions vs Shanghai Port Ii | H1 - 30' 1 - 0 15:00 14/06/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/5679.png",
           "logo_khach": "https://media.api-sports.io/football/teams/23289.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6dd2ea0d2b",
+                          "id": "lnk-838a9678e3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=00489e5fa24fa852f6673a81-178142527165417&wsIPSercert=f34856ed6834dea872aed02cbdbef094&wsBindIP=2&wsserid=1168231589574964209"
+                          "url": "https://tfwq1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0e049b26c5ec10b00ed2fc6c-178142586383917&wsIPSercert=d7280755f9418e8c6a4aba36df510fc0&wsBindIP=2&wsserid=1168283323302724409"
                         },
                         {
-                          "id": "lnk-f76eb9e0d0",
+                          "id": "lnk-05859e0147",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -218,7 +158,7 @@
           ]
         },
         {
-          "id": "kaytee-3846b4085376",
+          "id": "kaytee-74dd84ac3ccc",
           "name": "⚽ Ulytau vs Zhenys | Sắp diễn ra vs 19:00 14/06/2026",
           "tournament": "Ngoại hạng Kazakhstan",
           "logo_nha": "https://media.api-sports.io/football/teams/21010.png",
@@ -244,15 +184,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-3846b4085376",
+              "id": "kaytee-74dd84ac3ccc",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-3846b4085376",
+                  "id": "kaytee-74dd84ac3ccc",
                   "name": "Ulytau vs Zhenys",
                   "streams": [
                     {
-                      "id": "kaytee-3846b4085376",
+                      "id": "kaytee-74dd84ac3ccc",
                       "name": "F",
                       "stream_links": []
                     }
@@ -263,11 +203,11 @@
           ]
         },
         {
-          "id": "kaytee-33c18c4c6479",
-          "name": "⚽ Cotonsport vs Canon | Sắp diễn ra vs 20:00 14/06/2026",
-          "tournament": "Elite One",
-          "logo_nha": "https://media.api-sports.io/football/teams/5401.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/5560.png",
+          "id": "kaytee-4419d47f93cd",
+          "name": "⚽ Ljungskile Sk vs Ostersunds Fk | Sắp diễn ra vs 20:00 14/06/2026",
+          "tournament": "Superettan",
+          "logo_nha": "https://media.api-sports.io/football/teams/2165.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/376.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -275,7 +215,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/5401.png",
+            "url": "https://media.api-sports.io/football/teams/2165.png",
             "width": 1600,
             "height": 1200
           },
@@ -289,15 +229,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-33c18c4c6479",
+              "id": "kaytee-4419d47f93cd",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-33c18c4c6479",
-                  "name": "Cotonsport vs Canon",
+                  "id": "kaytee-4419d47f93cd",
+                  "name": "Ljungskile Sk vs Ostersunds Fk",
                   "streams": [
                     {
-                      "id": "kaytee-33c18c4c6479",
+                      "id": "kaytee-4419d47f93cd",
                       "name": "F",
                       "stream_links": []
                     }
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-df7fb24b0f6f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-39b435096686",
+          "name": "⚽ Netherlands vs Japan | Sắp diễn ra vs 03:00 15/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/1118.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1118.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-39b435096686",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-39b435096686",
+                  "name": "Netherlands vs Japan",
+                  "streams": [
+                    {
+                      "id": "kaytee-39b435096686",
                       "name": "F",
                       "stream_links": []
                     }
