@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:50 15/06/2026",
+  "last_updated": "02:00 15/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-494796bc8fe8",
-          "name": "⚽ Germany vs Curaçao | H2 - 88' 6 - 1 00:00 15/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/250px-Flag_of_Cura%C3%A7ao.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-494796bc8fe8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-494796bc8fe8",
-                  "name": "Germany vs Curaçao",
-                  "streams": [
-                    {
-                      "id": "kaytee-494796bc8fe8",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5e9e4c21af",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwq4go3nhcjtghzdrpbsfah144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3e4874c7800af5fdffcac6e8-178146306157984&wsIPSercert=ac80fcdb4720f627ef8754d079b7f9cd&wsBindIP=2&wsserid=1168270624942823287"
-                        },
-                        {
-                          "id": "lnk-220d717a7c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-39b435096686",
           "name": "⚽ Netherlands vs Japan | Sắp diễn ra vs 03:00 15/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-13b38dc8dc85",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-776c22da5352",
+          "name": "⚽ Criciuma vs Ceara | Sắp diễn ra vs 07:00 16/06/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/140.png",
+          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpEq0ZDxhCpCOUtgbmrKrxUfha1DH3ajU-Q&s",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/140.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-776c22da5352",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-776c22da5352",
+                  "name": "Criciuma vs Ceara",
+                  "streams": [
+                    {
+                      "id": "kaytee-776c22da5352",
                       "name": "F",
                       "stream_links": []
                     }
