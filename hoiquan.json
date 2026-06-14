@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:50 14/06/2026",
+  "last_updated": "00:00 15/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-8c4d11c9acc3",
-          "name": "⚽ Fc Dnepr Mogilev vs Arsenal Dzerzhinsk | H2 - 90+3' 0 - 1 22:00 14/06/2026",
-          "tournament": "VĐQG Belarus",
-          "logo_nha": "https://media.api-sports.io/football/teams/384.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/3/3b/%D0%A4%D0%9A_%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B0%D0%BB_%D0%94%D0%B7%D1%8F%D1%80%D0%B6%D1%8B%D0%BD%D1%81%D0%BA.gif?utm_source=www.wikidata.org&utm_campaign=index&utm_content=thumbnail_unscaled",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/384.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-8c4d11c9acc3",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-8c4d11c9acc3",
-                  "name": "Fc Dnepr Mogilev vs Arsenal Dzerzhinsk",
-                  "streams": [
-                    {
-                      "id": "kaytee-8c4d11c9acc3",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ec9f4e2fc5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=dd67e4e1ba2ab3dcd1e556bd-178145586271861&wsIPSercert=138dfef8c1336c05ba2c72b9079cee47&wsBindIP=2&wsserid=1168239097241285722"
-                        },
-                        {
-                          "id": "lnk-05425232a6",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-fb6e578d4e87",
           "name": "⚽ Ayacucho Fc vs Club Deportivo Los Chankas | Giữa Hiệp - 45+1' 0 - 1 23:30 14/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f7d4e14588",
+                          "id": "lnk-d6e36084a7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3a3ddfb0ca0fd79a326e7377-178145587131214&wsIPSercert=138dfef8c1336c05ba2c72b9079cee47&wsBindIP=2&wsserid=1168239097222411122"
+                          "url": "https://tfwq3gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3a3ddfb0ca0fd79a326e7377-178145646658207&wsIPSercert=2650ff92c2dbb7d0da20982416353178&wsBindIP=2&wsserid=1168239097222411122"
                         },
                         {
-                          "id": "lnk-c4e74bddc1",
+                          "id": "lnk-b33e45ebe4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9f960a8bfe",
+                          "id": "lnk-e042188601",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ff451cfe95dafc5596a3de93-178145587954862&wsIPSercert=138dfef8c1336c05ba2c72b9079cee47&wsBindIP=2&wsserid=1168276518870124245"
+                          "url": "https://tfwq3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ee1ebc7ca2eb16c49145384f-178145647506889&wsIPSercert=2650ff92c2dbb7d0da20982416353178&wsBindIP=2&wsserid=1168239097219265334"
                         },
                         {
-                          "id": "lnk-bd17d318dc",
+                          "id": "lnk-8729d8a0c7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-b0b1dd6b7418",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-16082dd045d9",
+          "name": "⚽ Belgium vs Egypt | Sắp diễn ra vs 02:00 16/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/1.png",
+          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-16082dd045d9",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-16082dd045d9",
+                  "name": "Belgium vs Egypt",
+                  "streams": [
+                    {
+                      "id": "kaytee-16082dd045d9",
                       "name": "F",
                       "stream_links": []
                     }
