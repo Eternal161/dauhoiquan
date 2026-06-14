@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "12:50 14/06/2026",
+  "last_updated": "13:00 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-380c5194098c",
-          "name": "⚽ Australia vs Türkiye | H2 - 90' 2 - 0 11:00 14/06/2026",
+          "name": "⚽ Australia vs Türkiye | H2 - 90+6' 2 - 0 11:00 14/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/777.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f72225b034",
+                          "id": "lnk-2fa161fd3f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdepjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=4d0dc05b56b8dacf0f2a5310-178141626315639&wsIPSercert=7c559c237149688aba9d82d0c3fd0767&wsBindIP=2&wsserid=1172648044479413382"
+                          "url": "https://tfwq3gr4nhct1gwzdrcbqgr5ucmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=6064a06326c247d5c961d808-178141686659918&wsIPSercert=c82904ab0e97736ad96150365327b1cc&wsBindIP=2&wsserid=1172648037436127737"
                         },
                         {
-                          "id": "lnk-b1d767b677",
+                          "id": "lnk-873cd660ec",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
