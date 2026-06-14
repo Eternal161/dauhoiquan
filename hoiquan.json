@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:01 14/06/2026",
+  "last_updated": "09:11 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-3bc05f9e5eb8",
-          "name": "⚽ Haiti vs Scotland | Giữa Hiệp - 45+5' 0 - 1 08:00 14/06/2026",
+          "name": "⚽ Haiti vs Scotland | H2 - 47' 0 - 1 08:00 14/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1bdc31d6c1",
+                          "id": "lnk-96e6538cdf",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq1gr4uqmtt8y41hcjagyzdectppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2a82412f16710baeb5395b10-178140248494746&wsIPSercert=0a9bfcde80f046f48df0ff6377f3ee60&wsBindIP=2&wsserid=1168259294120458059"
+                          "url": "https://tfwq3gr4nhct1gwzdepjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=12d33b50aac9e72c284962da-178140307237133&wsIPSercert=f49d04cc771c2e6f274cc7ecfc47ff60&wsBindIP=2&wsserid=1172648037437176343"
                         },
                         {
-                          "id": "lnk-b5a2cd5292",
+                          "id": "lnk-2a6055205e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-3b0b1e99bc6b",
-          "name": "⚽ Oakland Roots vs Miami Fc | Sắp bắt đầu - null' 0 - 0 09:00 14/06/2026",
+          "name": "⚽ Oakland Roots vs Miami Fc | H1 - 4' 0 - 0 09:00 14/06/2026",
           "tournament": "USL Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Oakland_Roots_SC_logo.svg/250px-Oakland_Roots_SC_logo.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/9030.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4ca43d6544",
+                          "id": "lnk-73123f595e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq1gr4uqmtt8y41hcjagyzdectppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=029f54528673c3f1b32360d8-178140249329632&wsIPSercert=0a9bfcde80f046f48df0ff6377f3ee60&wsBindIP=2&wsserid=1168259296640705555"
+                          "url": "https://tfwq3gr4nhct1gwzdepjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=12d33b50aac9e72c284962da-178140308012533&wsIPSercert=f49d04cc771c2e6f274cc7ecfc47ff60&wsBindIP=2&wsserid=1172648037437176343"
                         },
                         {
-                          "id": "lnk-31575f20e6",
+                          "id": "lnk-afe33efad2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
