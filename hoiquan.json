@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:01 14/06/2026",
+  "last_updated": "20:10 14/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-935d172a9be1",
-          "name": "⚽ Ninh Bình vs Ho Chi Minh | H2 - 90' 1 - 2 18:00 14/06/2026",
-          "tournament": "Cúp quốc gia Việt Nam",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/4/47/Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg/250px-Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-935d172a9be1",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-935d172a9be1",
-                  "name": "Ninh Bình vs Ho Chi Minh",
-                  "streams": [
-                    {
-                      "id": "kaytee-935d172a9be1",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-22392dbe26",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwq3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=48fd414b4b689dc7f41f4800-178144207426613&wsIPSercert=54d3a359ca244fcbb47ff5f4acb8343d&wsBindIP=2&wsserid=1172662091344090222"
-                        },
-                        {
-                          "id": "lnk-539d787e9c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-74dd84ac3ccc",
-          "name": "⚽ Ulytau vs Zhenys | Giữa Hiệp - 45+1' 0 - 0 19:00 14/06/2026",
+          "name": "⚽ Ulytau vs Zhenys | H2 - 53' 0 - 0 19:00 14/06/2026",
           "tournament": "Ngoại hạng Kazakhstan",
           "logo_nha": "https://media.api-sports.io/football/teams/21010.png",
           "logo_khach": "https://media.api-sports.io/football/teams/16611.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-12c30b8f6d",
+                          "id": "lnk-54e8c2f67f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178144208238660&wsIPSercert=54d3a359ca244fcbb47ff5f4acb8343d&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfwq0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=cd928fc8bd71595dacf45826-178144266476732&wsIPSercert=6c84ac570fd5cbf0b65a885e9cd1274e&wsBindIP=2&wsserid=1168231589586498745"
                         },
                         {
-                          "id": "lnk-846343415e",
+                          "id": "lnk-8cb3f9f7c1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-4419d47f93cd",
-          "name": "⚽ Ljungskile Sk vs Ostersunds Fk | Sắp bắt đầu - null' 0 - 0 20:00 14/06/2026",
+          "name": "⚽ Ljungskile Sk vs Ostersunds Fk | H1 - 11' 0 - 0 20:00 14/06/2026",
           "tournament": "Superettan",
           "logo_nha": "https://media.api-sports.io/football/teams/2165.png",
           "logo_khach": "https://media.api-sports.io/football/teams/376.png",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d7eef77b27",
+                          "id": "lnk-7b4494cb1c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq1gr4uqmtt8y41hcjs8rzdrc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=96d404a860e827c2055a235b-178144209093383&wsIPSercert=54d3a359ca244fcbb47ff5f4acb8343d&wsBindIP=2&wsserid=1168228938982826579"
+                          "url": "https://tfwq0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178144267358165&wsIPSercert=6c84ac570fd5cbf0b65a885e9cd1274e&wsBindIP=2&wsserid=1168231589572867007"
                         },
                         {
-                          "id": "lnk-5c57802458",
+                          "id": "lnk-ec25200433",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-1bcf69e5659e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-096b48faeea0",
+          "name": "⚽ Changchun Dazhong Nữ vs Shaanxi Changan Nữ | Sắp diễn ra vs 16:00 15/06/2026",
+          "tournament": "Super League Nữ",
+          "logo_nha": "https://static.flashscore.com/res/image/data/WKc6mHyS-tEXwrGhb.png",
+          "logo_khach": "https://static.flashscore.com/res/image/data/C8nTZQ9r-YaMzy9gF.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://static.flashscore.com/res/image/data/WKc6mHyS-tEXwrGhb.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-096b48faeea0",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-096b48faeea0",
+                  "name": "Changchun Dazhong Nữ vs Shaanxi Changan Nữ",
+                  "streams": [
+                    {
+                      "id": "kaytee-096b48faeea0",
                       "name": "F",
                       "stream_links": []
                     }
