@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:10 14/06/2026",
+  "last_updated": "20:20 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-74dd84ac3ccc",
-          "name": "⚽ Ulytau vs Zhenys | H2 - 53' 0 - 0 19:00 14/06/2026",
+          "name": "⚽ Ulytau vs Zhenys | H2 - 63' 0 - 1 19:00 14/06/2026",
           "tournament": "Ngoại hạng Kazakhstan",
           "logo_nha": "https://media.api-sports.io/football/teams/21010.png",
           "logo_khach": "https://media.api-sports.io/football/teams/16611.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-54e8c2f67f",
+                          "id": "lnk-0bbb85553d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=cd928fc8bd71595dacf45826-178144266476732&wsIPSercert=6c84ac570fd5cbf0b65a885e9cd1274e&wsBindIP=2&wsserid=1168231589586498745"
+                          "url": "https://tfwq1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=8ba658945e64d68e86674644-178144325743945&wsIPSercert=7691c56577b478531fc95b0e3aa97e2c&wsBindIP=2&wsserid=1168283618402913555"
                         },
                         {
-                          "id": "lnk-8cb3f9f7c1",
+                          "id": "lnk-070f8dbfd9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-4419d47f93cd",
-          "name": "⚽ Ljungskile Sk vs Ostersunds Fk | H1 - 11' 0 - 0 20:00 14/06/2026",
+          "name": "⚽ Ljungskile Sk vs Ostersunds Fk | Live 0 - 0 20:00 14/06/2026",
           "tournament": "Superettan",
           "logo_nha": "https://media.api-sports.io/football/teams/2165.png",
           "logo_khach": "https://media.api-sports.io/football/teams/376.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7b4494cb1c",
+                          "id": "lnk-c1fe8cd828",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178144267358165&wsIPSercert=6c84ac570fd5cbf0b65a885e9cd1274e&wsBindIP=2&wsserid=1168231589572867007"
+                          "url": "https://tfwq1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178144326614401&wsIPSercert=7691c56577b478531fc95b0e3aa97e2c&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-ec25200433",
+                          "id": "lnk-fdd0643714",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
