@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:20 14/06/2026",
+  "last_updated": "23:30 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-39125f0a0c",
+                          "id": "lnk-8d3c2ddda4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdepjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4d0dc05b56b8dacf0f2a5310-178145406553076&wsIPSercert=27849ca60d02dfdbd72f12ec9d10128e&wsBindIP=2&wsserid=1172648044479413382"
+                          "url": "https://tfwq3gr4nhct1gwzdrcbqgr5dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=bb6ce163600ee613e6092327-178145466942032&wsIPSercert=df807bf74e00f50423053312af04c728&wsBindIP=2&wsserid=1168239097252820256"
                         },
                         {
-                          "id": "lnk-df14204006",
+                          "id": "lnk-046a72e07d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,8 +68,8 @@
           ]
         },
         {
-          "id": "kaytee-03c2868e00d0",
-          "name": "⚽ Ayacucho Fc vs Club Deportivo Los Chankas | Live 0 - 0 23:00 14/06/2026",
+          "id": "kaytee-fb6e578d4e87",
+          "name": "⚽ Ayacucho Fc vs Club Deportivo Los Chankas | Live 0 - 0 23:30 14/06/2026",
           "tournament": "VĐQG Chile",
           "logo_nha": "https://media.api-sports.io/football/teams/2542.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2572.png",
@@ -94,26 +94,26 @@
           ],
           "sources": [
             {
-              "id": "kaytee-03c2868e00d0",
+              "id": "kaytee-fb6e578d4e87",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-03c2868e00d0",
+                  "id": "kaytee-fb6e578d4e87",
                   "name": "Ayacucho Fc vs Club Deportivo Los Chankas",
                   "streams": [
                     {
-                      "id": "kaytee-03c2868e00d0",
+                      "id": "kaytee-fb6e578d4e87",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b4836f0e16",
+                          "id": "lnk-a78f5039d2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdepjqgeaurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=12d33b50aac9e72c284962da-178145407404740&wsIPSercert=27849ca60d02dfdbd72f12ec9d10128e&wsBindIP=2&wsserid=1172648037437176343"
+                          "url": "https://tfwq3gr4nhct1gwzdrcbqgr5dommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=bb6ce163600ee613e6092327-178145467837556&wsIPSercert=df807bf74e00f50423053312af04c728&wsBindIP=2&wsserid=1168239097252820256"
                         },
                         {
-                          "id": "lnk-750dc7812a",
+                          "id": "lnk-5c886fcb88",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
