@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:01 14/06/2026",
+  "last_updated": "23:10 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8c4d11c9acc3",
-          "name": "⚽ Fc Dnepr Mogilev vs Arsenal Dzerzhinsk | Giữa Hiệp - 45+2' 0 - 1 22:00 14/06/2026",
+          "name": "⚽ Fc Dnepr Mogilev vs Arsenal Dzerzhinsk | Live 0 - 0 22:00 14/06/2026",
           "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/384.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/3/3b/%D0%A4%D0%9A_%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B0%D0%BB_%D0%94%D0%B7%D1%8F%D1%80%D0%B6%D1%8B%D0%BD%D1%81%D0%BA.gif?utm_source=www.wikidata.org&utm_campaign=index&utm_content=thumbnail_unscaled",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d6f20b873b",
+                          "id": "lnk-2fd0d5e4d8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178145287259444&wsIPSercert=908c263a0d9aeab29c9460a7f47e77af&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfwq1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=f64ed1182ed1d47a38e6ed7e-178145345651552&wsIPSercert=e4e001ddeab9fc6bc28f29a329f84c0d&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-879e23ebc1",
+                          "id": "lnk-bea909bcf5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-03c2868e00d0",
-          "name": "⚽ Ayacucho Fc vs Club Deportivo Los Chankas | H1 - 1' 0 - 0 23:00 14/06/2026",
+          "name": "⚽ Ayacucho Fc vs Club Deportivo Los Chankas | Live 0 - 0 23:00 14/06/2026",
           "tournament": "VĐQG Chile",
           "logo_nha": "https://media.api-sports.io/football/teams/2542.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2572.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1133340a98",
+                          "id": "lnk-608c34389f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178145288128440&wsIPSercert=908c263a0d9aeab29c9460a7f47e77af&wsBindIP=2&wsserid=1168231589572867007"
+                          "url": "https://tfwq1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=94245d5293b2ddbce4bab474-178145346479296&wsIPSercert=e4e001ddeab9fc6bc28f29a329f84c0d&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-6e9ac614a9",
+                          "id": "lnk-523838887e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
