@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:30 14/06/2026",
+  "last_updated": "15:40 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a0488b868c0a",
-          "name": "⚽ Qingdao Red Lions vs Shanghai Port Ii | H1 - 30' 1 - 0 15:00 14/06/2026",
+          "name": "⚽ Qingdao Red Lions vs Shanghai Port Ii | H1 - 40' 1 - 0 15:00 14/06/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/5679.png",
           "logo_khach": "https://media.api-sports.io/football/teams/23289.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-838a9678e3",
+                          "id": "lnk-f0852b73d4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0e049b26c5ec10b00ed2fc6c-178142586383917&wsIPSercert=d7280755f9418e8c6a4aba36df510fc0&wsBindIP=2&wsserid=1168283323302724409"
+                          "url": "https://tfwq1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0e049b26c5ec10b00ed2fc6c-178142645616811&wsIPSercert=551c544e6129f74aca2847f1c1aff80c&wsBindIP=2&wsserid=1168283323302724409"
                         },
                         {
-                          "id": "lnk-05859e0147",
+                          "id": "lnk-6e4ff2b4d4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-0bf66132a0cb",
-          "name": "⚽ Changchun Dazhong Nữ vs Shaanxi Changan Nữ | Sắp diễn ra vs 16:00 14/06/2026",
+          "name": "⚽ Changchun Dazhong Nữ vs Shaanxi Changan Nữ | Live 0 - 0 16:00 14/06/2026",
           "tournament": "Super League Nữ",
           "logo_nha": "https://static.flashscore.com/res/image/data/WKc6mHyS-tEXwrGhb.png",
           "logo_khach": "https://static.flashscore.com/res/image/data/C8nTZQ9r-YaMzy9gF.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-0bf66132a0cb",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-151ff9ac0d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwq0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178142646475984&wsIPSercert=551c544e6129f74aca2847f1c1aff80c&wsBindIP=2&wsserid=1168231589572867007"
+                        },
+                        {
+                          "id": "lnk-7766eba8a2",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
