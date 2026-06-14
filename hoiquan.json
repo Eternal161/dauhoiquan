@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:00 14/06/2026",
+  "last_updated": "11:10 14/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-3b0b1e99bc6b",
-          "name": "⚽ Oakland Roots vs Miami Fc | H2 - 90+3' 0 - 0 09:00 14/06/2026",
-          "tournament": "USL Championship",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Oakland_Roots_SC_logo.svg/250px-Oakland_Roots_SC_logo.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/9030.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Oakland_Roots_SC_logo.svg/250px-Oakland_Roots_SC_logo.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3b0b1e99bc6b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3b0b1e99bc6b",
-                  "name": "Oakland Roots vs Miami Fc",
-                  "streams": [
-                    {
-                      "id": "kaytee-3b0b1e99bc6b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2f0c6f898f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdepjqgr5uommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=221e31d450141dc605e1fa47-178140966500965&wsIPSercert=7e053f7234d961705847746d49cb4e70&wsBindIP=2&wsserid=1168271908994494404"
-                        },
-                        {
-                          "id": "lnk-6af7ee5a13",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-380c5194098c",
-          "name": "⚽ Australia vs Türkiye | Sắp bắt đầu - null' 0 - 0 11:00 14/06/2026",
+          "name": "⚽ Australia vs Türkiye | H1 - 10' 0 - 0 11:00 14/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/777.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b41f61395a",
+                          "id": "lnk-7a73e45186",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdepjqgr5uommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=221e31d450141dc605e1fa47-178140967306815&wsIPSercert=7e053f7234d961705847746d49cb4e70&wsBindIP=2&wsserid=1168271908994494404"
+                          "url": "https://tfwq3gr4nhct1gwzdepjqgr5uommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=221e31d450141dc605e1fa47-178141026535422&wsIPSercert=9358e35363b0625b9eecb1417fb7a4e1&wsBindIP=2&wsserid=1168271908994494404"
                         },
                         {
-                          "id": "lnk-724b15d7f9",
+                          "id": "lnk-bca9828144",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-8c4d11c9acc3",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-03c2868e00d0",
+          "name": "⚽ Ayacucho Fc vs Club Deportivo Los Chankas | Sắp diễn ra vs 23:00 14/06/2026",
+          "tournament": "VĐQG Chile",
+          "logo_nha": "https://media.api-sports.io/football/teams/2542.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2572.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2542.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-03c2868e00d0",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-03c2868e00d0",
+                  "name": "Ayacucho Fc vs Club Deportivo Los Chankas",
+                  "streams": [
+                    {
+                      "id": "kaytee-03c2868e00d0",
                       "name": "F",
                       "stream_links": []
                     }
