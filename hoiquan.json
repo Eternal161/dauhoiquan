@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:31 15/06/2026",
+  "last_updated": "02:41 15/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-f574e12cccff",
-          "name": "⚽ Netherlands vs Japan | Live 0 - 0 03:00 15/06/2026",
+          "name": "⚽ Netherlands vs Japan | Sắp bắt đầu - null' 0 - 0 03:00 15/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1118.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e84680a8c8",
+                          "id": "lnk-9d314e70b8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdrcbqgr5dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=24d0bcfecf387584fb7d9e30-178146547889483&wsIPSercert=c2ea8f5aa45773016645d0b9d1e64838&wsBindIP=2&wsserid=1168239097255966052"
+                          "url": "https://tfwq3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=df1e133a31f0cbad27a86555-178146610779784&wsIPSercert=f0522bf362b79f293df104d3000323e0&wsBindIP=2&wsserid=1168271909248251247"
                         },
                         {
-                          "id": "lnk-7dd7633d1e",
+                          "id": "lnk-b4ae9ad61c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
