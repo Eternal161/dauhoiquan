@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:20 14/06/2026",
+  "last_updated": "07:30 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-752b9f5888e8",
-          "name": "⚽ Nublense vs Huachipato | H1 - 19' 0 - 2 07:00 14/06/2026",
+          "name": "⚽ Nublense vs Huachipato | H1 - 30' 0 - 2 07:00 14/06/2026",
           "tournament": "Primera División",
           "logo_nha": "https://media.api-sports.io/football/teams/2337.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2328.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c7be16a090",
+                          "id": "lnk-091d62e6a2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdepjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4d0dc05b56b8dacf0f2a5310-178139645835401&wsIPSercert=36a990cc302663698bb6d2b9660c51cc&wsBindIP=2&wsserid=1172648044479413382"
+                          "url": "https://tfwq3gr4nhct1gwzdepjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4d0dc05b56b8dacf0f2a5310-178139706249602&wsIPSercert=a4f96feffa316c47c5c59ca75cba1f37&wsBindIP=2&wsserid=1172648044479413382"
                         },
                         {
-                          "id": "lnk-acb2531e74",
+                          "id": "lnk-790545c4b1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-3bc05f9e5eb8",
-          "name": "⚽ Haiti vs Scotland | Sắp diễn ra vs 08:00 14/06/2026",
+          "name": "⚽ Haiti vs Scotland | Sắp bắt đầu - null' 0 - 0 08:00 14/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-3bc05f9e5eb8",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-9e4cadfd5b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwq3gr4nhct1gwzdepjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=88f0a4062ffbc1b0954dcaee-178139707051819&wsIPSercert=a4f96feffa316c47c5c59ca75cba1f37&wsBindIP=2&wsserid=1172648044469976162"
+                        },
+                        {
+                          "id": "lnk-153571c038",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
