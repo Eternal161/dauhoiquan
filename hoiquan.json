@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:50 14/06/2026",
+  "last_updated": "22:00 14/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-4419d47f93cd",
-          "name": "⚽ Ljungskile Sk vs Ostersunds Fk | H2 - 90+5' 1 - 1 20:00 14/06/2026",
-          "tournament": "Superettan",
-          "logo_nha": "https://media.api-sports.io/football/teams/2165.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/376.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2165.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-4419d47f93cd",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-4419d47f93cd",
-                  "name": "Ljungskile Sk vs Ostersunds Fk",
-                  "streams": [
-                    {
-                      "id": "kaytee-4419d47f93cd",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1373ff39a2",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwq1gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=45be673f9c0838073bc08b6e-178144866601984&wsIPSercert=a0e667a0d65d9a3a08cb98e032f06a72&wsBindIP=2&wsserid=1168243343860730937"
-                        },
-                        {
-                          "id": "lnk-1a7fe96f3e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-1699870e3571",
-          "name": "⚽ São Bernardo vs Sport Recife | H1 - 45+4' 0 - 0 21:00 14/06/2026",
+          "name": "⚽ São Bernardo vs Sport Recife | Giữa Hiệp - 45+10' 0 - 0 21:00 14/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/7865.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VAnv52Bj5vR_eOaVQiyM-aJo5PyseuSEbQ&s",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8438c494bf",
+                          "id": "lnk-eeb8006211",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=1dcbe5f7cb158398529deaa3-178144867443571&wsIPSercert=a0e667a0d65d9a3a08cb98e032f06a72&wsBindIP=2&wsserid=1168243256626369038"
+                          "url": "https://tfwq3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178144926434258&wsIPSercert=95200ca30efa4b1422242e5782cc7f76&wsBindIP=2&wsserid=1177063474761571144"
                         },
                         {
-                          "id": "lnk-823808ef4f",
+                          "id": "lnk-ee9b6b8ae5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-391d411872",
+                          "id": "lnk-7f13bde985",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e851a2b515b39bfc1b7fa041-178144868312153&wsIPSercert=a0e667a0d65d9a3a08cb98e032f06a72&wsBindIP=2&wsserid=1168243256629514822"
+                          "url": "https://tfwq3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178144927281240&wsIPSercert=95200ca30efa4b1422242e5782cc7f76&wsBindIP=2&wsserid=1177063474761571144"
                         },
                         {
-                          "id": "lnk-c714a873e9",
+                          "id": "lnk-54573a7f48",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-ce92d7c51d65",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6f87c5a65374",
+          "name": "⚽ Spain vs Cape Verde Islands | Sắp diễn ra vs 23:00 15/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/9.png",
+          "logo_khach": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/9.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6f87c5a65374",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6f87c5a65374",
+                  "name": "Spain vs Cape Verde Islands",
+                  "streams": [
+                    {
+                      "id": "kaytee-6f87c5a65374",
                       "name": "F",
                       "stream_links": []
                     }
