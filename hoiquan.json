@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:20 14/06/2026",
+  "last_updated": "20:30 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-74dd84ac3ccc",
-          "name": "⚽ Ulytau vs Zhenys | H2 - 63' 0 - 1 19:00 14/06/2026",
+          "name": "⚽ Ulytau vs Zhenys | H2 - 73' 1 - 1 19:00 14/06/2026",
           "tournament": "Ngoại hạng Kazakhstan",
           "logo_nha": "https://media.api-sports.io/football/teams/21010.png",
           "logo_khach": "https://media.api-sports.io/football/teams/16611.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0bbb85553d",
+                          "id": "lnk-93cd31ba92",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=8ba658945e64d68e86674644-178144325743945&wsIPSercert=7691c56577b478531fc95b0e3aa97e2c&wsBindIP=2&wsserid=1168283618402913555"
+                          "url": "https://tfwq0gr3uomttgr31hcj18yzdncbifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=0a6da6fafa64155c8f59b100-178144385812140&wsIPSercert=52a83ee34e6e61198ce4ca9032bb943e&wsBindIP=2&wsserid=1168243256673555874"
                         },
                         {
-                          "id": "lnk-070f8dbfd9",
+                          "id": "lnk-4561ab4100",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-4419d47f93cd",
-          "name": "⚽ Ljungskile Sk vs Ostersunds Fk | Live 0 - 0 20:00 14/06/2026",
+          "name": "⚽ Ljungskile Sk vs Ostersunds Fk | H1 - 30' 0 - 0 20:00 14/06/2026",
           "tournament": "Superettan",
           "logo_nha": "https://media.api-sports.io/football/teams/2165.png",
           "logo_khach": "https://media.api-sports.io/football/teams/376.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c1fe8cd828",
+                          "id": "lnk-fe910f5b43",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178144326614401&wsIPSercert=7691c56577b478531fc95b0e3aa97e2c&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwq0gr3uomttgr31hcj18yzdncbifi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=9f1b081ef9a16404d905b5a8-178144386648156&wsIPSercert=52a83ee34e6e61198ce4ca9032bb943e&wsBindIP=2&wsserid=1168243256670410082"
                         },
                         {
-                          "id": "lnk-fdd0643714",
+                          "id": "lnk-eb5525fe65",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-1699870e3571",
-          "name": "⚽ São Bernardo vs Sport Recife | Sắp diễn ra vs 21:00 14/06/2026",
+          "name": "⚽ São Bernardo vs Sport Recife | Sắp bắt đầu - null' 0 - 0 21:00 14/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/7865.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VAnv52Bj5vR_eOaVQiyM-aJo5PyseuSEbQ&s",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-1699870e3571",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-33af9d46e5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwq0gr3uomttgr31hcj18yzdncbifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=9f1b081ef9a16404d905b5a8-178144387501341&wsIPSercert=52a83ee34e6e61198ce4ca9032bb943e&wsBindIP=2&wsserid=1168243256670410082"
+                        },
+                        {
+                          "id": "lnk-7e8e062eb3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
