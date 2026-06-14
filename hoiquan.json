@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "13:00 14/06/2026",
+  "last_updated": "13:10 14/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-380c5194098c",
-          "name": "⚽ Australia vs Türkiye | H2 - 90+6' 2 - 0 11:00 14/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/777.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-380c5194098c",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-380c5194098c",
-                  "name": "Australia vs Türkiye",
-                  "streams": [
-                    {
-                      "id": "kaytee-380c5194098c",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2fa161fd3f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdrcbqgr5ucmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=6064a06326c247d5c961d808-178141686659918&wsIPSercert=c82904ab0e97736ad96150365327b1cc&wsBindIP=2&wsserid=1172648037436127737"
-                        },
-                        {
-                          "id": "lnk-873cd660ec",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-be25564cff10",
-          "name": "⚽ Rockdale City Suns vs Sd Raiders | Sắp diễn ra vs 13:30 14/06/2026",
+          "name": "⚽ Rockdale City Suns vs Sd Raiders | Sắp bắt đầu - null' 0 - 0 13:30 14/06/2026",
           "tournament": "New South Wales NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/3770.png",
           "logo_khach": "https://media.api-sports.io/football/teams/16777.png",
@@ -86,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +44,22 @@
                     {
                       "id": "kaytee-be25564cff10",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-41f746d1c3",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwq3gr4nhct1gwzdepjqgr5uommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3a8294388c4b3c7c46191384-178141746674511&wsIPSercert=30642ede803c5ead4dad0c7a4b699df2&wsBindIP=2&wsserid=1168271908997640246"
+                        },
+                        {
+                          "id": "lnk-4e1424aa53",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -463,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-03c2868e00d0",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-df7fb24b0f6f",
+          "name": "⚽ Germany vs Curaçao | Sắp diễn ra vs 00:00 15/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/250px-Flag_of_Cura%C3%A7ao.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-df7fb24b0f6f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-df7fb24b0f6f",
+                  "name": "Germany vs Curaçao",
+                  "streams": [
+                    {
+                      "id": "kaytee-df7fb24b0f6f",
                       "name": "F",
                       "stream_links": []
                     }
