@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:10 14/06/2026",
+  "last_updated": "21:20 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-4419d47f93cd",
-          "name": "⚽ Ljungskile Sk vs Ostersunds Fk | H2 - 54' 0 - 0 20:00 14/06/2026",
+          "name": "⚽ Ljungskile Sk vs Ostersunds Fk | Live 0 - 0 20:00 14/06/2026",
           "tournament": "Superettan",
           "logo_nha": "https://media.api-sports.io/football/teams/2165.png",
           "logo_khach": "https://media.api-sports.io/football/teams/376.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-761de2d6ab",
+                          "id": "lnk-24a4d1142e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=5bd5ca106460d708e48cc2cb-178144626561112&wsIPSercert=f2fefb912394fa20c76b612dc5940ea8&wsBindIP=2&wsserid=1168158473487963106"
+                          "url": "https://tfwq1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178144685534606&wsIPSercert=663dd20ba3cc0a71485c1eca993b6991&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-2d1691a6e9",
+                          "id": "lnk-9c2ef09231",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-1699870e3571",
-          "name": "⚽ São Bernardo vs Sport Recife | H1 - 9' 0 - 0 21:00 14/06/2026",
+          "name": "⚽ São Bernardo vs Sport Recife | Live 0 - 0 21:00 14/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/7865.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VAnv52Bj5vR_eOaVQiyM-aJo5PyseuSEbQ&s",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0366b29441",
+                          "id": "lnk-f30db4f534",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178144627417072&wsIPSercert=f2fefb912394fa20c76b612dc5940ea8&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfwq1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178144686435178&wsIPSercert=663dd20ba3cc0a71485c1eca993b6991&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-ad4b653bae",
+                          "id": "lnk-bd7c3c47e4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
