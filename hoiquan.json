@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "14:10 14/06/2026",
+  "last_updated": "14:21 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-be25564cff10",
-          "name": "⚽ Rockdale City Suns vs Sd Raiders | H1 - 37' 0 - 0 13:30 14/06/2026",
+          "name": "⚽ Rockdale City Suns vs Sd Raiders | Live 0 - 0 13:30 14/06/2026",
           "tournament": "New South Wales NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/3770.png",
           "logo_khach": "https://media.api-sports.io/football/teams/16777.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b23ff114c3",
+                          "id": "lnk-9293550fb1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3a3ddfb0ca0fd79a326e7377-178142105854601&wsIPSercert=a61cde72e5239a1458c7f959b47d1899&wsBindIP=2&wsserid=1168239097222411122"
+                          "url": "https://tfwq3gr4nhct1gwzdepjqgr5uommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3a8294388c4b3c7c46191384-178142167353948&wsIPSercert=9b662411a0b0ab26b14029f246770888&wsBindIP=2&wsserid=1168271908997640246"
                         },
                         {
-                          "id": "lnk-e9ec7db07f",
+                          "id": "lnk-75c2f00578",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
