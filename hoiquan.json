@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:40 14/06/2026",
+  "last_updated": "15:50 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a0488b868c0a",
-          "name": "⚽ Qingdao Red Lions vs Shanghai Port Ii | H1 - 40' 1 - 0 15:00 14/06/2026",
+          "name": "⚽ Qingdao Red Lions vs Shanghai Port Ii | Giữa Hiệp - 45+2' 1 - 0 15:00 14/06/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/5679.png",
           "logo_khach": "https://media.api-sports.io/football/teams/23289.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f0852b73d4",
+                          "id": "lnk-38242a4477",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0e049b26c5ec10b00ed2fc6c-178142645616811&wsIPSercert=551c544e6129f74aca2847f1c1aff80c&wsBindIP=2&wsserid=1168283323302724409"
+                          "url": "https://tfwq0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=00489e5fa24fa852f6673a81-178142706541819&wsIPSercert=0ff98fbfd2d4e0e28678e69345e483c5&wsBindIP=2&wsserid=1168231589574964209"
                         },
                         {
-                          "id": "lnk-6e4ff2b4d4",
+                          "id": "lnk-ef64a6de6b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-151ff9ac0d",
+                          "id": "lnk-466f6154e1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178142646475984&wsIPSercert=551c544e6129f74aca2847f1c1aff80c&wsBindIP=2&wsserid=1168231589572867007"
+                          "url": "https://tfwq1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178142707395328&wsIPSercert=0ff98fbfd2d4e0e28678e69345e483c5&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-7766eba8a2",
+                          "id": "lnk-e5d3c0060a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
