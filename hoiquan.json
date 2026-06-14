@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:31 15/06/2026",
+  "last_updated": "05:40 15/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-459bddf7b1",
+                          "id": "lnk-18375f8f2d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdepjqgr5uommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3a8294388c4b3c7c46191384-178147627137494&wsIPSercert=5404c70186a6fe5e4f2be76468ab62f0&wsBindIP=2&wsserid=1168271908997640246"
+                          "url": "https://tfwq3gr4nhct1gwzdepjqgeaurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=12d33b50aac9e72c284962da-178147686081971&wsIPSercert=d52b9d2c1ca2dcacd18bc938d988332c&wsBindIP=2&wsserid=1172648037437176343"
                         },
                         {
-                          "id": "lnk-dc65cab446",
+                          "id": "lnk-5120329255",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-8bbb3e893c48",
-          "name": "⚽ Ivory Coast vs Ecuador | Sắp diễn ra vs 06:00 15/06/2026",
+          "name": "⚽ Ivory Coast vs Ecuador | Sắp bắt đầu - null' 0 - 0 06:00 15/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-8bbb3e893c48",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-65fc3cbb8e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwq3gr4nhct1gwzdepjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=88f0a4062ffbc1b0954dcaee-178147686961267&wsIPSercert=d52b9d2c1ca2dcacd18bc938d988332c&wsBindIP=2&wsserid=1172648044469976162"
+                        },
+                        {
+                          "id": "lnk-17ba038578",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
