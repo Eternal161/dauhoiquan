@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:01 15/06/2026",
+  "last_updated": "06:10 15/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-61a35ea6d9ec",
-          "name": "⚽ Cotonsport vs Canon | Sắp bắt đầu - null' 0 - 0 22:00 14/06/2026",
-          "tournament": "Elite One",
-          "logo_nha": "https://media.api-sports.io/football/teams/5401.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/5560.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/5401.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-61a35ea6d9ec",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-61a35ea6d9ec",
-                  "name": "Cotonsport vs Canon",
-                  "streams": [
-                    {
-                      "id": "kaytee-61a35ea6d9ec",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-10da8a77a1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdepjqgr5uommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3a8294388c4b3c7c46191384-178147807765471&wsIPSercert=8af2f31244661145a49a48ee05424df4&wsBindIP=2&wsserid=1168271908997640246"
-                        },
-                        {
-                          "id": "lnk-e42a18707b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-8bbb3e893c48",
           "name": "⚽ Ivory Coast vs Ecuador | Sắp bắt đầu - null' 0 - 0 06:00 15/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8b76f8dbd1",
+                          "id": "lnk-8c3fb8b620",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdepjqgr5uommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=221e31d450141dc605e1fa47-178147808617357&wsIPSercert=8af2f31244661145a49a48ee05424df4&wsBindIP=2&wsserid=1168271908994494404"
+                          "url": "https://tfwq3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e29dd5cec0156eb8fe973324-178147866089375&wsIPSercert=e64d158beecdd0e05d336c0a3082cc60&wsBindIP=2&wsserid=1168239097228702694"
                         },
                         {
-                          "id": "lnk-880d76577d",
+                          "id": "lnk-734cd787c3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-776c22da5352",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-845e7111c1a5",
+          "name": "⚽ Iran vs New Zealand | Sắp diễn ra vs 08:00 16/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcHjuJwQinnq7yrEdYTZNb6xYpuKE2zdRCXg&s",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcHjuJwQinnq7yrEdYTZNb6xYpuKE2zdRCXg&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-845e7111c1a5",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-845e7111c1a5",
+                  "name": "Iran vs New Zealand",
+                  "streams": [
+                    {
+                      "id": "kaytee-845e7111c1a5",
                       "name": "F",
                       "stream_links": []
                     }
