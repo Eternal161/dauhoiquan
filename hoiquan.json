@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:01 14/06/2026",
+  "last_updated": "10:10 14/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-3bc05f9e5eb8",
-          "name": "⚽ Haiti vs Scotland | H2 - 90+6' 0 - 1 08:00 14/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3bc05f9e5eb8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3bc05f9e5eb8",
-                  "name": "Haiti vs Scotland",
-                  "streams": [
-                    {
-                      "id": "kaytee-3bc05f9e5eb8",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ffce4a9bee",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwq0gr4uqmtt8y41hcjz8rzdrcjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=a28f47d49e6cd857dc3fc959-178140607253587&wsIPSercert=3f6405d091fed5a0b8e609c67055d47d&wsBindIP=2&wsserid=1168214357021015793"
-                        },
-                        {
-                          "id": "lnk-955acbecd8",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-3b0b1e99bc6b",
-          "name": "⚽ Oakland Roots vs Miami Fc | Giữa Hiệp - 45+5' 0 - 0 09:00 14/06/2026",
+          "name": "⚽ Oakland Roots vs Miami Fc | Live 0 - 0 09:00 14/06/2026",
           "tournament": "USL Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Oakland_Roots_SC_logo.svg/250px-Oakland_Roots_SC_logo.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/9030.png",
@@ -86,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -104,22 +44,7 @@
                     {
                       "id": "kaytee-3b0b1e99bc6b",
                       "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4505a57fe1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwq0gr4uqmtt8y41hcjz8rzdrcjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=a28f47d49e6cd857dc3fc959-178140608108273&wsIPSercert=3f6405d091fed5a0b8e609c67055d47d&wsBindIP=2&wsserid=1168214357021015793"
-                        },
-                        {
-                          "id": "lnk-245d46aab0",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -478,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-1699870e3571",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8c4d11c9acc3",
+          "name": "⚽ Fc Dnepr Mogilev vs Arsenal Dzerzhinsk | Sắp diễn ra vs 22:00 14/06/2026",
+          "tournament": "VĐQG Belarus",
+          "logo_nha": "https://media.api-sports.io/football/teams/384.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/3/3b/%D0%A4%D0%9A_%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B0%D0%BB_%D0%94%D0%B7%D1%8F%D1%80%D0%B6%D1%8B%D0%BD%D1%81%D0%BA.gif?utm_source=www.wikidata.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/384.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8c4d11c9acc3",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8c4d11c9acc3",
+                  "name": "Fc Dnepr Mogilev vs Arsenal Dzerzhinsk",
+                  "streams": [
+                    {
+                      "id": "kaytee-8c4d11c9acc3",
                       "name": "F",
                       "stream_links": []
                     }
