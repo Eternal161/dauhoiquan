@@ -1,15 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:00 15/06/2026",
+  "last_updated": "02:10 15/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-39b435096686",
-          "name": "⚽ Netherlands vs Japan | Sắp diễn ra vs 03:00 15/06/2026",
+          "id": "kaytee-f574e12cccff",
+          "name": "⚽ Netherlands vs Japan | Live 0 - 0 03:00 15/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1118.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
@@ -26,25 +26,40 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
             {
-              "id": "kaytee-39b435096686",
+              "id": "kaytee-f574e12cccff",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-39b435096686",
+                  "id": "kaytee-f574e12cccff",
                   "name": "Netherlands vs Japan",
                   "streams": [
                     {
-                      "id": "kaytee-39b435096686",
+                      "id": "kaytee-f574e12cccff",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-72b06a27a4",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwq4go3nhcjtghzdrpbsfah144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=d60eefed1c25465a64a4caf9-178146426201424&wsIPSercert=e4c6b24c0b1a069b084914799332117b&wsBindIP=2&wsserid=1168270624937580236"
+                        },
+                        {
+                          "id": "lnk-f702d3b804",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
