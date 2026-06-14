@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:10 14/06/2026",
+  "last_updated": "16:20 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a0488b868c0a",
-          "name": "⚽ Qingdao Red Lions vs Shanghai Port Ii | H2 - 53' 1 - 0 15:00 14/06/2026",
+          "name": "⚽ Qingdao Red Lions vs Shanghai Port Ii | H2 - 63' 1 - 0 15:00 14/06/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/5679.png",
           "logo_khach": "https://media.api-sports.io/football/teams/23289.png",
@@ -46,78 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b38c8c8710",
+                          "id": "lnk-2905ab3dc5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=00489e5fa24fa852f6673a81-178142826393125&wsIPSercert=437fb5f0b9a410670326aae6c3cc16b4&wsBindIP=2&wsserid=1168231589574964209"
+                          "url": "https://tfwq1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=e851a2b515b39bfc1b7fa041-178142886412414&wsIPSercert=c7b5684c25ef51a87b635473157b76af&wsBindIP=2&wsserid=1168243256629514822"
                         },
                         {
-                          "id": "lnk-dc3f5cd255",
+                          "id": "lnk-bb2dc44492",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-0bf66132a0cb",
-          "name": "⚽ Changchun Dazhong Nữ vs Shaanxi Changan Nữ | Live 0 - 0 16:00 14/06/2026",
-          "tournament": "Super League Nữ",
-          "logo_nha": "https://static.flashscore.com/res/image/data/WKc6mHyS-tEXwrGhb.png",
-          "logo_khach": "https://static.flashscore.com/res/image/data/C8nTZQ9r-YaMzy9gF.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://static.flashscore.com/res/image/data/WKc6mHyS-tEXwrGhb.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-0bf66132a0cb",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-0bf66132a0cb",
-                  "name": "Changchun Dazhong Nữ vs Shaanxi Changan Nữ",
-                  "streams": [
-                    {
-                      "id": "kaytee-0bf66132a0cb",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fcc2de9315",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwq0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178142827227061&wsIPSercert=437fb5f0b9a410670326aae6c3cc16b4&wsBindIP=2&wsserid=1168231589572867007"
-                        },
-                        {
-                          "id": "lnk-8fd7b2f314",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
                         }
                       ]
                     }
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-39b435096686",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8bbb3e893c48",
+          "name": "⚽ Ivory Coast vs Ecuador | Sắp diễn ra vs 06:00 15/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8bbb3e893c48",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8bbb3e893c48",
+                  "name": "Ivory Coast vs Ecuador",
+                  "streams": [
+                    {
+                      "id": "kaytee-8bbb3e893c48",
                       "name": "F",
                       "stream_links": []
                     }
