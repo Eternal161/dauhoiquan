@@ -1,118 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:10 15/06/2026",
+  "last_updated": "03:20 15/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-2ec83d43f45a",
-          "name": "⚽ Wuxi Wugou vs Meizhou Kejia | H2 - 90+5' 1 - 1 18:00 14/06/2026",
-          "tournament": "League One",
-          "logo_nha": "https://media.api-sports.io/football/teams/17269.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1439.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/17269.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-2ec83d43f45a",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-2ec83d43f45a",
-                  "name": "Wuxi Wugou vs Meizhou Kejia",
-                  "streams": [
-                    {
-                      "id": "kaytee-2ec83d43f45a",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f33d1af3ed",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-1d092b47f5f8",
-          "name": "⚽ Ulytau vs Zhenys | H2 - 90+7' 2 - 1 19:00 14/06/2026",
-          "tournament": "Premier League",
-          "logo_nha": "https://media.api-sports.io/football/teams/21010.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/16611.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/21010.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-1d092b47f5f8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-1d092b47f5f8",
-                  "name": "Ulytau vs Zhenys",
-                  "streams": [
-                    {
-                      "id": "kaytee-1d092b47f5f8",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-52edb311d6",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-61a35ea6d9ec",
           "name": "⚽ Cotonsport vs Canon | Sắp bắt đầu - null' 0 - 0 22:00 14/06/2026",
@@ -152,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f052584527",
+                          "id": "lnk-6a75b706e5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -168,7 +62,7 @@
         },
         {
           "id": "kaytee-f574e12cccff",
-          "name": "⚽ Netherlands vs Japan | H1 - 11' 0 - 0 03:00 15/06/2026",
+          "name": "⚽ Netherlands vs Japan | H1 - 21' 0 - 0 03:00 15/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1118.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
@@ -205,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-03e3893aab",
+                          "id": "lnk-9bb0162271",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr3uomttgr31hctwfa3dymmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2a82412f16710baeb5395b10-178146787860886&wsIPSercert=2b023ac550f1c26b4e7307d8e153be2c&wsBindIP=2&wsserid=1168259294120458059"
+                          "url": "https://tfwq0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=edc2b839ffeea5e5c9b05c93-178146846905725&wsIPSercert=3ee7d3fff8fc9c0ede6dc085630bb2df&wsBindIP=2&wsserid=1168283476624541134"
                         },
                         {
-                          "id": "lnk-be69e63b67",
+                          "id": "lnk-a3de5a2282",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -487,6 +381,96 @@
                   "streams": [
                     {
                       "id": "kaytee-b0b1dd6b7418",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-16082dd045d9",
+          "name": "⚽ Belgium vs Egypt | Sắp diễn ra vs 02:00 16/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/1.png",
+          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-16082dd045d9",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-16082dd045d9",
+                  "name": "Belgium vs Egypt",
+                  "streams": [
+                    {
+                      "id": "kaytee-16082dd045d9",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-13b38dc8dc85",
+          "name": "⚽ Saudi Arabia vs Uruguay | Sắp diễn ra vs 05:00 16/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-13b38dc8dc85",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-13b38dc8dc85",
+                  "name": "Saudi Arabia vs Uruguay",
+                  "streams": [
+                    {
+                      "id": "kaytee-13b38dc8dc85",
                       "name": "F",
                       "stream_links": []
                     }
