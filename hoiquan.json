@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:50 14/06/2026",
+  "last_updated": "17:00 14/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-a0488b868c0a",
-          "name": "⚽ Qingdao Red Lions vs Shanghai Port Ii | H2 - 90+2' 2 - 1 15:00 14/06/2026",
-          "tournament": "League Two",
-          "logo_nha": "https://media.api-sports.io/football/teams/5679.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/23289.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/5679.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a0488b868c0a",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a0488b868c0a",
-                  "name": "Qingdao Red Lions vs Shanghai Port Ii",
-                  "streams": [
-                    {
-                      "id": "kaytee-a0488b868c0a",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2193ba9475",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwq3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=5bd5ca106460d708e48cc2cb-178143066081416&wsIPSercert=f8d2bb84ac554089cfe6a83aa50816f1&wsBindIP=2&wsserid=1168158473487963106"
-                        },
-                        {
-                          "id": "lnk-91643ea501",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-cebb4f7dae46",
           "name": "⚽ Wuxi Wugou vs Meizhou Kejia | Sắp diễn ra vs 18:00 14/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-8bbb3e893c48",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1bcf69e5659e",
+          "name": "⚽ Sweden vs Tunisia | Sắp diễn ra vs 09:00 15/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/5.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1bcf69e5659e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1bcf69e5659e",
+                  "name": "Sweden vs Tunisia",
+                  "streams": [
+                    {
+                      "id": "kaytee-1bcf69e5659e",
                       "name": "F",
                       "stream_links": []
                     }
