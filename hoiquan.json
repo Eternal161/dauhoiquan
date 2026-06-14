@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:20 15/06/2026",
+  "last_updated": "01:30 15/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-fb6e578d4e87",
-          "name": "⚽ Ayacucho Fc vs Club Deportivo Los Chankas | H2 - 90+9' 0 - 1 23:30 14/06/2026",
-          "tournament": "VĐQG Chile",
-          "logo_nha": "https://media.api-sports.io/football/teams/2542.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2572.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2542.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-fb6e578d4e87",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-fb6e578d4e87",
-                  "name": "Ayacucho Fc vs Club Deportivo Los Chankas",
-                  "streams": [
-                    {
-                      "id": "kaytee-fb6e578d4e87",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a8a9afb0a1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdepjqgr5uommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0fd2fa1ed0bf5160142f883c-178146126159609&wsIPSercert=2abb51f8ce217b071e67a18c79abca4c&wsBindIP=2&wsserid=1168272001106446097"
-                        },
-                        {
-                          "id": "lnk-1e0fdfb1d3",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-494796bc8fe8",
-          "name": "⚽ Germany vs Curaçao | H2 - 57' 4 - 1 00:00 15/06/2026",
+          "name": "⚽ Germany vs Curaçao | H2 - 67' 4 - 1 00:00 15/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/250px-Flag_of_Cura%C3%A7ao.svg.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-816bcd9547",
+                          "id": "lnk-2a833eddb7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178146126949063&wsIPSercert=2abb51f8ce217b071e67a18c79abca4c&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwq1gr4uqmtt8y41hcjagyzdec3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=029f54528673c3f1b32360d8-178146186575112&wsIPSercert=c9a1ea18104f630ae9148e396d9b6cc1&wsBindIP=2&wsserid=1168259296640705555"
                         },
                         {
-                          "id": "lnk-29d05e8f4d",
+                          "id": "lnk-8d0dab779f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-16082dd045d9",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-13b38dc8dc85",
+          "name": "⚽ Saudi Arabia vs Uruguay | Sắp diễn ra vs 05:00 16/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-13b38dc8dc85",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-13b38dc8dc85",
+                  "name": "Saudi Arabia vs Uruguay",
+                  "streams": [
+                    {
+                      "id": "kaytee-13b38dc8dc85",
                       "name": "F",
                       "stream_links": []
                     }
