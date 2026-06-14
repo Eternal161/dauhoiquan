@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:40 15/06/2026",
+  "last_updated": "00:50 15/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-fb6e578d4e87",
-          "name": "⚽ Ayacucho Fc vs Club Deportivo Los Chankas | H2 - 79' 0 - 1 23:30 14/06/2026",
+          "name": "⚽ Ayacucho Fc vs Club Deportivo Los Chankas | H2 - 89' 0 - 1 23:30 14/06/2026",
           "tournament": "VĐQG Chile",
           "logo_nha": "https://media.api-sports.io/football/teams/2542.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2572.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-805a57acb0",
+                          "id": "lnk-ff94ff3de8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq4go3nhcjtghzdrpbsfah147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=d3966685d0aeb8368e261db6-178145886679875&wsIPSercert=d764329c9f74b2f411296e9047edff00&wsBindIP=2&wsserid=1168270624940726078"
+                          "url": "https://tfwq1gr4uqmtt8y41hcjs8rzdrc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0b0dfdc868cc75663ff75080-178145945378141&wsIPSercert=80326e2ef98bfdfc16eb9d472cba4296&wsBindIP=2&wsserid=1168228942752121565"
                         },
                         {
-                          "id": "lnk-bde56a7383",
+                          "id": "lnk-f16d86084e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-494796bc8fe8",
-          "name": "⚽ Germany vs Curaçao | H1 - 39' 2 - 1 00:00 15/06/2026",
+          "name": "⚽ Germany vs Curaçao | H1 - 45+4' 2 - 1 00:00 15/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/250px-Flag_of_Cura%C3%A7ao.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-22318ff130",
+                          "id": "lnk-298300da23",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq4go3nhcjtghzdrpbsfah144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=9a458bbb0407ff03349cf8c5-178145887541646&wsIPSercert=d764329c9f74b2f411296e9047edff00&wsBindIP=2&wsserid=1168270624938628869"
+                          "url": "https://tfwq1gr4uqmtt8y41hcjs8rzdrc3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0b0dfdc868cc75663ff75080-178145946263925&wsIPSercert=80326e2ef98bfdfc16eb9d472cba4296&wsBindIP=2&wsserid=1168228942752121565"
                         },
                         {
-                          "id": "lnk-41d2b70519",
+                          "id": "lnk-82632d8c82",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
