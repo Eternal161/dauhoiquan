@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:51 15/06/2026",
+  "last_updated": "05:00 15/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,78 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ce4ce0f71f",
+                          "id": "lnk-e3824a61f8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdepjqgr5uommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3a8294388c4b3c7c46191384-178147387055713&wsIPSercert=fe6f2e2f3d42e853d29bef171424e129&wsBindIP=2&wsserid=1168271908997640246"
+                          "url": "https://tfwq3gr4nhct1gwzdrcbqgr5dommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=bb6ce163600ee613e6092327-178147446807892&wsIPSercert=36f22f8de1efb1cc4e8450ef4a05259e&wsBindIP=2&wsserid=1168239097252820256"
                         },
                         {
-                          "id": "lnk-a0c54f2eba",
+                          "id": "lnk-68bec53fd7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-f574e12cccff",
-          "name": "⚽ Netherlands vs Japan | H1 - 41' 0 - 0 03:00 15/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/1118.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1118.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f574e12cccff",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f574e12cccff",
-                  "name": "Netherlands vs Japan",
-                  "streams": [
-                    {
-                      "id": "kaytee-f574e12cccff",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5aa271dbcb",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwq1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=56d2bb5a325c7a8bfd1440f3-178147387869444&wsIPSercert=fe6f2e2f3d42e853d29bef171424e129&wsBindIP=2&wsserid=1168283323207303220"
-                        },
-                        {
-                          "id": "lnk-5e8562449a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
                         }
                       ]
                     }
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-13b38dc8dc85",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-776c22da5352",
+          "name": "⚽ Criciuma vs Ceara | Sắp diễn ra vs 07:00 16/06/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/140.png",
+          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpEq0ZDxhCpCOUtgbmrKrxUfha1DH3ajU-Q&s",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/140.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-776c22da5352",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-776c22da5352",
+                  "name": "Criciuma vs Ceara",
+                  "streams": [
+                    {
+                      "id": "kaytee-776c22da5352",
                       "name": "F",
                       "stream_links": []
                     }
