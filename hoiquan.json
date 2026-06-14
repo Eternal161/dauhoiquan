@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:30 14/06/2026",
+  "last_updated": "16:40 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a0488b868c0a",
-          "name": "⚽ Qingdao Red Lions vs Shanghai Port Ii | H2 - 73' 2 - 0 15:00 14/06/2026",
+          "name": "⚽ Qingdao Red Lions vs Shanghai Port Ii | H2 - 82' 2 - 1 15:00 14/06/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/5679.png",
           "logo_khach": "https://media.api-sports.io/football/teams/23289.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-04a517133a",
+                          "id": "lnk-07b3fbed0b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f7e42543e61847d2fa7bb4d5-178142946244493&wsIPSercert=66fc02535b96c81d3eb9fdc2e479f791&wsBindIP=2&wsserid=1168214263213094505"
+                          "url": "https://tfwq0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=00489e5fa24fa852f6673a81-178143005642677&wsIPSercert=b2f6937d315853e50f48e7e945770527&wsBindIP=2&wsserid=1168231589574964209"
                         },
                         {
-                          "id": "lnk-60e265e5f7",
+                          "id": "lnk-95fa5857bd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
