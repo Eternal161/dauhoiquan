@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:10 14/06/2026",
+  "last_updated": "07:20 14/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-73febafe2694",
-          "name": "⚽ Brazil vs Morocco | H2 - 90+10' 1 - 1 05:00 14/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-73febafe2694",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-73febafe2694",
-                  "name": "Brazil vs Morocco",
-                  "streams": [
-                    {
-                      "id": "kaytee-73febafe2694",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a253a247a8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-752b9f5888e8",
-          "name": "⚽ Nublense vs Huachipato | H1 - 10' 0 - 2 07:00 14/06/2026",
+          "name": "⚽ Nublense vs Huachipato | H1 - 19' 0 - 2 07:00 14/06/2026",
           "tournament": "Primera División",
           "logo_nha": "https://media.api-sports.io/football/teams/2337.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2328.png",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ed616d1a6a",
+                          "id": "lnk-c7be16a090",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=dd67e4e1ba2ab3dcd1e556bd-178139586238723&wsIPSercert=c78f6ca279c2743066730a53040f2b5f&wsBindIP=2&wsserid=1168239097241285722"
+                          "url": "https://tfwq3gr4nhct1gwzdepjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4d0dc05b56b8dacf0f2a5310-178139645835401&wsIPSercert=36a990cc302663698bb6d2b9660c51cc&wsBindIP=2&wsserid=1172648044479413382"
                         },
                         {
-                          "id": "lnk-03e7020136",
+                          "id": "lnk-acb2531e74",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-3846b4085376",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-33c18c4c6479",
+          "name": "⚽ Cotonsport vs Canon | Sắp diễn ra vs 20:00 14/06/2026",
+          "tournament": "Elite One",
+          "logo_nha": "https://media.api-sports.io/football/teams/5401.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/5560.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5401.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-33c18c4c6479",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-33c18c4c6479",
+                  "name": "Cotonsport vs Canon",
+                  "streams": [
+                    {
+                      "id": "kaytee-33c18c4c6479",
                       "name": "F",
                       "stream_links": []
                     }
