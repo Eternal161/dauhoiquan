@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:10 14/06/2026",
+  "last_updated": "10:20 14/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-3b0b1e99bc6b",
-          "name": "⚽ Oakland Roots vs Miami Fc | Live 0 - 0 09:00 14/06/2026",
+          "name": "⚽ Oakland Roots vs Miami Fc | H2 - 54' 0 - 0 09:00 14/06/2026",
           "tournament": "USL Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Oakland_Roots_SC_logo.svg/250px-Oakland_Roots_SC_logo.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/9030.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-3b0b1e99bc6b",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-28728f5e2d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwq3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=ee1ebc7ca2eb16c49145384f-178140726228304&wsIPSercert=9b7d0e53333231d2b5061ddfe4c7fca6&wsBindIP=2&wsserid=1168239097219265334"
+                        },
+                        {
+                          "id": "lnk-2ff2debd58",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -54,7 +69,7 @@
         },
         {
           "id": "kaytee-380c5194098c",
-          "name": "⚽ Australia vs Türkiye | Sắp diễn ra vs 11:00 14/06/2026",
+          "name": "⚽ Australia vs Türkiye | Sắp bắt đầu - null' 0 - 0 11:00 14/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/777.png",
@@ -71,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -89,7 +104,22 @@
                     {
                       "id": "kaytee-380c5194098c",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-72a89c556c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwq3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ff451cfe95dafc5596a3de93-178140727021777&wsIPSercert=9b7d0e53333231d2b5061ddfe4c7fca6&wsBindIP=2&wsserid=1168276518870124245"
+                        },
+                        {
+                          "id": "lnk-dcd1e8b4f0",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
