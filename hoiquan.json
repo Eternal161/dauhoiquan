@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:31 16/06/2026",
+  "last_updated": "03:40 16/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-16082dd045d9",
-          "name": "⚽ Belgium vs Egypt | H2 - 69' 1 - 1 02:00 16/06/2026",
+          "name": "⚽ Belgium vs Egypt | H2 - 71' 1 - 1 02:00 16/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6083f09be6",
+                          "id": "lnk-735116b97d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwr3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=d545ab77958479705b2e703c-178155547601635&wsIPSercert=4a4b317d1dbe91f4add1cf8b6f014524&wsBindIP=2&wsserid=1168178988325669341"
+                          "url": "https://tfwr3gr4nhct1gwzdrcttfa5ukmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7ef9981f2594d34076e9a925-178155605872979&wsIPSercert=3fec306e01e5e85240c677edb7b96141&wsBindIP=2&wsserid=1168271918308680642"
                         },
                         {
-                          "id": "lnk-bdd45162b3",
+                          "id": "lnk-fe8900ec6c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
