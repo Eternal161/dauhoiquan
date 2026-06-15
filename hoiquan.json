@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:31 15/06/2026",
+  "last_updated": "19:41 15/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,78 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ced3e2c546",
+                          "id": "lnk-c1fd0e6f7b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwr3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178152667330949&wsIPSercert=a61cde72e5239a1458c7f959b47d1899&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfwr3gr3uomttgr31hctsfa3dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178152727565986&wsIPSercert=0244184125cc010c2047822e286fc039&wsBindIP=2&wsserid=1168056276210707857"
                         },
                         {
-                          "id": "lnk-3bceef8732",
+                          "id": "lnk-c59dc58b53",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-6dd40aab31cc",
-          "name": "⚽ Fergana Fa vs Havokand Fc | Live 0 - 0 19:30 15/06/2026",
-          "tournament": "VĐQG Uzbekistan",
-          "logo_nha": "https://imgts.sportpulseapiz.com/football/team/l7oqdehl7njr510/image/small",
-          "logo_khach": "https://imgts.sportpulseapiz.com/football/team/3glrw7hoeo7qdyj/image/small",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://imgts.sportpulseapiz.com/football/team/l7oqdehl7njr510/image/small",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-6dd40aab31cc",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-6dd40aab31cc",
-                  "name": "Fergana Fa vs Havokand Fc",
-                  "streams": [
-                    {
-                      "id": "kaytee-6dd40aab31cc",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-24bd1e9913",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwr3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178152668164983&wsIPSercert=a61cde72e5239a1458c7f959b47d1899&wsBindIP=2&wsserid=1177063474761571144"
-                        },
-                        {
-                          "id": "lnk-53325e4d53",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
                         }
                       ]
                     }
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-11f026b5f216",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f7401f4b3c79",
+          "name": "⚽ Rochedale Rovers vs Moreton City Excelsior | Sắp diễn ra vs 17:30 16/06/2026",
+          "tournament": "Queensland NPL",
+          "logo_nha": "https://media.api-sports.io/football/teams/11182.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/22916.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/11182.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f7401f4b3c79",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f7401f4b3c79",
+                  "name": "Rochedale Rovers vs Moreton City Excelsior",
+                  "streams": [
+                    {
+                      "id": "kaytee-f7401f4b3c79",
                       "name": "F",
                       "stream_links": []
                     }
