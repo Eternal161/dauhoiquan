@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:00 16/06/2026",
+  "last_updated": "02:11 16/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b0b1dd6b7418",
-          "name": "⚽ Ka Akureyri vs Fram Reykjavik | Giữa Hiệp - 45+2' 2 - 3 01:00 16/06/2026",
+          "name": "⚽ Ka Akureyri vs Fram Reykjavik | Live 0 - 0 01:00 16/06/2026",
           "tournament": "Úrvalsdeild",
           "logo_nha": "https://media.api-sports.io/football/teams/272.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2117.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ccd3f5c0e9",
+                          "id": "lnk-bc8c0c4e9a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwr4go3nhcjtghzdrpbsfah147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=d3966685d0aeb8368e261db6-178155006663709&wsIPSercert=7c73635165f7b7512283b18495a3fb61&wsBindIP=2&wsserid=1168270624940726078"
+                          "url": "https://tfwr3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178155068107892&wsIPSercert=3c9d2d090da3625cb0d20467a018f20e&wsBindIP=2&wsserid=1168178972991608093"
                         },
                         {
-                          "id": "lnk-639b6f81f0",
+                          "id": "lnk-b331204369",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-16082dd045d9",
-          "name": "⚽ Belgium vs Egypt | Sắp bắt đầu - null' 0 - 0 02:00 16/06/2026",
+          "name": "⚽ Belgium vs Egypt | Live 0 - 0 02:00 16/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3adf24f0fd",
+                          "id": "lnk-1973544744",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwr4go3nhcjtghzdrpbsfah144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=5fcd9bf282a7e9a3101f9345-178155007547103&wsIPSercert=7c73635165f7b7512283b18495a3fb61&wsBindIP=2&wsserid=1168270624945969133"
+                          "url": "https://tfwr3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=5407ef809016cab9a772a158-178155068964478&wsIPSercert=3c9d2d090da3625cb0d20467a018f20e&wsBindIP=2&wsserid=1168178972990559465"
                         },
                         {
-                          "id": "lnk-236b6adc4b",
+                          "id": "lnk-bfeb10b610",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
