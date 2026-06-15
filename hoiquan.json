@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:01 15/06/2026",
+  "last_updated": "19:11 15/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b3473ba5c817",
-          "name": "⚽ Bhutan U19 vs Paro | Live 0 - 0 19:00 15/06/2026",
+          "name": "⚽ Bhutan U19 vs Paro | Sắp bắt đầu - null' 0 - 0 19:00 15/06/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/5433.png",
           "logo_khach": "https://media.api-sports.io/football/teams/9426.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d8eee4d019",
+                          "id": "lnk-211bfe2ae2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwr3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178152488551145&wsIPSercert=cc6ac12e359741ad7b3ff18f7eb9c65f&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfwr0gr3uomttgr31hcj18yzdncbifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=9b6b3b415b5d93c116ca20a7-178152548060762&wsIPSercert=f7a7aed4baec310d0f9d775fe479c4ea&wsBindIP=2&wsserid=1168243256660972706"
                         },
                         {
-                          "id": "lnk-5eec45b953",
+                          "id": "lnk-afff6a259f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-6dd40aab31cc",
-          "name": "⚽ Fergana Fa vs Havokand Fc | Sắp diễn ra vs 19:30 15/06/2026",
+          "name": "⚽ Fergana Fa vs Havokand Fc | Live 0 - 0 19:30 15/06/2026",
           "tournament": "VĐQG Uzbekistan",
           "logo_nha": "https://imgts.sportpulseapiz.com/football/team/l7oqdehl7njr510/image/small",
           "logo_khach": "https://imgts.sportpulseapiz.com/football/team/3glrw7hoeo7qdyj/image/small",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-6dd40aab31cc",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-cde6f42b3c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwr0gr3uomttgr31hcj18yzdncbifi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0a6da6fafa64155c8f59b100-178152548904635&wsIPSercert=f7a7aed4baec310d0f9d775fe479c4ea&wsBindIP=2&wsserid=1168243256673555874"
+                        },
+                        {
+                          "id": "lnk-b142a108a8",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
