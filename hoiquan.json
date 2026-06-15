@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:31 16/06/2026",
+  "last_updated": "00:41 16/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6f87c5a65374",
-          "name": "⚽ Spain vs Cape Verde Islands | H2 - 65' 0 - 0 23:00 15/06/2026",
+          "name": "⚽ Spain vs Cape Verde Islands | H2 - 75' 0 - 0 23:00 15/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/9.png",
           "logo_khach": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-895ccac26c",
+                          "id": "lnk-921bb3b506",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwr3gr4nhct1gwzdrcttfa5ukmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=381852ec2b87a6fecde5f166-178154467144156&wsIPSercert=0b41f3d5c2be7d81440b0d49d5898f12&wsBindIP=2&wsserid=1168272006008500129"
+                          "url": "https://tfwr3gr4nhct1gwzdrcttfa5ukmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e18d1e9a2398fae12e55fc80-178154527405454&wsIPSercert=f241c97293d392c5567eec4cfa467c9f&wsBindIP=2&wsserid=1168271918303437591"
                         },
                         {
-                          "id": "lnk-09b59700de",
+                          "id": "lnk-3470e95f5b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-b0b1dd6b7418",
-          "name": "⚽ Ka Akureyri vs Fram Reykjavik | Sắp diễn ra vs 01:00 16/06/2026",
+          "name": "⚽ Ka Akureyri vs Fram Reykjavik | Sắp bắt đầu - null' 0 - 0 01:00 16/06/2026",
           "tournament": "Úrvalsdeild",
           "logo_nha": "https://media.api-sports.io/football/teams/272.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2117.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,15 @@
                     {
                       "id": "kaytee-b0b1dd6b7418",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-1994008750",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
