@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:40 15/06/2026",
+  "last_updated": "09:50 15/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1bcf69e5659e",
-          "name": "⚽ Sweden vs Tunisia | H1 - 39' 2 - 0 09:00 15/06/2026",
+          "name": "⚽ Sweden vs Tunisia | Live 0 - 0 09:00 15/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/5.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-eb76504571",
+                          "id": "lnk-93a1c7db8a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwr3gr4nhct1gwzdepjqgr5uommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=0fd2fa1ed0bf5160142f883c-178149126031480&wsIPSercert=35a1110829341aeee897499332b5b49c&wsBindIP=2&wsserid=1168272001106446097"
+                          "url": "https://tfwr3gr3uomttgr31hctwfa3dymmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=2a82412f16710baeb5395b10-178149185928291&wsIPSercert=f5346fc8e574a581bd2f881c9f577cee&wsBindIP=2&wsserid=1168259294120458059"
                         },
                         {
-                          "id": "lnk-daec2eaf55",
+                          "id": "lnk-e715dca432",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
