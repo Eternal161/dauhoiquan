@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:50 16/06/2026",
+  "last_updated": "01:01 16/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-6f87c5a65374",
-          "name": "⚽ Spain vs Cape Verde Islands | H2 - 85' 0 - 0 23:00 15/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/9.png",
-          "logo_khach": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/9.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-6f87c5a65374",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-6f87c5a65374",
-                  "name": "Spain vs Cape Verde Islands",
-                  "streams": [
-                    {
-                      "id": "kaytee-6f87c5a65374",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a7fb9379fc",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwr3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b93726b0c644658cca80b5c8-178154586644703&wsIPSercert=4d062bf527858596d0965a85e56db332&wsBindIP=2&wsserid=1168239733746099117"
-                        },
-                        {
-                          "id": "lnk-bfea381c63",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-b0b1dd6b7418",
           "name": "⚽ Ka Akureyri vs Fram Reykjavik | Sắp bắt đầu - null' 0 - 0 01:00 16/06/2026",
@@ -106,10 +46,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-02f76afccb",
+                          "id": "lnk-77969e03cf",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwr3gr4nhct1gwzdrcttfa5ukmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=eda261ab259b2273d2e368a8-178154648095951&wsIPSercert=82010e4c3b37e8a388f7d44cc3379f9d&wsBindIP=2&wsserid=1168272006260249175"
+                        },
+                        {
+                          "id": "lnk-b037b4e109",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
                         }
                       ]
@@ -122,7 +69,7 @@
         },
         {
           "id": "kaytee-16082dd045d9",
-          "name": "⚽ Belgium vs Egypt | Sắp diễn ra vs 02:00 16/06/2026",
+          "name": "⚽ Belgium vs Egypt | Sắp bắt đầu - null' 0 - 0 02:00 16/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
@@ -139,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -157,7 +104,22 @@
                     {
                       "id": "kaytee-16082dd045d9",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-c3a3512ebe",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwr3gr4nhct1gwzdrcttfa5ukmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=30b8fdf170da113729526e86-178154648937114&wsIPSercert=82010e4c3b37e8a388f7d44cc3379f9d&wsBindIP=2&wsserid=1168271918310777851"
+                        },
+                        {
+                          "id": "lnk-202f45fc28",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -471,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-c0861c8bbf9c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c5477ece557b",
+          "name": "⚽ Kuressaare vs Trans Narva | Sắp diễn ra vs 23:00 16/06/2026",
+          "tournament": "Meistriliiga",
+          "logo_nha": "https://media.api-sports.io/football/teams/3526.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2274.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3526.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c5477ece557b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c5477ece557b",
+                  "name": "Kuressaare vs Trans Narva",
+                  "streams": [
+                    {
+                      "id": "kaytee-c5477ece557b",
                       "name": "F",
                       "stream_links": []
                     }
