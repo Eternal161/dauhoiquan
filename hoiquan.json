@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:01 16/06/2026",
+  "last_updated": "04:10 16/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-16082dd045d9",
-          "name": "⚽ Belgium vs Egypt | H2 - 71' 1 - 1 02:00 16/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/1.png",
-          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-16082dd045d9",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-16082dd045d9",
-                  "name": "Belgium vs Egypt",
-                  "streams": [
-                    {
-                      "id": "kaytee-16082dd045d9",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6eb9232e2f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwr3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=d545ab77958479705b2e703c-178155728058417&wsIPSercert=cafed9cede1e6fdb8dc95004de7149ad&wsBindIP=2&wsserid=1168178988325669341"
-                        },
-                        {
-                          "id": "lnk-fe00023847",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-13b38dc8dc85",
           "name": "⚽ Saudi Arabia vs Uruguay | Sắp diễn ra vs 05:00 16/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-b22c6f7eb889",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-42a21254e22f",
+          "name": "⚽ Iraq vs Norway | Sắp diễn ra vs 05:00 17/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/1567.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1567.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-42a21254e22f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-42a21254e22f",
+                  "name": "Iraq vs Norway",
+                  "streams": [
+                    {
+                      "id": "kaytee-42a21254e22f",
                       "name": "F",
                       "stream_links": []
                     }
