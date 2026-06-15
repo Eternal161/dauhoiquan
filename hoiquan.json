@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:30 15/06/2026",
+  "last_updated": "07:40 15/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8bbb3e893c48",
-          "name": "⚽ Ivory Coast vs Ecuador | H2 - 65' 0 - 0 06:00 15/06/2026",
+          "name": "⚽ Ivory Coast vs Ecuador | H2 - 76' 0 - 0 06:00 15/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9cf68e7be0",
+                          "id": "lnk-cddd5a05b6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwr3gr4nhct1gwzdrcbqgr5dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=90a738bfccb8555e359feb9a-178148346461229&wsIPSercert=149774ee04e3b565054fd8b612e9d345&wsBindIP=2&wsserid=1168239097246528664"
+                          "url": "https://tfwr3gr4nhct1gwzdepjqgr5uommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c0f35dab7150efa780436009-178148406383551&wsIPSercert=6e3ad36795b6e1619a2102f8f653b8f4&wsBindIP=2&wsserid=1168271909007077544"
                         },
                         {
-                          "id": "lnk-d2c14401b2",
+                          "id": "lnk-bd5132e302",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
