@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:21 16/06/2026",
+  "last_updated": "00:31 16/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-c32312cd117b",
-          "name": "⚽ Sjk Akatemia vs Haka | H2 - 90' 0 - 2 22:30 15/06/2026",
-          "tournament": "Ykkösliiga",
-          "logo_nha": "https://media.api-sports.io/football/teams/9198.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2080.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/9198.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c32312cd117b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c32312cd117b",
-                  "name": "Sjk Akatemia vs Haka",
-                  "streams": [
-                    {
-                      "id": "kaytee-c32312cd117b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6b3ffc78b8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwr3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178154407539304&wsIPSercert=d3e7bdcceec195b27ed2f29c121577d5&wsBindIP=2&wsserid=1168178972991608093"
-                        },
-                        {
-                          "id": "lnk-74f8e456f7",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-6f87c5a65374",
-          "name": "⚽ Spain vs Cape Verde Islands | H2 - 60' 0 - 0 23:00 15/06/2026",
+          "name": "⚽ Spain vs Cape Verde Islands | H2 - 65' 0 - 0 23:00 15/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/9.png",
           "logo_khach": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a76caa042f",
+                          "id": "lnk-895ccac26c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwr3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b666b584e4acbbaf977137a3-178154408431200&wsIPSercert=d3e7bdcceec195b27ed2f29c121577d5&wsBindIP=2&wsserid=1168159941878277355"
+                          "url": "https://tfwr3gr4nhct1gwzdrcttfa5ukmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=381852ec2b87a6fecde5f166-178154467144156&wsIPSercert=0b41f3d5c2be7d81440b0d49d5898f12&wsBindIP=2&wsserid=1168272006008500129"
                         },
                         {
-                          "id": "lnk-3d37fafe35",
+                          "id": "lnk-09b59700de",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-5bab98001b4b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c0861c8bbf9c",
+          "name": "⚽ Vaprus vs Flora Tallinn | Sắp diễn ra vs 23:00 16/06/2026",
+          "tournament": "Meistriliiga",
+          "logo_nha": "https://media.api-sports.io/football/teams/3525.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/FC_Flora_logo.svg/250px-FC_Flora_logo.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3525.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c0861c8bbf9c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c0861c8bbf9c",
+                  "name": "Vaprus vs Flora Tallinn",
+                  "streams": [
+                    {
+                      "id": "kaytee-c0861c8bbf9c",
                       "name": "F",
                       "stream_links": []
                     }
