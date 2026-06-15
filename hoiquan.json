@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:01 15/06/2026",
+  "last_updated": "22:11 15/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c32312cd117b",
-          "name": "⚽ Sjk Akatemia vs Haka | Sắp diễn ra vs 22:30 15/06/2026",
+          "name": "⚽ Sjk Akatemia vs Haka | Sắp bắt đầu - null' 0 - 0 22:30 15/06/2026",
           "tournament": "Ykkösliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/9198.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2080.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-c32312cd117b",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-6f6d37a19f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwr3gr4nhct1gwzdrcttfa5ukmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=eda261ab259b2273d2e368a8-178153627315640&wsIPSercert=478bd75e794ed0b9c51ec8e9fc8c826a&wsBindIP=2&wsserid=1168272006260249175"
+                        },
+                        {
+                          "id": "lnk-c2e5b34730",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
