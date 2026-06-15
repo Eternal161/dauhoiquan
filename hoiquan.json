@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:10 16/06/2026",
+  "last_updated": "00:21 16/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c32312cd117b",
-          "name": "⚽ Sjk Akatemia vs Haka | H2 - 80' 0 - 2 22:30 15/06/2026",
+          "name": "⚽ Sjk Akatemia vs Haka | H2 - 90' 0 - 2 22:30 15/06/2026",
           "tournament": "Ykkösliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/9198.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2080.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a18e963341",
+                          "id": "lnk-6b3ffc78b8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwr4go3nhcjtghzdrpbsfah147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=d3966685d0aeb8368e261db6-178154346759026&wsIPSercert=f13d56c0478d5f2f0ab53ccb5dbaabd5&wsBindIP=2&wsserid=1168270624940726078"
+                          "url": "https://tfwr3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178154407539304&wsIPSercert=d3e7bdcceec195b27ed2f29c121577d5&wsBindIP=2&wsserid=1168178972991608093"
                         },
                         {
-                          "id": "lnk-f02f19b748",
+                          "id": "lnk-74f8e456f7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-6f87c5a65374",
-          "name": "⚽ Spain vs Cape Verde Islands | H2 - 50' 0 - 0 23:00 15/06/2026",
+          "name": "⚽ Spain vs Cape Verde Islands | H2 - 60' 0 - 0 23:00 15/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/9.png",
           "logo_khach": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2efbc41318",
+                          "id": "lnk-a76caa042f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwr4go3nhcjtghzdrpbsfah144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=935534a59670a883ab78f9eb-178154347614666&wsIPSercert=f13d56c0478d5f2f0ab53ccb5dbaabd5&wsBindIP=2&wsserid=1168270624950163551"
+                          "url": "https://tfwr3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b666b584e4acbbaf977137a3-178154408431200&wsIPSercert=d3e7bdcceec195b27ed2f29c121577d5&wsBindIP=2&wsserid=1168159941878277355"
                         },
                         {
-                          "id": "lnk-206c10c344",
+                          "id": "lnk-3d37fafe35",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
