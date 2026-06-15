@@ -1,12 +1,102 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:50 15/06/2026",
+  "last_updated": "17:01 15/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
+        {
+          "id": "kaytee-b3473ba5c817",
+          "name": "⚽ Bhutan U19 vs Paro | Sắp diễn ra vs 19:00 15/06/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/5433.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/9426.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5433.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b3473ba5c817",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b3473ba5c817",
+                  "name": "Bhutan U19 vs Paro",
+                  "streams": [
+                    {
+                      "id": "kaytee-b3473ba5c817",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6dd40aab31cc",
+          "name": "⚽ Fergana Fa vs Havokand Fc | Sắp diễn ra vs 19:30 15/06/2026",
+          "tournament": "VĐQG Uzbekistan",
+          "logo_nha": "https://imgts.sportpulseapiz.com/football/team/l7oqdehl7njr510/image/small",
+          "logo_khach": "https://imgts.sportpulseapiz.com/football/team/3glrw7hoeo7qdyj/image/small",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://imgts.sportpulseapiz.com/football/team/l7oqdehl7njr510/image/small",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6dd40aab31cc",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6dd40aab31cc",
+                  "name": "Fergana Fa vs Havokand Fc",
+                  "streams": [
+                    {
+                      "id": "kaytee-6dd40aab31cc",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
         {
           "id": "kaytee-ce92d7c51d65",
           "name": "⚽ Sjk Akatemia vs Haka | Sắp diễn ra vs 22:30 15/06/2026",
@@ -358,96 +448,6 @@
                   "streams": [
                     {
                       "id": "kaytee-11f026b5f216",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-f7401f4b3c79",
-          "name": "⚽ Rochedale Rovers vs Moreton City Excelsior | Sắp diễn ra vs 17:30 16/06/2026",
-          "tournament": "Queensland NPL",
-          "logo_nha": "https://media.api-sports.io/football/teams/11182.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/22916.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/11182.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f7401f4b3c79",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f7401f4b3c79",
-                  "name": "Rochedale Rovers vs Moreton City Excelsior",
-                  "streams": [
-                    {
-                      "id": "kaytee-f7401f4b3c79",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-5bab98001b4b",
-          "name": "⚽ Namungo vs Tabora United | Sắp diễn ra vs 20:00 16/06/2026",
-          "tournament": "Ligi kuu Bara",
-          "logo_nha": "https://media.api-sports.io/football/teams/12197.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/22175.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/12197.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-5bab98001b4b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-5bab98001b4b",
-                  "name": "Namungo vs Tabora United",
-                  "streams": [
-                    {
-                      "id": "kaytee-5bab98001b4b",
                       "name": "F",
                       "stream_links": []
                     }
