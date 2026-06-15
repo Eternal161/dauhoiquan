@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:51 16/06/2026",
+  "last_updated": "03:01 16/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-b0b1dd6b7418",
-          "name": "⚽ Ka Akureyri vs Fram Reykjavik | H2 - 90+2' 3 - 4 01:00 16/06/2026",
-          "tournament": "Úrvalsdeild",
-          "logo_nha": "https://media.api-sports.io/football/teams/272.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2117.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/272.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b0b1dd6b7418",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b0b1dd6b7418",
-                  "name": "Ka Akureyri vs Fram Reykjavik",
-                  "streams": [
-                    {
-                      "id": "kaytee-b0b1dd6b7418",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2b22380ec4",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwr3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e3fcde56d983ccae380d59b5-178155308336224&wsIPSercert=6417f94f3b583d9785ae0b4aad138153&wsBindIP=2&wsserid=1168159941869888407"
-                        },
-                        {
-                          "id": "lnk-29834e6a5d",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-16082dd045d9",
-          "name": "⚽ Belgium vs Egypt | Giữa Hiệp - 45+5' 0 - 1 02:00 16/06/2026",
+          "name": "⚽ Belgium vs Egypt | Live 0 - 0 02:00 16/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-da3bf0952e",
+                          "id": "lnk-90a57f22c3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwr3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e3fcde56d983ccae380d59b5-178155309205159&wsIPSercert=6417f94f3b583d9785ae0b4aad138153&wsBindIP=2&wsserid=1168159941869888407"
+                          "url": "https://tfwr3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178155367416030&wsIPSercert=97b7fdc22b3d2c9b1e4903bbc70012dc&wsBindIP=2&wsserid=1168178972991608093"
                         },
                         {
-                          "id": "lnk-13f3544082",
+                          "id": "lnk-7bcf4a74d9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-c5477ece557b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b22c6f7eb889",
+          "name": "⚽ France vs Senegal | Sắp diễn ra vs 02:00 17/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/2.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b22c6f7eb889",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b22c6f7eb889",
+                  "name": "France vs Senegal",
+                  "streams": [
+                    {
+                      "id": "kaytee-b22c6f7eb889",
                       "name": "F",
                       "stream_links": []
                     }
