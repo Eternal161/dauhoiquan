@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:51 15/06/2026",
+  "last_updated": "16:01 15/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-096b48faeea0",
-          "name": "⚽ Changchun Dazhong Nữ vs Shaanxi Changan Nữ | Live 0 - 0 16:00 15/06/2026",
-          "tournament": "Super League Nữ",
-          "logo_nha": "https://static.flashscore.com/res/image/data/WKc6mHyS-tEXwrGhb.png",
-          "logo_khach": "https://static.flashscore.com/res/image/data/C8nTZQ9r-YaMzy9gF.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://static.flashscore.com/res/image/data/WKc6mHyS-tEXwrGhb.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-096b48faeea0",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-096b48faeea0",
-                  "name": "Changchun Dazhong Nữ vs Shaanxi Changan Nữ",
-                  "streams": [
-                    {
-                      "id": "kaytee-096b48faeea0",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2469bd4cfe",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-ce92d7c51d65",
           "name": "⚽ Sjk Akatemia vs Haka | Sắp diễn ra vs 22:30 15/06/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-f7401f4b3c79",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-5bab98001b4b",
+          "name": "⚽ Namungo vs Tabora United | Sắp diễn ra vs 20:00 16/06/2026",
+          "tournament": "Ligi kuu Bara",
+          "logo_nha": "https://media.api-sports.io/football/teams/12197.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/22175.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/12197.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-5bab98001b4b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-5bab98001b4b",
+                  "name": "Namungo vs Tabora United",
+                  "streams": [
+                    {
+                      "id": "kaytee-5bab98001b4b",
                       "name": "F",
                       "stream_links": []
                     }
