@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:31 16/06/2026",
+  "last_updated": "01:40 16/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b0b1dd6b7418",
-          "name": "⚽ Ka Akureyri vs Fram Reykjavik | H1 - 29' 2 - 1 01:00 16/06/2026",
+          "name": "⚽ Ka Akureyri vs Fram Reykjavik | H1 - 39' 2 - 2 01:00 16/06/2026",
           "tournament": "Úrvalsdeild",
           "logo_nha": "https://media.api-sports.io/football/teams/272.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2117.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e8df60d3df",
+                          "id": "lnk-4e35e3a96e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwr3gr4nhct1gwzdrcttfa5unmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f0812a20055252ca3e75b702-178154827249768&wsIPSercert=2719471b267a24d1e47203e475dd8d24&wsBindIP=2&wsserid=1168239733739784689"
+                          "url": "https://tfwr3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178154886964274&wsIPSercert=585e3e679e833267c2cce6a01cd54e23&wsBindIP=2&wsserid=1168178972991608093"
                         },
                         {
-                          "id": "lnk-9430c7908f",
+                          "id": "lnk-b15b2f7047",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4b6c0a2584",
+                          "id": "lnk-774c4c8969",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwr3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=15bcaa264a4a010991a0a34d-178154828142699&wsIPSercert=2719471b267a24d1e47203e475dd8d24&wsBindIP=2&wsserid=1168239733742939020"
+                          "url": "https://tfwr3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=1c66e4ed59792af5c9430327-178154887845365&wsIPSercert=585e3e679e833267c2cce6a01cd54e23&wsBindIP=2&wsserid=1168178972992656721"
                         },
                         {
-                          "id": "lnk-e479c3673b",
+                          "id": "lnk-7d8b28c503",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
