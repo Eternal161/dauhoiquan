@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:51 15/06/2026",
+  "last_updated": "09:00 15/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-8bbb3e893c48",
-          "name": "⚽ Ivory Coast vs Ecuador | H2 - 90+3' 1 - 0 06:00 15/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-8bbb3e893c48",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-8bbb3e893c48",
-                  "name": "Ivory Coast vs Ecuador",
-                  "streams": [
-                    {
-                      "id": "kaytee-8bbb3e893c48",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f147aa3856",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-1bcf69e5659e",
           "name": "⚽ Sweden vs Tunisia | Sắp bắt đầu - null' 0 - 0 09:00 15/06/2026",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6a68e2c5b7",
+                          "id": "lnk-7c32c6bc56",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwr3gr4nhct1gwzdepjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=4d0dc05b56b8dacf0f2a5310-178148827973944&wsIPSercert=74d9026d4d6e0cd45e3fef7cb89df290&wsBindIP=2&wsserid=1172648044479413382"
+                          "url": "https://tfwr3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=3b4748cbdc5bb6fe6c427cc4-178148886894468&wsIPSercert=460fd54158596ade1822a463532f9158&wsBindIP=2&wsserid=1168271909128713172"
                         },
                         {
-                          "id": "lnk-986668c125",
+                          "id": "lnk-2fb8176353",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-845e7111c1a5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-11f026b5f216",
+          "name": "⚽ Gold Coast Knights vs Lions | Sắp diễn ra vs 16:30 16/06/2026",
+          "tournament": "Queensland NPL",
+          "logo_nha": "https://media.api-sports.io/football/teams/10215.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10217.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/10215.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-11f026b5f216",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-11f026b5f216",
+                  "name": "Gold Coast Knights vs Lions",
+                  "streams": [
+                    {
+                      "id": "kaytee-11f026b5f216",
                       "name": "F",
                       "stream_links": []
                     }
