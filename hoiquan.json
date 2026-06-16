@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:01 16/06/2026",
+  "last_updated": "07:10 16/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-13b38dc8dc85",
-          "name": "⚽ Saudi Arabia vs Uruguay | Sắp bắt đầu - null' 0 - 0 05:00 16/06/2026",
+          "name": "⚽ Saudi Arabia vs Uruguay | H2 - 90+9' 1 - 1 05:00 16/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-de6825f412",
+                          "id": "lnk-250ff89f91",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fcf1d3180b6c9d5e74948e4a-178156807672847&wsIPSercert=eefa979a9036ea8086271494823428b5&wsBindIP=2&wsserid=1168239733243780912"
-                        },
-                        {
-                          "id": "lnk-eab84a1b0e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
                         }
                       ]
@@ -69,7 +62,7 @@
         },
         {
           "id": "kaytee-776c22da5352",
-          "name": "⚽ Criciuma vs Ceara | Sắp bắt đầu - null' 0 - 0 07:00 16/06/2026",
+          "name": "⚽ Criciuma vs Ceara | H1 - 8' 0 - 0 07:00 16/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/140.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpEq0ZDxhCpCOUtgbmrKrxUfha1DH3ajU-Q&s",
@@ -106,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-62ea871a10",
+                          "id": "lnk-b1c5f1a83b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=fcf1d3180b6c9d5e74948e4a-178156808466543&wsIPSercert=eefa979a9036ea8086271494823428b5&wsBindIP=2&wsserid=1168239733243780912"
+                          "url": "https://tfws1gr4nhct1gwzdrctufaauqc3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=0d68058b7045381477e2114c-178156866755031&wsIPSercert=32099f2f107a25b9384f54a0a531b8e1&wsBindIP=2&wsserid=1168239731559340115"
                         },
                         {
-                          "id": "lnk-ad2f97eafb",
+                          "id": "lnk-b95e0b1f0a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
