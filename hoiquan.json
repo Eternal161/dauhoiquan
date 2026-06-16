@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:40 17/06/2026",
+  "last_updated": "01:51 17/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-54110d0b22aa",
-          "name": "⚽ Ifk Varnamo vs Helsingborg | H2 - 82' 0 - 1 00:00 17/06/2026",
+          "name": "⚽ Ifk Varnamo vs Helsingborg | H2 - 90+2' 0 - 1 00:00 17/06/2026",
           "tournament": "Superettan",
           "logo_nha": "https://media.api-sports.io/football/teams/2163.png",
           "logo_khach": "https://media.api-sports.io/football/teams/811.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fb91b3fdaf",
+                          "id": "lnk-d6abe07cbe",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3gr4nhct1gwzdrcttfa5urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=ddf2eb4fbae6034d59b0b746-178163526040656&wsIPSercert=17ccf5deec5a1b5bac9eb2ea4730d31e&wsBindIP=2&wsserid=1168239731525785127"
+                          "url": "https://tfws3go3nhcjtgczdncjqgeaurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=89762e8dceb2972e9cc8dbb6-178163587470988&wsIPSercert=1a4b30be27a29569e08744f3d23dc52f&wsBindIP=2&wsserid=1168159941871985661"
                         },
                         {
-                          "id": "lnk-fd2fb44d44",
+                          "id": "lnk-dfff55d216",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-069e0d0de2",
+                          "id": "lnk-7dd332910d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3gr4nhct1gwzdrcttfa5urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ddf2eb4fbae6034d59b0b746-178163526897701&wsIPSercert=17ccf5deec5a1b5bac9eb2ea4730d31e&wsBindIP=2&wsserid=1168239731525785127"
+                          "url": "https://tfws3go3nhcjtgczdncjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=686f873655f37c0f494fc32b-178163588349416&wsIPSercert=1a4b30be27a29569e08744f3d23dc52f&wsBindIP=2&wsserid=1168159941869888441"
                         },
                         {
-                          "id": "lnk-5efba33c65",
+                          "id": "lnk-1db87e1a1d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
