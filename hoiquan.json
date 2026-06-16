@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:10 16/06/2026",
+  "last_updated": "23:22 16/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-92b212812f79",
-          "name": "⚽ Bfc Daugavpils vs Super Nova | Live 0 - 0 22:00 16/06/2026",
+          "name": "⚽ Bfc Daugavpils vs Super Nova | H2 - 66' 0 - 0 22:00 16/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/4149.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4143.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-19b17cdc04",
+                          "id": "lnk-1d6da8f4b7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws1gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=de40530e31dc965cd08ee763-178162626436881&wsIPSercert=9aabbb08f32226422164c09cffa7b3ef&wsBindIP=2&wsserid=1168243256623223254"
+                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=b729ead558c9cf9a676e9806-178162697131321&wsIPSercert=e69094f00fa5beee7074420fadaa66a2&wsBindIP=2&wsserid=1168159941876180135"
                         },
                         {
-                          "id": "lnk-c2373b5306",
+                          "id": "lnk-d7e6fb12dc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-2990644b8914",
-          "name": "⚽ Kuressaare vs Trans Narva | H1 - 9' 0 - 0 23:00 16/06/2026",
+          "name": "⚽ Kuressaare vs Trans Narva | H1 - 21' 0 - 0 23:00 16/06/2026",
           "tournament": "Meistriliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/3526.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2274.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d9a6b1b5db",
+                          "id": "lnk-97dcb92fa9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=45be673f9c0838073bc08b6e-178162627299449&wsIPSercert=9aabbb08f32226422164c09cffa7b3ef&wsBindIP=2&wsserid=1168243343860730937"
+                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=d545ab77958479705b2e703c-178162697980210&wsIPSercert=e69094f00fa5beee7074420fadaa66a2&wsBindIP=2&wsserid=1168178988325669341"
                         },
                         {
-                          "id": "lnk-e214f0e52d",
+                          "id": "lnk-38e5f5a087",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
