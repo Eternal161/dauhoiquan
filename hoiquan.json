@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:20 17/06/2026",
+  "last_updated": "06:30 17/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-42a21254e22f",
-          "name": "⚽ Iraq vs Norway | H2 - 58' 1 - 2 05:00 17/06/2026",
+          "name": "⚽ Iraq vs Norway | H2 - 68' 1 - 2 05:00 17/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1567.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5787bcb50c",
+                          "id": "lnk-247fc61101",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3gr4nhct1gwzdrcttfa5urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=1587fe0f1d5a36ee5878e38e-178165206836307&wsIPSercert=8eb9a6ec56fa56035e8a308f3ccc15bb&wsBindIP=2&wsserid=1168239731546756995"
+                          "url": "https://tfws0gr3uomttgr31hcj18yzdncbifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=9f1b081ef9a16404d905b5a8-178165266068319&wsIPSercert=f8d7d2e7567ff25211a70420e7bf7d6a&wsBindIP=2&wsserid=1168243256670410082"
                         },
                         {
-                          "id": "lnk-306ec35dc3",
+                          "id": "lnk-93d97eaaf4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-c6a38c0623b0",
-          "name": "⚽ Fortaleza Ec vs America Mineiro | H1 - 21' 0 - 0 06:00 17/06/2026",
+          "name": "⚽ Fortaleza Ec vs America Mineiro | H1 - 31' 0 - 1 06:00 17/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/154.png",
           "logo_khach": "https://media.api-sports.io/football/teams/125.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f54a2ca2af",
+                          "id": "lnk-ce0fb068a4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3gr4nhct1gwzdrcttfa5urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=1587fe0f1d5a36ee5878e38e-178165207652545&wsIPSercert=8eb9a6ec56fa56035e8a308f3ccc15bb&wsBindIP=2&wsserid=1168239731546756995"
+                          "url": "https://tfws0gr3uomttgr31hcj18yzdncbifiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=9b6b3b415b5d93c116ca20a7-178165266883425&wsIPSercert=f8d7d2e7567ff25211a70420e7bf7d6a&wsBindIP=2&wsserid=1168243256660972706"
                         },
                         {
-                          "id": "lnk-db4609e8cc",
+                          "id": "lnk-6b4f281011",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
