@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:01 17/06/2026",
+  "last_updated": "00:10 17/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-2990644b8914",
-          "name": "⚽ Kuressaare vs Trans Narva | Giữa Hiệp - 45+2' 0 - 0 23:00 16/06/2026",
+          "name": "⚽ Kuressaare vs Trans Narva | H2 - 52' 0 - 0 23:00 16/06/2026",
           "tournament": "Meistriliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/3526.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2274.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-419b76bbb3",
+                          "id": "lnk-d68e7cb3bc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=d545ab77958479705b2e703c-178162927172648&wsIPSercert=43e354f0a8dbc1a0da25f8cfa3f07ceb&wsBindIP=2&wsserid=1168178988325669341"
+                          "url": "https://tfws3go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=2ba370caf3f49e1b7c45518a-178162986266208&wsIPSercert=b8b1c179ddf66a9ba39bbdb0189e07b5&wsBindIP=2&wsserid=1168159941878277389"
                         },
                         {
-                          "id": "lnk-0fb371181b",
+                          "id": "lnk-339e9c7a82",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-54110d0b22aa",
-          "name": "⚽ Ifk Varnamo vs Helsingborg | Sắp bắt đầu - null' 0 - 0 00:00 17/06/2026",
+          "name": "⚽ Ifk Varnamo vs Helsingborg | H1 - 10' 0 - 0 00:00 17/06/2026",
           "tournament": "Superettan",
           "logo_nha": "https://media.api-sports.io/football/teams/2163.png",
           "logo_khach": "https://media.api-sports.io/football/teams/811.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7b09c4a90b",
+                          "id": "lnk-14747fa411",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178162928055816&wsIPSercert=43e354f0a8dbc1a0da25f8cfa3f07ceb&wsBindIP=2&wsserid=1168178972991608093"
+                          "url": "https://tfws3go3nhcjtgczdncjqgrhurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178162987105784&wsIPSercert=b8b1c179ddf66a9ba39bbdb0189e07b5&wsBindIP=2&wsserid=1168159941874082915"
                         },
                         {
-                          "id": "lnk-9e26810c6f",
+                          "id": "lnk-d53a978c2f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
