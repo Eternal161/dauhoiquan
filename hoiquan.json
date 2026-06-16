@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:31 17/06/2026",
+  "last_updated": "02:41 17/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b22c6f7eb889",
-          "name": "⚽ France vs Senegal | H1 - 28' 0 - 0 02:00 17/06/2026",
+          "name": "⚽ France vs Senegal | H1 - 38' 0 - 0 02:00 17/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/2.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-25e26faf2d",
+                          "id": "lnk-b1e3b9be56",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3go3nhcjtgczdncjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=89762e8dceb2972e9cc8dbb6-178163827841692&wsIPSercert=52f5c32f849ac11626803c42d8bc21d3&wsBindIP=2&wsserid=1168159941871985661"
+                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ac54fedd9b782e62f6a5c9d8-178163887575326&wsIPSercert=397513e10b099979845078eb5edc37f2&wsBindIP=2&wsserid=1168159941867791187"
                         },
                         {
-                          "id": "lnk-52b0f4af9b",
+                          "id": "lnk-95e283cfec",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
