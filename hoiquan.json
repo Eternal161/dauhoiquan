@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:51 17/06/2026",
+  "last_updated": "02:01 17/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-54110d0b22aa",
-          "name": "⚽ Ifk Varnamo vs Helsingborg | H2 - 90+2' 0 - 1 00:00 17/06/2026",
-          "tournament": "Superettan",
-          "logo_nha": "https://media.api-sports.io/football/teams/2163.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/811.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2163.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-54110d0b22aa",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-54110d0b22aa",
-                  "name": "Ifk Varnamo vs Helsingborg",
-                  "streams": [
-                    {
-                      "id": "kaytee-54110d0b22aa",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d6abe07cbe",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfws3go3nhcjtgczdncjqgeaurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=89762e8dceb2972e9cc8dbb6-178163587470988&wsIPSercert=1a4b30be27a29569e08744f3d23dc52f&wsBindIP=2&wsserid=1168159941871985661"
-                        },
-                        {
-                          "id": "lnk-dfff55d216",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-b22c6f7eb889",
           "name": "⚽ France vs Senegal | Sắp bắt đầu - null' 0 - 0 02:00 17/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7dd332910d",
+                          "id": "lnk-c2e946e188",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3go3nhcjtgczdncjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=686f873655f37c0f494fc32b-178163588349416&wsIPSercert=1a4b30be27a29569e08744f3d23dc52f&wsBindIP=2&wsserid=1168159941869888441"
+                          "url": "https://tfws3go3nhcjtgczdncjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=686f873655f37c0f494fc32b-178163647261301&wsIPSercert=346594e8e5c5cb842eec988fced707e3&wsBindIP=2&wsserid=1168159941869888441"
                         },
                         {
-                          "id": "lnk-1db87e1a1d",
+                          "id": "lnk-e842db6783",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-623f52883ce0",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e122cbded0c0",
+          "name": "⚽ Portugal vs Congo Dr | Sắp diễn ra vs 00:00 18/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/27.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/27.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e122cbded0c0",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e122cbded0c0",
+                  "name": "Portugal vs Congo Dr",
+                  "streams": [
+                    {
+                      "id": "kaytee-e122cbded0c0",
                       "name": "F",
                       "stream_links": []
                     }
