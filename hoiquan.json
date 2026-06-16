@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:31 16/06/2026",
+  "last_updated": "23:41 16/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-92b212812f79",
-          "name": "⚽ Bfc Daugavpils vs Super Nova | H2 - 74' 0 - 0 22:00 16/06/2026",
+          "name": "⚽ Bfc Daugavpils vs Super Nova | H2 - 84' 0 - 0 22:00 16/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/4149.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4143.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2b7c9aae1a",
+                          "id": "lnk-ee46b905e1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3go3nhcjtgczdncjqgeaurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=686f873655f37c0f494fc32b-178162747664570&wsIPSercert=dbcea56ad7f51fdc77bb3e895ee124d5&wsBindIP=2&wsserid=1168159941869888441"
+                          "url": "https://tfws3gr4nhct1gwzdrcttfa5urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=6bf2e8cd8ff5eab327aa2c7e-178162807586786&wsIPSercert=e2bac6ffca07bc892ba26fdc2ab3e2ee&wsBindIP=2&wsserid=1168239731528930923"
                         },
                         {
-                          "id": "lnk-639083b75b",
+                          "id": "lnk-db934c2c03",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-2990644b8914",
-          "name": "⚽ Kuressaare vs Trans Narva | H1 - 29' 0 - 0 23:00 16/06/2026",
+          "name": "⚽ Kuressaare vs Trans Narva | H1 - 39' 0 - 1 23:00 16/06/2026",
           "tournament": "Meistriliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/3526.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2274.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-35a9881088",
+                          "id": "lnk-5b2916698c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3go3nhcjtgczdncjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=686f873655f37c0f494fc32b-178162748533837&wsIPSercert=dbcea56ad7f51fdc77bb3e895ee124d5&wsBindIP=2&wsserid=1168159941869888441"
+                          "url": "https://tfws3gr4nhct1gwzdrcttfa5urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=640cb0c7b0edfaab34e13fb8-178162808450019&wsIPSercert=e2bac6ffca07bc892ba26fdc2ab3e2ee&wsBindIP=2&wsserid=1168239731551999947"
                         },
                         {
-                          "id": "lnk-a354fbecc9",
+                          "id": "lnk-2c1ed47a6f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-54110d0b22aa",
-          "name": "⚽ Ifk Varnamo vs Helsingborg | Sắp diễn ra vs 00:00 17/06/2026",
+          "name": "⚽ Ifk Varnamo vs Helsingborg | Sắp bắt đầu - null' 0 - 0 00:00 17/06/2026",
           "tournament": "Superettan",
           "logo_nha": "https://media.api-sports.io/football/teams/2163.png",
           "logo_khach": "https://media.api-sports.io/football/teams/811.png",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-54110d0b22aa",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-ec626f459f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfws3gr4nhct1gwzdrcttfa5urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=ddf2eb4fbae6034d59b0b746-178162809254037&wsIPSercert=e2bac6ffca07bc892ba26fdc2ab3e2ee&wsBindIP=2&wsserid=1168239731525785127"
+                        },
+                        {
+                          "id": "lnk-1330d04d4c",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
