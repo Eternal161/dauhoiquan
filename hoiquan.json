@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:51 17/06/2026",
+  "last_updated": "01:01 17/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-2990644b8914",
-          "name": "⚽ Kuressaare vs Trans Narva | H2 - 87' 0 - 0 23:00 16/06/2026",
-          "tournament": "Meistriliiga",
-          "logo_nha": "https://media.api-sports.io/football/teams/3526.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2274.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/3526.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-2990644b8914",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-2990644b8914",
-                  "name": "Kuressaare vs Trans Narva",
-                  "streams": [
-                    {
-                      "id": "kaytee-2990644b8914",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-592e1a005e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=d545ab77958479705b2e703c-178163227273105&wsIPSercert=b18c177956fb411c7afda267740135db&wsBindIP=2&wsserid=1168178988325669341"
-                        },
-                        {
-                          "id": "lnk-13bd3b9f00",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-54110d0b22aa",
           "name": "⚽ Ifk Varnamo vs Helsingborg | Giữa Hiệp - 45+4' 0 - 1 00:00 17/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1b13011714",
+                          "id": "lnk-d41dc550ce",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178163228150064&wsIPSercert=b18c177956fb411c7afda267740135db&wsBindIP=2&wsserid=1168178972991608093"
+                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178163287730254&wsIPSercert=81b551cbc9b4636fce44ec67549dd868&wsBindIP=2&wsserid=1168178972991608093"
                         },
                         {
-                          "id": "lnk-d559e232aa",
+                          "id": "lnk-66895f353b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-a064fc7449c6",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-623f52883ce0",
+          "name": "⚽ Riga vs Rīgas Fs | Sắp diễn ra vs 23:00 17/06/2026",
+          "tournament": "Virsliga",
+          "logo_nha": "https://media.api-sports.io/football/teams/10124.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4160.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/10124.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-623f52883ce0",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-623f52883ce0",
+                  "name": "Riga vs Rīgas Fs",
+                  "streams": [
+                    {
+                      "id": "kaytee-623f52883ce0",
                       "name": "F",
                       "stream_links": []
                     }
