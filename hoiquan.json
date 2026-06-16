@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:01 17/06/2026",
+  "last_updated": "04:11 17/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-b22c6f7eb889",
-          "name": "⚽ France vs Senegal | H2 - 90+6' 3 - 1 02:00 17/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/2.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b22c6f7eb889",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b22c6f7eb889",
-                  "name": "France vs Senegal",
-                  "streams": [
-                    {
-                      "id": "kaytee-b22c6f7eb889",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f1162cd686",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b666b584e4acbbaf977137a3-178164367372124&wsIPSercert=9d0b9647ce58d8cad1abc182014661c5&wsBindIP=2&wsserid=1168159941878277355"
-                        },
-                        {
-                          "id": "lnk-e4dbdc1f5e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-42a21254e22f",
-          "name": "⚽ Iraq vs Norway | Sắp diễn ra vs 05:00 17/06/2026",
+          "name": "⚽ Iraq vs Norway | Sắp bắt đầu - null' 0 - 0 05:00 17/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1567.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
@@ -86,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +44,22 @@
                     {
                       "id": "kaytee-42a21254e22f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-3c5de41427",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e3fcde56d983ccae380d59b5-178164427037692&wsIPSercert=1c4e50fe2761598df9b78a599a4b6cc0&wsBindIP=2&wsserid=1168159941869888407"
+                        },
+                        {
+                          "id": "lnk-d7a5f1b4dc",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -463,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-e122cbded0c0",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-bc75d7dbc6a3",
+          "name": "⚽ Rågsved vs Enköping | Sắp diễn ra vs 00:30 18/06/2026",
+          "tournament": "Svenska Cupen",
+          "logo_nha": "https://media.api-sports.io/football/teams/16745.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/12578.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/16745.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bc75d7dbc6a3",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bc75d7dbc6a3",
+                  "name": "Rågsved vs Enköping",
+                  "streams": [
+                    {
+                      "id": "kaytee-bc75d7dbc6a3",
                       "name": "F",
                       "stream_links": []
                     }
