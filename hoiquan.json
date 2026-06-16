@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:31 16/06/2026",
+  "last_updated": "22:40 16/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-92b212812f79",
-          "name": "⚽ Bfc Daugavpils vs Super Nova | H1 - 31' 0 - 0 22:00 16/06/2026",
+          "name": "⚽ Bfc Daugavpils vs Super Nova | H1 - 41' 0 - 0 22:00 16/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/4149.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4143.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e78e941336",
+                          "id": "lnk-6d4417c6ca",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178162388586194&wsIPSercert=fc5466281ac1e35087874274218e62e9&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfws0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178162446590450&wsIPSercert=e5ec77155f2a5a6671ed787b099a7df3&wsBindIP=2&wsserid=1168231589572867007"
                         },
                         {
-                          "id": "lnk-128e868824",
+                          "id": "lnk-7962e9db66",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-759653ebfa",
+                          "id": "lnk-a45960f67d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0e049b26c5ec10b00ed2fc6c-178162389455816&wsIPSercert=fc5466281ac1e35087874274218e62e9&wsBindIP=2&wsserid=1168283323302724409"
+                          "url": "https://tfws0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=00489e5fa24fa852f6673a81-178162447453969&wsIPSercert=e5ec77155f2a5a6671ed787b099a7df3&wsBindIP=2&wsserid=1168231589574964209"
                         },
                         {
-                          "id": "lnk-a0d9e7c9dc",
+                          "id": "lnk-e74687b7de",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
