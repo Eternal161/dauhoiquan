@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:10 16/06/2026",
+  "last_updated": "07:20 16/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-13b38dc8dc85",
-          "name": "⚽ Saudi Arabia vs Uruguay | H2 - 90+9' 1 - 1 05:00 16/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-13b38dc8dc85",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-13b38dc8dc85",
-                  "name": "Saudi Arabia vs Uruguay",
-                  "streams": [
-                    {
-                      "id": "kaytee-13b38dc8dc85",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-250ff89f91",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-776c22da5352",
-          "name": "⚽ Criciuma vs Ceara | H1 - 8' 0 - 0 07:00 16/06/2026",
+          "name": "⚽ Criciuma vs Ceara | H1 - 18' 0 - 0 07:00 16/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/140.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpEq0ZDxhCpCOUtgbmrKrxUfha1DH3ajU-Q&s",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b1c5f1a83b",
+                          "id": "lnk-479196b5db",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws1gr4nhct1gwzdrctufaauqc3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=0d68058b7045381477e2114c-178156866755031&wsIPSercert=32099f2f107a25b9384f54a0a531b8e1&wsBindIP=2&wsserid=1168239731559340115"
+                          "url": "https://tfws3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=fcf1d3180b6c9d5e74948e4a-178156926933536&wsIPSercert=d0572f91f0fa0e9725e7f0339f5b48b3&wsBindIP=2&wsserid=1168239733243780912"
                         },
                         {
-                          "id": "lnk-b95e0b1f0a",
+                          "id": "lnk-713909c1d3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-42a21254e22f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c6a38c0623b0",
+          "name": "⚽ Fortaleza Ec vs America Mineiro | Sắp diễn ra vs 06:00 17/06/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/154.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/125.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/154.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c6a38c0623b0",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c6a38c0623b0",
+                  "name": "Fortaleza Ec vs America Mineiro",
+                  "streams": [
+                    {
+                      "id": "kaytee-c6a38c0623b0",
                       "name": "F",
                       "stream_links": []
                     }
