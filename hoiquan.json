@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:50 16/06/2026",
+  "last_updated": "00:01 17/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-92b212812f79",
-          "name": "⚽ Bfc Daugavpils vs Super Nova | H2 - 90+4' 0 - 0 22:00 16/06/2026",
-          "tournament": "Virsliga",
-          "logo_nha": "https://media.api-sports.io/football/teams/4149.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/4143.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/4149.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-92b212812f79",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-92b212812f79",
-                  "name": "Bfc Daugavpils vs Super Nova",
-                  "streams": [
-                    {
-                      "id": "kaytee-92b212812f79",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c629ecaad5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfws3go3nhcjtgczdncjqgeaurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=686f873655f37c0f494fc32b-178162866581845&wsIPSercert=832dd3c4aa78c4f136520f6c25aee0e8&wsBindIP=2&wsserid=1168159941869888441"
-                        },
-                        {
-                          "id": "lnk-6959eb6502",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-2990644b8914",
           "name": "⚽ Kuressaare vs Trans Narva | Giữa Hiệp - 45+2' 0 - 0 23:00 16/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-95ebb8bf23",
+                          "id": "lnk-419b76bbb3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3go3nhcjtgczdncjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=686f873655f37c0f494fc32b-178162867423403&wsIPSercert=832dd3c4aa78c4f136520f6c25aee0e8&wsBindIP=2&wsserid=1168159941869888441"
+                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=d545ab77958479705b2e703c-178162927172648&wsIPSercert=43e354f0a8dbc1a0da25f8cfa3f07ceb&wsBindIP=2&wsserid=1168178988325669341"
                         },
                         {
-                          "id": "lnk-d6ee802813",
+                          "id": "lnk-0fb371181b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-26b529f64a",
+                          "id": "lnk-7b09c4a90b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3go3nhcjtgczdncjqgeaurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=89762e8dceb2972e9cc8dbb6-178162868214175&wsIPSercert=832dd3c4aa78c4f136520f6c25aee0e8&wsBindIP=2&wsserid=1168159941871985661"
+                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178162928055816&wsIPSercert=43e354f0a8dbc1a0da25f8cfa3f07ceb&wsBindIP=2&wsserid=1168178972991608093"
                         },
                         {
-                          "id": "lnk-2f86a4b9b3",
+                          "id": "lnk-9e26810c6f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-68c73b82c2ab",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a064fc7449c6",
+          "name": "⚽ Turku Ps vs Kups | Sắp diễn ra vs 22:00 17/06/2026",
+          "tournament": "Veikkausliiga",
+          "logo_nha": "https://media.api-sports.io/football/teams/1168.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1168.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a064fc7449c6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a064fc7449c6",
+                  "name": "Turku Ps vs Kups",
+                  "streams": [
+                    {
+                      "id": "kaytee-a064fc7449c6",
                       "name": "F",
                       "stream_links": []
                     }
