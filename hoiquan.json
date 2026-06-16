@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:31 16/06/2026",
+  "last_updated": "21:41 16/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b7aa05ef39",
+                          "id": "lnk-a6cf8959fb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178162029735353&wsIPSercert=def8cf30bcd6e6e7b436781863021663&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfws1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178162087884058&wsIPSercert=0d9cd7fe602ae83dfae6cb98af3b6136&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-e5e763df63",
+                          "id": "lnk-e9317cbd07",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -113,11 +113,11 @@
           ]
         },
         {
-          "id": "kaytee-c5477ece557b",
-          "name": "⚽ Kuressaare vs Trans Narva | Sắp diễn ra vs 23:00 16/06/2026",
-          "tournament": "Meistriliiga",
-          "logo_nha": "https://media.api-sports.io/football/teams/3526.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2274.png",
+          "id": "kaytee-54110d0b22aa",
+          "name": "⚽ Ifk Varnamo vs Helsingborg | Sắp diễn ra vs 00:00 17/06/2026",
+          "tournament": "Superettan",
+          "logo_nha": "https://media.api-sports.io/football/teams/2163.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/811.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -125,7 +125,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/3526.png",
+            "url": "https://media.api-sports.io/football/teams/2163.png",
             "width": 1600,
             "height": 1200
           },
@@ -139,15 +139,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-c5477ece557b",
+              "id": "kaytee-54110d0b22aa",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-c5477ece557b",
-                  "name": "Kuressaare vs Trans Narva",
+                  "id": "kaytee-54110d0b22aa",
+                  "name": "Ifk Varnamo vs Helsingborg",
                   "streams": [
                     {
-                      "id": "kaytee-c5477ece557b",
+                      "id": "kaytee-54110d0b22aa",
                       "name": "F",
                       "stream_links": []
                     }
