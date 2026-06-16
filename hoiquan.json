@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:11 16/06/2026",
+  "last_updated": "22:21 16/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-92b212812f79",
-          "name": "⚽ Bfc Daugavpils vs Super Nova | H1 - 11' 0 - 0 22:00 16/06/2026",
+          "name": "⚽ Bfc Daugavpils vs Super Nova | H1 - 21' 0 - 0 22:00 16/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/4149.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4143.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f4a0958aa4",
+                          "id": "lnk-4c73ca0117",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws1gr3uomttgr31hctsfaau1p3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178162268853376&wsIPSercert=33250589ee363bf1389fd3e2367bf390&wsBindIP=2&wsserid=1168056276210707857"
+                          "url": "https://tfws0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178162327295407&wsIPSercert=4b997a2d1cb2afeb0a7c91ae18b9e2c3&wsBindIP=2&wsserid=1168231589572867007"
                         },
                         {
-                          "id": "lnk-66c3f6a51b",
+                          "id": "lnk-029a691627",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
