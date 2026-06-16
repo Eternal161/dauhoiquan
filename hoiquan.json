@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:10 17/06/2026",
+  "last_updated": "05:20 17/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-42a21254e22f",
-          "name": "⚽ Iraq vs Norway | H1 - 10' 0 - 0 05:00 17/06/2026",
+          "name": "⚽ Iraq vs Norway | H1 - 19' 0 - 0 05:00 17/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1567.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-85bb4bdc81",
+                          "id": "lnk-09a125d6ad",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3go3nhcjtgczdncjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=89762e8dceb2972e9cc8dbb6-178164786796662&wsIPSercert=ac0438252fa407b62f531197374546a3&wsBindIP=2&wsserid=1168159941871985661"
+                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=1c66e4ed59792af5c9430327-178164846348363&wsIPSercert=c323b92ce942d9f294c56f113a183eb7&wsBindIP=2&wsserid=1168178972992656721"
                         },
                         {
-                          "id": "lnk-40f23d530f",
+                          "id": "lnk-c6b67f083f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
