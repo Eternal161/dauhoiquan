@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:01 17/06/2026",
+  "last_updated": "01:11 17/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-54110d0b22aa",
-          "name": "⚽ Ifk Varnamo vs Helsingborg | Giữa Hiệp - 45+4' 0 - 1 00:00 17/06/2026",
+          "name": "⚽ Ifk Varnamo vs Helsingborg | H2 - 52' 0 - 1 00:00 17/06/2026",
           "tournament": "Superettan",
           "logo_nha": "https://media.api-sports.io/football/teams/2163.png",
           "logo_khach": "https://media.api-sports.io/football/teams/811.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d41dc550ce",
+                          "id": "lnk-86bdf38aeb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178163287730254&wsIPSercert=81b551cbc9b4636fce44ec67549dd868&wsBindIP=2&wsserid=1168178972991608093"
+                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178163347489174&wsIPSercert=d55fa1729aca769ea4667be7a86fa837&wsBindIP=2&wsserid=1168178972991608093"
                         },
                         {
-                          "id": "lnk-66895f353b",
+                          "id": "lnk-7331291373",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
