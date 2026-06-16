@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:01 16/06/2026",
+  "last_updated": "10:11 16/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-845e7111c1a5",
-          "name": "⚽ Iran vs New Zealand | H2 - 90+4' 2 - 2 08:00 16/06/2026",
+          "name": "⚽ Iran vs New Zealand | H2 - 90+6' 2 - 2 08:00 16/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcHjuJwQinnq7yrEdYTZNb6xYpuKE2zdRCXg&s",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7f28570033",
+                          "id": "lnk-75d4d77125",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=1c66e4ed59792af5c9430327-178157887159982&wsIPSercert=ced8dafcea15b4cb2fe7686df5190235&wsBindIP=2&wsserid=1168178972992656721"
-                        },
-                        {
-                          "id": "lnk-dc9979dd11",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
                         }
                       ]
