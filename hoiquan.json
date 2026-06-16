@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:40 16/06/2026",
+  "last_updated": "07:50 16/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-776c22da5352",
-          "name": "⚽ Criciuma vs Ceara | H1 - 38' 1 - 0 07:00 16/06/2026",
+          "name": "⚽ Criciuma vs Ceara | H1 - 45+3' 1 - 0 07:00 16/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/140.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpEq0ZDxhCpCOUtgbmrKrxUfha1DH3ajU-Q&s",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d2d4d87dba",
+                          "id": "lnk-a70adb1cc4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=1c66e4ed59792af5c9430327-178157045510218&wsIPSercert=405d63fb2464c4f3e8ea567cdff14264&wsBindIP=2&wsserid=1168178972992656721"
+                          "url": "https://tfws4go3nhcjtghzdrpbsfah144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3e4874c7800af5fdffcac6e8-178157106268969&wsIPSercert=2b7720dc105c08d906cc5b7ccefdd448&wsBindIP=2&wsserid=1168270624942823287"
                         },
                         {
-                          "id": "lnk-539ede85ad",
+                          "id": "lnk-9a57abf7af",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,10 +106,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cbab6be600",
+                          "id": "lnk-2812bf8b08",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfws4go3nhcjtghzdrpbsfah144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=935534a59670a883ab78f9eb-178157107094070&wsIPSercert=2b7720dc105c08d906cc5b7ccefdd448&wsBindIP=2&wsserid=1168270624950163551"
+                        },
+                        {
+                          "id": "lnk-05d0f7f043",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
                         }
                       ]
