@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:20 17/06/2026",
+  "last_updated": "01:31 17/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-54110d0b22aa",
-          "name": "⚽ Ifk Varnamo vs Helsingborg | Live 0 - 0 00:00 17/06/2026",
+          "name": "⚽ Ifk Varnamo vs Helsingborg | H2 - 72' 0 - 1 00:00 17/06/2026",
           "tournament": "Superettan",
           "logo_nha": "https://media.api-sports.io/football/teams/2163.png",
           "logo_khach": "https://media.api-sports.io/football/teams/811.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-30dd4cdedb",
+                          "id": "lnk-62b7604cad",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178163406434041&wsIPSercert=c5078e12133ca05c6eb5b8740ecb08f8&wsBindIP=2&wsserid=1168178972991608093"
+                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178163467598632&wsIPSercert=4fd19ded41333959b24ccb6bc7000b0d&wsBindIP=2&wsserid=1168178972991608093"
                         },
                         {
-                          "id": "lnk-27830a1a80",
+                          "id": "lnk-1e06e50542",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-b22c6f7eb889",
-          "name": "⚽ France vs Senegal | Live 0 - 0 02:00 17/06/2026",
+          "name": "⚽ France vs Senegal | Sắp bắt đầu - null' 0 - 0 02:00 17/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/2.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-93beefae89",
+                          "id": "lnk-5e2b3197a6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e3fcde56d983ccae380d59b5-178163407307092&wsIPSercert=c5078e12133ca05c6eb5b8740ecb08f8&wsBindIP=2&wsserid=1168159941869888407"
+                          "url": "https://tfws3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e3fcde56d983ccae380d59b5-178163468467763&wsIPSercert=4fd19ded41333959b24ccb6bc7000b0d&wsBindIP=2&wsserid=1168159941869888407"
                         },
                         {
-                          "id": "lnk-2f06858db0",
+                          "id": "lnk-d25e5f8b86",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
