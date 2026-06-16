@@ -1,18 +1,18 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:01 16/06/2026",
+  "last_updated": "18:11 16/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-f7401f4b3c79",
-          "name": "⚽ Rochedale Rovers vs Moreton City Excelsior | H2 - 88' 2 - 4 17:30 16/06/2026",
-          "tournament": "Queensland NPL",
-          "logo_nha": "https://media.api-sports.io/football/teams/11182.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/22916.png",
+          "id": "kaytee-92b212812f79",
+          "name": "⚽ Bfc Daugavpils vs Super Nova | Sắp diễn ra vs 22:00 16/06/2026",
+          "tournament": "Virsliga",
+          "logo_nha": "https://media.api-sports.io/football/teams/4149.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4143.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -20,67 +20,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/11182.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f7401f4b3c79",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f7401f4b3c79",
-                  "name": "Rochedale Rovers vs Moreton City Excelsior",
-                  "streams": [
-                    {
-                      "id": "kaytee-f7401f4b3c79",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-18db5946db",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfws0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178160767415565&wsIPSercert=59d2619dfd2cbee046e0e054db7fd7d9&wsBindIP=2&wsserid=1168283477179400067"
-                        },
-                        {
-                          "id": "lnk-681df870ab",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-5bab98001b4b",
-          "name": "⚽ Namungo vs Tabora United | Sắp diễn ra vs 20:00 16/06/2026",
-          "tournament": "Ligi kuu Bara",
-          "logo_nha": "https://media.api-sports.io/football/teams/12197.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/22175.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/12197.png",
+            "url": "https://media.api-sports.io/football/teams/4149.png",
             "width": 1600,
             "height": 1200
           },
@@ -94,15 +34,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-5bab98001b4b",
+              "id": "kaytee-92b212812f79",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-5bab98001b4b",
-                  "name": "Namungo vs Tabora United",
+                  "id": "kaytee-92b212812f79",
+                  "name": "Bfc Daugavpils vs Super Nova",
                   "streams": [
                     {
-                      "id": "kaytee-5bab98001b4b",
+                      "id": "kaytee-92b212812f79",
                       "name": "F",
                       "stream_links": []
                     }
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-c4875f5c1c83",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-68c73b82c2ab",
+          "name": "⚽ Kairat Almaty vs Kyzyl-Zhar | Sắp diễn ra vs 21:00 17/06/2026",
+          "tournament": "Ngoại hạng Kazakhstan",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FCKairat_logo.png/250px-FCKairat_logo.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4554.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FCKairat_logo.png/250px-FCKairat_logo.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-68c73b82c2ab",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-68c73b82c2ab",
+                  "name": "Kairat Almaty vs Kyzyl-Zhar",
+                  "streams": [
+                    {
+                      "id": "kaytee-68c73b82c2ab",
                       "name": "F",
                       "stream_links": []
                     }
