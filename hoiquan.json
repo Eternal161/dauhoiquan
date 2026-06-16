@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:50 16/06/2026",
+  "last_updated": "07:01 16/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-242d8d0865",
+                          "id": "lnk-de6825f412",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwr3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b93726b0c644658cca80b5c8-178156746477745&wsIPSercert=f8ad23eb197e35d038898e642dc7a0f4&wsBindIP=2&wsserid=1168239733746099117"
+                          "url": "https://tfws3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fcf1d3180b6c9d5e74948e4a-178156807672847&wsIPSercert=eefa979a9036ea8086271494823428b5&wsBindIP=2&wsserid=1168239733243780912"
                         },
                         {
-                          "id": "lnk-c18217c07f",
+                          "id": "lnk-eab84a1b0e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,10 +106,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-de5ef0c4fc",
+                          "id": "lnk-62ea871a10",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfws3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=fcf1d3180b6c9d5e74948e4a-178156808466543&wsIPSercert=eefa979a9036ea8086271494823428b5&wsBindIP=2&wsserid=1168239733243780912"
+                        },
+                        {
+                          "id": "lnk-ad2f97eafb",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
