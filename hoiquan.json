@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:31 17/06/2026",
+  "last_updated": "16:41 17/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c4875f5c1c83",
-          "name": "⚽ Changnyeong W vs Suwon Fmc | Sắp diễn ra vs 17:00 17/06/2026",
+          "name": "⚽ Changnyeong W vs Suwon Fmc | Sắp bắt đầu - null' 0 - 0 17:00 17/06/2026",
           "tournament": "WK-League",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmfukJLwd8XgLwZE2GQ7K66yFXmCwwjY5kLg&s",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Suwon_FC_2016.svg/1280px-Suwon_FC_2016.svg.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-c4875f5c1c83",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-d53a239ed4",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwt1gr3uomttgr31hctsfaau1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178168927742442&wsIPSercert=73460fa6ce60f7dab188f325a59c94dd&wsBindIP=2&wsserid=1168056276210707857"
+                        },
+                        {
+                          "id": "lnk-794bdde46f",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
