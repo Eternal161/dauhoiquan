@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:00 18/06/2026",
+  "last_updated": "05:10 18/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-e740df861a7d",
-          "name": "⚽ England vs Croatia | Sắp bắt đầu - null' 0 - 0 03:00 18/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/10.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-e740df861a7d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-e740df861a7d",
-                  "name": "England vs Croatia",
-                  "streams": [
-                    {
-                      "id": "kaytee-e740df861a7d",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-eda23c6e6c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwt3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b666b584e4acbbaf977137a3-178173366329246&wsIPSercert=b08d13e400a81845f1a6fe87ba2f70c3&wsBindIP=2&wsserid=1168159941878277355"
-                        },
-                        {
-                          "id": "lnk-7d548fbb2f",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-d94be53fd305",
           "name": "⚽ Ghana vs Panama | Sắp diễn ra vs 06:00 18/06/2026",
@@ -86,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -104,22 +44,7 @@
                     {
                       "id": "kaytee-d94be53fd305",
                       "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-300c28c1e3",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwt3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=b729ead558c9cf9a676e9806-178173367248974&wsIPSercert=b08d13e400a81845f1a6fe87ba2f70c3&wsBindIP=2&wsserid=1168159941876180135"
-                        },
-                        {
-                          "id": "lnk-406d8d357e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -478,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-665eb9078f39",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-eb8c63fcb919",
+          "name": "⚽ Switzerland vs Bosnia & Herzegovina | Sắp diễn ra vs 02:00 19/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1113.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-eb8c63fcb919",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-eb8c63fcb919",
+                  "name": "Switzerland vs Bosnia & Herzegovina",
+                  "streams": [
+                    {
+                      "id": "kaytee-eb8c63fcb919",
                       "name": "F",
                       "stream_links": []
                     }
