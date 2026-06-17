@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:00 17/06/2026",
+  "last_updated": "11:10 17/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-5b8516c80030",
-          "name": "⚽ Austria vs Jordan | Sắp bắt đầu - null' 0 - 0 11:00 17/06/2026",
+          "name": "⚽ Austria vs Jordan | H1 - 8' 0 - 0 11:00 17/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/775.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8a74bd7844",
+                          "id": "lnk-360314e9be",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b666b584e4acbbaf977137a3-178166885941928&wsIPSercert=265e2977b322e12f367302876c75c623&wsBindIP=2&wsserid=1168159941878277355"
+                          "url": "https://tfwt3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b666b584e4acbbaf977137a3-178166946707333&wsIPSercert=060354a733ac95a8c67c34e21f5402c9&wsBindIP=2&wsserid=1168159941878277355"
                         },
                         {
-                          "id": "lnk-3d1989d339",
+                          "id": "lnk-bf68964a02",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
