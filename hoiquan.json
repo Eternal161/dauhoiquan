@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:30 17/06/2026",
+  "last_updated": "20:40 17/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-68c73b82c2ab",
-          "name": "⚽ Kairat Almaty vs Kyzyl-Zhar | Sắp diễn ra vs 21:00 17/06/2026",
+          "name": "⚽ Kairat Almaty vs Kyzyl-Zhar | Sắp bắt đầu - null' 0 - 0 21:00 17/06/2026",
           "tournament": "Ngoại hạng Kazakhstan",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FCKairat_logo.png/250px-FCKairat_logo.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4554.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "kaytee-68c73b82c2ab",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-d2251e890f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
