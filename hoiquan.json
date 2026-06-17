@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:40 17/06/2026",
+  "last_updated": "08:50 17/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-51faa1fe68b5",
-          "name": "⚽ Argentina vs Algeria | H1 - 38' 1 - 0 08:00 17/06/2026",
+          "name": "⚽ Argentina vs Algeria | Live 0 - 0 08:00 17/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f118896f0f",
+                          "id": "lnk-86f8ef89ec",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt3gr4nhct1gwzdrcttfa5urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=640cb0c7b0edfaab34e13fb8-178166046295615&wsIPSercert=3505fe77552b33296b816b89e456a752&wsBindIP=2&wsserid=1168239731551999947"
+                          "url": "https://tfwt3go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c3d799641d6cecf6f384257e-178166106006873&wsIPSercert=997b08ca49e950a1be1e530165f0caa4&wsBindIP=2&wsserid=1168159941870937051"
                         },
                         {
-                          "id": "lnk-6c8ef12c16",
+                          "id": "lnk-a8034f7b71",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
