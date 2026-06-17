@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:01 17/06/2026",
+  "last_updated": "08:10 17/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-c6a38c0623b0",
-          "name": "⚽ Fortaleza Ec vs America Mineiro | H2 - 90+9' 0 - 2 06:00 17/06/2026",
-          "tournament": "Serie B",
-          "logo_nha": "https://media.api-sports.io/football/teams/154.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/125.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/154.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c6a38c0623b0",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c6a38c0623b0",
-                  "name": "Fortaleza Ec vs America Mineiro",
-                  "streams": [
-                    {
-                      "id": "kaytee-c6a38c0623b0",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1de92610fd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwt3go3nhcjtgczdncjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=89762e8dceb2972e9cc8dbb6-178165808387090&wsIPSercert=2fc9b214d44983aed486215d355a7fc6&wsBindIP=2&wsserid=1168159941871985661"
-                        },
-                        {
-                          "id": "lnk-9fd0b4312a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-51faa1fe68b5",
-          "name": "⚽ Argentina vs Algeria | Sắp bắt đầu - null' 0 - 0 08:00 17/06/2026",
+          "name": "⚽ Argentina vs Algeria | H1 - 8' 0 - 1 08:00 17/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-396e6db725",
+                          "id": "lnk-e48cf82c17",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt3go3nhcjtgczdncjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=686f873655f37c0f494fc32b-178165809161322&wsIPSercert=2fc9b214d44983aed486215d355a7fc6&wsBindIP=2&wsserid=1168159941869888441"
+                          "url": "https://tfwt3go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36a2295e4cd9b36484d06c82-178165866748842&wsIPSercert=7dfdf0a904ad38943b920b4deb77fc29&wsBindIP=2&wsserid=1168159941877228745"
                         },
                         {
-                          "id": "lnk-dd6a8fa007",
+                          "id": "lnk-082c7e77d7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-e740df861a7d",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d94be53fd305",
+          "name": "⚽ Ghana vs Panama | Sắp diễn ra vs 06:00 18/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d94be53fd305",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d94be53fd305",
+                  "name": "Ghana vs Panama",
+                  "streams": [
+                    {
+                      "id": "kaytee-d94be53fd305",
                       "name": "F",
                       "stream_links": []
                     }
