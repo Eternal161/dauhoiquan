@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:01 17/06/2026",
+  "last_updated": "10:11 17/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-51faa1fe68b5",
-          "name": "⚽ Argentina vs Algeria | H2 - 87' 3 - 0 08:00 17/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-51faa1fe68b5",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-51faa1fe68b5",
-                  "name": "Argentina vs Algeria",
-                  "streams": [
-                    {
-                      "id": "kaytee-51faa1fe68b5",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-63a9c318ab",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwt3go3nhcjtgczdncjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=686f873655f37c0f494fc32b-178166529327584&wsIPSercert=42e2fc0f6f21082168c382fcefa2b633&wsBindIP=2&wsserid=1168159941869888441"
-                        },
-                        {
-                          "id": "lnk-dbdd34b625",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-5b8516c80030",
           "name": "⚽ Austria vs Jordan | Sắp diễn ra vs 11:00 17/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-d94be53fd305",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-9890ed0f7da9",
+          "name": "⚽ Fc Tulsa vs Monterey Bay | Sắp diễn ra vs 07:30 18/06/2026",
+          "tournament": "USL Championship",
+          "logo_nha": "https://media.api-sports.io/football/teams/4022.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/18375.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4022.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-9890ed0f7da9",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-9890ed0f7da9",
+                  "name": "Fc Tulsa vs Monterey Bay",
+                  "streams": [
+                    {
+                      "id": "kaytee-9890ed0f7da9",
                       "name": "F",
                       "stream_links": []
                     }
