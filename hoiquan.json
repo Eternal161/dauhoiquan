@@ -1,12 +1,478 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:00 18/06/2026",
+  "last_updated": "06:10 18/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
-      "channels": []
+      "channels": [
+        {
+          "id": "kaytee-d94be53fd305",
+          "name": "⚽ Ghana vs Panama | Sắp bắt đầu - null' 0 - 0 06:00 18/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d94be53fd305",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d94be53fd305",
+                  "name": "Ghana vs Panama",
+                  "streams": [
+                    {
+                      "id": "kaytee-d94be53fd305",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a8d50173ba",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwt3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178173786384469&wsIPSercert=5646b108fef88232a9a3a5226cb241f7&wsBindIP=2&wsserid=1168178972991608093"
+                        },
+                        {
+                          "id": "lnk-ab7c177f7d",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-9890ed0f7da9",
+          "name": "⚽ Fc Tulsa vs Monterey Bay | Sắp diễn ra vs 07:30 18/06/2026",
+          "tournament": "USL Championship",
+          "logo_nha": "https://media.api-sports.io/football/teams/4022.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/18375.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4022.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-9890ed0f7da9",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-9890ed0f7da9",
+                  "name": "Fc Tulsa vs Monterey Bay",
+                  "streams": [
+                    {
+                      "id": "kaytee-9890ed0f7da9",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f97ab60c9e39",
+          "name": "⚽ Uzbekistan vs Colombia | Sắp diễn ra vs 09:00 18/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/1568.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1568.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f97ab60c9e39",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f97ab60c9e39",
+                  "name": "Uzbekistan vs Colombia",
+                  "streams": [
+                    {
+                      "id": "kaytee-f97ab60c9e39",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-133da91fb5cf",
+          "name": "⚽ Ac Oulu vs Mariehamn | Sắp diễn ra vs 16:59 18/06/2026",
+          "tournament": "Veikkausliiga",
+          "logo_nha": "https://media.api-sports.io/football/teams/2077.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/587.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2077.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-133da91fb5cf",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-133da91fb5cf",
+                  "name": "Ac Oulu vs Mariehamn",
+                  "streams": [
+                    {
+                      "id": "kaytee-133da91fb5cf",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a3a96de2f537",
+          "name": "⚽ Akademiya Ontustik vs Yelimay Semey 2 | Sắp diễn ra vs 19:00 18/06/2026",
+          "tournament": "1. Division",
+          "logo_nha": "https://media.api-sports.io/football/teams/4545.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/27635.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4545.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a3a96de2f537",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a3a96de2f537",
+                  "name": "Akademiya Ontustik vs Yelimay Semey 2",
+                  "streams": [
+                    {
+                      "id": "kaytee-a3a96de2f537",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-4f9a2eea13ba",
+          "name": "⚽ Arys vs Kaspij Aktau 2 | Sắp diễn ra vs 20:00 18/06/2026",
+          "tournament": "1. Division",
+          "logo_nha": "https://media.api-sports.io/football/teams/10414.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/27633.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/10414.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4f9a2eea13ba",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4f9a2eea13ba",
+                  "name": "Arys vs Kaspij Aktau 2",
+                  "streams": [
+                    {
+                      "id": "kaytee-4f9a2eea13ba",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d0ed78917e96",
+          "name": "⚽ Turan Turkistan vs Aktobe Jas | Sắp diễn ra vs 22:00 18/06/2026",
+          "tournament": "1. Division",
+          "logo_nha": "https://media.api-sports.io/football/teams/21502.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4546.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/21502.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d0ed78917e96",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d0ed78917e96",
+                  "name": "Turan Turkistan vs Aktobe Jas",
+                  "streams": [
+                    {
+                      "id": "kaytee-d0ed78917e96",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0086eeb280ab",
+          "name": "⚽ Czech Republic vs South Africa | Sắp diễn ra vs 23:00 18/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/770.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/770.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0086eeb280ab",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0086eeb280ab",
+                  "name": "Czech Republic vs South Africa",
+                  "streams": [
+                    {
+                      "id": "kaytee-0086eeb280ab",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-665eb9078f39",
+          "name": "⚽ Sollentuna vs Fbk Karlstad | Sắp diễn ra vs 00:30 19/06/2026",
+          "tournament": "Ettan - Norra",
+          "logo_nha": "https://media.api-sports.io/football/teams/6699.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/12622.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/6699.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-665eb9078f39",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-665eb9078f39",
+                  "name": "Sollentuna vs Fbk Karlstad",
+                  "streams": [
+                    {
+                      "id": "kaytee-665eb9078f39",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-eb8c63fcb919",
+          "name": "⚽ Switzerland vs Bosnia & Herzegovina | Sắp diễn ra vs 02:00 19/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1113.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-eb8c63fcb919",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-eb8c63fcb919",
+                  "name": "Switzerland vs Bosnia & Herzegovina",
+                  "streams": [
+                    {
+                      "id": "kaytee-eb8c63fcb919",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
