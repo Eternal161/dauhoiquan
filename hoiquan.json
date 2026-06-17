@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:11 18/06/2026",
+  "last_updated": "00:21 18/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-623f52883ce0",
-          "name": "⚽ Riga vs Rīgas Fs | Live 0 - 0 23:00 17/06/2026",
+          "name": "⚽ Riga vs Rīgas Fs | H2 - 59' 2 - 0 23:00 17/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/10124.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4160.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6fadaef538",
+                          "id": "lnk-bc6537a36c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt1gwhnhcjagazdnqbafaauecjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=ab1728d73a83f30175dcad29-178171629873467&wsIPSercert=f4b8b55b2f8d297821caba6544458911&wsBindIP=2&wsserid=1168159941864645324"
+                          "url": "https://tfwt3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178171686992235&wsIPSercert=bc3448ffd8a13bc88bf661bfd42ec298&wsBindIP=2&wsserid=1168178972991608093"
                         },
                         {
-                          "id": "lnk-cfa84ca547",
+                          "id": "lnk-3524faff32",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-e122cbded0c0",
-          "name": "⚽ Portugal vs Congo Dr | Live 0 - 0 00:00 18/06/2026",
+          "name": "⚽ Portugal vs Congo Dr | H1 - 20' 1 - 0 00:00 18/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/27.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
@@ -106,78 +106,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ee37952a4a",
+                          "id": "lnk-d13503b43c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=49dc2719b8fc592deb946af6-178171630685189&wsIPSercert=f4b8b55b2f8d297821caba6544458911&wsBindIP=2&wsserid=1168243256664118498"
+                          "url": "https://tfwt3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ac54fedd9b782e62f6a5c9d8-178171687854522&wsIPSercert=bc3448ffd8a13bc88bf661bfd42ec298&wsBindIP=2&wsserid=1168159941867791187"
                         },
                         {
-                          "id": "lnk-3fd9ad17c3",
+                          "id": "lnk-b8831ab9dc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-bc75d7dbc6a3",
-          "name": "⚽ Rågsved vs Enköping | Live 0 - 0 00:30 18/06/2026",
-          "tournament": "Svenska Cupen",
-          "logo_nha": "https://media.api-sports.io/football/teams/16745.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/12578.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/16745.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-bc75d7dbc6a3",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-bc75d7dbc6a3",
-                  "name": "Rågsved vs Enköping",
-                  "streams": [
-                    {
-                      "id": "kaytee-bc75d7dbc6a3",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bd7ceef461",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwt1gwhnhcjagazdnqbafaauecjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=ab1728d73a83f30175dcad29-178171631519769&wsIPSercert=f4b8b55b2f8d297821caba6544458911&wsBindIP=2&wsserid=1168159941864645324"
-                        },
-                        {
-                          "id": "lnk-0bfe90fbad",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
                         }
                       ]
                     }
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-4f9a2eea13ba",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d0ed78917e96",
+          "name": "⚽ Turan Turkistan vs Aktobe Jas | Sắp diễn ra vs 22:00 18/06/2026",
+          "tournament": "1. Division",
+          "logo_nha": "https://media.api-sports.io/football/teams/21502.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4546.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/21502.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d0ed78917e96",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d0ed78917e96",
+                  "name": "Turan Turkistan vs Aktobe Jas",
+                  "streams": [
+                    {
+                      "id": "kaytee-d0ed78917e96",
                       "name": "F",
                       "stream_links": []
                     }
