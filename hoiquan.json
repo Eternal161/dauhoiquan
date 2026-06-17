@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:51 17/06/2026",
+  "last_updated": "00:01 18/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-a064fc7449c6",
-          "name": "⚽ Turku Ps vs Kups | H2 - 90+1' 1 - 2 22:00 17/06/2026",
-          "tournament": "Veikkausliiga",
-          "logo_nha": "https://media.api-sports.io/football/teams/1168.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1168.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a064fc7449c6",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a064fc7449c6",
-                  "name": "Turku Ps vs Kups",
-                  "streams": [
-                    {
-                      "id": "kaytee-a064fc7449c6",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-484d833cb2",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwt3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=1c66e4ed59792af5c9430327-178171508052921&wsIPSercert=d0e009d8a30bff7dcb8b614fcb396b1a&wsBindIP=2&wsserid=1168178972992656721"
-                        },
-                        {
-                          "id": "lnk-733cf16b98",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-623f52883ce0",
-          "name": "⚽ Riga vs Rīgas Fs | H1 - 45+5' 2 - 0 23:00 17/06/2026",
+          "name": "⚽ Riga vs Rīgas Fs | Giữa Hiệp - 45+6' 2 - 0 23:00 17/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/10124.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4160.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f2065eb604",
+                          "id": "lnk-103a5b53dc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178171508911990&wsIPSercert=d0e009d8a30bff7dcb8b614fcb396b1a&wsBindIP=2&wsserid=1168178972991608093"
+                          "url": "https://tfwt1gwhnhcjagazdnqbafaauecjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=ab1728d73a83f30175dcad29-178171568945999&wsIPSercert=1633da419f92310398827302394db4b5&wsBindIP=2&wsserid=1168159941864645324"
                         },
                         {
-                          "id": "lnk-7268bed512",
+                          "id": "lnk-9f01204015",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-59674a2629",
+                          "id": "lnk-4bb554e033",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=d545ab77958479705b2e703c-178171509719190&wsIPSercert=d0e009d8a30bff7dcb8b614fcb396b1a&wsBindIP=2&wsserid=1168178988325669341"
+                          "url": "https://tfwt1gwhnhcjagazdnqbafaauecjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f3820122d36380003e05e4ca-178171569788169&wsIPSercert=1633da419f92310398827302394db4b5&wsBindIP=2&wsserid=1168159941863596715"
                         },
                         {
-                          "id": "lnk-9e247aa031",
+                          "id": "lnk-8efd01a62d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-a3a96de2f537",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-4f9a2eea13ba",
+          "name": "⚽ Arys vs Kaspij Aktau 2 | Sắp diễn ra vs 20:00 18/06/2026",
+          "tournament": "1. Division",
+          "logo_nha": "https://media.api-sports.io/football/teams/10414.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/27633.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/10414.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4f9a2eea13ba",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4f9a2eea13ba",
+                  "name": "Arys vs Kaspij Aktau 2",
+                  "streams": [
+                    {
+                      "id": "kaytee-4f9a2eea13ba",
                       "name": "F",
                       "stream_links": []
                     }
