@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:00 17/06/2026",
+  "last_updated": "18:10 17/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c4875f5c1c83",
-          "name": "⚽ Changnyeong W vs Suwon Fmc | Live 0 - 0 17:00 17/06/2026",
+          "name": "⚽ Changnyeong W vs Suwon Fmc | H2 - 53' 0 - 3 17:00 17/06/2026",
           "tournament": "WK-League",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmfukJLwd8XgLwZE2GQ7K66yFXmCwwjY5kLg&s",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Suwon_FC_2016.svg/1280px-Suwon_FC_2016.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-83a9aa6018",
+                          "id": "lnk-57844f6773",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=00489e5fa24fa852f6673a81-178169406361585&wsIPSercert=6ad6d30d92a32316f7a6d69cab0aa844&wsBindIP=2&wsserid=1168231589574964209"
+                          "url": "https://tfwt0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fc387c98748ade8f54f1ef90-178169466147211&wsIPSercert=a54ebf4d0569e01bea15f59d883b24e9&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-ebacf61ced",
+                          "id": "lnk-d5bd01957b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
