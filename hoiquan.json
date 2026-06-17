@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "13:10 17/06/2026",
+  "last_updated": "13:20 17/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-5b8516c80030",
-          "name": "⚽ Austria vs Jordan | Live 0 - 0 11:00 17/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/775.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/775.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-5b8516c80030",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-5b8516c80030",
-                  "name": "Austria vs Jordan",
-                  "streams": [
-                    {
-                      "id": "kaytee-5b8516c80030",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7dc3fd601a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-c4875f5c1c83",
           "name": "⚽ Changnyeong W vs Suwon Fmc | Sắp diễn ra vs 17:00 17/06/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-9890ed0f7da9",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f97ab60c9e39",
+          "name": "⚽ Uzbekistan vs Colombia | Sắp diễn ra vs 09:00 18/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/1568.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1568.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f97ab60c9e39",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f97ab60c9e39",
+                  "name": "Uzbekistan vs Colombia",
+                  "streams": [
+                    {
+                      "id": "kaytee-f97ab60c9e39",
                       "name": "F",
                       "stream_links": []
                     }
