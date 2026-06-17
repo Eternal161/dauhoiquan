@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:40 18/06/2026",
+  "last_updated": "01:50 18/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e122cbded0c0",
-          "name": "⚽ Portugal vs Congo Dr | Giữa Hiệp - 45+6' 1 - 1 00:00 18/06/2026",
+          "name": "⚽ Portugal vs Congo Dr | Live 0 - 0 00:00 18/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/27.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e3d1f02c3d",
+                          "id": "lnk-3734a1a8d7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt1gwhnhcjagazdnqbafaauecjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f3820122d36380003e05e4ca-178172166822459&wsIPSercert=7287f97738674cb234d15b8c564d7d66&wsBindIP=2&wsserid=1168159941863596715"
+                          "url": "https://tfwt3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b729ead558c9cf9a676e9806-178172225690709&wsIPSercert=f8f78c89cc57033e307032b589b357a2&wsBindIP=2&wsserid=1168159941876180135"
                         },
                         {
-                          "id": "lnk-97bb1ab1bb",
+                          "id": "lnk-be7885dbe4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
