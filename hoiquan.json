@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:50 17/06/2026",
+  "last_updated": "19:01 17/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-c4875f5c1c83",
-          "name": "⚽ Changnyeong W vs Suwon Fmc | H2 - 90+2' 1 - 6 17:00 17/06/2026",
-          "tournament": "WK-League",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmfukJLwd8XgLwZE2GQ7K66yFXmCwwjY5kLg&s",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Suwon_FC_2016.svg/1280px-Suwon_FC_2016.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmfukJLwd8XgLwZE2GQ7K66yFXmCwwjY5kLg&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c4875f5c1c83",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c4875f5c1c83",
-                  "name": "Changnyeong W vs Suwon Fmc",
-                  "streams": [
-                    {
-                      "id": "kaytee-c4875f5c1c83",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-88ac2381f0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwt1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0e049b26c5ec10b00ed2fc6c-178169706286820&wsIPSercert=9e06214098f2395442a94fccc02a823d&wsBindIP=2&wsserid=1168283323302724409"
-                        },
-                        {
-                          "id": "lnk-af12433854",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-68c73b82c2ab",
           "name": "⚽ Kairat Almaty vs Kyzyl-Zhar | Sắp diễn ra vs 21:00 17/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-f97ab60c9e39",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-133da91fb5cf",
+          "name": "⚽ Ac Oulu vs Mariehamn | Sắp diễn ra vs 16:59 18/06/2026",
+          "tournament": "Veikkausliiga",
+          "logo_nha": "https://media.api-sports.io/football/teams/2077.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/587.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2077.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-133da91fb5cf",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-133da91fb5cf",
+                  "name": "Ac Oulu vs Mariehamn",
+                  "streams": [
+                    {
+                      "id": "kaytee-133da91fb5cf",
                       "name": "F",
                       "stream_links": []
                     }
