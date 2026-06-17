@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:51 18/06/2026",
+  "last_updated": "01:01 18/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-623f52883ce0",
-          "name": "⚽ Riga vs Rīgas Fs | H2 - 85' 2 - 1 23:00 17/06/2026",
-          "tournament": "Virsliga",
-          "logo_nha": "https://media.api-sports.io/football/teams/10124.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/4160.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10124.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-623f52883ce0",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-623f52883ce0",
-                  "name": "Riga vs Rīgas Fs",
-                  "streams": [
-                    {
-                      "id": "kaytee-623f52883ce0",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a7341c02a9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwt3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178171867740839&wsIPSercert=50ee3792c5d727eb08a94da58a106cbe&wsBindIP=2&wsserid=1168178972991608093"
-                        },
-                        {
-                          "id": "lnk-a3b0ba56ad",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-e122cbded0c0",
-          "name": "⚽ Portugal vs Congo Dr | H1 - 45+5' 1 - 0 00:00 18/06/2026",
+          "name": "⚽ Portugal vs Congo Dr | Giữa Hiệp - 45+6' 1 - 1 00:00 18/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/27.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0869b9b861",
+                          "id": "lnk-a592519ffd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b729ead558c9cf9a676e9806-178171868609326&wsIPSercert=50ee3792c5d727eb08a94da58a106cbe&wsBindIP=2&wsserid=1168159941876180135"
+                          "url": "https://tfwt1gwhnhcjagazdnqbafaauecjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ab1728d73a83f30175dcad29-178171927613290&wsIPSercert=e8a1144fe57338857d5eb0a1144887d9&wsBindIP=2&wsserid=1168159941864645324"
                         },
                         {
-                          "id": "lnk-9c7b4ca5df",
+                          "id": "lnk-c939267237",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-d0ed78917e96",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0086eeb280ab",
+          "name": "⚽ Czech Republic vs South Africa | Sắp diễn ra vs 23:00 18/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/770.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/770.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0086eeb280ab",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0086eeb280ab",
+                  "name": "Czech Republic vs South Africa",
+                  "streams": [
+                    {
+                      "id": "kaytee-0086eeb280ab",
                       "name": "F",
                       "stream_links": []
                     }
