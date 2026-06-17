@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:21 17/06/2026",
+  "last_updated": "22:30 17/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-68c73b82c2ab",
-          "name": "⚽ Kairat Almaty vs Kyzyl-Zhar | H2 - 66' 1 - 0 21:00 17/06/2026",
+          "name": "⚽ Kairat Almaty vs Kyzyl-Zhar | H2 - 76' 1 - 0 21:00 17/06/2026",
           "tournament": "Ngoại hạng Kazakhstan",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FCKairat_logo.png/250px-FCKairat_logo.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4554.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f422b5f207",
+                          "id": "lnk-89cb19554f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178170967258811&wsIPSercert=a739cbc1013e6f61af0bc3511951956e&wsBindIP=2&wsserid=1168231589572867007"
+                          "url": "https://tfwt1gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0de74705abe5721b1a19c464-178171026418686&wsIPSercert=ae59dbfb847ac581f84a32e885771892&wsBindIP=2&wsserid=1168243343857585137"
                         },
                         {
-                          "id": "lnk-b7c23b1b37",
+                          "id": "lnk-2667f9d4b3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-a064fc7449c6",
-          "name": "⚽ Turku Ps vs Kups | H1 - 21' 0 - 0 22:00 17/06/2026",
+          "name": "⚽ Turku Ps vs Kups | H1 - 31' 0 - 1 22:00 17/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/1168.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-79b1f52189",
+                          "id": "lnk-92aa7879b5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178170968122787&wsIPSercert=a739cbc1013e6f61af0bc3511951956e&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfwt1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=706d286fa60d1f2a8282d305-178171027273250&wsIPSercert=ae59dbfb847ac581f84a32e885771892&wsBindIP=2&wsserid=1168243256667264290"
                         },
                         {
-                          "id": "lnk-f8c9aec6b1",
+                          "id": "lnk-bb9c3c659b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
