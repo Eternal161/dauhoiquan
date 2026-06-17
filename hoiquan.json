@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:41 18/06/2026",
+  "last_updated": "00:51 18/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-623f52883ce0",
-          "name": "⚽ Riga vs Rīgas Fs | H2 - 75' 2 - 1 23:00 17/06/2026",
+          "name": "⚽ Riga vs Rīgas Fs | H2 - 85' 2 - 1 23:00 17/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/10124.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4160.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ba6ab0fda8",
+                          "id": "lnk-a7341c02a9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e3fcde56d983ccae380d59b5-178171807782151&wsIPSercert=ce3d59ab1999501b42f80331baf3f227&wsBindIP=2&wsserid=1168159941869888407"
+                          "url": "https://tfwt3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178171867740839&wsIPSercert=50ee3792c5d727eb08a94da58a106cbe&wsBindIP=2&wsserid=1168178972991608093"
                         },
                         {
-                          "id": "lnk-d9b6134977",
+                          "id": "lnk-a3b0ba56ad",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-e122cbded0c0",
-          "name": "⚽ Portugal vs Congo Dr | H1 - 39' 1 - 0 00:00 18/06/2026",
+          "name": "⚽ Portugal vs Congo Dr | H1 - 45+5' 1 - 0 00:00 18/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/27.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-95640fdc50",
+                          "id": "lnk-0869b9b861",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f64ed1182ed1d47a38e6ed7e-178171808624307&wsIPSercert=ce3d59ab1999501b42f80331baf3f227&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfwt3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b729ead558c9cf9a676e9806-178171868609326&wsIPSercert=50ee3792c5d727eb08a94da58a106cbe&wsBindIP=2&wsserid=1168159941876180135"
                         },
                         {
-                          "id": "lnk-74c9326819",
+                          "id": "lnk-9c7b4ca5df",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
