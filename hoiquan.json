@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:41 17/06/2026",
+  "last_updated": "22:51 17/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-68c73b82c2ab",
-          "name": "⚽ Kairat Almaty vs Kyzyl-Zhar | H2 - 86' 2 - 0 21:00 17/06/2026",
-          "tournament": "Ngoại hạng Kazakhstan",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FCKairat_logo.png/250px-FCKairat_logo.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/4554.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FCKairat_logo.png/250px-FCKairat_logo.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-68c73b82c2ab",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-68c73b82c2ab",
-                  "name": "Kairat Almaty vs Kyzyl-Zhar",
-                  "streams": [
-                    {
-                      "id": "kaytee-68c73b82c2ab",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a5ce3a130f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwt0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178171088175697&wsIPSercert=1781bc1b30d43737fb64973ee4481db7&wsBindIP=2&wsserid=1168283323221983365"
-                        },
-                        {
-                          "id": "lnk-ad685a6a6b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-a064fc7449c6",
-          "name": "⚽ Turku Ps vs Kups | H1 - 42' 0 - 1 22:00 17/06/2026",
+          "name": "⚽ Turku Ps vs Kups | Live 0 - 0 22:00 17/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/1168.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e2f96bc3dc",
+                          "id": "lnk-cc77e2ed1e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178171089039321&wsIPSercert=1781bc1b30d43737fb64973ee4481db7&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfwt4gchnhcjo8rzdrpjtfa4144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=2c45ec0ee708bf7b239c6926-178171147152878&wsIPSercert=8ad6d385c2e91cac497109bfbcfa8c36&wsBindIP=2&wsserid=1168168154451507561"
                         },
                         {
-                          "id": "lnk-dabefda103",
+                          "id": "lnk-2bc3451cfe",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-623f52883ce0",
-          "name": "⚽ Riga vs Rīgas Fs | Sắp bắt đầu - null' 0 - 0 23:00 17/06/2026",
+          "name": "⚽ Riga vs Rīgas Fs | Live 0 - 0 23:00 17/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/10124.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4160.png",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7a56f3b559",
+                          "id": "lnk-344591e761",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178171089886016&wsIPSercert=1781bc1b30d43737fb64973ee4481db7&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfwt4gchnhcjo8rzdrpjtfa4147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2c45ec0ee708bf7b239c6926-178171148032226&wsIPSercert=8ad6d385c2e91cac497109bfbcfa8c36&wsBindIP=2&wsserid=1168168154451507561"
                         },
                         {
-                          "id": "lnk-20ea95af85",
+                          "id": "lnk-04186badf9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-133da91fb5cf",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a3a96de2f537",
+          "name": "⚽ Akademiya Ontustik vs Yelimay Semey 2 | Sắp diễn ra vs 19:00 18/06/2026",
+          "tournament": "1. Division",
+          "logo_nha": "https://media.api-sports.io/football/teams/4545.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/27635.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4545.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a3a96de2f537",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a3a96de2f537",
+                  "name": "Akademiya Ontustik vs Yelimay Semey 2",
+                  "streams": [
+                    {
+                      "id": "kaytee-a3a96de2f537",
                       "name": "F",
                       "stream_links": []
                     }
