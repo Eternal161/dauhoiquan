@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:40 17/06/2026",
+  "last_updated": "09:50 17/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-51faa1fe68b5",
-          "name": "⚽ Argentina vs Algeria | H2 - 78' 3 - 0 08:00 17/06/2026",
+          "name": "⚽ Argentina vs Algeria | H2 - 87' 3 - 0 08:00 17/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0c4060056f",
+                          "id": "lnk-9aa58e667a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt3go3nhcjtgczdncjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=686f873655f37c0f494fc32b-178166406196735&wsIPSercert=3bf606d44577b6c9d1a4bacd02173d43&wsBindIP=2&wsserid=1168159941869888441"
+                          "url": "https://tfwt3go3nhcjtgczdncjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=89762e8dceb2972e9cc8dbb6-178166466632715&wsIPSercert=b28e1d6e52c4aefd75bf04ba27afca03&wsBindIP=2&wsserid=1168159941871985661"
                         },
                         {
-                          "id": "lnk-3b668bc3a5",
+                          "id": "lnk-29f0a8c119",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
           ]
         },
         {
-          "id": "kaytee-c2bf76a8bc5b",
+          "id": "kaytee-5b8516c80030",
           "name": "⚽ Austria vs Jordan | Sắp diễn ra vs 11:00 17/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/775.png",
@@ -94,15 +94,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-c2bf76a8bc5b",
+              "id": "kaytee-5b8516c80030",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-c2bf76a8bc5b",
+                  "id": "kaytee-5b8516c80030",
                   "name": "Austria vs Jordan",
                   "streams": [
                     {
-                      "id": "kaytee-c2bf76a8bc5b",
+                      "id": "kaytee-5b8516c80030",
                       "name": "F",
                       "stream_links": []
                     }
