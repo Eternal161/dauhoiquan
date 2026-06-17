@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:00 17/06/2026",
+  "last_updated": "23:11 17/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a064fc7449c6",
-          "name": "⚽ Turku Ps vs Kups | Giữa Hiệp - 45+1' 0 - 1 22:00 17/06/2026",
+          "name": "⚽ Turku Ps vs Kups | H2 - 51' 0 - 1 22:00 17/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/1168.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-beb14b6720",
+                          "id": "lnk-7d49160cc4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178171206506258&wsIPSercert=8ce3fafb51dfb5ca47e0b6f04f536a82&wsBindIP=2&wsserid=1168231785641135723"
+                          "url": "https://tfwt0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178171267064993&wsIPSercert=5240727d6722b005e6c6768400767383&wsBindIP=2&wsserid=1168283477179400067"
                         },
                         {
-                          "id": "lnk-7e0a718c45",
+                          "id": "lnk-8ee40394df",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-623f52883ce0",
-          "name": "⚽ Riga vs Rīgas Fs | Sắp bắt đầu - null' 0 - 0 23:00 17/06/2026",
+          "name": "⚽ Riga vs Rīgas Fs | H1 - 9' 0 - 0 23:00 17/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/10124.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4160.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-136497a25d",
+                          "id": "lnk-2cb1898991",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178171207391332&wsIPSercert=8ce3fafb51dfb5ca47e0b6f04f536a82&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfwt1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178171267872978&wsIPSercert=5240727d6722b005e6c6768400767383&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-4d4124b600",
+                          "id": "lnk-6a918c9ce6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-e122cbded0c0",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-933e830b01",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwt0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178171268724659&wsIPSercert=5240727d6722b005e6c6768400767383&wsBindIP=2&wsserid=1168283323406534424"
+                        },
+                        {
+                          "id": "lnk-a7b36a4b00",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
