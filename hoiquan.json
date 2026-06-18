@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:13 19/06/2026",
+  "last_updated": "02:25 19/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-eb8c63fcb919",
-          "name": "⚽ Switzerland vs Bosnia & Herzegovina | H1 - 13' 0 - 0 02:00 19/06/2026",
+          "name": "⚽ Switzerland vs Bosnia & Herzegovina | Live 0 - 0 02:00 19/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1113.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e47217e7db",
+                          "id": "lnk-90e60d411f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwu1gwhnhcjagazdnqbafaauecjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f3820122d36380003e05e4ca-178181001951190&wsIPSercert=6e5c930c79b22bff43fb90905894cd43&wsBindIP=2&wsserid=1168159941863596715"
+                          "url": "https://tfwu3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=15bcaa264a4a010991a0a34d-178181072614771&wsIPSercert=e4252a7982ce100b34d2f7ee6fac40fc&wsBindIP=2&wsserid=1168239733742939020"
                         },
                         {
-                          "id": "lnk-005dd1269a",
+                          "id": "lnk-dae8aaf29a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
