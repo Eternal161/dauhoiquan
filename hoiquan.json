@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:50 18/06/2026",
+  "last_updated": "07:03 18/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-d94be53fd305",
-          "name": "⚽ Ghana vs Panama | Sắp bắt đầu - null' 0 - 0 06:00 18/06/2026",
+          "name": "⚽ Ghana vs Panama | Giữa Hiệp - 45+6' 0 - 0 06:00 18/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0b8908be67",
+                          "id": "lnk-de24da9b07",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=5407ef809016cab9a772a158-178174026889318&wsIPSercert=1569701e8e6068d0529500355e57007c&wsBindIP=2&wsserid=1168178972990559465"
+                          "url": "https://tfwu3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=b729ead558c9cf9a676e9806-178174104109302&wsIPSercert=5c14437155ea78bd33e6b1f246740597&wsBindIP=2&wsserid=1168159941876180135"
                         },
                         {
-                          "id": "lnk-50913ee2db",
+                          "id": "lnk-7e826a97ac",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
