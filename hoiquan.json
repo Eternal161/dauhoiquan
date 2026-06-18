@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:54 19/06/2026",
+  "last_updated": "01:07 19/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-0086eeb280ab",
-          "name": "⚽ Czech Republic vs South Africa | Live 0 - 0 23:00 18/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/770.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/770.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-0086eeb280ab",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-0086eeb280ab",
-                  "name": "Czech Republic vs South Africa",
-                  "streams": [
-                    {
-                      "id": "kaytee-0086eeb280ab",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-80944efc7e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwu1gwhnhcjagazdnqbafaauecjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ab1728d73a83f30175dcad29-178180527378940&wsIPSercert=a5439c68798bb2ac1928142d9f584293&wsBindIP=2&wsserid=1168159941864645324"
-                        },
-                        {
-                          "id": "lnk-49df82f15f",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-eb8c63fcb919",
-          "name": "⚽ Switzerland vs Bosnia & Herzegovina | Sắp diễn ra vs 02:00 19/06/2026",
+          "name": "⚽ Switzerland vs Bosnia & Herzegovina | Sắp bắt đầu - null' 0 - 0 02:00 19/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1113.png",
@@ -86,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +44,22 @@
                     {
                       "id": "kaytee-eb8c63fcb919",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-1bccda5c84",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwu3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b666b584e4acbbaf977137a3-178180604942469&wsIPSercert=1f9bcb35acfcc684d438f947d3e501a0&wsBindIP=2&wsserid=1168159941878277355"
+                        },
+                        {
+                          "id": "lnk-7400d79c92",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -463,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-7500119bbf08",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a889a3a97f0c",
+          "name": "⚽ Rizhao Yuqi vs Tianjin Teda | Sắp diễn ra vs 18:30 19/06/2026",
+          "tournament": "FA Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/21328.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/837.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/21328.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a889a3a97f0c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a889a3a97f0c",
+                  "name": "Rizhao Yuqi vs Tianjin Teda",
+                  "streams": [
+                    {
+                      "id": "kaytee-a889a3a97f0c",
                       "name": "F",
                       "stream_links": []
                     }
