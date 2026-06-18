@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:01 18/06/2026",
+  "last_updated": "20:11 18/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a3a96de2f537",
-          "name": "⚽ Akademiya Ontustik vs Yelimay Semey 2 | Live 0 - 0 19:00 18/06/2026",
+          "name": "⚽ Akademiya Ontustik vs Yelimay Semey 2 | H2 - 53' 1 - 1 19:00 18/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/4545.png",
           "logo_khach": "https://media.api-sports.io/football/teams/27635.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-61e4dcdb21",
+                          "id": "lnk-7c4cd1e3d3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwu3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178178767343739&wsIPSercert=7b36096aa532e2abb09f7ebf97d95ae3&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfwu1gr3uomttgr31hcj3fa3deqbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2c45ec0ee708bf7b239c6926-178178827079813&wsIPSercert=dad5d9164c7b45a25d8bbcb7f703f4cb&wsBindIP=2&wsserid=1168168154451507561"
                         },
                         {
-                          "id": "lnk-62d8799ca5",
+                          "id": "lnk-4e508f3d9d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-4f9a2eea13ba",
-          "name": "⚽ Arys vs Kaspij Aktau 2 | Live 0 - 0 20:00 18/06/2026",
+          "name": "⚽ Arys vs Kaspij Aktau 2 | H1 - 8' 0 - 0 20:00 18/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/10414.png",
           "logo_khach": "https://media.api-sports.io/football/teams/27633.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2583cca3c2",
+                          "id": "lnk-9e4bbb4be9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwu3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178178768239358&wsIPSercert=7b36096aa532e2abb09f7ebf97d95ae3&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfwu1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=2c45ec0ee708bf7b239c6926-178178827976294&wsIPSercert=dad5d9164c7b45a25d8bbcb7f703f4cb&wsBindIP=2&wsserid=1168168154451507561"
                         },
                         {
-                          "id": "lnk-b43c361269",
+                          "id": "lnk-bce670a4a6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
