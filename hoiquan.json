@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:42 18/06/2026",
+  "last_updated": "07:50 18/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-d94be53fd305",
-          "name": "⚽ Ghana vs Panama | H2 - 81' 0 - 0 06:00 18/06/2026",
+          "name": "⚽ Ghana vs Panama | H2 - 90' 0 - 0 06:00 18/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8059a6fe74",
+                          "id": "lnk-e12bad1d61",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwu3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ac54fedd9b782e62f6a5c9d8-178174335178142&wsIPSercert=af4ff8aa96d3517e50130128b82e95fa&wsBindIP=2&wsserid=1168159941867791187"
+                          "url": "https://tfwu3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ac54fedd9b782e62f6a5c9d8-178174386086933&wsIPSercert=68d2643983503ea51e0814f162b33642&wsBindIP=2&wsserid=1168159941867791187"
                         },
                         {
-                          "id": "lnk-1c471828ad",
+                          "id": "lnk-4cb0f21a7d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-9890ed0f7da9",
-          "name": "⚽ Fc Tulsa vs Monterey Bay | H1 - 5' 0 - 0 07:30 18/06/2026",
+          "name": "⚽ Fc Tulsa vs Monterey Bay | H1 - 14' 0 - 0 07:30 18/06/2026",
           "tournament": "USL Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/4022.png",
           "logo_khach": "https://media.api-sports.io/football/teams/18375.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-afa2e246c1",
+                          "id": "lnk-58a2fef212",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwu3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=1c66e4ed59792af5c9430327-178174336035383&wsIPSercert=af4ff8aa96d3517e50130128b82e95fa&wsBindIP=2&wsserid=1168178972992656721"
+                          "url": "https://tfwu3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=1c66e4ed59792af5c9430327-178174386920863&wsIPSercert=68d2643983503ea51e0814f162b33642&wsBindIP=2&wsserid=1168178972992656721"
                         },
                         {
-                          "id": "lnk-ab271c97df",
+                          "id": "lnk-7cf474384a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
