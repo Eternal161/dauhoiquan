@@ -1,125 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:01 18/06/2026",
+  "last_updated": "11:10 18/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-9890ed0f7da9",
-          "name": "⚽ Fc Tulsa vs Monterey Bay | Live 0 - 0 07:30 18/06/2026",
-          "tournament": "USL Championship",
-          "logo_nha": "https://media.api-sports.io/football/teams/4022.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/18375.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/4022.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-9890ed0f7da9",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-9890ed0f7da9",
-                  "name": "Fc Tulsa vs Monterey Bay",
-                  "streams": [
-                    {
-                      "id": "kaytee-9890ed0f7da9",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9f4f8098eb",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-f97ab60c9e39",
-          "name": "⚽ Uzbekistan vs Colombia | Live 0 - 0 09:00 18/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/1568.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1568.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f97ab60c9e39",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f97ab60c9e39",
-                  "name": "Uzbekistan vs Colombia",
-                  "streams": [
-                    {
-                      "id": "kaytee-f97ab60c9e39",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c9d3eed282",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwu3go3nhcjtghzdrpbsfaaunmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=bfa1f55fbacbedd5e5ddf596-178175528605789&wsIPSercert=1851371d5fbdfa8bd11e750f4b7e1226&wsBindIP=2&wsserid=1168200342551693374"
-                        },
-                        {
-                          "id": "lnk-9feabe86e9",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-133da91fb5cf",
           "name": "⚽ Ac Oulu vs Mariehamn | Sắp diễn ra vs 16:59 18/06/2026",
@@ -471,6 +358,96 @@
                   "streams": [
                     {
                       "id": "kaytee-b0773627efdb",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d18c2b4fda56",
+          "name": "⚽ Sport Recife vs Atletico Goianiense | Sắp diễn ra vs 07:00 19/06/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VAnv52Bj5vR_eOaVQiyM-aJo5PyseuSEbQ&s",
+          "logo_khach": "https://media.api-sports.io/football/teams/144.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VAnv52Bj5vR_eOaVQiyM-aJo5PyseuSEbQ&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d18c2b4fda56",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d18c2b4fda56",
+                  "name": "Sport Recife vs Atletico Goianiense",
+                  "streams": [
+                    {
+                      "id": "kaytee-d18c2b4fda56",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-52b5e0429c24",
+          "name": "⚽ Mexico vs South Korea | Sắp diễn ra vs 08:00 19/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1728.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-52b5e0429c24",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-52b5e0429c24",
+                  "name": "Mexico vs South Korea",
+                  "streams": [
+                    {
+                      "id": "kaytee-52b5e0429c24",
                       "name": "F",
                       "stream_links": []
                     }
