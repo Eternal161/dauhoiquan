@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:21 19/06/2026",
+  "last_updated": "06:40 19/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-75a47093c9e0",
-          "name": "⚽ Canada vs Qatar | H2 - 59' 3 - 0 05:00 19/06/2026",
+          "name": "⚽ Canada vs Qatar | H2 - 73' 4 - 0 05:00 19/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
           "logo_khach": "https://cdn.haitrieu.com/wp-content/uploads/2022/05/Logo-Doi-Tuyen-Qatar.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-aedce6f0ea",
+                          "id": "lnk-3312631fe9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwu3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178182488358189&wsIPSercert=070e056c17e4a5bbbc78f1e0309d1375&wsBindIP=2&wsserid=1168178972991608093"
+                          "url": "https://tfwu4go3nhcjtgczdncjqgr3144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=c2106ecac72467f05cb59bc1-178182601708439&wsIPSercert=f65a9ad34591f633f367cbe7125697a2&wsBindIP=2&wsserid=1168231394932936032"
                         },
                         {
-                          "id": "lnk-b0c4a5975e",
+                          "id": "lnk-9551005d82",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-d18c2b4fda56",
-          "name": "⚽ Sport Recife vs Atletico Goianiense | Sắp diễn ra vs 07:00 19/06/2026",
+          "name": "⚽ Sport Recife vs Atletico Goianiense | Sắp bắt đầu - null' 0 - 0 07:00 19/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VAnv52Bj5vR_eOaVQiyM-aJo5PyseuSEbQ&s",
           "logo_khach": "https://media.api-sports.io/football/teams/144.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,15 @@
                     {
                       "id": "kaytee-d18c2b4fda56",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-4d87b0d86c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
