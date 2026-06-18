@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:30 18/06/2026",
+  "last_updated": "08:40 18/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-9890ed0f7da9",
-          "name": "⚽ Fc Tulsa vs Monterey Bay | Giữa Hiệp - 45+3' 1 - 0 07:30 18/06/2026",
+          "name": "⚽ Fc Tulsa vs Monterey Bay | H2 - 46' 1 - 0 07:30 18/06/2026",
           "tournament": "USL Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/4022.png",
           "logo_khach": "https://media.api-sports.io/football/teams/18375.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6515ecf8cf",
+                          "id": "lnk-acf5be8e93",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwu3go3nhcjtghzdrpbsfaaunmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=bfa1f55fbacbedd5e5ddf596-178174626109234&wsIPSercert=9e61366ef235984c3f1a3debd8c40c5e&wsBindIP=2&wsserid=1168200342551693374"
+                          "url": "https://tfwu3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=17c3465b91c9ffdca6f1eed0-178174685944287&wsIPSercert=6f6f3194debc37a077273feb7748d840&wsBindIP=2&wsserid=1168178973994183557"
                         },
                         {
-                          "id": "lnk-20c925b091",
+                          "id": "lnk-e6a09260e6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,10 +106,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-989f2cc854",
+                          "id": "lnk-55ce089815",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwu3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=1c66e4ed59792af5c9430327-178174686753100&wsIPSercert=6f6f3194debc37a077273feb7748d840&wsBindIP=2&wsserid=1168178972992656721"
+                        },
+                        {
+                          "id": "lnk-c210aed8a7",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
                         }
                       ]
