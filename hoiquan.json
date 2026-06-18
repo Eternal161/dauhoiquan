@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:32 18/06/2026",
+  "last_updated": "23:46 18/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-d0ed78917e96",
-          "name": "⚽ Turan Turkistan vs Aktobe Jas | H2 - 75' 2 - 0 22:00 18/06/2026",
+          "name": "⚽ Turan Turkistan vs Aktobe Jas | Live 0 - 0 22:00 18/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/21502.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4546.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4208c277a9",
+                          "id": "lnk-fc1f4d539f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwu1gwhnhcjagazdnqbafaauecjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=ab1728d73a83f30175dcad29-178180038297589&wsIPSercert=98723e2159e151b2100d18dea60c8c68&wsBindIP=2&wsserid=1168159941864645324"
+                          "url": "https://tfwu1gwhnhcjagazdnqbafaauecjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=ab1728d73a83f30175dcad29-178180120354781&wsIPSercert=e74f98e8fac8916b0f75dc87858c16e9&wsBindIP=2&wsserid=1168159941864645324"
                         },
                         {
-                          "id": "lnk-f408c9185e",
+                          "id": "lnk-a3f0503661",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-0086eeb280ab",
-          "name": "⚽ Czech Republic vs South Africa | H1 - 33' 1 - 0 23:00 18/06/2026",
+          "name": "⚽ Czech Republic vs South Africa | Live 0 - 0 23:00 18/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/770.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9d4b92ff95",
+                          "id": "lnk-1898afef34",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwu1gwhnhcjagazdnqbafaauecjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=76d0100332f194d3c245c00c-178180039171892&wsIPSercert=98723e2159e151b2100d18dea60c8c68&wsBindIP=2&wsserid=1168159941862548106"
+                          "url": "https://tfwu1gwhnhcjagazdnqbafaauecjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=76d0100332f194d3c245c00c-178180121254081&wsIPSercert=e74f98e8fac8916b0f75dc87858c16e9&wsBindIP=2&wsserid=1168159941862548106"
                         },
                         {
-                          "id": "lnk-1c8537e24d",
+                          "id": "lnk-65dfd31641",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
