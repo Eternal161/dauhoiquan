@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:40 18/06/2026",
+  "last_updated": "18:50 18/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-133da91fb5cf",
-          "name": "⚽ Ac Oulu vs Mariehamn | Live 0 - 0 16:59 18/06/2026",
+          "name": "⚽ Ac Oulu vs Mariehamn | H2 - 90+2' 1 - 1 16:59 18/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/2077.png",
           "logo_khach": "https://media.api-sports.io/football/teams/587.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e7b9745703",
+                          "id": "lnk-913b54afd0",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwu0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178178286753385&wsIPSercert=d9eff0cfda0cbc18dbb3e2088496145c&wsBindIP=2&wsserid=1168231785641135723"
+                          "url": "https://tfwu1gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=9491eed0fee4da244cb519bb-178178346380765&wsIPSercert=392b14b3439d5b1d42a8dfe72a62d6a7&wsBindIP=2&wsserid=1168176346313714739"
                         },
                         {
-                          "id": "lnk-a76d0f0551",
+                          "id": "lnk-cc9db8da00",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-a3a96de2f537",
-          "name": "⚽ Akademiya Ontustik vs Yelimay Semey 2 | Live 0 - 0 19:00 18/06/2026",
+          "name": "⚽ Akademiya Ontustik vs Yelimay Semey 2 | Sắp bắt đầu - null' 0 - 0 19:00 18/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/4545.png",
           "logo_khach": "https://media.api-sports.io/football/teams/27635.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ad3556f77e",
+                          "id": "lnk-e698166f28",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwu0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178178287600786&wsIPSercert=d9eff0cfda0cbc18dbb3e2088496145c&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfwu1gr4uqmtt8y41hcjz8rzd1pbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=9491eed0fee4da244cb519bb-178178347242201&wsIPSercert=392b14b3439d5b1d42a8dfe72a62d6a7&wsBindIP=2&wsserid=1168176346313714739"
                         },
                         {
-                          "id": "lnk-1343f3a2b6",
+                          "id": "lnk-ddd4f65450",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
