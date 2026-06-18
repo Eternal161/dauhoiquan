@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:03 18/06/2026",
+  "last_updated": "07:12 18/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-d94be53fd305",
-          "name": "⚽ Ghana vs Panama | Giữa Hiệp - 45+6' 0 - 0 06:00 18/06/2026",
+          "name": "⚽ Ghana vs Panama | H2 - 51' 0 - 0 06:00 18/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-de24da9b07",
+                          "id": "lnk-df3e2eab63",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwu3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=b729ead558c9cf9a676e9806-178174104109302&wsIPSercert=5c14437155ea78bd33e6b1f246740597&wsBindIP=2&wsserid=1168159941876180135"
+                          "url": "https://tfwu3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=e3fcde56d983ccae380d59b5-178174155869262&wsIPSercert=79ea9d5d0a31e0caa1e106c2b115ea5d&wsBindIP=2&wsserid=1168159941869888407"
                         },
                         {
-                          "id": "lnk-7e826a97ac",
+                          "id": "lnk-fdc44139fc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-9890ed0f7da9",
-          "name": "⚽ Fc Tulsa vs Monterey Bay | Sắp diễn ra vs 07:30 18/06/2026",
+          "name": "⚽ Fc Tulsa vs Monterey Bay | Sắp bắt đầu - null' 0 - 0 07:30 18/06/2026",
           "tournament": "USL Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/4022.png",
           "logo_khach": "https://media.api-sports.io/football/teams/18375.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,15 @@
                     {
                       "id": "kaytee-9890ed0f7da9",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-a3cfa3b7e5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
