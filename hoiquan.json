@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:51 18/06/2026",
+  "last_updated": "21:01 18/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-a3a96de2f537",
-          "name": "⚽ Akademiya Ontustik vs Yelimay Semey 2 | Live 0 - 0 19:00 18/06/2026",
-          "tournament": "1. Division",
-          "logo_nha": "https://media.api-sports.io/football/teams/4545.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/27635.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/4545.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a3a96de2f537",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a3a96de2f537",
-                  "name": "Akademiya Ontustik vs Yelimay Semey 2",
-                  "streams": [
-                    {
-                      "id": "kaytee-a3a96de2f537",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-529169bb87",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwu0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178179067047599&wsIPSercert=a5a0bf764ee9e8fdc314751074cb5a5b&wsBindIP=2&wsserid=1168283323221983365"
-                        },
-                        {
-                          "id": "lnk-01af6bf89c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-4f9a2eea13ba",
           "name": "⚽ Arys vs Kaspij Aktau 2 | Live 0 - 0 20:00 18/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-51fec9e6c5",
+                          "id": "lnk-8542616e54",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwu0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178179067948647&wsIPSercert=a5a0bf764ee9e8fdc314751074cb5a5b&wsBindIP=2&wsserid=1168231785641135723"
+                          "url": "https://tfwu3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178179129564347&wsIPSercert=12998872f7aca22f05a227c72186baa4&wsBindIP=2&wsserid=1177063474761571144"
                         },
                         {
-                          "id": "lnk-0495aedb02",
+                          "id": "lnk-eabb4f8371",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-6cd540ec5823",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-35bb5c054e0b",
+          "name": "⚽ Bentleigh Greens vs South Melbourne | Sắp diễn ra vs 16:30 19/06/2026",
+          "tournament": "Victoria NPL",
+          "logo_nha": "https://media.api-sports.io/football/teams/3799.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a6/South_Melbourne_FC_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3799.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-35bb5c054e0b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-35bb5c054e0b",
+                  "name": "Bentleigh Greens vs South Melbourne",
+                  "streams": [
+                    {
+                      "id": "kaytee-35bb5c054e0b",
                       "name": "F",
                       "stream_links": []
                     }
