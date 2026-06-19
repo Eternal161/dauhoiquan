@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:00 19/06/2026",
+  "last_updated": "15:10 19/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6cd540ec5823",
-          "name": "⚽ Shanghai Second vs Shanghai Sipg | H1 - 30' 0 - 0 14:30 19/06/2026",
+          "name": "⚽ Shanghai Second vs Shanghai Sipg | H1 - 40' 0 - 1 14:30 19/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/27619.png",
           "logo_khach": "https://media.api-sports.io/football/teams/836.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b02f92f0df",
+                          "id": "lnk-dd4d624f53",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f7e42543e61847d2fa7bb4d5-178185606563102&wsIPSercert=908c4dbde8603aa94151cc9eca036f58&wsBindIP=2&wsserid=1168168154453604765"
+                          "url": "https://tfwv1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=45be673f9c0838073bc08b6e-178185666484550&wsIPSercert=a4d070226723af99608417f6702ca10b&wsBindIP=2&wsserid=1168243343860730937"
                         },
                         {
-                          "id": "lnk-1960fbf74f",
+                          "id": "lnk-b378355bc3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
