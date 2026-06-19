@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:41 19/06/2026",
+  "last_updated": "23:50 19/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-403b3dc540cc",
-          "name": "⚽ Naftan vs Baranovichi | H2 - 85' 1 - 0 22:00 19/06/2026",
+          "name": "⚽ Naftan vs Baranovichi | H2 - 90' 1 - 0 22:00 19/06/2026",
           "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/750.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3383.png",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-46d65ae7f9",
+                          "id": "lnk-75f8582725",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv3gr4nhct1gwzdrpbofaauymmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4266362b08ce358b2bb9e671-178188728290668&wsIPSercert=1a96a27b21a0e9881f77d6a34532a369&wsBindIP=2&wsserid=1168134180852145441"
-                        },
-                        {
-                          "id": "lnk-c628d06f9c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
@@ -106,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3051c5cdae",
+                          "id": "lnk-97b2016bba",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv3gr4nhct1gwzdrpbofaauymmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=4266362b08ce358b2bb9e671-178188729143545&wsIPSercert=1a96a27b21a0e9881f77d6a34532a369&wsBindIP=2&wsserid=1168134180852145441"
+                          "url": "https://tfwv3go3nhcjtgczdncjqgrhurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178188787220967&wsIPSercert=3c31120ac9db582a2a829bfcc2db2a63&wsBindIP=2&wsserid=1168159941874082915"
                         },
                         {
-                          "id": "lnk-50aa1d6dfc",
+                          "id": "lnk-4586640b1c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
