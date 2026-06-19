@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:50 20/06/2026",
+  "last_updated": "01:01 20/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-88eb726d42",
+                          "id": "lnk-5c14e23550",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv1geauymt1go41hpjofa3dyptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e94d50e91d1420af43351442-178189145719499&wsIPSercert=67ee07a797d2d2aafca69db0e1500119&wsBindIP=2&wsserid=1172662689757036152"
+                          "url": "https://tfwv3gr4nhct1gwzdrcbqgr5ucmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c40fccb025e98bbf40cab68e-178189208280534&wsIPSercert=f864285f07d8d5035493e93880330a53&wsBindIP=2&wsserid=1172648037357484137"
                         },
                         {
-                          "id": "lnk-4154526384",
+                          "id": "lnk-9a6b52c641",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -148,51 +148,6 @@
                   "streams": [
                     {
                       "id": "kaytee-0fdfe9ece8ea",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-42c072729aab",
-          "name": "⚽ Universitario De Vinto vs Guabirá | Sắp diễn ra vs 07:00 20/06/2026",
-          "tournament": "Primera División",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/0/00/Universitario_de_Vinto.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/3704.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/0/00/Universitario_de_Vinto.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-42c072729aab",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-42c072729aab",
-                  "name": "Universitario De Vinto vs Guabirá",
-                  "streams": [
-                    {
-                      "id": "kaytee-42c072729aab",
                       "name": "F",
                       "stream_links": []
                     }
@@ -463,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-fa8f25a0e4dd",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-ce4b99d84b58",
+          "name": "⚽ Slavia Mozyr vs Fc Isloch Minsk R. | Sắp diễn ra vs 20:30 20/06/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/751.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/391.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/751.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-ce4b99d84b58",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-ce4b99d84b58",
+                  "name": "Slavia Mozyr vs Fc Isloch Minsk R.",
+                  "streams": [
+                    {
+                      "id": "kaytee-ce4b99d84b58",
                       "name": "F",
                       "stream_links": []
                     }
