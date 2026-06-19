@@ -1,135 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:51 19/06/2026",
+  "last_updated": "20:01 19/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-e9a58b06f5d8",
-          "name": "⚽ Shaanxi Union vs Hangzhou Greentown | H2 - 90+3' 1 - 1 18:00 19/06/2026",
-          "tournament": "FA Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/23286.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/848.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/23286.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-e9a58b06f5d8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-e9a58b06f5d8",
-                  "name": "Shaanxi Union vs Hangzhou Greentown",
-                  "streams": [
-                    {
-                      "id": "kaytee-e9a58b06f5d8",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-212cd72e3e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwv1gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0de74705abe5721b1a19c464-178187347139779&wsIPSercert=b57306684b7cbf89b24758d4fb91190f&wsBindIP=2&wsserid=1168243343857585137"
-                        },
-                        {
-                          "id": "lnk-8104b62ca6",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-cabc57100f9f",
-          "name": "⚽ Shenzhen Juniors vs Sichuan Jiuniu | H2 - 90+3' 1 - 3 18:00 19/06/2026",
-          "tournament": "FA Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/23265.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/5686.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/23265.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-cabc57100f9f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-cabc57100f9f",
-                  "name": "Shenzhen Juniors vs Sichuan Jiuniu",
-                  "streams": [
-                    {
-                      "id": "kaytee-cabc57100f9f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0ea5b0b717",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwv1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=706d286fa60d1f2a8282d305-178187347984986&wsIPSercert=b57306684b7cbf89b24758d4fb91190f&wsBindIP=2&wsserid=1168243256667264290"
-                        },
-                        {
-                          "id": "lnk-13fa5abf40",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-7500119bbf08",
-          "name": "⚽ Guangzhou E-Power vs Beijing Guoan | H2 - 64' 0 - 2 18:30 19/06/2026",
+          "name": "⚽ Guangzhou E-Power vs Beijing Guoan | H2 - 74' 1 - 2 18:30 19/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/23269.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
@@ -166,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-95b82be5b6",
+                          "id": "lnk-cac925ee3a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv1gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=45be673f9c0838073bc08b6e-178187348813730&wsIPSercert=b57306684b7cbf89b24758d4fb91190f&wsBindIP=2&wsserid=1168243343860730937"
+                          "url": "https://tfwv1gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=de40530e31dc965cd08ee763-178187407333587&wsIPSercert=c3b604f1f68ca28a8eaecba583d5eaba&wsBindIP=2&wsserid=1168243256623223254"
                         },
                         {
-                          "id": "lnk-a654ff195f",
+                          "id": "lnk-bd0e316646",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -189,7 +69,7 @@
         },
         {
           "id": "kaytee-a889a3a97f0c",
-          "name": "⚽ Rizhao Yuqi vs Tianjin Teda | H2 - 63' 1 - 1 18:30 19/06/2026",
+          "name": "⚽ Rizhao Yuqi vs Tianjin Teda | H2 - 73' 1 - 1 18:30 19/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/21328.png",
           "logo_khach": "https://media.api-sports.io/football/teams/837.png",
@@ -226,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-dbc9f36534",
+                          "id": "lnk-365cb69ecd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=e1bc56e4c0373602be514b65-178187349645027&wsIPSercert=b57306684b7cbf89b24758d4fb91190f&wsBindIP=2&wsserid=1168243344279114758"
+                          "url": "https://tfwv1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=9b1083a56b5533e485918882-178187408199105&wsIPSercert=c3b604f1f68ca28a8eaecba583d5eaba&wsBindIP=2&wsserid=1168243256620077470"
                         },
                         {
-                          "id": "lnk-01d2eb1c2a",
+                          "id": "lnk-1a3d5f3355",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -508,6 +388,96 @@
                   "streams": [
                     {
                       "id": "kaytee-42c072729aab",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d0e2c11ffca2",
+          "name": "⚽ Brazil vs Haiti | Sắp diễn ra vs 07:30 20/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d0e2c11ffca2",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d0e2c11ffca2",
+                  "name": "Brazil vs Haiti",
+                  "streams": [
+                    {
+                      "id": "kaytee-d0e2c11ffca2",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a31bfd083208",
+          "name": "⚽ Türkiye vs Paraguay | Sắp diễn ra vs 10:00 20/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/777.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/777.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a31bfd083208",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a31bfd083208",
+                  "name": "Türkiye vs Paraguay",
+                  "streams": [
+                    {
+                      "id": "kaytee-a31bfd083208",
                       "name": "F",
                       "stream_links": []
                     }
