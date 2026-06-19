@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:40 19/06/2026",
+  "last_updated": "19:51 19/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e9a58b06f5d8",
-          "name": "⚽ Shaanxi Union vs Hangzhou Greentown | Live 0 - 0 18:00 19/06/2026",
+          "name": "⚽ Shaanxi Union vs Hangzhou Greentown | H2 - 90+3' 1 - 1 18:00 19/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/23286.png",
           "logo_khach": "https://media.api-sports.io/football/teams/848.png",
@@ -46,10 +46,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cb0379ce28",
+                          "id": "lnk-212cd72e3e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwv1gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0de74705abe5721b1a19c464-178187347139779&wsIPSercert=b57306684b7cbf89b24758d4fb91190f&wsBindIP=2&wsserid=1168243343857585137"
+                        },
+                        {
+                          "id": "lnk-8104b62ca6",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
                         }
                       ]
@@ -62,7 +69,7 @@
         },
         {
           "id": "kaytee-cabc57100f9f",
-          "name": "⚽ Shenzhen Juniors vs Sichuan Jiuniu | Live 0 - 0 18:00 19/06/2026",
+          "name": "⚽ Shenzhen Juniors vs Sichuan Jiuniu | H2 - 90+3' 1 - 3 18:00 19/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/23265.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5686.png",
@@ -99,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-43a11c1925",
+                          "id": "lnk-0ea5b0b717",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178187287432584&wsIPSercert=f35cdd1e9d13cd0415fd796f0212e570&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfwv1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=706d286fa60d1f2a8282d305-178187347984986&wsIPSercert=b57306684b7cbf89b24758d4fb91190f&wsBindIP=2&wsserid=1168243256667264290"
                         },
                         {
-                          "id": "lnk-fb1f3b8dd7",
+                          "id": "lnk-13fa5abf40",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -122,7 +129,7 @@
         },
         {
           "id": "kaytee-7500119bbf08",
-          "name": "⚽ Guangzhou E-Power vs Beijing Guoan | Live 0 - 0 18:30 19/06/2026",
+          "name": "⚽ Guangzhou E-Power vs Beijing Guoan | H2 - 64' 0 - 2 18:30 19/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/23269.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
@@ -159,14 +166,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-37917f3791",
+                          "id": "lnk-95b82be5b6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178187288277425&wsIPSercert=f35cdd1e9d13cd0415fd796f0212e570&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwv1gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=45be673f9c0838073bc08b6e-178187348813730&wsIPSercert=b57306684b7cbf89b24758d4fb91190f&wsBindIP=2&wsserid=1168243343860730937"
                         },
                         {
-                          "id": "lnk-24065ae047",
+                          "id": "lnk-a654ff195f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -182,7 +189,7 @@
         },
         {
           "id": "kaytee-a889a3a97f0c",
-          "name": "⚽ Rizhao Yuqi vs Tianjin Teda | Live 0 - 0 18:30 19/06/2026",
+          "name": "⚽ Rizhao Yuqi vs Tianjin Teda | H2 - 63' 1 - 1 18:30 19/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/21328.png",
           "logo_khach": "https://media.api-sports.io/football/teams/837.png",
@@ -219,14 +226,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-236c70c9c5",
+                          "id": "lnk-dbc9f36534",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=56d2bb5a325c7a8bfd1440f3-178187289106157&wsIPSercert=f35cdd1e9d13cd0415fd796f0212e570&wsBindIP=2&wsserid=1168283323207303220"
+                          "url": "https://tfwv1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=e1bc56e4c0373602be514b65-178187349645027&wsIPSercert=b57306684b7cbf89b24758d4fb91190f&wsBindIP=2&wsserid=1168243344279114758"
                         },
                         {
-                          "id": "lnk-ff58d032cb",
+                          "id": "lnk-01d2eb1c2a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
