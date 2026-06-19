@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:21 19/06/2026",
+  "last_updated": "20:30 19/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-7500119bbf08",
-          "name": "⚽ Guangzhou E-Power vs Beijing Guoan | H2 - 90+4' 1 - 2 18:30 19/06/2026",
-          "tournament": "FA Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/23269.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/23269.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-7500119bbf08",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-7500119bbf08",
-                  "name": "Guangzhou E-Power vs Beijing Guoan",
-                  "streams": [
-                    {
-                      "id": "kaytee-7500119bbf08",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d88aefbec8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwv1gr3uomttgr31hcj18yzd1p3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=a6b1cf71cf9c9e11e3ba2585-178187527426120&wsIPSercert=b1713cacb8851bf2bd86a2696d7d8415&wsBindIP=2&wsserid=1168243344275968966"
-                        },
-                        {
-                          "id": "lnk-a0fbfca265",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-a889a3a97f0c",
-          "name": "⚽ Rizhao Yuqi vs Tianjin Teda | H2 - 90+3' 1 - 1 18:30 19/06/2026",
+          "name": "⚽ Rizhao Yuqi vs Tianjin Teda | Live 0 - 0 18:30 19/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/21328.png",
           "logo_khach": "https://media.api-sports.io/football/teams/837.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-52f496a0b7",
+                          "id": "lnk-c8b2b56e83",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=3191f40aba0d8ee968349edd-178187528319331&wsIPSercert=b1713cacb8851bf2bd86a2696d7d8415&wsBindIP=2&wsserid=1168243256645243746"
+                          "url": "https://tfwv0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=6a4094de2f01003befc3243a-178187586854359&wsIPSercert=62c1e53de6e1a0402ecc463642d44f59&wsBindIP=2&wsserid=1168231589578109987"
                         },
                         {
-                          "id": "lnk-4458b7da68",
+                          "id": "lnk-42b8e372d8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-efa2a7f2e3d4",
-          "name": "⚽ Khan Tengri vs Taraz | Sắp diễn ra vs 21:00 19/06/2026",
+          "name": "⚽ Khan Tengri vs Taraz | Live 0 - 0 21:00 19/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/18805.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4559.png",
@@ -146,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +104,22 @@
                     {
                       "id": "kaytee-efa2a7f2e3d4",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-4a0a0ccaba",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwv1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178187587721343&wsIPSercert=62c1e53de6e1a0402ecc463642d44f59&wsBindIP=2&wsserid=1168283323406534424"
+                        },
+                        {
+                          "id": "lnk-bc91f7311c",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -478,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-a31bfd083208",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-256512ef5dca",
+          "name": "⚽ Qingdao Red Lions vs Wuhan Three Towns | Sắp diễn ra vs 14:30 20/06/2026",
+          "tournament": "FA Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/5679.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Wuhan_Three_Towns_F.C.svg/250px-Wuhan_Three_Towns_F.C.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5679.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-256512ef5dca",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-256512ef5dca",
+                  "name": "Qingdao Red Lions vs Wuhan Three Towns",
+                  "streams": [
+                    {
+                      "id": "kaytee-256512ef5dca",
                       "name": "F",
                       "stream_links": []
                     }
