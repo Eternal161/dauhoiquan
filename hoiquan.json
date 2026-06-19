@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:01 19/06/2026",
+  "last_updated": "20:11 19/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-7500119bbf08",
-          "name": "⚽ Guangzhou E-Power vs Beijing Guoan | H2 - 74' 1 - 2 18:30 19/06/2026",
+          "name": "⚽ Guangzhou E-Power vs Beijing Guoan | H2 - 84' 1 - 2 18:30 19/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/23269.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cac925ee3a",
+                          "id": "lnk-9b38b618ee",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv1gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=de40530e31dc965cd08ee763-178187407333587&wsIPSercert=c3b604f1f68ca28a8eaecba583d5eaba&wsBindIP=2&wsserid=1168243256623223254"
+                          "url": "https://tfwv0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178187467211073&wsIPSercert=420be566ae47761676d3317870e9ead1&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-bd0e316646",
+                          "id": "lnk-5e8f5613b9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-a889a3a97f0c",
-          "name": "⚽ Rizhao Yuqi vs Tianjin Teda | H2 - 73' 1 - 1 18:30 19/06/2026",
+          "name": "⚽ Rizhao Yuqi vs Tianjin Teda | H2 - 83' 1 - 1 18:30 19/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/21328.png",
           "logo_khach": "https://media.api-sports.io/football/teams/837.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-365cb69ecd",
+                          "id": "lnk-3a98b06e2e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=9b1083a56b5533e485918882-178187408199105&wsIPSercert=c3b604f1f68ca28a8eaecba583d5eaba&wsBindIP=2&wsserid=1168243256620077470"
+                          "url": "https://tfwv1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=56d2bb5a325c7a8bfd1440f3-178187468057209&wsIPSercert=420be566ae47761676d3317870e9ead1&wsBindIP=2&wsserid=1168283323207303220"
                         },
                         {
-                          "id": "lnk-1a3d5f3355",
+                          "id": "lnk-07082797df",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
