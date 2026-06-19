@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:30 19/06/2026",
+  "last_updated": "20:40 19/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-a889a3a97f0c",
-          "name": "⚽ Rizhao Yuqi vs Tianjin Teda | Live 0 - 0 18:30 19/06/2026",
-          "tournament": "FA Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/21328.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/837.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/21328.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a889a3a97f0c",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a889a3a97f0c",
-                  "name": "Rizhao Yuqi vs Tianjin Teda",
-                  "streams": [
-                    {
-                      "id": "kaytee-a889a3a97f0c",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c8b2b56e83",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwv0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=6a4094de2f01003befc3243a-178187586854359&wsIPSercert=62c1e53de6e1a0402ecc463642d44f59&wsBindIP=2&wsserid=1168231589578109987"
-                        },
-                        {
-                          "id": "lnk-42b8e372d8",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-efa2a7f2e3d4",
           "name": "⚽ Khan Tengri vs Taraz | Live 0 - 0 21:00 19/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4a0a0ccaba",
+                          "id": "lnk-b676e66137",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178187587721343&wsIPSercert=62c1e53de6e1a0402ecc463642d44f59&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwv1gr3uomttgr31hcj18yzd1p3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=a6b1cf71cf9c9e11e3ba2585-178187645946936&wsIPSercert=7a3673c01bbc0640afd9a2e41437f84a&wsBindIP=2&wsserid=1168243344275968966"
                         },
                         {
-                          "id": "lnk-bc91f7311c",
+                          "id": "lnk-3c9ce9f3cf",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-256512ef5dca",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-727b80b4caf0",
+          "name": "⚽ Ningbo Professional vs Chongqing Tongliang Long | Sắp diễn ra vs 16:00 20/06/2026",
+          "tournament": "FA Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/27556.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/21262.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/27556.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-727b80b4caf0",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-727b80b4caf0",
+                  "name": "Ningbo Professional vs Chongqing Tongliang Long",
+                  "streams": [
+                    {
+                      "id": "kaytee-727b80b4caf0",
                       "name": "F",
                       "stream_links": []
                     }
