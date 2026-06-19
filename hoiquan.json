@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:21 19/06/2026",
+  "last_updated": "17:30 19/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-baafc2f897",
+                          "id": "lnk-a6f1f3cb2f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178186447313802&wsIPSercert=93215579096e2b89ae1a7866faef6fcf&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwv0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178186506829741&wsIPSercert=d230536469a0ed7a44f1b7c75c27f1d5&wsBindIP=2&wsserid=1168231589572867007"
                         },
                         {
-                          "id": "lnk-649e0757ef",
+                          "id": "lnk-5656b92c70",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-e9a58b06f5d8",
-          "name": "⚽ Shaanxi Union vs Hangzhou Greentown | Sắp diễn ra vs 18:00 19/06/2026",
+          "name": "⚽ Shaanxi Union vs Hangzhou Greentown | Sắp bắt đầu - null' 0 - 0 18:00 19/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/23286.png",
           "logo_khach": "https://media.api-sports.io/football/teams/848.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-e9a58b06f5d8",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-7083642b50",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwv0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178186507683226&wsIPSercert=d230536469a0ed7a44f1b7c75c27f1d5&wsBindIP=2&wsserid=1168231589572867007"
+                        },
+                        {
+                          "id": "lnk-f95d8fab46",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -114,7 +129,7 @@
         },
         {
           "id": "kaytee-cabc57100f9f",
-          "name": "⚽ Shenzhen Juniors vs Sichuan Jiuniu | Sắp diễn ra vs 18:00 19/06/2026",
+          "name": "⚽ Shenzhen Juniors vs Sichuan Jiuniu | Sắp bắt đầu - null' 0 - 0 18:00 19/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/23265.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5686.png",
@@ -131,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -149,7 +164,15 @@
                     {
                       "id": "kaytee-cabc57100f9f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-862d923077",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
