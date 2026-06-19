@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:00 20/06/2026",
+  "last_updated": "04:10 20/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,71 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-152b2a4572",
+                          "id": "lnk-eb89f242ee",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-62009d7b460b",
-          "name": "⚽ Usa vs Australia | H2 - 90+5' 2 - 0 02:00 20/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2384.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-62009d7b460b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-62009d7b460b",
-                  "name": "Usa vs Australia",
-                  "streams": [
-                    {
-                      "id": "kaytee-62009d7b460b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-760d8211e5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwv4go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178190287356331&wsIPSercert=f6fe3206ea2a74c87185a7c64ee7cd5d&wsBindIP=2&wsserid=1168231394942373370"
-                        },
-                        {
-                          "id": "lnk-9c2de4ae7a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
                         }
                       ]
                     }
@@ -471,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-ce4b99d84b58",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-304e6e76a18f",
+          "name": "⚽ Fc Vitebsk vs Dinamo Brest | Sắp diễn ra vs 22:30 20/06/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/382.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/386.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/382.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-304e6e76a18f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-304e6e76a18f",
+                  "name": "Fc Vitebsk vs Dinamo Brest",
+                  "streams": [
+                    {
+                      "id": "kaytee-304e6e76a18f",
                       "name": "F",
                       "stream_links": []
                     }
