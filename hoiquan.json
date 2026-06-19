@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:50 20/06/2026",
+  "last_updated": "05:01 20/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-0fdfe9ece8ea",
-          "name": "⚽ Scotland vs Morocco | Sắp bắt đầu - null' 0 - 0 05:00 20/06/2026",
+          "name": "⚽ Scotland vs Morocco | H1 - 1' 0 - 0 05:00 20/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a20b1d49d1",
+                          "id": "lnk-057ac23a10",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv3gr4nhct1gwzdrpbofaauymmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=4ba9fa87169308aec443f2fb-178190585940124&wsIPSercert=082691627113c278fc0845385cd8f1d1&wsBindIP=2&wsserid=1168134181103804222"
+                          "url": "https://tfwv4go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ce0743b5eba69bd80a398a5f-178190648650950&wsIPSercert=45f00a17587493c64b9ced70951d47d3&wsBindIP=2&wsserid=1168231394939227592"
                         },
                         {
-                          "id": "lnk-daa32ceb0b",
+                          "id": "lnk-b737cac77b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
