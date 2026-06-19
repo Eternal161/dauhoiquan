@@ -1,12 +1,493 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:10 19/06/2026",
+  "last_updated": "16:20 19/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
-      "channels": []
+      "channels": [
+        {
+          "id": "kaytee-6cd540ec5823",
+          "name": "⚽ Shanghai Second vs Shanghai Sipg | Live 0 - 0 14:30 19/06/2026",
+          "tournament": "FA Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/27619.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/836.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/27619.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6cd540ec5823",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6cd540ec5823",
+                  "name": "Shanghai Second vs Shanghai Sipg",
+                  "streams": [
+                    {
+                      "id": "kaytee-6cd540ec5823",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f95fd03b8b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwv0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0e049b26c5ec10b00ed2fc6c-178186085865035&wsIPSercert=5d82e26fb246b55a96b3f92389ed78cc&wsBindIP=2&wsserid=1168283323302724409"
+                        },
+                        {
+                          "id": "lnk-c75bd73ccc",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b76eca79eadd",
+          "name": "⚽ Bentleigh Greens vs South Melbourne | Live 0 - 0 16:30 19/06/2026",
+          "tournament": "Victoria NPL",
+          "logo_nha": "https://media.api-sports.io/football/teams/3799.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a6/South_Melbourne_FC_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3799.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b76eca79eadd",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b76eca79eadd",
+                  "name": "Bentleigh Greens vs South Melbourne",
+                  "streams": [
+                    {
+                      "id": "kaytee-b76eca79eadd",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-be80790eba",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwv0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178186086693542&wsIPSercert=5d82e26fb246b55a96b3f92389ed78cc&wsBindIP=2&wsserid=1168231589572867007"
+                        },
+                        {
+                          "id": "lnk-bf812df64b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e9a58b06f5d8",
+          "name": "⚽ Shaanxi Union vs Hangzhou Greentown | Sắp diễn ra vs 18:00 19/06/2026",
+          "tournament": "FA Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/23286.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/848.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/23286.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e9a58b06f5d8",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e9a58b06f5d8",
+                  "name": "Shaanxi Union vs Hangzhou Greentown",
+                  "streams": [
+                    {
+                      "id": "kaytee-e9a58b06f5d8",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-cabc57100f9f",
+          "name": "⚽ Shenzhen Juniors vs Sichuan Jiuniu | Sắp diễn ra vs 18:00 19/06/2026",
+          "tournament": "FA Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/23265.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/5686.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/23265.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-cabc57100f9f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-cabc57100f9f",
+                  "name": "Shenzhen Juniors vs Sichuan Jiuniu",
+                  "streams": [
+                    {
+                      "id": "kaytee-cabc57100f9f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-7500119bbf08",
+          "name": "⚽ Guangzhou E-Power vs Beijing Guoan | Sắp diễn ra vs 18:30 19/06/2026",
+          "tournament": "FA Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/23269.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/23269.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-7500119bbf08",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-7500119bbf08",
+                  "name": "Guangzhou E-Power vs Beijing Guoan",
+                  "streams": [
+                    {
+                      "id": "kaytee-7500119bbf08",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a889a3a97f0c",
+          "name": "⚽ Rizhao Yuqi vs Tianjin Teda | Sắp diễn ra vs 18:30 19/06/2026",
+          "tournament": "FA Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/21328.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/837.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/21328.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a889a3a97f0c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a889a3a97f0c",
+                  "name": "Rizhao Yuqi vs Tianjin Teda",
+                  "streams": [
+                    {
+                      "id": "kaytee-a889a3a97f0c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-77ea7eadc112",
+          "name": "⚽ Khan Tengri vs Taraz | Sắp diễn ra vs 21:00 19/06/2026",
+          "tournament": "1. Division",
+          "logo_nha": "https://media.api-sports.io/football/teams/18805.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4559.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/18805.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-77ea7eadc112",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-77ea7eadc112",
+                  "name": "Khan Tengri vs Taraz",
+                  "streams": [
+                    {
+                      "id": "kaytee-77ea7eadc112",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-403b3dc540cc",
+          "name": "⚽ Naftan vs Baranovichi | Sắp diễn ra vs 22:00 19/06/2026",
+          "tournament": "VĐQG Belarus",
+          "logo_nha": "https://media.api-sports.io/football/teams/750.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3383.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/750.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-403b3dc540cc",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-403b3dc540cc",
+                  "name": "Naftan vs Baranovichi",
+                  "streams": [
+                    {
+                      "id": "kaytee-403b3dc540cc",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f7ce4472a457",
+          "name": "⚽ Ranheim vs Lyn | Sắp diễn ra vs 00:00 20/06/2026",
+          "tournament": "1. Division",
+          "logo_nha": "https://media.api-sports.io/football/teams/322.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/7006.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/322.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f7ce4472a457",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f7ce4472a457",
+                  "name": "Ranheim vs Lyn",
+                  "streams": [
+                    {
+                      "id": "kaytee-f7ce4472a457",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-62009d7b460b",
+          "name": "⚽ Usa vs Australia | Sắp diễn ra vs 02:00 20/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2384.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-62009d7b460b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-62009d7b460b",
+                  "name": "Usa vs Australia",
+                  "streams": [
+                    {
+                      "id": "kaytee-62009d7b460b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
