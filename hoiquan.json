@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:41 19/06/2026",
+  "last_updated": "09:50 19/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-52b5e0429c24",
-          "name": "⚽ Mexico vs South Korea | H2 - 81' 1 - 0 08:00 19/06/2026",
+          "name": "⚽ Mexico vs South Korea | H2 - 90+1' 1 - 0 08:00 19/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1728.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1f2b642e01",
+                          "id": "lnk-8eab60b168",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv1gwhnhcjagazdnqbafaauecjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=76d0100332f194d3c245c00c-178183687401112&wsIPSercert=e90762f07ccfcae692c3cdbd714c2c35&wsBindIP=2&wsserid=1168159941862548106"
+                          "url": "https://tfwv1gwhnhcjagazdnqbafaauecjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=76d0100332f194d3c245c00c-178183746718021&wsIPSercert=883a532b2df749bbbbfbe3373553197c&wsBindIP=2&wsserid=1168159941862548106"
                         },
                         {
-                          "id": "lnk-a00e0c076b",
+                          "id": "lnk-c8ecb39a83",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
