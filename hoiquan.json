@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:30 19/06/2026",
+  "last_updated": "22:40 19/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-efa2a7f2e3d4",
-          "name": "⚽ Khan Tengri vs Taraz | H2 - 72' 2 - 1 21:00 19/06/2026",
+          "name": "⚽ Khan Tengri vs Taraz | Live 0 - 0 21:00 19/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/18805.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4559.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ed18f81281",
+                          "id": "lnk-1b6295ff72",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178188306097177&wsIPSercert=5d77c1996e90d94c72e351909db441ef&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfwv1gr3uomttgr31hcj3fa3deqbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2c45ec0ee708bf7b239c6926-178188366954946&wsIPSercert=c9ed7c7152fae20a2f35b65539e30ba5&wsBindIP=2&wsserid=1168168154451507561"
                         },
                         {
-                          "id": "lnk-092b29db86",
+                          "id": "lnk-6dd6c01698",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-403b3dc540cc",
-          "name": "⚽ Naftan vs Baranovichi | H1 - 30' 1 - 0 22:00 19/06/2026",
+          "name": "⚽ Naftan vs Baranovichi | Live 0 - 0 22:00 19/06/2026",
           "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/750.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3383.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3b4385f609",
+                          "id": "lnk-7938127872",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178188306959031&wsIPSercert=5d77c1996e90d94c72e351909db441ef&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfwv1gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=a494d14ca8a5025163275316-178188367827938&wsIPSercert=c9ed7c7152fae20a2f35b65539e30ba5&wsBindIP=2&wsserid=1168168154459896377"
                         },
                         {
-                          "id": "lnk-bffbe8d60b",
+                          "id": "lnk-2e3c2dd79f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
