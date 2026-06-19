@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:30 20/06/2026",
+  "last_updated": "00:40 20/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-f7ce4472a457",
-          "name": "⚽ Ranheim vs Lyn | Live 0 - 0 00:00 20/06/2026",
+          "name": "⚽ Ranheim vs Lyn | H1 - 42' 0 - 1 00:00 20/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/322.png",
           "logo_khach": "https://media.api-sports.io/football/teams/7006.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3870b054d3",
+                          "id": "lnk-fc2dc3bb1f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv3go3nhcjtgczdncjqgrhurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178189026783298&wsIPSercert=342fa4d3158b8c6ec544653b87dcc614&wsBindIP=2&wsserid=1168159941874082915"
+                          "url": "https://tfwv3go3nhcjtgczdncjqgrhurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178189086433198&wsIPSercert=9d47b09c51ed1af085b1e20d3479d76a&wsBindIP=2&wsserid=1168159941874082915"
                         },
                         {
-                          "id": "lnk-08ac9f20df",
+                          "id": "lnk-81fdca5aba",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
