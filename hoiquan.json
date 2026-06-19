@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:50 19/06/2026",
+  "last_updated": "00:01 20/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-403b3dc540cc",
-          "name": "⚽ Naftan vs Baranovichi | H2 - 90' 1 - 0 22:00 19/06/2026",
-          "tournament": "VĐQG Belarus",
-          "logo_nha": "https://media.api-sports.io/football/teams/750.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/3383.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/750.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-403b3dc540cc",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-403b3dc540cc",
-                  "name": "Naftan vs Baranovichi",
-                  "streams": [
-                    {
-                      "id": "kaytee-403b3dc540cc",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-75f8582725",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-f7ce4472a457",
-          "name": "⚽ Ranheim vs Lyn | Sắp bắt đầu - null' 0 - 0 00:00 20/06/2026",
+          "name": "⚽ Ranheim vs Lyn | H1 - 2' 0 - 0 00:00 20/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/322.png",
           "logo_khach": "https://media.api-sports.io/football/teams/7006.png",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-97b2016bba",
+                          "id": "lnk-ede882cebf",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv3go3nhcjtgczdncjqgrhurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178188787220967&wsIPSercert=3c31120ac9db582a2a829bfcc2db2a63&wsBindIP=2&wsserid=1168159941874082915"
+                          "url": "https://tfwv1geauymt1go41hpjofa3dyptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e94d50e91d1420af43351442-178188848309190&wsIPSercert=fa969857a37466a3b76732fdf66ee70f&wsBindIP=2&wsserid=1172662689757036152"
                         },
                         {
-                          "id": "lnk-4586640b1c",
+                          "id": "lnk-78d9323f79",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-d509d23b7347",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-fa8f25a0e4dd",
+          "name": "⚽ Chengdu Rongcheng Ii vs Yichun Grand Tiger | Sắp diễn ra vs 19:00 20/06/2026",
+          "tournament": "League Two",
+          "logo_nha": "https://media.api-sports.io/football/teams/25839.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/17272.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/25839.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-fa8f25a0e4dd",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-fa8f25a0e4dd",
+                  "name": "Chengdu Rongcheng Ii vs Yichun Grand Tiger",
+                  "streams": [
+                    {
+                      "id": "kaytee-fa8f25a0e4dd",
                       "name": "F",
                       "stream_links": []
                     }
