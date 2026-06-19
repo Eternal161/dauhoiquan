@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:10 19/06/2026",
+  "last_updated": "17:21 19/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b76eca79eadd",
-          "name": "⚽ Bentleigh Greens vs South Melbourne | H1 - 40' 1 - 3 16:30 19/06/2026",
+          "name": "⚽ Bentleigh Greens vs South Melbourne | Giữa Hiệp - 45' 1 - 3 16:30 19/06/2026",
           "tournament": "Victoria NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/3799.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a6/South_Melbourne_FC_logo.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-864726be1e",
+                          "id": "lnk-baafc2f897",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv1gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=45be673f9c0838073bc08b6e-178186385468069&wsIPSercert=077ee78f1af42eb5919aa48bae216bb3&wsBindIP=2&wsserid=1168243343860730937"
+                          "url": "https://tfwv1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178186447313802&wsIPSercert=93215579096e2b89ae1a7866faef6fcf&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-00f3c5e946",
+                          "id": "lnk-649e0757ef",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
