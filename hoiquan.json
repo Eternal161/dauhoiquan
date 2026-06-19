@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:20 19/06/2026",
+  "last_updated": "16:31 19/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-6cd540ec5823",
-          "name": "⚽ Shanghai Second vs Shanghai Sipg | Live 0 - 0 14:30 19/06/2026",
-          "tournament": "FA Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/27619.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/836.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/27619.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-6cd540ec5823",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-6cd540ec5823",
-                  "name": "Shanghai Second vs Shanghai Sipg",
-                  "streams": [
-                    {
-                      "id": "kaytee-6cd540ec5823",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f95fd03b8b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwv0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0e049b26c5ec10b00ed2fc6c-178186085865035&wsIPSercert=5d82e26fb246b55a96b3f92389ed78cc&wsBindIP=2&wsserid=1168283323302724409"
-                        },
-                        {
-                          "id": "lnk-c75bd73ccc",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-b76eca79eadd",
-          "name": "⚽ Bentleigh Greens vs South Melbourne | Live 0 - 0 16:30 19/06/2026",
+          "name": "⚽ Bentleigh Greens vs South Melbourne | Sắp bắt đầu - null' 0 - 0 16:30 19/06/2026",
           "tournament": "Victoria NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/3799.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a6/South_Melbourne_FC_logo.svg",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-be80790eba",
+                          "id": "lnk-e54051ba1c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178186086693542&wsIPSercert=5d82e26fb246b55a96b3f92389ed78cc&wsBindIP=2&wsserid=1168231589572867007"
+                          "url": "https://tfwv0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=fc387c98748ade8f54f1ef90-178186146900322&wsIPSercert=e34ad3919085d22b2c5216c6413e14e4&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-bf812df64b",
+                          "id": "lnk-08af6e4f3b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-62009d7b460b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0fdfe9ece8ea",
+          "name": "⚽ Scotland vs Morocco | Sắp diễn ra vs 05:00 20/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0fdfe9ece8ea",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0fdfe9ece8ea",
+                  "name": "Scotland vs Morocco",
+                  "streams": [
+                    {
+                      "id": "kaytee-0fdfe9ece8ea",
                       "name": "F",
                       "stream_links": []
                     }
