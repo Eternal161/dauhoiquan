@@ -1,125 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:01 19/06/2026",
+  "last_updated": "07:10 19/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-75a47093c9e0",
-          "name": "⚽ Canada vs Qatar | H2 - 73' 4 - 0 05:00 19/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
-          "logo_khach": "https://cdn.haitrieu.com/wp-content/uploads/2022/05/Logo-Doi-Tuyen-Qatar.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-75a47093c9e0",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-75a47093c9e0",
-                  "name": "Canada vs Qatar",
-                  "streams": [
-                    {
-                      "id": "kaytee-75a47093c9e0",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d93d8f09b7",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwv4grauqmtofaauqmt1gyan44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=d4393be7be96580122d92cb2-178182731757728&wsIPSercert=c1b021d7db75bfb476f7ee445a1a13c6&wsBindIP=2&wsserid=1168235948352694460"
-                        },
-                        {
-                          "id": "lnk-58b736c34d",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-d18c2b4fda56",
-          "name": "⚽ Sport Recife vs Atletico Goianiense | Sắp bắt đầu - null' 0 - 0 07:00 19/06/2026",
-          "tournament": "Serie B",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VAnv52Bj5vR_eOaVQiyM-aJo5PyseuSEbQ&s",
-          "logo_khach": "https://media.api-sports.io/football/teams/144.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VAnv52Bj5vR_eOaVQiyM-aJo5PyseuSEbQ&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-d18c2b4fda56",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-d18c2b4fda56",
-                  "name": "Sport Recife vs Atletico Goianiense",
-                  "streams": [
-                    {
-                      "id": "kaytee-d18c2b4fda56",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5de96bdbfe",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-52b5e0429c24",
           "name": "⚽ Mexico vs South Korea | Sắp diễn ra vs 08:00 19/06/2026",
@@ -471,6 +358,96 @@
                   "streams": [
                     {
                       "id": "kaytee-1535f680899e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-77ea7eadc112",
+          "name": "⚽ Khan Tengri vs Taraz | Sắp diễn ra vs 21:00 19/06/2026",
+          "tournament": "1. Division",
+          "logo_nha": "https://media.api-sports.io/football/teams/18805.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4559.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/18805.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-77ea7eadc112",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-77ea7eadc112",
+                  "name": "Khan Tengri vs Taraz",
+                  "streams": [
+                    {
+                      "id": "kaytee-77ea7eadc112",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-403b3dc540cc",
+          "name": "⚽ Naftan vs Baranovichi | Sắp diễn ra vs 22:00 19/06/2026",
+          "tournament": "VĐQG Belarus",
+          "logo_nha": "https://media.api-sports.io/football/teams/750.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3383.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/750.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-403b3dc540cc",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-403b3dc540cc",
+                  "name": "Naftan vs Baranovichi",
+                  "streams": [
+                    {
+                      "id": "kaytee-403b3dc540cc",
                       "name": "F",
                       "stream_links": []
                     }
