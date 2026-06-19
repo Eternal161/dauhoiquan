@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:41 20/06/2026",
+  "last_updated": "01:50 20/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-f7ce4472a457",
-          "name": "⚽ Ranheim vs Lyn | H2 - 83' 3 - 1 00:00 20/06/2026",
+          "name": "⚽ Ranheim vs Lyn | Live 0 - 0 00:00 20/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/322.png",
           "logo_khach": "https://media.api-sports.io/football/teams/7006.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-47856b1def",
+                          "id": "lnk-d180a21c88",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv3go3nhcjtgczdncjqgrhurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178189448264833&wsIPSercert=585c8f9c1aaf7f97d987533e514e603c&wsBindIP=2&wsserid=1168159941874082915"
+                          "url": "https://tfwv3gr4nhct1gwzdrcbqgr5ucmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c40fccb025e98bbf40cab68e-178189506240221&wsIPSercert=c3ebb198207dfdeb6e81ef2a99f65172&wsBindIP=2&wsserid=1172648037357484137"
                         },
                         {
-                          "id": "lnk-1944cd8bf5",
+                          "id": "lnk-e837a84ba4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-62009d7b460b",
-          "name": "⚽ Usa vs Australia | Sắp bắt đầu - null' 0 - 0 02:00 20/06/2026",
+          "name": "⚽ Usa vs Australia | Live 0 - 0 02:00 20/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bf3764229a",
+                          "id": "lnk-8e29d0fde7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwv3go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178189449126143&wsIPSercert=585c8f9c1aaf7f97d987533e514e603c&wsBindIP=2&wsserid=1168159941874082915"
+                          "url": "https://tfwv3gr4nhct1gwzdrcbqgr5ucmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c40fccb025e98bbf40cab68e-178189507098081&wsIPSercert=c3ebb198207dfdeb6e81ef2a99f65172&wsBindIP=2&wsserid=1172648037357484137"
                         },
                         {
-                          "id": "lnk-b0d17eb668",
+                          "id": "lnk-8f8c67c369",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
