@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:21 21/06/2026",
+  "last_updated": "00:31 21/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-f9e89b991fdb",
-          "name": "⚽ Fc Vitebsk vs Dinamo Brest | H2 - 90+5' 1 - 2 22:30 20/06/2026",
-          "tournament": "VĐQG Belarus",
-          "logo_nha": "https://media.api-sports.io/football/teams/382.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/386.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/382.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f9e89b991fdb",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f9e89b991fdb",
-                  "name": "Fc Vitebsk vs Dinamo Brest",
-                  "streams": [
-                    {
-                      "id": "kaytee-f9e89b991fdb",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c5fbfdfee3",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfww1geauymt1go41hpjofaau1qjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=895a04b6c8828da8930cebfc-178197606903186&wsIPSercert=a8293ed0ffb2963d21258c982152c3fb&wsBindIP=2&wsserid=1172662689752841644"
-                        },
-                        {
-                          "id": "lnk-9fb81cf8ba",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-43c220d020e7",
-          "name": "⚽ Netherlands vs Sweden | H1 - 21' 2 - 0 00:00 21/06/2026",
+          "name": "⚽ Netherlands vs Sweden | H1 - 31' 2 - 0 00:00 21/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1118.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8b73b99ced",
+                          "id": "lnk-186bb1d479",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww1geauymt1go41hpjofaau1qjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=10971a23986f09b8748c3ba9-178197607780980&wsIPSercert=a8293ed0ffb2963d21258c982152c3fb&wsBindIP=2&wsserid=1172662689747598560"
+                          "url": "https://tfww1geauymt1go41hpjofa3dyptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=92cafe473dd31f3b17b98c85-178197667403863&wsIPSercert=e8c388e1a85d8d45fadba068bc003a6e&wsBindIP=2&wsserid=1168159089670093645"
                         },
                         {
-                          "id": "lnk-308bb58b58",
+                          "id": "lnk-07d4894224",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-33746a512db3",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0c6236055bef",
+          "name": "⚽ Fs Jelgava vs Tukums | Sắp diễn ra vs 20:00 21/06/2026",
+          "tournament": "Virsliga",
+          "logo_nha": "https://media.api-sports.io/football/teams/18834.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4144.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/18834.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0c6236055bef",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0c6236055bef",
+                  "name": "Fs Jelgava vs Tukums",
+                  "streams": [
+                    {
+                      "id": "kaytee-0c6236055bef",
                       "name": "F",
                       "stream_links": []
                     }
