@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:31 20/06/2026",
+  "last_updated": "19:40 20/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-0c6b1cd061f8",
-          "name": "⚽ Chengdu Rongcheng Ii vs Yichun Grand Tiger | Live 0 - 0 18:30 20/06/2026",
+          "name": "⚽ Chengdu Rongcheng Ii vs Yichun Grand Tiger | H1 - 41' 0 - 1 18:30 20/06/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/25839.png",
           "logo_khach": "https://media.api-sports.io/football/teams/17272.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6e3271e4bd",
+                          "id": "lnk-805a74e301",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178195867235345&wsIPSercert=a46262f4a6573768f2a05e13797466b9&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfww1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=706d286fa60d1f2a8282d305-178195926327204&wsIPSercert=eaa7eae048e9a848946cabbea33de9a7&wsBindIP=2&wsserid=1168243256667264290"
                         },
                         {
-                          "id": "lnk-29f32c4ce5",
+                          "id": "lnk-bc17f1e9b3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-d344dee9a100",
-          "name": "⚽ Hebei Kungfu vs Shanghai Shenhua | Giữa Hiệp - 45+4' 0 - 1 18:30 20/06/2026",
+          "name": "⚽ Hebei Kungfu vs Shanghai Shenhua | H2 - 52' 0 - 1 18:30 20/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/17264.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-06bc95a64f",
+                          "id": "lnk-c63c81a9c9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=664fd68c07f9574a0717013d-178195868096875&wsIPSercert=a46262f4a6573768f2a05e13797466b9&wsBindIP=2&wsserid=1168283323367736366"
+                          "url": "https://tfww1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=49dc2719b8fc592deb946af6-178195927186245&wsIPSercert=eaa7eae048e9a848946cabbea33de9a7&wsBindIP=2&wsserid=1168243256664118498"
                         },
                         {
-                          "id": "lnk-ade595530e",
+                          "id": "lnk-b3947a0d16",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
