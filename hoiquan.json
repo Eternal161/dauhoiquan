@@ -1,15 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:01 21/06/2026",
+  "last_updated": "02:11 21/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-b40ab8ab93a6",
-          "name": "⚽ Almeria vs Malaga | Sắp bắt đầu - null' 0 - 0 02:00 21/06/2026",
+          "id": "kaytee-e4b0d685d5b1",
+          "name": "⚽ Almeria vs Malaga | Sắp bắt đầu - null' 0 - 0 02:30 21/06/2026",
           "tournament": "Segunda División",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/1/13/UD_Almer%C3%ADa_logo.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/c/c3/M%C3%A1laga_CF.png",
@@ -34,26 +34,26 @@
           ],
           "sources": [
             {
-              "id": "kaytee-b40ab8ab93a6",
+              "id": "kaytee-e4b0d685d5b1",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-b40ab8ab93a6",
+                  "id": "kaytee-e4b0d685d5b1",
                   "name": "Almeria vs Malaga",
                   "streams": [
                     {
-                      "id": "kaytee-b40ab8ab93a6",
+                      "id": "kaytee-e4b0d685d5b1",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cf5169dd31",
+                          "id": "lnk-90d37baae6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww1geauymt1go41hpjofa3dyptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e94d50e91d1420af43351442-178198208066414&wsIPSercert=d5ddf773d8ffdb4eb2a950955c87197b&wsBindIP=2&wsserid=1172662689757036152"
+                          "url": "https://tfww4go3nhcjtghzdrpbsfah147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=d3966685d0aeb8368e261db6-178198267449480&wsIPSercert=05ce598835e3ec60d18fdbce4018be3e&wsBindIP=2&wsserid=1168270624940726078"
                         },
                         {
-                          "id": "lnk-941a65c7f4",
+                          "id": "lnk-cd87593eb8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7e70d81869",
+                          "id": "lnk-680ca3e940",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww1geauymt1go41hpjofa3dyptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=5567537ef9f40deabc19334f-178198208928976&wsIPSercert=d5ddf773d8ffdb4eb2a950955c87197b&wsBindIP=2&wsserid=1172662689754938898"
+                          "url": "https://tfww4go3nhcjtghzdrpbsfah144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fc1e1e0339c3c259449e9a08-178198268309054&wsIPSercert=05ce598835e3ec60d18fdbce4018be3e&wsBindIP=2&wsserid=1168270624944920500"
                         },
                         {
-                          "id": "lnk-a6b6b76182",
+                          "id": "lnk-d3e3b82759",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
