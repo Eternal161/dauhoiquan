@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:30 21/06/2026",
+  "last_updated": "06:40 21/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cfdce6dc5b",
+                          "id": "lnk-ed5875ff9a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww1geauymt1go41hpjofaau1qjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=895a04b6c8828da8930cebfc-178199826870707&wsIPSercert=89c894c562aec6c5a8b086d5275bfdd4&wsBindIP=2&wsserid=1172662689752841644"
+                          "url": "https://tfww1gwhnhcjagazdnqbafaauecjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=ab1728d73a83f30175dcad29-178199886807340&wsIPSercert=283ed9b6ce3c91e7ede175f7dc8f3f35&wsBindIP=2&wsserid=1168159941864645324"
                         },
                         {
-                          "id": "lnk-ee7cb31ed9",
+                          "id": "lnk-c069c654eb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-4fa9a135bfb3",
-          "name": "⚽ Ecuador vs Curaçao | Sắp diễn ra vs 07:00 21/06/2026",
+          "name": "⚽ Ecuador vs Curaçao | Sắp bắt đầu - null' 0 - 0 07:00 21/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/250px-Flag_of_Cura%C3%A7ao.svg.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-4fa9a135bfb3",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-a95f81c149",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfww1gwhnhcjagazdnqbafaauecjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=76d0100332f194d3c245c00c-178199887662494&wsIPSercert=283ed9b6ce3c91e7ede175f7dc8f3f35&wsBindIP=2&wsserid=1168159941862548106"
+                        },
+                        {
+                          "id": "lnk-b20a1b304a",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
