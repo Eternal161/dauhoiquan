@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:31 21/06/2026",
+  "last_updated": "01:40 21/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-43c220d020e7",
-          "name": "⚽ Netherlands vs Sweden | H2 - 70' 4 - 1 00:00 21/06/2026",
+          "name": "⚽ Netherlands vs Sweden | H2 - 80' 4 - 1 00:00 21/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1118.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bec5e4af45",
+                          "id": "lnk-4129394d13",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww1geauymt1go41hpjofa3dyptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=08e1b9ab3107ceda498bcc0f-178198027705610&wsIPSercert=b7c0d6bed56f096869812e1be757afd7&wsBindIP=2&wsserid=1172662689748647170"
+                          "url": "https://tfww1geauymt1go41hpjofa3dyptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=08e1b9ab3107ceda498bcc0f-178198086447400&wsIPSercert=8ee1e158240ebdc979b295fb8e0675c7&wsBindIP=2&wsserid=1172662689748647170"
                         },
                         {
-                          "id": "lnk-1156de31ec",
+                          "id": "lnk-1170d9293d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f90847febb",
+                          "id": "lnk-1b61bb4bda",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww1geauymt1go41hpjofa3dyptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e94d50e91d1420af43351442-178198028546164&wsIPSercert=b7c0d6bed56f096869812e1be757afd7&wsBindIP=2&wsserid=1172662689757036152"
+                          "url": "https://tfww1geauymt1go41hpjofa3dyptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e94d50e91d1420af43351442-178198087323886&wsIPSercert=8ee1e158240ebdc979b295fb8e0675c7&wsBindIP=2&wsserid=1172662689757036152"
                         },
                         {
-                          "id": "lnk-126f69c757",
+                          "id": "lnk-1be293b80b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
