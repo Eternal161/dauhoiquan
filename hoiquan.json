@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:00 20/06/2026",
+  "last_updated": "20:11 20/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-0c6b1cd061f8",
-          "name": "⚽ Chengdu Rongcheng Ii vs Yichun Grand Tiger | Giữa Hiệp - 45+4' 0 - 1 18:30 20/06/2026",
+          "name": "⚽ Chengdu Rongcheng Ii vs Yichun Grand Tiger | H2 - 53' 0 - 1 18:30 20/06/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/25839.png",
           "logo_khach": "https://media.api-sports.io/football/teams/17272.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-33cfab4b57",
+                          "id": "lnk-953970a3cb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178196046637964&wsIPSercert=ef7bc8faef7e09d25b46e6ff931b0326&wsBindIP=2&wsserid=1168231785641135723"
+                          "url": "https://tfww0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178196107044164&wsIPSercert=8a62758919ed27d15006ea2b589da489&wsBindIP=2&wsserid=1168283477179400067"
                         },
                         {
-                          "id": "lnk-ce32843edc",
+                          "id": "lnk-56d3e7d0d7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-d344dee9a100",
-          "name": "⚽ Hebei Kungfu vs Shanghai Shenhua | H2 - 72' 0 - 1 18:30 20/06/2026",
+          "name": "⚽ Hebei Kungfu vs Shanghai Shenhua | H2 - 82' 0 - 1 18:30 20/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/17264.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c2cf054520",
+                          "id": "lnk-08302935ea",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=cd928fc8bd71595dacf45826-178196047499986&wsIPSercert=ef7bc8faef7e09d25b46e6ff931b0326&wsBindIP=2&wsserid=1168231589586498745"
+                          "url": "https://tfww0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=664fd68c07f9574a0717013d-178196107859248&wsIPSercert=8a62758919ed27d15006ea2b589da489&wsBindIP=2&wsserid=1168283323367736366"
                         },
                         {
-                          "id": "lnk-b4aa11f24f",
+                          "id": "lnk-78e2d1c819",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-ce4b99d84b58",
-          "name": "⚽ Slavia Mozyr vs Fc Isloch Minsk R. | Sắp diễn ra vs 20:30 20/06/2026",
+          "name": "⚽ Slavia Mozyr vs Fc Isloch Minsk R. | Sắp bắt đầu - null' 0 - 0 20:30 20/06/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/751.png",
           "logo_khach": "https://media.api-sports.io/football/teams/391.png",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-ce4b99d84b58",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-833a675e06",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfww0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178196108715463&wsIPSercert=8a62758919ed27d15006ea2b589da489&wsBindIP=2&wsserid=1168283477179400067"
+                        },
+                        {
+                          "id": "lnk-0737a6b30b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
