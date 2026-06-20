@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:10 20/06/2026",
+  "last_updated": "16:20 20/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-256512ef5dca",
-          "name": "⚽ Qingdao Red Lions vs Wuhan Three Towns | Live 0 - 0 14:30 20/06/2026",
+          "name": "⚽ Qingdao Red Lions vs Wuhan Three Towns | H2 - 90+2' 0 - 0 14:30 20/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/5679.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Wuhan_Three_Towns_F.C.svg/250px-Wuhan_Three_Towns_F.C.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4533f97247",
+                          "id": "lnk-e25b473748",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww1gr3uomttgr31hctsfaau1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178194666375834&wsIPSercert=b5c233c107122e2d7a6b3b23447e1d0b&wsBindIP=2&wsserid=1168056276210707857"
+                          "url": "https://tfww3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178194726202174&wsIPSercert=a276a421ac71c5d443aec2794580e76b&wsBindIP=2&wsserid=1177063474761571144"
                         },
                         {
-                          "id": "lnk-b87eba7ee2",
+                          "id": "lnk-c2eafb7fb6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-727b80b4caf0",
-          "name": "⚽ Ningbo Professional vs Chongqing Tongliang Long | Live 0 - 0 16:00 20/06/2026",
+          "name": "⚽ Ningbo Professional vs Chongqing Tongliang Long | H1 - 20' 0 - 0 16:00 20/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/27556.png",
           "logo_khach": "https://media.api-sports.io/football/teams/21262.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-61164131c6",
+                          "id": "lnk-c8c1701564",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww1gr3uomttgr31hctsfaau1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178194667232852&wsIPSercert=b5c233c107122e2d7a6b3b23447e1d0b&wsBindIP=2&wsserid=1168056276210707857"
+                          "url": "https://tfww3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=5bd5ca106460d708e48cc2cb-178194727052997&wsIPSercert=a276a421ac71c5d443aec2794580e76b&wsBindIP=2&wsserid=1168158473487963106"
                         },
                         {
-                          "id": "lnk-2f6e53357c",
+                          "id": "lnk-52d7a05eaf",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
