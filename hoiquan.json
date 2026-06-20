@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:01 20/06/2026",
+  "last_updated": "17:11 20/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-727b80b4caf0",
-          "name": "⚽ Ningbo Professional vs Chongqing Tongliang Long | Giữa Hiệp - 45+2' 0 - 1 16:00 20/06/2026",
+          "name": "⚽ Ningbo Professional vs Chongqing Tongliang Long | H2 - 53' 0 - 2 16:00 20/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/27556.png",
           "logo_khach": "https://media.api-sports.io/football/teams/21262.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ccb3e1ada5",
+                          "id": "lnk-bc470d6474",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=45be673f9c0838073bc08b6e-178194967206995&wsIPSercert=578967b91d023494bc5a3b913eda754c&wsBindIP=2&wsserid=1168243343860730937"
+                          "url": "https://tfww3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=5bd5ca106460d708e48cc2cb-178195028006384&wsIPSercert=4469be0312b1ecb79dc65e48dce88a17&wsBindIP=2&wsserid=1168158473487963106"
                         },
                         {
-                          "id": "lnk-52fe4f29a0",
+                          "id": "lnk-b835e9b146",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -203,9 +203,9 @@
           ]
         },
         {
-          "id": "kaytee-304e6e76a18f",
+          "id": "kaytee-f9e89b991fdb",
           "name": "⚽ Fc Vitebsk vs Dinamo Brest | Sắp diễn ra vs 22:30 20/06/2026",
-          "tournament": "Premier League",
+          "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/382.png",
           "logo_khach": "https://media.api-sports.io/football/teams/386.png",
           "type": "single",
@@ -229,15 +229,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-304e6e76a18f",
+              "id": "kaytee-f9e89b991fdb",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-304e6e76a18f",
+                  "id": "kaytee-f9e89b991fdb",
                   "name": "Fc Vitebsk vs Dinamo Brest",
                   "streams": [
                     {
-                      "id": "kaytee-304e6e76a18f",
+                      "id": "kaytee-f9e89b991fdb",
                       "name": "F",
                       "stream_links": []
                     }
