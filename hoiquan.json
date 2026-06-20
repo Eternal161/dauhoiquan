@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:31 21/06/2026",
+  "last_updated": "00:41 21/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-43c220d020e7",
-          "name": "⚽ Netherlands vs Sweden | H1 - 31' 2 - 0 00:00 21/06/2026",
+          "name": "⚽ Netherlands vs Sweden | H1 - 41' 2 - 0 00:00 21/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1118.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-186bb1d479",
+                          "id": "lnk-db7d2e6aef",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww1geauymt1go41hpjofa3dyptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=92cafe473dd31f3b17b98c85-178197667403863&wsIPSercert=e8c388e1a85d8d45fadba068bc003a6e&wsBindIP=2&wsserid=1168159089670093645"
+                          "url": "https://tfww1geauymt1go41hpjofa3dyptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e94d50e91d1420af43351442-178197728605092&wsIPSercert=6e3ad36795b6e1619a2102f8f653b8f4&wsBindIP=2&wsserid=1172662689757036152"
                         },
                         {
-                          "id": "lnk-07d4894224",
+                          "id": "lnk-018edc5e27",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
