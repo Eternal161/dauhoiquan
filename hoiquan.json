@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:01 20/06/2026",
+  "last_updated": "10:11 20/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a31bfd083208",
-          "name": "⚽ Türkiye vs Paraguay | H1 - 1' 0 - 0 10:00 20/06/2026",
+          "name": "⚽ Türkiye vs Paraguay | H1 - 11' 0 - 1 10:00 20/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/777.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1af15d92e5",
+                          "id": "lnk-8a52d488bc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww3gr4nhct1gwzdrpbofaauymmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=4266362b08ce358b2bb9e671-178192448267300&wsIPSercert=91d59ed7217f76e1859ad9e2f5aaf157&wsBindIP=2&wsserid=1168134180852145441"
+                          "url": "https://tfww3go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36a2295e4cd9b36484d06c82-178192507908480&wsIPSercert=d243e866ec1bc43f89d11aeae2f8e52c&wsBindIP=2&wsserid=1168159941877228745"
                         },
                         {
-                          "id": "lnk-0c6e33f224",
+                          "id": "lnk-c4bd541ac3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
