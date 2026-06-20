@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:40 20/06/2026",
+  "last_updated": "22:51 20/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-f9e89b991fdb",
-          "name": "⚽ Fc Vitebsk vs Dinamo Brest | Live 0 - 0 22:30 20/06/2026",
+          "name": "⚽ Fc Vitebsk vs Dinamo Brest | H1 - 22' 1 - 1 22:30 20/06/2026",
           "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/382.png",
           "logo_khach": "https://media.api-sports.io/football/teams/386.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d9b62f8215",
+                          "id": "lnk-bbf5f34dc4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178197006322868&wsIPSercert=47cd194a8a76651ae5412f031c6e3677&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfww0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=fc387c98748ade8f54f1ef90-178197067516118&wsIPSercert=c2385c43b32579c67d70be6cc3d0e207&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-5ae9acc292",
+                          "id": "lnk-91148184a8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
