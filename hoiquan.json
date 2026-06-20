@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:21 20/06/2026",
+  "last_updated": "07:30 20/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-d0e2c11ffca2",
-          "name": "⚽ Brazil vs Haiti | Sắp bắt đầu - null' 0 - 0 07:30 20/06/2026",
+          "name": "⚽ Brazil vs Haiti | Live 0 - 0 07:30 20/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0b28771351",
+                          "id": "lnk-82ed5f6f47",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww3go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=36a2295e4cd9b36484d06c82-178191487977642&wsIPSercert=b2f8a5c4367ba42d2fe4ba29c2eedc48&wsBindIP=2&wsserid=1168159941877228745"
+                          "url": "https://tfww3gr4nhct1gwzdrcbqgr5ucmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=ee84f4e0d667d51457c25ccb-178191546531533&wsIPSercert=b2965ff8fa4471183a8855d8a8999226&wsBindIP=2&wsserid=1172648037402573123"
                         },
                         {
-                          "id": "lnk-44f5ae533f",
+                          "id": "lnk-a1cd2cc74a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
