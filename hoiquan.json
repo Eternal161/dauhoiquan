@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:30 20/06/2026",
+  "last_updated": "16:41 20/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-256512ef5dca",
-          "name": "⚽ Qingdao Red Lions vs Wuhan Three Towns | Kết thúc - null+8' 0 - 0 14:30 20/06/2026",
-          "tournament": "FA Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/5679.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Wuhan_Three_Towns_F.C.svg/250px-Wuhan_Three_Towns_F.C.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/5679.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-256512ef5dca",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-256512ef5dca",
-                  "name": "Qingdao Red Lions vs Wuhan Three Towns",
-                  "streams": [
-                    {
-                      "id": "kaytee-256512ef5dca",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2bb402832e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfww0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178194786032618&wsIPSercert=547eb870980e9c7a70d700d927a862d4&wsBindIP=2&wsserid=1168283323406534424"
-                        },
-                        {
-                          "id": "lnk-cf84ec33a8",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-727b80b4caf0",
-          "name": "⚽ Ningbo Professional vs Chongqing Tongliang Long | H1 - 30' 0 - 0 16:00 20/06/2026",
+          "name": "⚽ Ningbo Professional vs Chongqing Tongliang Long | H1 - 40' 0 - 1 16:00 20/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/27556.png",
           "logo_khach": "https://media.api-sports.io/football/teams/21262.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8ad0117584",
+                          "id": "lnk-f461bb76c4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0e049b26c5ec10b00ed2fc6c-178194786854533&wsIPSercert=547eb870980e9c7a70d700d927a862d4&wsBindIP=2&wsserid=1168283323302724409"
+                          "url": "https://tfww3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=5bd5ca106460d708e48cc2cb-178194847519085&wsIPSercert=43b2b477e9a20b6e34bbc4641b508384&wsBindIP=2&wsserid=1168158473487963106"
                         },
                         {
-                          "id": "lnk-68cfdd6226",
+                          "id": "lnk-82991abdc8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-277d60e1512e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-4fa9a135bfb3",
+          "name": "⚽ Ecuador vs Curaçao | Sắp diễn ra vs 07:00 21/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/250px-Flag_of_Cura%C3%A7ao.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4fa9a135bfb3",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4fa9a135bfb3",
+                  "name": "Ecuador vs Curaçao",
+                  "streams": [
+                    {
+                      "id": "kaytee-4fa9a135bfb3",
                       "name": "F",
                       "stream_links": []
                     }
