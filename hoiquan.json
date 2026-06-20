@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:01 20/06/2026",
+  "last_updated": "21:11 20/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-7d7ad37b5672",
-          "name": "⚽ Slavia Mozyr vs Fc Isloch Minsk R. | H1 - 31' 0 - 1 20:30 20/06/2026",
+          "name": "⚽ Slavia Mozyr vs Fc Isloch Minsk R. | Live 0 - 0 20:30 20/06/2026",
           "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/751.png",
           "logo_khach": "https://media.api-sports.io/football/teams/391.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3b800b553a",
+                          "id": "lnk-b2f57eb486",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww3gr3uomttgr31hctsfa3dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178196408288988&wsIPSercert=cb2d1ef595cf35dc20cfa9fa20cb073c&wsBindIP=2&wsserid=1168056276210707857"
+                          "url": "https://tfww0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=fc387c98748ade8f54f1ef90-178196467511074&wsIPSercert=d243e866ec1bc43f89d11aeae2f8e52c&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-df231246af",
+                          "id": "lnk-eee5b6b7c2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
