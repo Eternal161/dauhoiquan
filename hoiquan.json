@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:01 21/06/2026",
+  "last_updated": "05:11 21/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-0ad4927e3590",
-          "name": "⚽ Germany vs Ivory Coast | H2 - 77' 1 - 1 03:00 21/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-0ad4927e3590",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-0ad4927e3590",
-                  "name": "Germany vs Ivory Coast",
-                  "streams": [
-                    {
-                      "id": "kaytee-0ad4927e3590",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-34923e4a58",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfww4go3nhcjtghzdrpbsfah144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=a6227386419999d5d313655b-178199287874696&wsIPSercert=b6cdcd8d17658294a4a31afe9b2ca09c&wsBindIP=2&wsserid=1168270624948066342"
-                        },
-                        {
-                          "id": "lnk-a0786a3ab0",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-277d60e1512e",
           "name": "⚽ Vila Nova vs Nautico Recife | Sắp bắt đầu - null' 0 - 0 05:00 21/06/2026",
@@ -106,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3b5ebc604f",
+                          "id": "lnk-5d3b5b51bc",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -471,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-ac7de67a23cc",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-33d2c7f643f1",
+          "name": "⚽ Riga vs Fk Liepaja | Sắp diễn ra vs 22:00 21/06/2026",
+          "tournament": "Virsliga",
+          "logo_nha": "https://media.api-sports.io/football/teams/10124.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/661.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/10124.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-33d2c7f643f1",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-33d2c7f643f1",
+                  "name": "Riga vs Fk Liepaja",
+                  "streams": [
+                    {
+                      "id": "kaytee-33d2c7f643f1",
                       "name": "F",
                       "stream_links": []
                     }
