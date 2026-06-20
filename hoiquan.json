@@ -1,16 +1,16 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:40 20/06/2026",
+  "last_updated": "20:51 20/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-dbbffe5c460b",
-          "name": "⚽ Slavia Mozyr vs Fc Isloch Minsk R. | H1 - 10' 0 - 1 20:30 20/06/2026",
-          "tournament": "Hạng 2 Brazil",
+          "id": "kaytee-7d7ad37b5672",
+          "name": "⚽ Slavia Mozyr vs Fc Isloch Minsk R. | H1 - 21' 0 - 1 20:30 20/06/2026",
+          "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/751.png",
           "logo_khach": "https://media.api-sports.io/football/teams/391.png",
           "type": "single",
@@ -34,26 +34,26 @@
           ],
           "sources": [
             {
-              "id": "kaytee-dbbffe5c460b",
+              "id": "kaytee-7d7ad37b5672",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-dbbffe5c460b",
+                  "id": "kaytee-7d7ad37b5672",
                   "name": "Slavia Mozyr vs Fc Isloch Minsk R.",
                   "streams": [
                     {
-                      "id": "kaytee-dbbffe5c460b",
+                      "id": "kaytee-7d7ad37b5672",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7b2cee0f36",
+                          "id": "lnk-f0803b88b1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178196287024980&wsIPSercert=fa969857a37466a3b76732fdf66ee70f&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfww1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=706d286fa60d1f2a8282d305-178196346977648&wsIPSercert=4144c07735c84d151f17eef45a4e372c&wsBindIP=2&wsserid=1168243256667264290"
                         },
                         {
-                          "id": "lnk-8dec6f17dc",
+                          "id": "lnk-60bfabe367",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
