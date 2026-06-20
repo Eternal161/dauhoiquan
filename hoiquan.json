@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:51 20/06/2026",
+  "last_updated": "18:01 20/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-cd5ed9880ac2",
-          "name": "⚽ Ningbo Professional vs Chongqing Tongliang Long | H2 - 90+3' 0 - 2 16:00 20/06/2026",
+          "name": "⚽ Ningbo Professional vs Chongqing Tongliang Long | H2 - 90+5' 0 - 2 16:00 20/06/2026",
           "tournament": "Cúp FA Trung Quốc",
           "logo_nha": "https://media.api-sports.io/football/teams/27556.png",
           "logo_khach": "https://media.api-sports.io/football/teams/21262.png",
@@ -46,74 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-db160c0c9e",
+                          "id": "lnk-7b3d1e361e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=5bd5ca106460d708e48cc2cb-178195267528076&wsIPSercert=d10015271646cfcf571344b48690d744&wsBindIP=2&wsserid=1168158473487963106"
+                          "url": "https://tfww3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=5bd5ca106460d708e48cc2cb-178195329382917&wsIPSercert=f76cfc8e2aec481b90b86139dd9ddbda&wsBindIP=2&wsserid=1168158473487963106"
                         },
                         {
-                          "id": "lnk-4ccb4a7383",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-4e5e59965afb",
-          "name": "⚽ Hebei Kungfu vs Shanghai Shenhua | Sắp bắt đầu - null' 0 - 0 18:30 20/06/2026",
-          "tournament": "Cúp FA Trung Quốc",
-          "logo_nha": "https://media.api-sports.io/football/teams/17264.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/17264.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-4e5e59965afb",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-4e5e59965afb",
-                  "name": "Hebei Kungfu vs Shanghai Shenhua",
-                  "streams": [
-                    {
-                      "id": "kaytee-4e5e59965afb",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0f50207d16",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfww3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=5bd5ca106460d708e48cc2cb-178195268379078&wsIPSercert=d10015271646cfcf571344b48690d744&wsBindIP=2&wsserid=1168158473487963106"
-                        },
-                        {
-                          "id": "lnk-68890808d2",
+                          "id": "lnk-24de375982",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5f0ea3ad95",
+                          "id": "lnk-088397d775",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178195269215861&wsIPSercert=d10015271646cfcf571344b48690d744&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfww3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178195330222004&wsIPSercert=f76cfc8e2aec481b90b86139dd9ddbda&wsBindIP=2&wsserid=1177063474761571144"
                         },
                         {
-                          "id": "lnk-76ec28e114",
+                          "id": "lnk-035436fbdc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-4fa9a135bfb3",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-10469efe8c7a",
+          "name": "⚽ Tunisia vs Japan | Sắp diễn ra vs 11:00 21/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-10469efe8c7a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-10469efe8c7a",
+                  "name": "Tunisia vs Japan",
+                  "streams": [
+                    {
+                      "id": "kaytee-10469efe8c7a",
                       "name": "F",
                       "stream_links": []
                     }
