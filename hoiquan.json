@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:31 20/06/2026",
+  "last_updated": "15:41 20/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-326797d928",
+                          "id": "lnk-e5c57a11c3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178194427378119&wsIPSercert=1bd487409e6e23c7920e64ffab575d1a&wsBindIP=2&wsserid=1168231785641135723"
+                          "url": "https://tfww1gr3uomttgr31hctsfaau1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178194486920926&wsIPSercert=ffd1e459e9a2e135fbe9085b6074bd57&wsBindIP=2&wsserid=1168056276210707857"
                         },
                         {
-                          "id": "lnk-08736698e6",
+                          "id": "lnk-513332c54a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-727b80b4caf0",
-          "name": "⚽ Ningbo Professional vs Chongqing Tongliang Long | Sắp diễn ra vs 16:00 20/06/2026",
+          "name": "⚽ Ningbo Professional vs Chongqing Tongliang Long | Live 0 - 0 16:00 20/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/27556.png",
           "logo_khach": "https://media.api-sports.io/football/teams/21262.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-727b80b4caf0",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-edfa7f37b7",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfww1gr3uomttgr31hctsfaau1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178194487756406&wsIPSercert=ffd1e459e9a2e135fbe9085b6074bd57&wsBindIP=2&wsserid=1168056276210707857"
+                        },
+                        {
+                          "id": "lnk-75469dfc63",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
