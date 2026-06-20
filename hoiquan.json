@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:40 21/06/2026",
+  "last_updated": "02:50 21/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e4b0d685d5b1",
-          "name": "⚽ Almeria vs Malaga | H1 - 8' 0 - 0 02:30 21/06/2026",
+          "name": "⚽ Almeria vs Malaga | Live 0 - 0 02:30 21/06/2026",
           "tournament": "Segunda División",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/1/13/UD_Almer%C3%ADa_logo.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/c/c3/M%C3%A1laga_CF.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-15bd7c761e",
+                          "id": "lnk-ba380f72d5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww1geauymt1go41hpjofaau1qjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=895a04b6c8828da8930cebfc-178198446307361&wsIPSercert=4040690f16f7e2c77d4a70605362d432&wsBindIP=2&wsserid=1172662689752841644"
+                          "url": "https://tfww1geauymt1go41hpjofaau1qjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=895a04b6c8828da8930cebfc-178198506755294&wsIPSercert=6419f74a8205b296831346ff27c218a6&wsBindIP=2&wsserid=1172662689752841644"
                         },
                         {
-                          "id": "lnk-df79b24d21",
+                          "id": "lnk-fbdb53ee21",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-0ad4927e3590",
-          "name": "⚽ Germany vs Ivory Coast | Sắp bắt đầu - null' 0 - 0 03:00 21/06/2026",
+          "name": "⚽ Germany vs Ivory Coast | Live 0 - 0 03:00 21/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8c573b1251",
+                          "id": "lnk-69739468d3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww1geauymt1go41hpjofaau1qjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=10971a23986f09b8748c3ba9-178198447182801&wsIPSercert=4040690f16f7e2c77d4a70605362d432&wsBindIP=2&wsserid=1172662689747598560"
+                          "url": "https://tfww1geauymt1go41hpjofaau1qjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=895a04b6c8828da8930cebfc-178198507620670&wsIPSercert=6419f74a8205b296831346ff27c218a6&wsBindIP=2&wsserid=1172662689752841644"
                         },
                         {
-                          "id": "lnk-cad4455ae5",
+                          "id": "lnk-8a3d787529",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
