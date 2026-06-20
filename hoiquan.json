@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:10 20/06/2026",
+  "last_updated": "18:20 20/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-cd5ed9880ac2",
-          "name": "⚽ Ningbo Professional vs Chongqing Tongliang Long | Live 0 - 0 16:00 20/06/2026",
-          "tournament": "Cúp FA Trung Quốc",
-          "logo_nha": "https://media.api-sports.io/football/teams/27556.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/21262.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/27556.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-cd5ed9880ac2",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-cd5ed9880ac2",
-                  "name": "Ningbo Professional vs Chongqing Tongliang Long",
-                  "streams": [
-                    {
-                      "id": "kaytee-cd5ed9880ac2",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c417edf05e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfww0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=00489e5fa24fa852f6673a81-178195386187586&wsIPSercert=643d8d90ea41abc6b7e5eb478e910e41&wsBindIP=2&wsserid=1168231589574964209"
-                        },
-                        {
-                          "id": "lnk-3e8a729317",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-0c6b1cd061f8",
-          "name": "⚽ Chengdu Rongcheng Ii vs Yichun Grand Tiger | Live 0 - 0 18:30 20/06/2026",
+          "name": "⚽ Chengdu Rongcheng Ii vs Yichun Grand Tiger | Sắp bắt đầu - null' 0 - 0 18:30 20/06/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/25839.png",
           "logo_khach": "https://media.api-sports.io/football/teams/17272.png",
@@ -106,18 +46,78 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-22b05a2dc5",
+                          "id": "lnk-9abbfbc6f7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfww0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178195387029501&wsIPSercert=643d8d90ea41abc6b7e5eb478e910e41&wsBindIP=2&wsserid=1168231785641135723"
+                          "url": "https://tfww0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178195446189434&wsIPSercert=bdd1f6aaa3f168e7385f18b099b5c884&wsBindIP=2&wsserid=1168283477179400067"
                         },
                         {
-                          "id": "lnk-31c31245ef",
+                          "id": "lnk-3163b961c2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d344dee9a100",
+          "name": "⚽ Hebei Kungfu vs Shanghai Shenhua | Sắp bắt đầu - null' 0 - 0 18:30 20/06/2026",
+          "tournament": "FA Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/17264.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/17264.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d344dee9a100",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d344dee9a100",
+                  "name": "Hebei Kungfu vs Shanghai Shenhua",
+                  "streams": [
+                    {
+                      "id": "kaytee-d344dee9a100",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b71a9aed39",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfww0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=664fd68c07f9574a0717013d-178195447024959&wsIPSercert=bdd1f6aaa3f168e7385f18b099b5c884&wsBindIP=2&wsserid=1168283323367736366"
+                        },
+                        {
+                          "id": "lnk-0b26080ba7",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8"
                         }
                       ]
                     }
