@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:51 22/06/2026",
+  "last_updated": "01:01 22/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-be42c95127e5",
-          "name": "⚽ Spain vs Saudi Arabia | H2 - 88' 4 - 0 23:00 21/06/2026",
+          "name": "⚽ Spain vs Saudi Arabia | H2 - 90+8' 4 - 0 23:00 21/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/9.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-49076cf375",
+                          "id": "lnk-d5b8315e7b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwx3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f0812a20055252ca3e75b702-178206427438077&wsIPSercert=0c81f7551294f882b38e8e8deb7ab119&wsBindIP=2&wsserid=1168239733739784689"
+                          "url": "https://tfwx3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b93726b0c644658cca80b5c8-178206488720203&wsIPSercert=c7ba0c8751c392b5b9c4c98b5f1f6050&wsBindIP=2&wsserid=1168239733746099117"
                         },
                         {
-                          "id": "lnk-dbb3f345e2",
+                          "id": "lnk-b8bec12ded",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-599a341181",
+                          "id": "lnk-584c89c7f0",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwx3gr4nhct1gwzdrcttfa5unmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f0812a20055252ca3e75b702-178206428306394&wsIPSercert=0c81f7551294f882b38e8e8deb7ab119&wsBindIP=2&wsserid=1168239733739784689"
+                          "url": "https://tfwx3gr4nhct1gwzdrcttfa5unmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f0812a20055252ca3e75b702-178206489574519&wsIPSercert=c7ba0c8751c392b5b9c4c98b5f1f6050&wsBindIP=2&wsserid=1168239733739784689"
                         },
                         {
-                          "id": "lnk-a727583ac2",
+                          "id": "lnk-d54e5482fa",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
