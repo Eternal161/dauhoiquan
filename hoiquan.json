@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "13:30 21/06/2026",
+  "last_updated": "13:40 21/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-f6def4bca3ce",
-          "name": "⚽ Olympic vs Peninsula Power | H1 - 30' 0 - 0 13:00 21/06/2026",
+          "name": "⚽ Olympic vs Peninsula Power | H1 - 39' 0 - 0 13:00 21/06/2026",
           "tournament": "Queensland NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/10220.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10221.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-917497fa2f",
+                          "id": "lnk-28ecfb657e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwx1geauymt1go41hpjofa3dyptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e94d50e91d1420af43351442-178202346638624&wsIPSercert=d404b92f8573bd738b1cb2e659841d0a&wsBindIP=2&wsserid=1172662689757036152"
+                          "url": "https://tfwx1geauymt1go41hpjofa3dyptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e94d50e91d1420af43351442-178202406150681&wsIPSercert=03c7d7763053dc4726330f2b7d421f27&wsBindIP=2&wsserid=1172662689757036152"
                         },
                         {
-                          "id": "lnk-5e872764a9",
+                          "id": "lnk-182312ed98",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-e7bf027a2067",
-          "name": "⚽ Lions vs Rochedale Rovers | Sắp diễn ra vs 14:00 21/06/2026",
+          "name": "⚽ Lions vs Rochedale Rovers | Sắp bắt đầu - null' 0 - 0 14:00 21/06/2026",
           "tournament": "Queensland NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/10217.png",
           "logo_khach": "https://media.api-sports.io/football/teams/11182.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-e7bf027a2067",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-0b21f85b23",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwx1geauymt1go41hpjofa3dyptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=e94d50e91d1420af43351442-178202406962738&wsIPSercert=03c7d7763053dc4726330f2b7d421f27&wsBindIP=2&wsserid=1172662689757036152"
+                        },
+                        {
+                          "id": "lnk-09e183e67b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
