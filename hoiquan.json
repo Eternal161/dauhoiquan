@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:50 21/06/2026",
+  "last_updated": "23:01 21/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-ac7de67a23cc",
-          "name": "⚽ Kongsvinger vs Stromsgodset | H2 - 90+2' 4 - 4 21:00 21/06/2026",
-          "tournament": "1. Division",
-          "logo_nha": "https://media.api-sports.io/football/teams/2144.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/324.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2144.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ac7de67a23cc",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ac7de67a23cc",
-                  "name": "Kongsvinger vs Stromsgodset",
-                  "streams": [
-                    {
-                      "id": "kaytee-ac7de67a23cc",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7e4e823b51",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwx1geauymt1go41hpjofa3dyptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e94d50e91d1420af43351442-178205706354440&wsIPSercert=69b347f8a3543f72175c35e6423cb3be&wsBindIP=2&wsserid=1172662689757036152"
-                        },
-                        {
-                          "id": "lnk-a6f8a53095",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-9695f42bde16",
-          "name": "⚽ Avai vs Cuiaba | H2 - 89' 1 - 0 21:00 21/06/2026",
+          "name": "⚽ Avai vs Cuiaba | Live 0 - 0 21:00 21/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/145.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1193.png",
@@ -86,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -104,22 +44,7 @@
                     {
                       "id": "kaytee-9695f42bde16",
                       "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d718093768",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwx1geauymt1go41hpjofa3dyptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=08e1b9ab3107ceda498bcc0f-178205707200220&wsIPSercert=69b347f8a3543f72175c35e6423cb3be&wsBindIP=2&wsserid=1172662689748647170"
-                        },
-                        {
-                          "id": "lnk-bb11fadd72",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -129,7 +54,7 @@
         },
         {
           "id": "kaytee-be42c95127e5",
-          "name": "⚽ Spain vs Saudi Arabia | Sắp bắt đầu - null' 0 - 0 23:00 21/06/2026",
+          "name": "⚽ Spain vs Saudi Arabia | Live 0 - 0 23:00 21/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/9.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
@@ -146,10 +71,10 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -164,22 +89,7 @@
                     {
                       "id": "kaytee-be42c95127e5",
                       "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-20a8467379",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwx1geauymt1go41hpjofa3dyptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=07ff5eb1ccd396dc4907cc0a-178205708064423&wsIPSercert=69b347f8a3543f72175c35e6423cb3be&wsBindIP=2&wsserid=1172662689748647204"
-                        },
-                        {
-                          "id": "lnk-7ed1e8f525",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -493,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-329421274a79",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b94d14c53256",
+          "name": "⚽ Rīgas Fs vs Ogre United | Sắp diễn ra vs 22:00 22/06/2026",
+          "tournament": "Virsliga",
+          "logo_nha": "https://media.api-sports.io/football/teams/4160.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/18936.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4160.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b94d14c53256",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b94d14c53256",
+                  "name": "Rīgas Fs vs Ogre United",
+                  "streams": [
+                    {
+                      "id": "kaytee-b94d14c53256",
                       "name": "F",
                       "stream_links": []
                     }
