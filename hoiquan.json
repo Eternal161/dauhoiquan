@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:20 21/06/2026",
+  "last_updated": "19:30 21/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-de74be753ba8",
-          "name": "⚽ Suzhou Dongwu vs Yunnan Yukun | H2 - 58' 2 - 3 18:00 21/06/2026",
+          "name": "⚽ Suzhou Dongwu vs Yunnan Yukun | H2 - 67' 2 - 4 18:00 21/06/2026",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/5688.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh90L_Xr1yfJQmgPZctKVUWm-ISXa5A-cIdw&s",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-efe6387469",
+                          "id": "lnk-f27e441d71",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwx1gr3uomttgr31hctsfaau1p3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178204446456410&wsIPSercert=f9c4ebbfd9b2d6200f3a7d75af511d4d&wsBindIP=2&wsserid=1168056276210707857"
+                          "url": "https://tfwx3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=5bd5ca106460d708e48cc2cb-178204506763413&wsIPSercert=3ee004f3a1a0d86e6e2decf7c25ed6a6&wsBindIP=2&wsserid=1168158473487963106"
                         },
                         {
-                          "id": "lnk-d4bf7331e7",
+                          "id": "lnk-fe54fb1a9b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-0c6236055bef",
-          "name": "⚽ Fs Jelgava vs Tukums | Sắp diễn ra vs 20:00 21/06/2026",
+          "name": "⚽ Fs Jelgava vs Tukums | Sắp bắt đầu - null' 0 - 0 20:00 21/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/18834.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4144.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,52 +104,22 @@
                     {
                       "id": "kaytee-0c6236055bef",
                       "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-17e323b78de1",
-          "name": "⚽ Avai vs Cuiaba | Sắp diễn ra vs 21:00 21/06/2026",
-          "tournament": "Serie B",
-          "logo_nha": "https://media.api-sports.io/football/teams/145.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1193.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/145.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-17e323b78de1",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-17e323b78de1",
-                  "name": "Avai vs Cuiaba",
-                  "streams": [
-                    {
-                      "id": "kaytee-17e323b78de1",
-                      "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-9d2be853af",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwx1gr3uomttgr31hctsfaau1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178204507594309&wsIPSercert=3ee004f3a1a0d86e6e2decf7c25ed6a6&wsBindIP=2&wsserid=1168056276210707857"
+                        },
+                        {
+                          "id": "lnk-58fe291692",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -463,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-6797a2e7497f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-2d21b116fe2b",
+          "name": "⚽ New Zealand vs Egypt | Sắp diễn ra vs 08:00 22/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-2d21b116fe2b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-2d21b116fe2b",
+                  "name": "New Zealand vs Egypt",
+                  "streams": [
+                    {
+                      "id": "kaytee-2d21b116fe2b",
                       "name": "F",
                       "stream_links": []
                     }
