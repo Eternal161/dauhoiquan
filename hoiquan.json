@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:10 22/06/2026",
+  "last_updated": "00:20 22/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-be42c95127e5",
-          "name": "⚽ Spain vs Saudi Arabia | H2 - 48' 3 - 0 23:00 21/06/2026",
+          "name": "⚽ Spain vs Saudi Arabia | H2 - 58' 4 - 0 23:00 21/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/9.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b61fb13ba0",
+                          "id": "lnk-0e50b763e6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwx3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b729ead558c9cf9a676e9806-178206186293318&wsIPSercert=5ecb94feeefc0bf0e60e49a72f461a87&wsBindIP=2&wsserid=1168159941876180135"
+                          "url": "https://tfwx4go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ce0743b5eba69bd80a398a5f-178206245946494&wsIPSercert=5c90915aa8dc0315daf2c52f1b6ea45c&wsBindIP=2&wsserid=1168231394939227592"
                         },
                         {
-                          "id": "lnk-669906da9b",
+                          "id": "lnk-1af54766ee",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-2af0e3c0a191",
-          "name": "⚽ Neman vs Dinamo Minsk | H1 - 11' 0 - 1 00:00 22/06/2026",
+          "name": "⚽ Neman vs Dinamo Minsk | H1 - 20' 0 - 1 00:00 22/06/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/387.png",
           "logo_khach": "https://media.api-sports.io/football/teams/394.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ddc9955214",
+                          "id": "lnk-78e19529e6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwx3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178206187168014&wsIPSercert=5ecb94feeefc0bf0e60e49a72f461a87&wsBindIP=2&wsserid=1168178972991608093"
+                          "url": "https://tfwx4go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178206246793594&wsIPSercert=5c90915aa8dc0315daf2c52f1b6ea45c&wsBindIP=2&wsserid=1168231394942373370"
                         },
                         {
-                          "id": "lnk-f54408eaf1",
+                          "id": "lnk-912ae8d2a8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
