@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:30 21/06/2026",
+  "last_updated": "20:40 21/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-0c6236055bef",
-          "name": "⚽ Fs Jelgava vs Tukums | H1 - 30' 0 - 0 20:00 21/06/2026",
+          "name": "⚽ Fs Jelgava vs Tukums | H1 - 40' 1 - 0 20:00 21/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/18834.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4144.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ae43d44c40",
+                          "id": "lnk-c2df695354",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwx1gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=6d3d810ef4bd4df8f26f8b50-178204866875208&wsIPSercert=b92f0c00cf16ebcf3cfacdedfbafc16b&wsBindIP=2&wsserid=1168168154460945005"
+                          "url": "https://tfwx0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0e049b26c5ec10b00ed2fc6c-178204926633774&wsIPSercert=856aa2207128049731ae05996e609c25&wsBindIP=2&wsserid=1168283323302724409"
                         },
                         {
-                          "id": "lnk-701bf86b28",
+                          "id": "lnk-48c2d15893",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-ac7de67a23cc",
-          "name": "⚽ Kongsvinger vs Stromsgodset | Sắp diễn ra vs 21:00 21/06/2026",
+          "name": "⚽ Kongsvinger vs Stromsgodset | Sắp bắt đầu - null' 0 - 0 21:00 21/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/2144.png",
           "logo_khach": "https://media.api-sports.io/football/teams/324.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-ac7de67a23cc",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-744407928f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwx0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178204927504656&wsIPSercert=856aa2207128049731ae05996e609c25&wsBindIP=2&wsserid=1168283323221983365"
+                        },
+                        {
+                          "id": "lnk-94654fdfa5",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -113,11 +128,11 @@
           ]
         },
         {
-          "id": "kaytee-33d2c7f643f1",
-          "name": "⚽ Riga vs Fk Liepaja | Sắp diễn ra vs 22:00 21/06/2026",
-          "tournament": "Virsliga",
-          "logo_nha": "https://media.api-sports.io/football/teams/10124.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/661.png",
+          "id": "kaytee-9695f42bde16",
+          "name": "⚽ Avai vs Cuiaba | Sắp bắt đầu - null' 0 - 0 21:00 21/06/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/145.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1193.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -125,31 +140,46 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10124.png",
+            "url": "https://media.api-sports.io/football/teams/145.png",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
             {
-              "id": "kaytee-33d2c7f643f1",
+              "id": "kaytee-9695f42bde16",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-33d2c7f643f1",
-                  "name": "Riga vs Fk Liepaja",
+                  "id": "kaytee-9695f42bde16",
+                  "name": "Avai vs Cuiaba",
                   "streams": [
                     {
-                      "id": "kaytee-33d2c7f643f1",
+                      "id": "kaytee-9695f42bde16",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-082ae77567",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwx0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178204928393843&wsIPSercert=856aa2207128049731ae05996e609c25&wsBindIP=2&wsserid=1168283477179400067"
+                        },
+                        {
+                          "id": "lnk-8d3f944468",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
