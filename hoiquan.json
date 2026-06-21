@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:41 21/06/2026",
+  "last_updated": "21:51 21/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-0c6236055bef",
-          "name": "⚽ Fs Jelgava vs Tukums | Live 0 - 0 20:00 21/06/2026",
-          "tournament": "Virsliga",
-          "logo_nha": "https://media.api-sports.io/football/teams/18834.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/4144.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/18834.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-0c6236055bef",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-0c6236055bef",
-                  "name": "Fs Jelgava vs Tukums",
-                  "streams": [
-                    {
-                      "id": "kaytee-0c6236055bef",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-54560f30a7",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwx3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=5bd5ca106460d708e48cc2cb-178205287395913&wsIPSercert=2c8de4f024743d77b13d0b55f1711a4e&wsBindIP=2&wsserid=1168158473487963106"
-                        },
-                        {
-                          "id": "lnk-ea4f41b813",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-ac7de67a23cc",
-          "name": "⚽ Kongsvinger vs Stromsgodset | Live 0 - 0 21:00 21/06/2026",
+          "name": "⚽ Kongsvinger vs Stromsgodset | Giữa Hiệp - 45+2' 1 - 2 21:00 21/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/2144.png",
           "logo_khach": "https://media.api-sports.io/football/teams/324.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f11befbfdb",
+                          "id": "lnk-a0ccf079a8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwx0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=fc387c98748ade8f54f1ef90-178205288247734&wsIPSercert=2c8de4f024743d77b13d0b55f1711a4e&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfwx3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178205350105123&wsIPSercert=374d19772c33b1728e8540a1dde3cdc8&wsBindIP=2&wsserid=1177063474761571144"
                         },
                         {
-                          "id": "lnk-ea7ad3e6a3",
+                          "id": "lnk-b12fccec4c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-9695f42bde16",
-          "name": "⚽ Avai vs Cuiaba | H1 - 39' 1 - 0 21:00 21/06/2026",
+          "name": "⚽ Avai vs Cuiaba | Giữa Hiệp - 45+2' 1 - 0 21:00 21/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/145.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1193.png",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e6c900bb01",
+                          "id": "lnk-91f543d699",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwx3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178205289192252&wsIPSercert=2c8de4f024743d77b13d0b55f1711a4e&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfwx1gr3uomttgr31hctsfaau1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178205350958617&wsIPSercert=374d19772c33b1728e8540a1dde3cdc8&wsBindIP=2&wsserid=1168056276210707857"
                         },
                         {
-                          "id": "lnk-8bf5eb1010",
+                          "id": "lnk-902187a515",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-6ba80208b0da",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-329421274a79",
+          "name": "⚽ Khovd Western vs Khovd | Sắp diễn ra vs 18:00 22/06/2026",
+          "tournament": "Ngoại Hạng Mông Cổ",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a4/Khovd_Western_FC_Logo.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Khovd_Broncos_FC_Logo.png/250px-Khovd_Broncos_FC_Logo.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/a/a4/Khovd_Western_FC_Logo.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-329421274a79",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-329421274a79",
+                  "name": "Khovd Western vs Khovd",
+                  "streams": [
+                    {
+                      "id": "kaytee-329421274a79",
                       "name": "F",
                       "stream_links": []
                     }
