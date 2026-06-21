@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "12:40 21/06/2026",
+  "last_updated": "12:50 21/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-10469efe8c7a",
-          "name": "⚽ Tunisia vs Japan | H2 - 81' 0 - 3 11:00 21/06/2026",
+          "name": "⚽ Tunisia vs Japan | Live 0 - 0 11:00 21/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7fb67c2e95",
+                          "id": "lnk-e7977a79f2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwx4go3nhcjtghzdrpbsfah147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=d60eefed1c25465a64a4caf9-178202046433203&wsIPSercert=1bbca0031884bb526dbd58530a6bd24d&wsBindIP=2&wsserid=1168270624937580236"
+                          "url": "https://tfwx1geauymt1go41hpjofa3dyptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=5567537ef9f40deabc19334f-178202106559685&wsIPSercert=891a013dcffb0ade49a17a83dd59a5ef&wsBindIP=2&wsserid=1172662689754938898"
                         },
                         {
-                          "id": "lnk-bd59a3660e",
+                          "id": "lnk-b159003af2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-f6def4bca3ce",
-          "name": "⚽ Olympic vs Peninsula Power | Sắp bắt đầu - null' 0 - 0 13:00 21/06/2026",
+          "name": "⚽ Olympic vs Peninsula Power | Live 0 - 0 13:00 21/06/2026",
           "tournament": "Queensland NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/10220.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10221.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4a5a87c77c",
+                          "id": "lnk-3be8337aad",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwx4go3nhcjtghzdrpbsfah147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=d3966685d0aeb8368e261db6-178202047231818&wsIPSercert=1bbca0031884bb526dbd58530a6bd24d&wsBindIP=2&wsserid=1168270624940726078"
+                          "url": "https://tfwx1geauymt1go41hpjofa3dyptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e94d50e91d1420af43351442-178202107348283&wsIPSercert=891a013dcffb0ade49a17a83dd59a5ef&wsBindIP=2&wsserid=1172662689757036152"
                         },
                         {
-                          "id": "lnk-33d02ed489",
+                          "id": "lnk-7ff94754ae",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
