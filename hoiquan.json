@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:51 21/06/2026",
+  "last_updated": "20:01 21/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-de74be753ba8",
-          "name": "⚽ Suzhou Dongwu vs Yunnan Yukun | H2 - 87' 2 - 4 18:00 21/06/2026",
-          "tournament": "FA Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/5688.png",
-          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh90L_Xr1yfJQmgPZctKVUWm-ISXa5A-cIdw&s",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/5688.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-de74be753ba8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-de74be753ba8",
-                  "name": "Suzhou Dongwu vs Yunnan Yukun",
-                  "streams": [
-                    {
-                      "id": "kaytee-de74be753ba8",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b16eefe496",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwx0gr4uqmtt8y41hcjzgazdnc3ofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=1c91bd0b843a0068f3a7ecdc-178204626859386&wsIPSercert=f3db764d31ad290c2684f6795ef35228&wsBindIP=2&wsserid=1168041136565896200"
-                        },
-                        {
-                          "id": "lnk-b2cf7b02e4",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-0c6236055bef",
           "name": "⚽ Fs Jelgava vs Tukums | Sắp bắt đầu - null' 0 - 0 20:00 21/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-83ab7de9aa",
+                          "id": "lnk-2bfc1f104b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwx1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f7e42543e61847d2fa7bb4d5-178204627720327&wsIPSercert=f3db764d31ad290c2684f6795ef35228&wsBindIP=2&wsserid=1168214263213094505"
+                          "url": "https://tfwx1gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=9491eed0fee4da244cb519bb-178204687362853&wsIPSercert=38e85c7f567c6fda856f8df6633ab29d&wsBindIP=2&wsserid=1168176346313714739"
                         },
                         {
-                          "id": "lnk-fe2b0570ad",
+                          "id": "lnk-312d6e1961",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-2d21b116fe2b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6ba80208b0da",
+          "name": "⚽ Hunters Fc vs Khoromkhon | Sắp diễn ra vs 15:00 22/06/2026",
+          "tournament": "Ngoại Hạng Mông Cổ",
+          "logo_nha": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/8567540/713968_248564.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/4/48/Bishrelt_Khoromkhon_FC_logo.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/8567540/713968_248564.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6ba80208b0da",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6ba80208b0da",
+                  "name": "Hunters Fc vs Khoromkhon",
+                  "streams": [
+                    {
+                      "id": "kaytee-6ba80208b0da",
                       "name": "F",
                       "stream_links": []
                     }
