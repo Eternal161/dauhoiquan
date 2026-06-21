@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:20 21/06/2026",
+  "last_updated": "11:30 21/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-10469efe8c7a",
-          "name": "⚽ Tunisia vs Japan | H1 - 20' 0 - 1 11:00 21/06/2026",
+          "name": "⚽ Tunisia vs Japan | H1 - 31' 0 - 1 11:00 21/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f8a0faad94",
+                          "id": "lnk-10e000b040",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwx1geauymt1go41hpjofa3dyptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=46003f2402a3113404243c8d-178201566314330&wsIPSercert=36f22f8de1efb1cc4e8450ef4a05259e&wsBindIP=2&wsserid=1172662689753890288"
+                          "url": "https://tfwx1geauymt1go41hpjofa3dyptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=08e1b9ab3107ceda498bcc0f-178201626766820&wsIPSercert=1138b4b08d1c8846ec17546d10893ddb&wsBindIP=2&wsserid=1172662689748647170"
                         },
                         {
-                          "id": "lnk-a7360c53fe",
+                          "id": "lnk-2b2597700b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
