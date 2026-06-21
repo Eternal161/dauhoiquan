@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:10 21/06/2026",
+  "last_updated": "07:21 21/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-4fa9a135bfb3",
-          "name": "⚽ Ecuador vs Curaçao | H1 - 10' 0 - 0 07:00 21/06/2026",
+          "name": "⚽ Ecuador vs Curaçao | Live 0 - 0 07:00 21/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/250px-Flag_of_Cura%C3%A7ao.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-58cb808870",
+                          "id": "lnk-34ad20c521",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwx1geauymt1go41hpjofa3dyptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=07ff5eb1ccd396dc4907cc0a-178200066592229&wsIPSercert=02c331eef8b0b1bfb6613121b8f73913&wsBindIP=2&wsserid=1172662689748647204"
+                          "url": "https://tfwx1geauymt1go41hpjofaau1qjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=895a04b6c8828da8930cebfc-178200127279518&wsIPSercert=a240f1f46d53a9e174cb5d570f6a27c4&wsBindIP=2&wsserid=1172662689752841644"
                         },
                         {
-                          "id": "lnk-62147e7565",
+                          "id": "lnk-eae5b2dcb6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
