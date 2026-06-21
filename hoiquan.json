@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:10 22/06/2026",
+  "last_updated": "02:21 22/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6d73fd3ee249",
-          "name": "⚽ Belgium vs Iran | H1 - 11' 0 - 0 02:00 22/06/2026",
+          "name": "⚽ Belgium vs Iran | H1 - 21' 0 - 0 02:00 22/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcHjuJwQinnq7yrEdYTZNb6xYpuKE2zdRCXg&s",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-350900d506",
+                          "id": "lnk-3770ff45b4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwx3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f0812a20055252ca3e75b702-178206906755735&wsIPSercert=27849ca60d02dfdbd72f12ec9d10128e&wsBindIP=2&wsserid=1168239733739784689"
+                          "url": "https://tfwx3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f0812a20055252ca3e75b702-178206967574253&wsIPSercert=46078610e63779e8dce2a30dcbc77bc4&wsBindIP=2&wsserid=1168239733739784689"
                         },
                         {
-                          "id": "lnk-63b896ff94",
+                          "id": "lnk-ef0c74f21c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
