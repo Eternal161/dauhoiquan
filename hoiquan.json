@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:01 21/06/2026",
+  "last_updated": "22:10 21/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-ac7de67a23cc",
-          "name": "⚽ Kongsvinger vs Stromsgodset | Giữa Hiệp - 45+2' 1 - 2 21:00 21/06/2026",
+          "name": "⚽ Kongsvinger vs Stromsgodset | H2 - 53' 2 - 2 21:00 21/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/2144.png",
           "logo_khach": "https://media.api-sports.io/football/teams/324.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5e3b348b52",
+                          "id": "lnk-03e87a3e47",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwx3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178205407743805&wsIPSercert=af4ff8aa96d3517e50130128b82e95fa&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfwx3go3nhcjtgczdncjqgeaurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=89762e8dceb2972e9cc8dbb6-178205466727700&wsIPSercert=5ecc70277d35bb9e265422ef51ebe49b&wsBindIP=2&wsserid=1168159941871985661"
                         },
                         {
-                          "id": "lnk-18c77bcd5c",
+                          "id": "lnk-85a32df1b5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-9695f42bde16",
-          "name": "⚽ Avai vs Cuiaba | Giữa Hiệp - 45+2' 1 - 0 21:00 21/06/2026",
+          "name": "⚽ Avai vs Cuiaba | H2 - 49' 1 - 0 21:00 21/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/145.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1193.png",
@@ -106,10 +106,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bfd2e82434",
+                          "id": "lnk-8a9f3f709a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwx3go3nhcjtgczdncjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=89762e8dceb2972e9cc8dbb6-178205467575828&wsIPSercert=5ecc70277d35bb9e265422ef51ebe49b&wsBindIP=2&wsserid=1168159941871985661"
+                        },
+                        {
+                          "id": "lnk-be87d82bf3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
