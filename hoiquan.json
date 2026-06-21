@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:11 21/06/2026",
+  "last_updated": "23:21 21/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-be42c95127e5",
-          "name": "⚽ Spain vs Saudi Arabia | Live 0 - 0 23:00 21/06/2026",
+          "name": "⚽ Spain vs Saudi Arabia | H1 - 20' 1 - 0 23:00 21/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/9.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9e31ff4015",
+                          "id": "lnk-daf47e1e86",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwx1geauymt1go41hpjofa3dyptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e94d50e91d1420af43351442-178205827101838&wsIPSercert=7c2fec9f38cebf83f10aba0f761216ac&wsBindIP=2&wsserid=1172662689757036152"
+                          "url": "https://tfwx3go3nhcjtghzdrpbsfaaunmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=49ae5611a40c2fdac18476be-178205887288884&wsIPSercert=b99c626d8acb72bc2ca3aa72ebab1261&wsBindIP=2&wsserid=1168200343681226433"
                         },
                         {
-                          "id": "lnk-5526a682b6",
+                          "id": "lnk-4b8ac8f739",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
