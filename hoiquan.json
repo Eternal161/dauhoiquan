@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "12:50 21/06/2026",
+  "last_updated": "13:00 21/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-10469efe8c7a",
-          "name": "⚽ Tunisia vs Japan | Live 0 - 0 11:00 21/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-10469efe8c7a",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-10469efe8c7a",
-                  "name": "Tunisia vs Japan",
-                  "streams": [
-                    {
-                      "id": "kaytee-10469efe8c7a",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e7977a79f2",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwx1geauymt1go41hpjofa3dyptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=5567537ef9f40deabc19334f-178202106559685&wsIPSercert=891a013dcffb0ade49a17a83dd59a5ef&wsBindIP=2&wsserid=1172662689754938898"
-                        },
-                        {
-                          "id": "lnk-b159003af2",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-f6def4bca3ce",
-          "name": "⚽ Olympic vs Peninsula Power | Live 0 - 0 13:00 21/06/2026",
+          "name": "⚽ Olympic vs Peninsula Power | Sắp bắt đầu - null' 0 - 0 13:00 21/06/2026",
           "tournament": "Queensland NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/10220.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10221.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3be8337aad",
+                          "id": "lnk-fd2476e85e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwx1geauymt1go41hpjofa3dyptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e94d50e91d1420af43351442-178202107348283&wsIPSercert=891a013dcffb0ade49a17a83dd59a5ef&wsBindIP=2&wsserid=1172662689757036152"
+                          "url": "https://tfwx1geauymt1go41hpjofa3dyptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e94d50e91d1420af43351442-178202166574116&wsIPSercert=cfe2b47e21bb4d333f0512963e401d0d&wsBindIP=2&wsserid=1172662689757036152"
                         },
                         {
-                          "id": "lnk-7ff94754ae",
+                          "id": "lnk-4f56bc5a92",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-2af0e3c0a191",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6d73fd3ee249",
+          "name": "⚽ Belgium vs Iran | Sắp diễn ra vs 02:00 22/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/1.png",
+          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcHjuJwQinnq7yrEdYTZNb6xYpuKE2zdRCXg&s",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6d73fd3ee249",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6d73fd3ee249",
+                  "name": "Belgium vs Iran",
+                  "streams": [
+                    {
+                      "id": "kaytee-6d73fd3ee249",
                       "name": "F",
                       "stream_links": []
                     }
