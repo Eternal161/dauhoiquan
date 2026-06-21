@@ -1,14 +1,14 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:10 22/06/2026",
+  "last_updated": "05:21 22/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-eb0c508fd23c",
+          "id": "kaytee-9239707d1ebe",
           "name": "⚽ Uruguay vs Cape Verde Islands | Sắp bắt đầu - null' 0 - 0 05:00 22/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
@@ -34,30 +34,30 @@
           ],
           "sources": [
             {
-              "id": "kaytee-eb0c508fd23c",
+              "id": "kaytee-9239707d1ebe",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-eb0c508fd23c",
+                  "id": "kaytee-9239707d1ebe",
                   "name": "Uruguay vs Cape Verde Islands",
                   "streams": [
                     {
-                      "id": "kaytee-eb0c508fd23c",
+                      "id": "kaytee-9239707d1ebe",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e32640b128",
+                          "id": "lnk-136300fcbb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwx3go3nhcjtgczdncjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=686f873655f37c0f494fc32b-178207986102833&wsIPSercert=06cb20d404eaeeb5256a12e93136e9dc&wsBindIP=2&wsserid=1168159941869888441"
+                          "url": "https://tfwx3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ac54fedd9b782e62f6a5c9d8-178208047034144&wsIPSercert=491d202165cb8efdcc7c0434f8155097&wsBindIP=2&wsserid=1168159941867791187"
                         },
                         {
-                          "id": "lnk-6c3bacc3e7",
+                          "id": "lnk-b70be15bfd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
                         }
                       ]
                     }
