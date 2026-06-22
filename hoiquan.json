@@ -1,12 +1,478 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:01 22/06/2026",
+  "last_updated": "16:11 22/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
-      "channels": []
+      "channels": [
+        {
+          "id": "kaytee-6ba80208b0da",
+          "name": "⚽ Hunters Fc vs Khoromkhon | Live 0 - 0 15:00 22/06/2026",
+          "tournament": "Ngoại Hạng Mông Cổ",
+          "logo_nha": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/8567540/713968_248564.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/4/48/Bishrelt_Khoromkhon_FC_logo.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/8567540/713968_248564.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6ba80208b0da",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6ba80208b0da",
+                  "name": "Hunters Fc vs Khoromkhon",
+                  "streams": [
+                    {
+                      "id": "kaytee-6ba80208b0da",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c84a858256",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwy1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=45be673f9c0838073bc08b6e-178211947462838&wsIPSercert=ae6462067c29ef56db8e7a5e969b75f9&wsBindIP=2&wsserid=1168243343860730937"
+                        },
+                        {
+                          "id": "lnk-9d5f44fed3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-329421274a79",
+          "name": "⚽ Khovd Western vs Khovd | Sắp diễn ra vs 18:00 22/06/2026",
+          "tournament": "Ngoại Hạng Mông Cổ",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a4/Khovd_Western_FC_Logo.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Khovd_Broncos_FC_Logo.png/250px-Khovd_Broncos_FC_Logo.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/a/a4/Khovd_Western_FC_Logo.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-329421274a79",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-329421274a79",
+                  "name": "Khovd Western vs Khovd",
+                  "streams": [
+                    {
+                      "id": "kaytee-329421274a79",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b94d14c53256",
+          "name": "⚽ Rīgas Fs vs Ogre United | Sắp diễn ra vs 22:00 22/06/2026",
+          "tournament": "Virsliga",
+          "logo_nha": "https://media.api-sports.io/football/teams/4160.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/18936.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4160.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b94d14c53256",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b94d14c53256",
+                  "name": "Rīgas Fs vs Ogre United",
+                  "streams": [
+                    {
+                      "id": "kaytee-b94d14c53256",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b295577e8acf",
+          "name": "⚽ Argentina vs Austria | Sắp diễn ra vs 00:00 23/06/2026",
+          "tournament": "World Cup ( Râu Con )",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/775.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b295577e8acf",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b295577e8acf",
+                  "name": "Argentina vs Austria",
+                  "streams": [
+                    {
+                      "id": "kaytee-b295577e8acf",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e7571d3c0f10",
+          "name": "⚽ Shamrock Rovers vs Derry City | Sắp diễn ra vs 02:00 23/06/2026",
+          "tournament": "Premier Division",
+          "logo_nha": "https://media.api-sports.io/football/teams/652.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/670.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/652.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e7571d3c0f10",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e7571d3c0f10",
+                  "name": "Shamrock Rovers vs Derry City",
+                  "streams": [
+                    {
+                      "id": "kaytee-e7571d3c0f10",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8b4a05074e03",
+          "name": "⚽ France vs Iraq | Sắp diễn ra vs 04:00 23/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/2.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1567.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8b4a05074e03",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8b4a05074e03",
+                  "name": "France vs Iraq",
+                  "streams": [
+                    {
+                      "id": "kaytee-8b4a05074e03",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-9f286f00dd59",
+          "name": "⚽ Ponte Preta vs Novorizontino | Sắp diễn ra vs 06:00 23/06/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/139.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/7834.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/139.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-9f286f00dd59",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-9f286f00dd59",
+                  "name": "Ponte Preta vs Novorizontino",
+                  "streams": [
+                    {
+                      "id": "kaytee-9f286f00dd59",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f9e6a0f1866c",
+          "name": "⚽ Norway vs Senegal | Sắp diễn ra vs 07:00 23/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f9e6a0f1866c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f9e6a0f1866c",
+                  "name": "Norway vs Senegal",
+                  "streams": [
+                    {
+                      "id": "kaytee-f9e6a0f1866c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-bf3f85245255",
+          "name": "⚽ Jordan vs Algeria | Sắp diễn ra vs 10:00 23/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bf3f85245255",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bf3f85245255",
+                  "name": "Jordan vs Algeria",
+                  "streams": [
+                    {
+                      "id": "kaytee-bf3f85245255",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-98fb1acc5865",
+          "name": "⚽ Qingdao Red Lions vs Dalian Kewei | Sắp diễn ra vs 15:00 23/06/2026",
+          "tournament": "League Two",
+          "logo_nha": "https://media.api-sports.io/football/teams/5679.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/27620.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5679.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-98fb1acc5865",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-98fb1acc5865",
+                  "name": "Qingdao Red Lions vs Dalian Kewei",
+                  "streams": [
+                    {
+                      "id": "kaytee-98fb1acc5865",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
