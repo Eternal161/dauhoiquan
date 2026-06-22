@@ -1,18 +1,18 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:10 22/06/2026",
+  "last_updated": "07:21 22/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-6797a2e7497f",
-          "name": "⚽ Oriente Petrolero vs Nacional Potosí | Sắp bắt đầu - null' 0 - 0 07:30 22/06/2026",
-          "tournament": "Primera División",
-          "logo_nha": "https://media.api-sports.io/football/teams/3707.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/3706.png",
+          "id": "kaytee-c541c9b0fc49",
+          "name": "⚽ Austin Ii vs Sporting Kc Ii | Sắp bắt đầu - null' 0 - 0 07:30 22/06/2026",
+          "tournament": "MLS Next Pro",
+          "logo_nha": "https://media.api-sports.io/football/teams/21138.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4019.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -20,7 +20,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/3707.png",
+            "url": "https://media.api-sports.io/football/teams/21138.png",
             "width": 1600,
             "height": 1200
           },
@@ -34,19 +34,19 @@
           ],
           "sources": [
             {
-              "id": "kaytee-6797a2e7497f",
+              "id": "kaytee-c541c9b0fc49",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-6797a2e7497f",
-                  "name": "Oriente Petrolero vs Nacional Potosí",
+                  "id": "kaytee-c541c9b0fc49",
+                  "name": "Austin Ii vs Sporting Kc Ii",
                   "streams": [
                     {
-                      "id": "kaytee-6797a2e7497f",
+                      "id": "kaytee-c541c9b0fc49",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bbb09df950",
+                          "id": "lnk-b15c7f4995",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-2d21b116fe2b",
-          "name": "⚽ New Zealand vs Egypt | Sắp diễn ra vs 08:00 22/06/2026",
+          "name": "⚽ New Zealand vs Egypt | Sắp bắt đầu - null' 0 - 0 08:00 22/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,22 @@
                     {
                       "id": "kaytee-2d21b116fe2b",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-45fcbc6010",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwy3gr4nhct1gwzdrcttfa5unmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=b93726b0c644658cca80b5c8-178208768029458&wsIPSercert=898ebb2b1bf6c7b3d1e603b1fc86da39&wsBindIP=2&wsserid=1168239733746099117"
+                        },
+                        {
+                          "id": "lnk-36f8b17e8c",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
