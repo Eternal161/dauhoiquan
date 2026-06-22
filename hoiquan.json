@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:50 23/06/2026",
+  "last_updated": "02:01 23/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b295577e8acf",
-          "name": "⚽ Argentina vs Austria | H2 - 87' 1 - 0 00:00 23/06/2026",
+          "name": "⚽ Argentina vs Austria | H2 - 90+7' 2 - 0 00:00 23/06/2026",
           "tournament": "World Cup ( Râu Con )",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/775.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-dae4024052",
+                          "id": "lnk-9094e69f43",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwy3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e3fcde56d983ccae380d59b5-178215426321877&wsIPSercert=4ff6c7f0f87fc6791dd8ca3198aa0b3a&wsBindIP=2&wsserid=1168159941869888407"
+                          "url": "https://tfwy4grauqmttfaaukp3qgean44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=3f2b5592c71eaaa5979c70f5-178215487188856&wsIPSercert=8ba417aeadab9551d5bf77ecc2fe6f06&wsBindIP=2&wsserid=1168199783761495156"
                         },
                         {
-                          "id": "lnk-68e718a2ba",
+                          "id": "lnk-aa75b38cdb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-e7571d3c0f10",
-          "name": "⚽ Shamrock Rovers vs Derry City | Sắp bắt đầu - null' 0 - 0 02:00 23/06/2026",
+          "name": "⚽ Shamrock Rovers vs Derry City | H1 - 1' 0 - 0 02:00 23/06/2026",
           "tournament": "Premier Division",
           "logo_nha": "https://media.api-sports.io/football/teams/652.png",
           "logo_khach": "https://media.api-sports.io/football/teams/670.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d3167925b3",
+                          "id": "lnk-dac806b993",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwy4go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178215427193729&wsIPSercert=4ff6c7f0f87fc6791dd8ca3198aa0b3a&wsBindIP=2&wsserid=1168231394942373370"
+                          "url": "https://tfwy4grauqmttfaaukp3qgean47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=6e644596b8496d46de64d7a1-178215488065096&wsIPSercert=8ba417aeadab9551d5bf77ecc2fe6f06&wsBindIP=2&wsserid=1168200353638365446"
                         },
                         {
-                          "id": "lnk-880f34d143",
+                          "id": "lnk-615f582a3b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
