@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:31 22/06/2026",
+  "last_updated": "09:40 22/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-2d21b116fe2b",
-          "name": "⚽ New Zealand vs Egypt | H2 - 71' 1 - 2 08:00 22/06/2026",
+          "name": "⚽ New Zealand vs Egypt | H2 - 81' 1 - 2 08:00 22/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5639adc25e",
+                          "id": "lnk-2a60d704a5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwy1geauymt1go41hpjofa3dyptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=08e1b9ab3107ceda498bcc0f-178209547797301&wsIPSercert=8c02d2e8bc38220cfa9dc0dc65e02eb9&wsBindIP=2&wsserid=1172662689748647170"
+                          "url": "https://tfwy3gr4nhct1gwzdrcttfa5unmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=445c542dd01dac9360f5d82e-178209606508290&wsIPSercert=a8df2cc904854a36840db45f3ed0172f&wsBindIP=2&wsserid=1168239733240635128"
                         },
                         {
-                          "id": "lnk-45ba70c0ca",
+                          "id": "lnk-f3a8102582",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
