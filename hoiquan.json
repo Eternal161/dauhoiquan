@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:10 23/06/2026",
+  "last_updated": "02:20 23/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e7571d3c0f10",
-          "name": "⚽ Shamrock Rovers vs Derry City | H1 - 11' 0 - 0 02:00 23/06/2026",
+          "name": "⚽ Shamrock Rovers vs Derry City | H1 - 21' 0 - 0 02:00 23/06/2026",
           "tournament": "Premier Division",
           "logo_nha": "https://media.api-sports.io/football/teams/652.png",
           "logo_khach": "https://media.api-sports.io/football/teams/670.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c7757323e5",
+                          "id": "lnk-510463753d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwy3go3nhcjtghzdrpbsfaaunmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=bfa1f55fbacbedd5e5ddf596-178215546763511&wsIPSercert=819445d4a97fdfd853248f05f3ae5e46&wsBindIP=2&wsserid=1168200342551693374"
+                          "url": "https://tfwy3go3nhcjtghzdrpbsfaaunmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=bfa1f55fbacbedd5e5ddf596-178215606410562&wsIPSercert=dc20dc3134c5cc54662f010432740578&wsBindIP=2&wsserid=1168200342551693374"
                         },
                         {
-                          "id": "lnk-ce4cc4da1d",
+                          "id": "lnk-950e7efe54",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
