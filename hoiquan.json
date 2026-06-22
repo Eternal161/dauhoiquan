@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:50 22/06/2026",
+  "last_updated": "17:01 22/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-6ba80208b0da",
-          "name": "⚽ Hunters Fc vs Khoromkhon | Live 0 - 0 15:00 22/06/2026",
-          "tournament": "Ngoại Hạng Mông Cổ",
-          "logo_nha": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/8567540/713968_248564.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/4/48/Bishrelt_Khoromkhon_FC_logo.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/8567540/713968_248564.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-6ba80208b0da",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-6ba80208b0da",
-                  "name": "Hunters Fc vs Khoromkhon",
-                  "streams": [
-                    {
-                      "id": "kaytee-6ba80208b0da",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-880266e771",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwy3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=5bd5ca106460d708e48cc2cb-178212186596786&wsIPSercert=187ad13dbdb4cb4fd3ee577b14cca075&wsBindIP=2&wsserid=1168158473487963106"
-                        },
-                        {
-                          "id": "lnk-9ec3bc796c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-329421274a79",
           "name": "⚽ Khovd Western vs Khovd | Sắp diễn ra vs 18:00 22/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-98fb1acc5865",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3e0212772f95",
+          "name": "⚽ Robina City vs Capalaba | Sắp diễn ra vs 16:30 23/06/2026",
+          "tournament": "Queensland Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/27512.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10214.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/27512.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3e0212772f95",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3e0212772f95",
+                  "name": "Robina City vs Capalaba",
+                  "streams": [
+                    {
+                      "id": "kaytee-3e0212772f95",
                       "name": "F",
                       "stream_links": []
                     }
