@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:01 23/06/2026",
+  "last_updated": "00:11 23/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b295577e8acf",
-          "name": "⚽ Argentina vs Austria | Sắp bắt đầu - null' 0 - 0 00:00 23/06/2026",
+          "name": "⚽ Argentina vs Austria | Live 0 - 0 00:00 23/06/2026",
           "tournament": "World Cup ( Râu Con )",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/775.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e4fea1ac36",
+                          "id": "lnk-8d5cb510a7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwy1gr4nhct1gwzdrctufaauqc3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=7fe11e3f62eaf9982344219f-178214768052401&wsIPSercert=828ddf7796a294fd24b0cb423196d178&wsBindIP=2&wsserid=1168239731559340115"
+                          "url": "https://tfwy3go3nhcjtghzdrpbsfaaunmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=49ae5611a40c2fdac18476be-178214827189821&wsIPSercert=00c338802dfba1df06a24784dd5a92c1&wsBindIP=2&wsserid=1168200343681226433"
                         },
                         {
-                          "id": "lnk-d0d5eedcbd",
+                          "id": "lnk-1174ee9ffc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
