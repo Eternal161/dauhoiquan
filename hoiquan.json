@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "14:31 22/06/2026",
+  "last_updated": "14:41 22/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6ba80208b0da",
-          "name": "⚽ Hunters Fc vs Khoromkhon | Sắp diễn ra vs 15:00 22/06/2026",
+          "name": "⚽ Hunters Fc vs Khoromkhon | Live 0 - 0 15:00 22/06/2026",
           "tournament": "Ngoại Hạng Mông Cổ",
           "logo_nha": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/8567540/713968_248564.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/4/48/Bishrelt_Khoromkhon_FC_logo.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-6ba80208b0da",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-39a6abc44e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwy0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fc387c98748ade8f54f1ef90-178211407378955&wsIPSercert=afd7d37f2505a1081b0b06a23adb65f7&wsBindIP=2&wsserid=1168202333418134578"
+                        },
+                        {
+                          "id": "lnk-3568fd2b60",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
