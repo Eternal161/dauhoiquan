@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:50 23/06/2026",
+  "last_updated": "04:01 23/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-e7571d3c0f10",
-          "name": "⚽ Shamrock Rovers vs Derry City | H2 - 90+1' 1 - 1 02:00 23/06/2026",
-          "tournament": "Premier Division",
-          "logo_nha": "https://media.api-sports.io/football/teams/652.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/670.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/652.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-e7571d3c0f10",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-e7571d3c0f10",
-                  "name": "Shamrock Rovers vs Derry City",
-                  "streams": [
-                    {
-                      "id": "kaytee-e7571d3c0f10",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c94f21ebc5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwy3go3nhcjtghzdrpbsfaaunmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=bfa1f55fbacbedd5e5ddf596-178216145987895&wsIPSercert=280b985810ef1e5aae4074884ffd2cfa&wsBindIP=2&wsserid=1168200342551693374"
-                        },
-                        {
-                          "id": "lnk-762cc347e1",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-8b4a05074e03",
           "name": "⚽ France vs Iraq | Sắp bắt đầu - null' 0 - 0 04:00 23/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ef45ed81b1",
+                          "id": "lnk-de5f56f5bf",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwy3go3nhcjtghzdrpbsfaaunmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=bfa1f55fbacbedd5e5ddf596-178216146842768&wsIPSercert=280b985810ef1e5aae4074884ffd2cfa&wsBindIP=2&wsserid=1168200342551693374"
+                          "url": "https://tfwy4grauqmttfaaukp3qgean44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=221c576cf69782af4dd7e0d6-178216207533629&wsIPSercert=deb443c120eeef8be14558c86c3e80fd&wsBindIP=2&wsserid=1168199783759397948"
                         },
                         {
-                          "id": "lnk-d9233e2d1f",
+                          "id": "lnk-04fcf7389c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-61e58fd9ec7c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-679f37e1a2fa",
+          "name": "⚽ Inter Turku vs Sjk | Sắp diễn ra vs 23:00 23/06/2026",
+          "tournament": "Veikkausliiga",
+          "logo_nha": "https://media.api-sports.io/football/teams/1164.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/689.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1164.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-679f37e1a2fa",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-679f37e1a2fa",
+                  "name": "Inter Turku vs Sjk",
+                  "streams": [
+                    {
+                      "id": "kaytee-679f37e1a2fa",
                       "name": "F",
                       "stream_links": []
                     }
