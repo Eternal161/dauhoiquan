@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:40 23/06/2026",
+  "last_updated": "03:50 23/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e7571d3c0f10",
-          "name": "⚽ Shamrock Rovers vs Derry City | H2 - 81' 0 - 1 02:00 23/06/2026",
+          "name": "⚽ Shamrock Rovers vs Derry City | H2 - 90+1' 1 - 1 02:00 23/06/2026",
           "tournament": "Premier Division",
           "logo_nha": "https://media.api-sports.io/football/teams/652.png",
           "logo_khach": "https://media.api-sports.io/football/teams/670.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a91f88309d",
+                          "id": "lnk-c94f21ebc5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwy3go3nhcjtghzdrpbsfaaunmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=bfa1f55fbacbedd5e5ddf596-178216086530508&wsIPSercert=22108e09c2ee3faa51b7cf2b4bcc20ad&wsBindIP=2&wsserid=1168200342551693374"
+                          "url": "https://tfwy3go3nhcjtghzdrpbsfaaunmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=bfa1f55fbacbedd5e5ddf596-178216145987895&wsIPSercert=280b985810ef1e5aae4074884ffd2cfa&wsBindIP=2&wsserid=1168200342551693374"
                         },
                         {
-                          "id": "lnk-8e1d4dde94",
+                          "id": "lnk-762cc347e1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-63035f3f0e",
+                          "id": "lnk-ef45ed81b1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwy3go3nhcjtghzdrpbsfaaunmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=49ae5611a40c2fdac18476be-178216087395639&wsIPSercert=22108e09c2ee3faa51b7cf2b4bcc20ad&wsBindIP=2&wsserid=1168200343681226433"
+                          "url": "https://tfwy3go3nhcjtghzdrpbsfaaunmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=bfa1f55fbacbedd5e5ddf596-178216146842768&wsIPSercert=280b985810ef1e5aae4074884ffd2cfa&wsBindIP=2&wsserid=1168200342551693374"
                         },
                         {
-                          "id": "lnk-824738bde9",
+                          "id": "lnk-d9233e2d1f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
