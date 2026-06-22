@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:31 22/06/2026",
+  "last_updated": "23:41 22/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b94d14c53256",
-          "name": "⚽ Rīgas Fs vs Ogre United | H2 - 70' 4 - 0 22:00 22/06/2026",
+          "name": "⚽ Rīgas Fs vs Ogre United | H2 - 80' 4 - 0 22:00 22/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/4160.png",
           "logo_khach": "https://media.api-sports.io/football/teams/18936.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2ebf9e9eb7",
+                          "id": "lnk-b36b56e7e0",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwy4grauqmttfaaukp3qgean47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=6e644596b8496d46de64d7a1-178214587423703&wsIPSercert=d251203e23a4b1811d1428fe6fb47ca2&wsBindIP=2&wsserid=1168200353638365446"
+                          "url": "https://tfwy1gr4nhct1gwzdrctufaauqc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2f488b4b71f89ba07bc45c96-178214647257466&wsIPSercert=c2489e7f2999fb7bddcfa0656166ac9e&wsBindIP=2&wsserid=1168239731562485911"
                         },
                         {
-                          "id": "lnk-0fc8f975a0",
+                          "id": "lnk-0a4bf9e476",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-b295577e8acf",
-          "name": "⚽ Argentina vs Austria | Sắp diễn ra vs 00:00 23/06/2026",
+          "name": "⚽ Argentina vs Austria | Sắp bắt đầu - null' 0 - 0 00:00 23/06/2026",
           "tournament": "World Cup ( Râu Con )",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/775.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-b295577e8acf",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-e14c698127",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwy1gr4nhct1gwzdrctufaauqc3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2f488b4b71f89ba07bc45c96-178214648123098&wsIPSercert=c2489e7f2999fb7bddcfa0656166ac9e&wsBindIP=2&wsserid=1168239731562485911"
+                        },
+                        {
+                          "id": "lnk-582a5b7e0c",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
