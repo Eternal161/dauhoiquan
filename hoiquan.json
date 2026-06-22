@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:21 22/06/2026",
+  "last_updated": "07:31 22/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,10 +46,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b15c7f4995",
+                          "id": "lnk-6431ce2988",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfwy3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=fcf1d3180b6c9d5e74948e4a-178208828458192&wsIPSercert=b9ad66f13edb791a5d59232a27240df9&wsBindIP=2&wsserid=1168239733243780912"
+                        },
+                        {
+                          "id": "lnk-ee00b754a1",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
@@ -99,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-45fcbc6010",
+                          "id": "lnk-d1a6397731",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwy3gr4nhct1gwzdrcttfa5unmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=b93726b0c644658cca80b5c8-178208768029458&wsIPSercert=898ebb2b1bf6c7b3d1e603b1fc86da39&wsBindIP=2&wsserid=1168239733746099117"
+                          "url": "https://tfwy3gr4nhct1gwzdrcttfa5unmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=b93726b0c644658cca80b5c8-178208829305872&wsIPSercert=b9ad66f13edb791a5d59232a27240df9&wsBindIP=2&wsserid=1168239733746099117"
                         },
                         {
-                          "id": "lnk-36f8b17e8c",
+                          "id": "lnk-0fa8071747",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
