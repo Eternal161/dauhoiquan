@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:20 23/06/2026",
+  "last_updated": "04:30 23/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8b4a05074e03",
-          "name": "⚽ France vs Iraq | H1 - 20' 1 - 0 04:00 23/06/2026",
+          "name": "⚽ France vs Iraq | H1 - 30' 1 - 0 04:00 23/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/2.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1567.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fd7677771a",
+                          "id": "lnk-b37e624764",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwy4go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ce0743b5eba69bd80a398a5f-178216326712426&wsIPSercert=f7d33382ada91f7e9dd8bacbb900318a&wsBindIP=2&wsserid=1168231394939227592"
+                          "url": "https://tfwy4go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ce0743b5eba69bd80a398a5f-178216386865740&wsIPSercert=97772c99b72499abd88b514db355b401&wsBindIP=2&wsserid=1168231394939227592"
                         },
                         {
-                          "id": "lnk-c3a618bc64",
+                          "id": "lnk-07990672f5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
