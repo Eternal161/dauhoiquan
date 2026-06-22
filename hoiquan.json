@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:51 22/06/2026",
+  "last_updated": "00:01 23/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-b94d14c53256",
-          "name": "⚽ Rīgas Fs vs Ogre United | H2 - 90+1' 5 - 0 22:00 22/06/2026",
-          "tournament": "Virsliga",
-          "logo_nha": "https://media.api-sports.io/football/teams/4160.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/18936.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/4160.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b94d14c53256",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b94d14c53256",
-                  "name": "Rīgas Fs vs Ogre United",
-                  "streams": [
-                    {
-                      "id": "kaytee-b94d14c53256",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fb267044ac",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwy4go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178214707841072&wsIPSercert=ce83e1a427d3e5d358d3713dbc8c310c&wsBindIP=2&wsserid=1168231394942373370"
-                        },
-                        {
-                          "id": "lnk-9bf31f536a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-b295577e8acf",
           "name": "⚽ Argentina vs Austria | Sắp bắt đầu - null' 0 - 0 00:00 23/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f83b74d5f1",
+                          "id": "lnk-e4fea1ac36",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwy3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=5407ef809016cab9a772a158-178214708704344&wsIPSercert=ce83e1a427d3e5d358d3713dbc8c310c&wsBindIP=2&wsserid=1168178972990559465"
+                          "url": "https://tfwy1gr4nhct1gwzdrctufaauqc3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=7fe11e3f62eaf9982344219f-178214768052401&wsIPSercert=828ddf7796a294fd24b0cb423196d178&wsBindIP=2&wsserid=1168239731559340115"
                         },
                         {
-                          "id": "lnk-3d364d7087",
+                          "id": "lnk-d0d5eedcbd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-2a0b2c338b78",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-010f785a0483",
+          "name": "⚽ Guangdong Mingtu vs Guizhou Zhucheng | Sắp diễn ra vs 18:30 23/06/2026",
+          "tournament": "League Two",
+          "logo_nha": "https://media.api-sports.io/football/teams/25773.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/25775.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/25773.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-010f785a0483",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-010f785a0483",
+                  "name": "Guangdong Mingtu vs Guizhou Zhucheng",
+                  "streams": [
+                    {
+                      "id": "kaytee-010f785a0483",
                       "name": "F",
                       "stream_links": []
                     }
