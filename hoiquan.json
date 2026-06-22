@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:01 22/06/2026",
+  "last_updated": "07:10 22/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-9239707d1ebe",
-          "name": "⚽ Uruguay vs Cape Verde Islands | Sắp bắt đầu - null' 0 - 0 05:00 22/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
-          "logo_khach": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-9239707d1ebe",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-9239707d1ebe",
-                  "name": "Uruguay vs Cape Verde Islands",
-                  "streams": [
-                    {
-                      "id": "kaytee-9239707d1ebe",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-07ad6b2b53",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwy3go3nhcjtgczdncjqgeaurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=89762e8dceb2972e9cc8dbb6-178208647936503&wsIPSercert=41d9d98734e37efd2cd828c16b15383e&wsBindIP=2&wsserid=1168159941871985661"
-                        },
-                        {
-                          "id": "lnk-bd1f23455b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-6797a2e7497f",
-          "name": "⚽ Oriente Petrolero vs Nacional Potosí | Sắp diễn ra vs 07:30 22/06/2026",
+          "name": "⚽ Oriente Petrolero vs Nacional Potosí | Sắp bắt đầu - null' 0 - 0 07:30 22/06/2026",
           "tournament": "Primera División",
           "logo_nha": "https://media.api-sports.io/football/teams/3707.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3706.png",
@@ -86,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +44,15 @@
                     {
                       "id": "kaytee-6797a2e7497f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-bbb09df950",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -463,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-9f286f00dd59",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f9e6a0f1866c",
+          "name": "⚽ Norway vs Senegal | Sắp diễn ra vs 07:00 23/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f9e6a0f1866c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f9e6a0f1866c",
+                  "name": "Norway vs Senegal",
+                  "streams": [
+                    {
+                      "id": "kaytee-f9e6a0f1866c",
                       "name": "F",
                       "stream_links": []
                     }
