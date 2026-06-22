@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:50 22/06/2026",
+  "last_updated": "08:01 22/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c541c9b0fc49",
-          "name": "⚽ Austin Ii vs Sporting Kc Ii | H1 - 18' 0 - 0 07:30 22/06/2026",
+          "name": "⚽ Austin Ii vs Sporting Kc Ii | H1 - 28' 1 - 0 07:30 22/06/2026",
           "tournament": "MLS Next Pro",
           "logo_nha": "https://media.api-sports.io/football/teams/21138.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4019.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3a01b915fc",
+                          "id": "lnk-04c3fc0874",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwy1geauymt1go41hpjofa3dyptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=08e1b9ab3107ceda498bcc0f-178208946282285&wsIPSercert=130e29d495c8c79a00503aea096cfe09&wsBindIP=2&wsserid=1172662689748647170"
+                          "url": "https://tfwy3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=1c66e4ed59792af5c9430327-178209007135698&wsIPSercert=18dc2985fe2b4411a2d1b059dd9a6ed9&wsBindIP=2&wsserid=1168178972992656721"
                         },
                         {
-                          "id": "lnk-66a4f244ea",
+                          "id": "lnk-12655a009a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-2d21b116fe2b",
-          "name": "⚽ New Zealand vs Egypt | Sắp bắt đầu - null' 0 - 0 08:00 22/06/2026",
+          "name": "⚽ New Zealand vs Egypt | H1 - 1' 0 - 0 08:00 22/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-79421715ec",
+                          "id": "lnk-30f95a491d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwy1geauymt1go41hpjofa3dyptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=08e1b9ab3107ceda498bcc0f-178208947143768&wsIPSercert=130e29d495c8c79a00503aea096cfe09&wsBindIP=2&wsserid=1172662689748647170"
+                          "url": "https://tfwy3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=1c66e4ed59792af5c9430327-178209007992100&wsIPSercert=18dc2985fe2b4411a2d1b059dd9a6ed9&wsBindIP=2&wsserid=1168178972992656721"
                         },
                         {
-                          "id": "lnk-726118873f",
+                          "id": "lnk-91e9af36b1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
