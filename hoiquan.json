@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:51 22/06/2026",
+  "last_updated": "22:01 22/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b94d14c53256",
-          "name": "⚽ Rīgas Fs vs Ogre United | Sắp bắt đầu - null' 0 - 0 22:00 22/06/2026",
+          "name": "⚽ Rīgas Fs vs Ogre United | Live 0 - 0 22:00 22/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/4160.png",
           "logo_khach": "https://media.api-sports.io/football/teams/18936.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8a97c1e257",
+                          "id": "lnk-687309d4fe",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwy0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178213987585806&wsIPSercert=111b78edc23fe9255e8e9d86ec8e9aec&wsBindIP=2&wsserid=1168231589572867007"
+                          "url": "https://tfwy0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=fc387c98748ade8f54f1ef90-178214049075881&wsIPSercert=762b93b63da64a0c55de6bb021a812fb&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-00bc740196",
+                          "id": "lnk-f498c161c8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
