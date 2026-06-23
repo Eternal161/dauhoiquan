@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:01 24/06/2026",
+  "last_updated": "02:10 24/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-878bf74c8cfc",
-          "name": "⚽ Portugal vs Uzbekistan | H2 - 78' 4 - 0 00:00 24/06/2026",
-          "tournament": "World CupW ( ĐẦU CẦU TRUNG LẬP )",
-          "logo_nha": "https://media.api-sports.io/football/teams/27.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1568.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/27.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-878bf74c8cfc",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-878bf74c8cfc",
-                  "name": "Portugal vs Uzbekistan",
-                  "streams": [
-                    {
-                      "id": "kaytee-878bf74c8cfc",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-434e0f5b7a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwz1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0e049b26c5ec10b00ed2fc6c-178224126901499&wsIPSercert=560b1a796276b0109ec01420e5cb6154&wsBindIP=2&wsserid=1168283323302724409"
-                        },
-                        {
-                          "id": "lnk-944eda4113",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-df2498bb45dc",
           "name": "⚽ Coquimbo Unido vs Deportes Limache | Sắp bắt đầu - null' 0 - 0 02:00 24/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-25343fc1ea",
+                          "id": "lnk-1eed949df4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178224127762959&wsIPSercert=560b1a796276b0109ec01420e5cb6154&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfwz1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178224186266250&wsIPSercert=bd44e518c054df5221b5242cf77001c7&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-ca473467bd",
+                          "id": "lnk-282cdc8534",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-c0a56fae2a8e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8cac799a2eab",
+          "name": "⚽ Gagra vs Samgurali | Sắp diễn ra vs 23:00 24/06/2026",
+          "tournament": "Erovnuli Liga",
+          "logo_nha": "https://media.api-sports.io/football/teams/3505.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10017.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3505.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8cac799a2eab",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8cac799a2eab",
+                  "name": "Gagra vs Samgurali",
+                  "streams": [
+                    {
+                      "id": "kaytee-8cac799a2eab",
                       "name": "F",
                       "stream_links": []
                     }
