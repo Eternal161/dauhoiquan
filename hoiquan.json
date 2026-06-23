@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:50 24/06/2026",
+  "last_updated": "05:01 24/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-29d29676e812",
-          "name": "⚽ England vs Ghana | Sắp bắt đầu - null' 0 - 0 03:00 24/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/10.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-29d29676e812",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-29d29676e812",
-                  "name": "England vs Ghana",
-                  "streams": [
-                    {
-                      "id": "kaytee-29d29676e812",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2d862066ce",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwz3gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=735d331de663f99715b9baa1-178225146682737&wsIPSercert=25dcc3b32c0706ffdb620a972189e2be&wsBindIP=2&wsserid=1168239032784443754"
-                        },
-                        {
-                          "id": "lnk-e0133c9f83",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-42269492cb38",
           "name": "⚽ Panama vs Croatia | Sắp diễn ra vs 06:00 24/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-07c5cefe1632",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-4969e8c26c6b",
+          "name": "⚽ Switzerland vs Canada | Sắp diễn ra vs 02:00 25/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4969e8c26c6b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4969e8c26c6b",
+                  "name": "Switzerland vs Canada",
+                  "streams": [
+                    {
+                      "id": "kaytee-4969e8c26c6b",
                       "name": "F",
                       "stream_links": []
                     }
