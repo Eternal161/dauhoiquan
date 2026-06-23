@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:50 23/06/2026",
+  "last_updated": "08:01 23/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-9f286f00dd59",
-          "name": "⚽ Ponte Preta vs Novorizontino | H2 - 86' 0 - 2 06:00 23/06/2026",
+          "name": "⚽ Ponte Preta vs Novorizontino | H2 - 90+4' 0 - 2 06:00 23/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/139.png",
           "logo_khach": "https://media.api-sports.io/football/teams/7834.png",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ef5aeada6b",
+                          "id": "lnk-ee647ae50e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz1gr4nhct1gwzdrctufaauqc3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=7fe11e3f62eaf9982344219f-178217586632263&wsIPSercert=78db1481c07764a23a46cb8e9d34539a&wsBindIP=2&wsserid=1168239731559340115"
-                        },
-                        {
-                          "id": "lnk-c77ab2b23f",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
@@ -106,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3b8db38b9b",
+                          "id": "lnk-d4ae1cf9d3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz1gr4nhct1gwzdrctufaauqc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2f488b4b71f89ba07bc45c96-178217587483057&wsIPSercert=78db1481c07764a23a46cb8e9d34539a&wsBindIP=2&wsserid=1168239731562485911"
+                          "url": "https://tfwz1gr4nhct1gwzdrctufaauqc3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2f488b4b71f89ba07bc45c96-178217649429759&wsIPSercert=a812f1e8937c2ba60a09a1c59c91a0ee&wsBindIP=2&wsserid=1168239731562485911"
                         },
                         {
-                          "id": "lnk-3850cdf410",
+                          "id": "lnk-38bad25f18",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
