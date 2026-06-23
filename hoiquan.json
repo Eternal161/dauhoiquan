@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:01 23/06/2026",
+  "last_updated": "23:11 23/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-ca8ec6551f64",
-          "name": "⚽ Kups vs Ilves | Giữa Hiệp - 45+2' 4 - 1 22:00 23/06/2026",
+          "name": "⚽ Kups vs Ilves | H2 - 53' 4 - 1 22:00 23/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/1163.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-14553e271a",
+                          "id": "lnk-ef95e14758",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz4gchnhcjo8rzdrpjtfa4144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=f7e42543e61847d2fa7bb4d5-178223048441932&wsIPSercert=e121e2fb7c1f528fa0653f6da6fde573&wsBindIP=2&wsserid=1168168154453604765"
+                          "url": "https://tfwz0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=664fd68c07f9574a0717013d-178223107046100&wsIPSercert=b08d10599263753d18a6150fdabd2153&wsBindIP=2&wsserid=1168283323367736366"
                         },
                         {
-                          "id": "lnk-1752feabed",
+                          "id": "lnk-b6ddafe6bc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-679f37e1a2fa",
-          "name": "⚽ Inter Turku vs Sjk | H1 - 1' 0 - 0 23:00 23/06/2026",
+          "name": "⚽ Inter Turku vs Sjk | H1 - 11' 0 - 0 23:00 23/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/1164.png",
           "logo_khach": "https://media.api-sports.io/football/teams/689.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1c956d7a6f",
+                          "id": "lnk-2d9aaa017a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz4gchnhcjo8rzdrpjtfa3147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=1a7e779dd8ced2edf73e23dc-178223049330629&wsIPSercert=e121e2fb7c1f528fa0653f6da6fde573&wsBindIP=2&wsserid=1168235283031012122"
+                          "url": "https://tfwz0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178223107939681&wsIPSercert=b08d10599263753d18a6150fdabd2153&wsBindIP=2&wsserid=1168231589572867007"
                         },
                         {
-                          "id": "lnk-12ed8ef115",
+                          "id": "lnk-d028f99c0a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-878bf74c8cfc",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-f5a7903b8d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwz0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178223108766426&wsIPSercert=b08d10599263753d18a6150fdabd2153&wsBindIP=2&wsserid=1168283323406534424"
+                        },
+                        {
+                          "id": "lnk-e916de3893",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
