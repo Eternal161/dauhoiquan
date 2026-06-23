@@ -1,74 +1,14 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:21 23/06/2026",
+  "last_updated": "20:31 23/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-010f785a0483",
-          "name": "⚽ Guangdong Mingtu vs Guizhou Zhucheng | H2 - 90+3' 0 - 0 18:30 23/06/2026",
-          "tournament": "League Two",
-          "logo_nha": "https://media.api-sports.io/football/teams/25773.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/25775.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/25773.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-010f785a0483",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-010f785a0483",
-                  "name": "Guangdong Mingtu vs Guizhou Zhucheng",
-                  "streams": [
-                    {
-                      "id": "kaytee-010f785a0483",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-75d933a091",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwz3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=5bd5ca106460d708e48cc2cb-178222087479828&wsIPSercert=5e54a4a1a973a5d23a6a964d32cd7f9c&wsBindIP=2&wsserid=1168158473487963106"
-                        },
-                        {
-                          "id": "lnk-b43829c930",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-61e58fd9ec7c",
+          "id": "kaytee-ca8ec6551f64",
           "name": "⚽ Kups vs Ilves | Sắp diễn ra vs 22:00 23/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
@@ -94,15 +34,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-61e58fd9ec7c",
+              "id": "kaytee-ca8ec6551f64",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-61e58fd9ec7c",
+                  "id": "kaytee-ca8ec6551f64",
                   "name": "Kups vs Ilves",
                   "streams": [
                     {
-                      "id": "kaytee-61e58fd9ec7c",
+                      "id": "kaytee-ca8ec6551f64",
                       "name": "F",
                       "stream_links": []
                     }
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-468427b33740",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-9b2edf5abe87",
+          "name": "⚽ Kahibah vs Adamstown Rosebuds | Sắp diễn ra vs 17:00 24/06/2026",
+          "tournament": "Northern NSW NPL",
+          "logo_nha": "https://media.api-sports.io/football/teams/23502.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10201.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/23502.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-9b2edf5abe87",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-9b2edf5abe87",
+                  "name": "Kahibah vs Adamstown Rosebuds",
+                  "streams": [
+                    {
+                      "id": "kaytee-9b2edf5abe87",
                       "name": "F",
                       "stream_links": []
                     }
