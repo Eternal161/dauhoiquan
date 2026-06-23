@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:31 23/06/2026",
+  "last_updated": "19:40 23/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-010f785a0483",
-          "name": "⚽ Guangdong Mingtu vs Guizhou Zhucheng | Giữa Hiệp - 45+2' 0 - 0 18:30 23/06/2026",
+          "name": "⚽ Guangdong Mingtu vs Guizhou Zhucheng | H2 - 53' 0 - 0 18:30 23/06/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/25773.png",
           "logo_khach": "https://media.api-sports.io/football/teams/25775.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a9b3b046b4",
+                          "id": "lnk-5c5e9c814a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=e851a2b515b39bfc1b7fa041-178221787943574&wsIPSercert=f137c46445c21303442431c7ec1b9f87&wsBindIP=2&wsserid=1168243256629514822"
+                          "url": "https://tfwz1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=e851a2b515b39bfc1b7fa041-178221846598962&wsIPSercert=bd26bfc58f25cba71804672d98eb891f&wsBindIP=2&wsserid=1168243256629514822"
                         },
                         {
-                          "id": "lnk-ae003cd33f",
+                          "id": "lnk-a77a8b743f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
