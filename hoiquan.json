@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:50 23/06/2026",
+  "last_updated": "12:00 23/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-bf3f85245255",
-          "name": "⚽ Jordan vs Algeria | H2 - 88' 1 - 2 10:00 23/06/2026",
+          "name": "⚽ Jordan vs Algeria | H2 - 90+8' 1 - 2 10:00 23/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5cc0c0bcd1",
+                          "id": "lnk-e958d7c602",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz4go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0d134b8c6677d318f0d3554c-178219026050991&wsIPSercert=5f35fe5e7621c3a55d6e5aeb914e62a1&wsBindIP=2&wsserid=1168231235299071981"
+                          "url": "https://tfwz3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=5407ef809016cab9a772a158-178219086914194&wsIPSercert=28f755f3781b6c1bae9ba30c64bada77&wsBindIP=2&wsserid=1168178972990559465"
                         },
                         {
-                          "id": "lnk-69b4036eda",
+                          "id": "lnk-38bf0d4426",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
