@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:10 24/06/2026",
+  "last_updated": "00:20 24/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-679f37e1a2fa",
-          "name": "⚽ Inter Turku vs Sjk | H2 - 50' 1 - 1 23:00 23/06/2026",
+          "name": "⚽ Inter Turku vs Sjk | H2 - 61' 1 - 1 23:00 23/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/1164.png",
           "logo_khach": "https://media.api-sports.io/football/teams/689.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7a203ffbe3",
+                          "id": "lnk-38a726776f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178223466606603&wsIPSercert=27c227fab7b6f1f00ca25f937a78b84d&wsBindIP=2&wsserid=1168178972991608093"
+                          "url": "https://tfwz3gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c50d510e5c2770b5f7074422-178223526324392&wsIPSercert=646af09264e60a757980963df89a132f&wsBindIP=2&wsserid=1168239032780249394"
                         },
                         {
-                          "id": "lnk-f1502cc304",
+                          "id": "lnk-e4b401c833",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-878bf74c8cfc",
-          "name": "⚽ Portugal vs Uzbekistan | H1 - 10' 1 - 0 00:00 24/06/2026",
+          "name": "⚽ Portugal vs Uzbekistan | H1 - 21' 2 - 0 00:00 24/06/2026",
           "tournament": "World CupW ( ĐẦU CẦU TRUNG LẬP )",
           "logo_nha": "https://media.api-sports.io/football/teams/27.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1568.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-42b388bf21",
+                          "id": "lnk-328dfe2c62",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b666b584e4acbbaf977137a3-178223467474937&wsIPSercert=27c227fab7b6f1f00ca25f937a78b84d&wsBindIP=2&wsserid=1168159941878277355"
+                          "url": "https://tfwz0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fc387c98748ade8f54f1ef90-178223527118124&wsIPSercert=646af09264e60a757980963df89a132f&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-91da5100fa",
+                          "id": "lnk-175a1b50e2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
