@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:41 23/06/2026",
+  "last_updated": "15:50 23/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-98fb1acc5865",
-          "name": "⚽ Qingdao Red Lions vs Dalian Kewei | H1 - 39' 0 - 0 15:00 23/06/2026",
+          "name": "⚽ Qingdao Red Lions vs Dalian Kewei | Giữa Hiệp - 45+2' 0 - 0 15:00 23/06/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/5679.png",
           "logo_khach": "https://media.api-sports.io/football/teams/27620.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d80a06b561",
+                          "id": "lnk-e04c2f60ce",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0e049b26c5ec10b00ed2fc6c-178220407209881&wsIPSercert=a38948c7fa519b5c2aa2c4575b1d1803&wsBindIP=2&wsserid=1168283323302724409"
+                          "url": "https://tfwz0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=00489e5fa24fa852f6673a81-178220466617636&wsIPSercert=5a7b6518ddfad3c4b894a9f4e9c7e1af&wsBindIP=2&wsserid=1168231589574964209"
                         },
                         {
-                          "id": "lnk-c217f7b02a",
+                          "id": "lnk-19e7cca325",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
