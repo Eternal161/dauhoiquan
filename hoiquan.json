@@ -1,125 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:01 23/06/2026",
+  "last_updated": "09:10 23/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-9f286f00dd59",
-          "name": "⚽ Ponte Preta vs Novorizontino | H2 - 90+4' 0 - 2 06:00 23/06/2026",
-          "tournament": "Serie B",
-          "logo_nha": "https://media.api-sports.io/football/teams/139.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/7834.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/139.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-9f286f00dd59",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-9f286f00dd59",
-                  "name": "Ponte Preta vs Novorizontino",
-                  "streams": [
-                    {
-                      "id": "kaytee-9f286f00dd59",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7a24e8af8e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-29a43138eb97",
-          "name": "⚽ Norway vs Senegal | H2 - 90+11' 3 - 2 07:00 23/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-29a43138eb97",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-29a43138eb97",
-                  "name": "Norway vs Senegal",
-                  "streams": [
-                    {
-                      "id": "kaytee-29a43138eb97",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a946eadb72",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwz3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=1c66e4ed59792af5c9430327-178218007882487&wsIPSercert=5fdf1fc5d06c84d11bfb6f281ef4e319&wsBindIP=2&wsserid=1168178972992656721"
-                        },
-                        {
-                          "id": "lnk-890fd1e874",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-bf3f85245255",
           "name": "⚽ Jordan vs Algeria | Sắp diễn ra vs 10:00 23/06/2026",
@@ -471,6 +358,96 @@
                   "streams": [
                     {
                       "id": "kaytee-9cd69294f3ae",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-df2498bb45dc",
+          "name": "⚽ Coquimbo Unido vs Deportes Limache | Sắp diễn ra vs 02:00 24/06/2026",
+          "tournament": "Copa Chile",
+          "logo_nha": "https://media.api-sports.io/football/teams/2330.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/16730.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2330.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-df2498bb45dc",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-df2498bb45dc",
+                  "name": "Coquimbo Unido vs Deportes Limache",
+                  "streams": [
+                    {
+                      "id": "kaytee-df2498bb45dc",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-29d29676e812",
+          "name": "⚽ England vs Ghana | Sắp diễn ra vs 03:00 24/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/10.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/10.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-29d29676e812",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-29d29676e812",
+                  "name": "England vs Ghana",
+                  "streams": [
+                    {
+                      "id": "kaytee-29d29676e812",
                       "name": "F",
                       "stream_links": []
                     }
