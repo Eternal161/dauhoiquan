@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:40 23/06/2026",
+  "last_updated": "16:50 23/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-98fb1acc5865",
-          "name": "⚽ Qingdao Red Lions vs Dalian Kewei | H2 - 82' 0 - 0 15:00 23/06/2026",
+          "name": "⚽ Qingdao Red Lions vs Dalian Kewei | H2 - 90+1' 0 - 0 15:00 23/06/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/5679.png",
           "logo_khach": "https://media.api-sports.io/football/teams/27620.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-357a2a05dc",
+                          "id": "lnk-a315980244",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz3gr3uomttgr31hctsfa3dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=9d92435190e904ce0899e753-178220766500692&wsIPSercert=b793b7b4ab34c3d21f320d309a4747c5&wsBindIP=2&wsserid=1168056276210707857"
+                          "url": "https://tfwz0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fc387c98748ade8f54f1ef90-178220826736568&wsIPSercert=eb4f9b51d6274d9e33f91b7cf52bff0b&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-b375c1a184",
+                          "id": "lnk-5698d94b4e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-3e0212772f95",
-          "name": "⚽ Robina City vs Capalaba | H1 - 7' 1 - 0 16:30 23/06/2026",
+          "name": "⚽ Robina City vs Capalaba | H1 - 18' 3 - 0 16:30 23/06/2026",
           "tournament": "Queensland Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/27512.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10214.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6323c5062d",
+                          "id": "lnk-fdeafb9e9b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178220767365637&wsIPSercert=b793b7b4ab34c3d21f320d309a4747c5&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfwz3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178220827625492&wsIPSercert=eb4f9b51d6274d9e33f91b7cf52bff0b&wsBindIP=2&wsserid=1177063474761571144"
                         },
                         {
-                          "id": "lnk-558268bfd8",
+                          "id": "lnk-8c4d2f7f66",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
