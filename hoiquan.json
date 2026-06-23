@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:50 23/06/2026",
+  "last_updated": "18:01 23/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-3e0212772f95",
-          "name": "⚽ Robina City vs Capalaba | H2 - 62' 5 - 1 16:30 23/06/2026",
+          "name": "⚽ Robina City vs Capalaba | H2 - 72' 5 - 1 16:30 23/06/2026",
           "tournament": "Queensland Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/27512.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10214.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2d208c1156",
+                          "id": "lnk-dd773e6256",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178221186602165&wsIPSercert=f98edefb86cf5fe539488045cf3ba30d&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfwz0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178221246928555&wsIPSercert=90bf52e56992e9a5f12255d085b287f5&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-dc8efb3d82",
+                          "id": "lnk-c5dac8d052",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-2a0b2c338b78",
-          "name": "⚽ Logan Lightning vs Holland Park Hawks | H1 - 14' 0 - 0 17:30 23/06/2026",
+          "name": "⚽ Logan Lightning vs Holland Park Hawks | H1 - 25' 0 - 0 17:30 23/06/2026",
           "tournament": "Queensland Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/11180.png",
           "logo_khach": "https://media.api-sports.io/football/teams/11178.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a2d75b0e01",
+                          "id": "lnk-e783f18174",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178221187461887&wsIPSercert=f98edefb86cf5fe539488045cf3ba30d&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfwz0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178221247787429&wsIPSercert=90bf52e56992e9a5f12255d085b287f5&wsBindIP=2&wsserid=1168231785641135723"
                         },
                         {
-                          "id": "lnk-35c058cafd",
+                          "id": "lnk-c845af2acb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-010f785a0483",
-          "name": "⚽ Guangdong Mingtu vs Guizhou Zhucheng | Sắp diễn ra vs 18:30 23/06/2026",
+          "name": "⚽ Guangdong Mingtu vs Guizhou Zhucheng | Sắp bắt đầu - null' 0 - 0 18:30 23/06/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/25773.png",
           "logo_khach": "https://media.api-sports.io/football/teams/25775.png",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-010f785a0483",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-27f5e78520",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwz0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=00489e5fa24fa852f6673a81-178221248633144&wsIPSercert=90bf52e56992e9a5f12255d085b287f5&wsBindIP=2&wsserid=1168231589574964209"
+                        },
+                        {
+                          "id": "lnk-fb3ad879f7",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
