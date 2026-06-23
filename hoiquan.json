@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:50 23/06/2026",
+  "last_updated": "00:01 24/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-ca8ec6551f64",
-          "name": "⚽ Kups vs Ilves | H2 - 90+2' 4 - 3 22:00 23/06/2026",
-          "tournament": "Veikkausliiga",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/1163.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ca8ec6551f64",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ca8ec6551f64",
-                  "name": "Kups vs Ilves",
-                  "streams": [
-                    {
-                      "id": "kaytee-ca8ec6551f64",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9e725571ed",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwz3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=37ba331e70db02f04266d957-178223346824177&wsIPSercert=973f950f5c9e04e43291d1c8be5d29bf&wsBindIP=2&wsserid=1168239032757180434"
-                        },
-                        {
-                          "id": "lnk-506600847a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-679f37e1a2fa",
           "name": "⚽ Inter Turku vs Sjk | Giữa Hiệp - 45+2' 0 - 1 23:00 23/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-be0ed5ded7",
+                          "id": "lnk-02b84e0277",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz3gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c50d510e5c2770b5f7074422-178223347712841&wsIPSercert=973f950f5c9e04e43291d1c8be5d29bf&wsBindIP=2&wsserid=1168239032780249394"
+                          "url": "https://tfwz3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178223407427261&wsIPSercert=ff86165b70c7e34e037a1b6442330e4c&wsBindIP=2&wsserid=1168178972991608093"
                         },
                         {
-                          "id": "lnk-72222dc3de",
+                          "id": "lnk-b7ef4f0efc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-878bf74c8cfc",
-          "name": "⚽ Portugal vs Uzbekistan | Sắp bắt đầu - null' 0 - 0 00:00 24/06/2026",
+          "name": "⚽ Portugal vs Uzbekistan | H1 - 1' 0 - 0 00:00 24/06/2026",
           "tournament": "World CupW ( ĐẦU CẦU TRUNG LẬP )",
           "logo_nha": "https://media.api-sports.io/football/teams/27.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1568.png",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4b33986ebe",
+                          "id": "lnk-ecccfe0116",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=6931d1040439771ff9a052ea-178223348516732&wsIPSercert=973f950f5c9e04e43291d1c8be5d29bf&wsBindIP=2&wsserid=1168239032787589538"
+                          "url": "https://tfwz3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=5407ef809016cab9a772a158-178223408324178&wsIPSercert=ff86165b70c7e34e037a1b6442330e4c&wsBindIP=2&wsserid=1168178972990559465"
                         },
                         {
-                          "id": "lnk-5bc7dc1fdf",
+                          "id": "lnk-6cffcbbf12",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-9b2edf5abe87",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-fd143789a6e4",
+          "name": "⚽ Shenzhen 2028 vs Langfang Glory City | Sắp diễn ra vs 18:30 24/06/2026",
+          "tournament": "League Two",
+          "logo_nha": "https://media.api-sports.io/football/teams/25779.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/23270.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/25779.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-fd143789a6e4",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-fd143789a6e4",
+                  "name": "Shenzhen 2028 vs Langfang Glory City",
+                  "streams": [
+                    {
+                      "id": "kaytee-fd143789a6e4",
                       "name": "F",
                       "stream_links": []
                     }
