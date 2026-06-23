@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:41 24/06/2026",
+  "last_updated": "01:21 24/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-679f37e1a2fa",
-          "name": "⚽ Inter Turku vs Sjk | H2 - 80' 1 - 1 23:00 23/06/2026",
-          "tournament": "Veikkausliiga",
-          "logo_nha": "https://media.api-sports.io/football/teams/1164.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/689.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1164.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-679f37e1a2fa",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-679f37e1a2fa",
-                  "name": "Inter Turku vs Sjk",
-                  "streams": [
-                    {
-                      "id": "kaytee-679f37e1a2fa",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fe65d1dbdc",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwz3gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=802b7b15f629a240c7792d6b-178223647339883&wsIPSercert=313bacfacfdb82f105de11f72321a2c4&wsBindIP=2&wsserid=1168239032764520582"
-                        },
-                        {
-                          "id": "lnk-72487c106f",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-878bf74c8cfc",
-          "name": "⚽ Portugal vs Uzbekistan | H1 - 41' 3 - 0 00:00 24/06/2026",
+          "name": "⚽ Portugal vs Uzbekistan | Live 0 - 0 00:00 24/06/2026",
           "tournament": "World CupW ( ĐẦU CẦU TRUNG LẬP )",
           "logo_nha": "https://media.api-sports.io/football/teams/27.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1568.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bd3df29f98",
+                          "id": "lnk-95cb092b9d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=802b7b15f629a240c7792d6b-178223648178785&wsIPSercert=313bacfacfdb82f105de11f72321a2c4&wsBindIP=2&wsserid=1168239032764520582"
+                          "url": "https://tfwz3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e203e6ad827735e88b522884-178223888408532&wsIPSercert=d30c1b99fd1008cc14c75de89508aec0&wsBindIP=2&wsserid=1168239032773957826"
                         },
                         {
-                          "id": "lnk-e09b98eb83",
+                          "id": "lnk-f9a2f55675",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-fd143789a6e4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c0a56fae2a8e",
+          "name": "⚽ Young Africans vs Azam | Sắp diễn ra vs 20:00 24/06/2026",
+          "tournament": "Ligi kuu Bara",
+          "logo_nha": "https://media.api-sports.io/football/teams/5370.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/8057.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5370.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c0a56fae2a8e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c0a56fae2a8e",
+                  "name": "Young Africans vs Azam",
+                  "streams": [
+                    {
+                      "id": "kaytee-c0a56fae2a8e",
                       "name": "F",
                       "stream_links": []
                     }
