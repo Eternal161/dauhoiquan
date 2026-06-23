@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:21 23/06/2026",
+  "last_updated": "18:30 23/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-3e0212772f95",
-          "name": "⚽ Robina City vs Capalaba | H2 - 90+2' 5 - 1 16:30 23/06/2026",
-          "tournament": "Queensland Premier League",
-          "logo_nha": "https://media.api-sports.io/football/teams/27512.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/10214.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/27512.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3e0212772f95",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3e0212772f95",
-                  "name": "Robina City vs Capalaba",
-                  "streams": [
-                    {
-                      "id": "kaytee-3e0212772f95",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a7af68d531",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwz0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178221367095739&wsIPSercert=04860ac67671b9fc3838cc5a26207b6d&wsBindIP=2&wsserid=1168231589572867007"
-                        },
-                        {
-                          "id": "lnk-0918a090b2",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-2a0b2c338b78",
-          "name": "⚽ Logan Lightning vs Holland Park Hawks | H1 - 45' 0 - 2 17:30 23/06/2026",
+          "name": "⚽ Logan Lightning vs Holland Park Hawks | Giữa Hiệp - 45+2' 0 - 2 17:30 23/06/2026",
           "tournament": "Queensland Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/11180.png",
           "logo_khach": "https://media.api-sports.io/football/teams/11178.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bbef085497",
+                          "id": "lnk-1ca74d23b7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178221367964465&wsIPSercert=04860ac67671b9fc3838cc5a26207b6d&wsBindIP=2&wsserid=1168231785641135723"
+                          "url": "https://tfwz3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178221426690728&wsIPSercert=d979a00f18073764c83283e1cc15a4c2&wsBindIP=2&wsserid=1177063474761571144"
                         },
                         {
-                          "id": "lnk-729f64d547",
+                          "id": "lnk-ce10b5b758",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-010f785a0483",
-          "name": "⚽ Guangdong Mingtu vs Guizhou Zhucheng | Sắp bắt đầu - null' 0 - 0 18:30 23/06/2026",
+          "name": "⚽ Guangdong Mingtu vs Guizhou Zhucheng | H1 - 1' 0 - 0 18:30 23/06/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/25773.png",
           "logo_khach": "https://media.api-sports.io/football/teams/25775.png",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ef7eab8f3b",
+                          "id": "lnk-821f5e14a2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=00489e5fa24fa852f6673a81-178221368827797&wsIPSercert=04860ac67671b9fc3838cc5a26207b6d&wsBindIP=2&wsserid=1168231589574964209"
+                          "url": "https://tfwz3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=5bd5ca106460d708e48cc2cb-178221427527600&wsIPSercert=d979a00f18073764c83283e1cc15a4c2&wsBindIP=2&wsserid=1168158473487963106"
                         },
                         {
-                          "id": "lnk-fbf52f5e96",
+                          "id": "lnk-62c74f465d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-d5b96246fef7",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-69cbc8f7a80d",
+          "name": "⚽ Palestino vs A. Italiano | Sắp diễn ra vs 07:00 24/06/2026",
+          "tournament": "Copa Chile",
+          "logo_nha": "https://media.api-sports.io/football/teams/2318.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2329.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2318.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-69cbc8f7a80d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-69cbc8f7a80d",
+                  "name": "Palestino vs A. Italiano",
+                  "streams": [
+                    {
+                      "id": "kaytee-69cbc8f7a80d",
                       "name": "F",
                       "stream_links": []
                     }
