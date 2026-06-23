@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:50 23/06/2026",
+  "last_updated": "22:11 23/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-ca8ec6551f64",
-          "name": "⚽ Kups vs Ilves | Sắp bắt đầu - null' 0 - 0 22:00 23/06/2026",
+          "name": "⚽ Kups vs Ilves | Live 0 - 0 22:00 23/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/1163.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a38529785c",
+                          "id": "lnk-4bf282e59a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=48fd414b4b689dc7f41f4800-178222626685732&wsIPSercert=cc06b8db3148c247a5f227cd768a0a38&wsBindIP=2&wsserid=1172662091344090222"
+                          "url": "https://tfwz1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=bd4dee6f92f8e7a319e15365-178222747745594&wsIPSercert=d62efbdeefea9cc28c3195bd109fbd7c&wsBindIP=2&wsserid=1168243343863876729"
                         },
                         {
-                          "id": "lnk-e3843969f9",
+                          "id": "lnk-fa30a971bc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
