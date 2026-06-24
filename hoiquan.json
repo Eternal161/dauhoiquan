@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:20 24/06/2026",
+  "last_updated": "20:31 24/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-05a36aabb874",
-          "name": "⚽ Shenzhen 2028 vs Langfang Glory City | H2 - 90+3' 3 - 1 18:30 24/06/2026",
-          "tournament": "League Two",
-          "logo_nha": "https://media.api-sports.io/football/teams/25779.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/23270.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/25779.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-05a36aabb874",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-05a36aabb874",
-                  "name": "Shenzhen 2028 vs Langfang Glory City",
-                  "streams": [
-                    {
-                      "id": "kaytee-05a36aabb874",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a2b5fbb246",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-5fa028939016",
           "name": "⚽ Gagra vs Samgurali | Sắp diễn ra vs 23:00 24/06/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-40d2a0d460b0",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d0b9c48442c7",
+          "name": "⚽ Khovd vs Hunters | Sắp diễn ra vs 15:00 25/06/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Khovd_Broncos_FC_Logo.png/250px-Khovd_Broncos_FC_Logo.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/24722.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Khovd_Broncos_FC_Logo.png/250px-Khovd_Broncos_FC_Logo.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d0b9c48442c7",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d0b9c48442c7",
+                  "name": "Khovd vs Hunters",
+                  "streams": [
+                    {
+                      "id": "kaytee-d0b9c48442c7",
                       "name": "F",
                       "stream_links": []
                     }
