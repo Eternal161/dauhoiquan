@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:20 25/06/2026",
+  "last_updated": "05:31 25/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a84a48d38c1a",
-          "name": "⚽ Morocco vs Haiti | H1 - 20' 0 - 1 05:00 25/06/2026",
+          "name": "⚽ Morocco vs Haiti | Live 0 - 0 05:00 25/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ab2ce5ea45",
+                          "id": "lnk-a77f4987f2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx03gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=ff451cfe95dafc5596a3de93-178233966237019&wsIPSercert=772d7f987c78be1a5d2edbacb685e149&wsBindIP=2&wsserid=1168276518870124245"
+                          "url": "https://tfx03gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=3a3ddfb0ca0fd79a326e7377-178234027310015&wsIPSercert=d5a2e9fd1af49c078e6ac8528b5767f8&wsBindIP=2&wsserid=1168239097222411122"
                         },
                         {
-                          "id": "lnk-67fade614f",
+                          "id": "lnk-5d7da1f8ab",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-3c09efe924a9",
-          "name": "⚽ Scotland vs Brazil | H1 - 20' 0 - 1 05:00 25/06/2026",
+          "name": "⚽ Scotland vs Brazil | Live 0 - 0 05:00 25/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-78d12476f4",
+                          "id": "lnk-b1f6a02ac9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx03gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ff451cfe95dafc5596a3de93-178233967046406&wsIPSercert=772d7f987c78be1a5d2edbacb685e149&wsBindIP=2&wsserid=1168276518870124245"
+                          "url": "https://tfx03gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3a3ddfb0ca0fd79a326e7377-178234028113939&wsIPSercert=d5a2e9fd1af49c078e6ac8528b5767f8&wsBindIP=2&wsserid=1168239097222411122"
                         },
                         {
-                          "id": "lnk-e29c02a5ab",
+                          "id": "lnk-481b836a5d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
