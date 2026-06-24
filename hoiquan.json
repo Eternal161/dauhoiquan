@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:31 24/06/2026",
+  "last_updated": "19:41 24/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-05a36aabb874",
-          "name": "⚽ Shenzhen 2028 vs Langfang Glory City | Giữa Hiệp - 45+3' 1 - 1 18:30 24/06/2026",
+          "name": "⚽ Shenzhen 2028 vs Langfang Glory City | H2 - 54' 1 - 1 18:30 24/06/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/25779.png",
           "logo_khach": "https://media.api-sports.io/football/teams/23270.png",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-94891dccaf",
+                          "id": "lnk-5e5974e1d2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-8eb6daf2cce2",
-          "name": "⚽ Zhenis Astana vs Kaisar Kyzylorda | Sắp diễn ra vs 20:00 24/06/2026",
+          "name": "⚽ Zhenis Astana vs Kaisar Kyzylorda | Live 0 - 0 20:00 24/06/2026",
           "tournament": "Ngoại hạng Kazakhstan",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5rt8vVH1GBoc6UFus5b0NMO-AfLS7DCt0lVgClAZEQ&s=10",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZTtg54WiTJkS7einJZGMUhkb6HUvmIl3WkLZ3fMV01g&s=10",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,15 @@
                     {
                       "id": "kaytee-8eb6daf2cce2",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-392c3c6832",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
