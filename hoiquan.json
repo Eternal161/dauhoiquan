@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:30 24/06/2026",
+  "last_updated": "17:41 24/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-9b2edf5abe87",
-          "name": "⚽ Kahibah vs Adamstown Rosebuds | H1 - 31' 0 - 0 17:00 24/06/2026",
+          "name": "⚽ Kahibah vs Adamstown Rosebuds | H1 - 41' 1 - 0 17:00 24/06/2026",
           "tournament": "Northern NSW NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/23502.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10201.png",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3aa37e0d96",
+                          "id": "lnk-991907f39a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -286,6 +286,51 @@
           ]
         },
         {
+          "id": "kaytee-51c432aa67e2",
+          "name": "⚽ D. La Serena vs Cobresal | Sắp diễn ra vs 03:00 25/06/2026",
+          "tournament": "Copa Chile",
+          "logo_nha": "https://media.api-sports.io/football/teams/2341.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2331.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2341.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-51c432aa67e2",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-51c432aa67e2",
+                  "name": "D. La Serena vs Cobresal",
+                  "streams": [
+                    {
+                      "id": "kaytee-51c432aa67e2",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-a84a48d38c1a",
           "name": "⚽ Morocco vs Haiti | Sắp diễn ra vs 05:00 25/06/2026",
           "tournament": "World Cup",
@@ -376,11 +421,11 @@
           ]
         },
         {
-          "id": "kaytee-7f7506f58b03",
-          "name": "⚽ Czech Republic vs Mexico | Sắp diễn ra vs 08:00 25/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/770.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
+          "id": "kaytee-6dde5f2c6f7d",
+          "name": "⚽ Miami Fc vs Orange County Sc | Sắp diễn ra vs 06:00 25/06/2026",
+          "tournament": "USL Championship",
+          "logo_nha": "https://media.api-sports.io/football/teams/9030.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4007.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -388,7 +433,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/770.png",
+            "url": "https://media.api-sports.io/football/teams/9030.png",
             "width": 1600,
             "height": 1200
           },
@@ -402,60 +447,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-7f7506f58b03",
+              "id": "kaytee-6dde5f2c6f7d",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-7f7506f58b03",
-                  "name": "Czech Republic vs Mexico",
+                  "id": "kaytee-6dde5f2c6f7d",
+                  "name": "Miami Fc vs Orange County Sc",
                   "streams": [
                     {
-                      "id": "kaytee-7f7506f58b03",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-40d2a0d460b0",
-          "name": "⚽ South Africa vs South Korea | Sắp diễn ra vs 08:00 25/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1728.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-40d2a0d460b0",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-40d2a0d460b0",
-                  "name": "South Africa vs South Korea",
-                  "streams": [
-                    {
-                      "id": "kaytee-40d2a0d460b0",
+                      "id": "kaytee-6dde5f2c6f7d",
                       "name": "F",
                       "stream_links": []
                     }
