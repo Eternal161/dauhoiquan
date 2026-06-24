@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:01 25/06/2026",
+  "last_updated": "03:11 25/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-07c5cefe1632",
-          "name": "⚽ Bosnia & Herzegovina vs Qatar | Live 0 - 0 02:00 25/06/2026",
+          "name": "⚽ Bosnia & Herzegovina vs Qatar | H2 - 48' 2 - 1 02:00 25/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1113.png",
           "logo_khach": "https://cdn.haitrieu.com/wp-content/uploads/2022/05/Logo-Doi-Tuyen-Qatar.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e0e6cb6fa5",
+                          "id": "lnk-3b0a82ab9b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx03gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=17f1fc40dfb08926c7f053a0-178233128537212&wsIPSercert=2c6f814bdce122940d51921e65ae84db&wsBindIP=2&wsserid=1168276443747689227"
+                          "url": "https://tfx03go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=b666b584e4acbbaf977137a3-178233187130361&wsIPSercert=1b9f7997b8b1b32c6561fd9443066429&wsBindIP=2&wsserid=1168159941878277355"
                         },
                         {
-                          "id": "lnk-ee01807a89",
+                          "id": "lnk-9b27f9f30d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-4969e8c26c6b",
-          "name": "⚽ Switzerland vs Canada | Live 0 - 0 02:00 25/06/2026",
+          "name": "⚽ Switzerland vs Canada | H2 - 52' 1 - 0 02:00 25/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3bee699d33",
+                          "id": "lnk-5cc5a8ae02",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx00gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fc387c98748ade8f54f1ef90-178233129362879&wsIPSercert=2c6f814bdce122940d51921e65ae84db&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfx03go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b666b584e4acbbaf977137a3-178233187986224&wsIPSercert=1b9f7997b8b1b32c6561fd9443066429&wsBindIP=2&wsserid=1168159941878277355"
                         },
                         {
-                          "id": "lnk-531d8eaaa0",
+                          "id": "lnk-2c12d3aba7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
