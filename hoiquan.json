@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:10 24/06/2026",
+  "last_updated": "16:20 24/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-468427b33740",
-          "name": "⚽ Deren vs Central Stallions | H2 - 52' 1 - 0 15:00 24/06/2026",
+          "name": "⚽ Deren vs Central Stallions | H2 - 61' 2 - 0 15:00 24/06/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/16185.png",
           "logo_khach": "https://media.api-sports.io/football/teams/22067.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6853be91bb",
+                          "id": "lnk-d8b033d5a6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx01gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=2c45ec0ee708bf7b239c6926-178229226280515&wsIPSercert=3121c1622cb1a06de8a37eb9bdcedf0f&wsBindIP=2&wsserid=1168168154451507561"
+                          "url": "https://tfx00gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=8ba658945e64d68e86674644-178229285881987&wsIPSercert=e6c3522e9039d094651400bbb1536cc0&wsBindIP=2&wsserid=1168283618402913555"
                         },
                         {
-                          "id": "lnk-433c358fd8",
+                          "id": "lnk-b34bb5d3ed",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
