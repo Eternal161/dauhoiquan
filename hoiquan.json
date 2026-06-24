@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:40 25/06/2026",
+  "last_updated": "05:50 25/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a84a48d38c1a",
-          "name": "⚽ Morocco vs Haiti | H1 - 40' 1 - 1 05:00 25/06/2026",
+          "name": "⚽ Morocco vs Haiti | H1 - 45+5' 2 - 2 05:00 25/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bbfc0d8491",
+                          "id": "lnk-48577e544d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx00gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=a422dc311c391630ce9559bf-178234086880163&wsIPSercert=cfa29895af3bc290e218445cc74d7ede&wsBindIP=2&wsserid=1168202333420231774"
+                          "url": "https://tfx03gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=e29dd5cec0156eb8fe973324-178234146426873&wsIPSercert=267965d397f53c9271bd435fbc64f31c&wsBindIP=2&wsserid=1168239097228702694"
                         },
                         {
-                          "id": "lnk-ee5df43f0c",
+                          "id": "lnk-18652fde49",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-3c09efe924a9",
-          "name": "⚽ Scotland vs Brazil | H1 - 40' 0 - 1 05:00 25/06/2026",
+          "name": "⚽ Scotland vs Brazil | H1 - 45+5' 0 - 2 05:00 25/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-15865c1305",
+                          "id": "lnk-18e4bc2d15",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx00gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fc387c98748ade8f54f1ef90-178234087717210&wsIPSercert=cfa29895af3bc290e218445cc74d7ede&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfx03gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e29dd5cec0156eb8fe973324-178234147197148&wsIPSercert=267965d397f53c9271bd435fbc64f31c&wsBindIP=2&wsserid=1168239097228702694"
                         },
                         {
-                          "id": "lnk-97c69143c6",
+                          "id": "lnk-979e6bf517",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +166,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1530030b8e",
+                          "id": "lnk-650969e040",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx03gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2ea24eeaab6b90524c5bac93-178234088636538&wsIPSercert=cfa29895af3bc290e218445cc74d7ede&wsBindIP=2&wsserid=1168271556800904919"
+                          "url": "https://tfx03gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3a3ddfb0ca0fd79a326e7377-178234148124271&wsIPSercert=267965d397f53c9271bd435fbc64f31c&wsBindIP=2&wsserid=1168239097222411122"
                         },
                         {
-                          "id": "lnk-ba177afbc3",
+                          "id": "lnk-91c50606fb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
