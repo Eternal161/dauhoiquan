@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:01 24/06/2026",
+  "last_updated": "11:10 24/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-ede720edbf0b",
-          "name": "⚽ Colombia vs Congo Dr | H2 - 90+6' 1 - 0 09:00 24/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ede720edbf0b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ede720edbf0b",
-                  "name": "Colombia vs Congo Dr",
-                  "streams": [
-                    {
-                      "id": "kaytee-ede720edbf0b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fa1e714e77",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx03go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=1c66e4ed59792af5c9430327-178227367420067&wsIPSercert=c3b038b5911be62bfb6228d07347b858&wsBindIP=2&wsserid=1168178972992656721"
-                        },
-                        {
-                          "id": "lnk-82c470b0d3",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-468427b33740",
           "name": "⚽ Deren vs Central Stallions | Sắp diễn ra vs 15:00 24/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-3c09efe924a9",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-7f7506f58b03",
+          "name": "⚽ Czech Republic vs Mexico | Sắp diễn ra vs 08:00 25/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/770.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/770.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-7f7506f58b03",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-7f7506f58b03",
+                  "name": "Czech Republic vs Mexico",
+                  "streams": [
+                    {
+                      "id": "kaytee-7f7506f58b03",
                       "name": "F",
                       "stream_links": []
                     }
