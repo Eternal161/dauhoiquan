@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:50 24/06/2026",
+  "last_updated": "08:01 24/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-42269492cb38",
-          "name": "⚽ Panama vs Croatia | Live 0 - 0 06:00 24/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-42269492cb38",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-42269492cb38",
-                  "name": "Panama vs Croatia",
-                  "streams": [
-                    {
-                      "id": "kaytee-42269492cb38",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8bd39a74c9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx03go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ac54fedd9b782e62f6a5c9d8-178226226519865&wsIPSercert=d7ace2f64dd9faa98f1b44040b3e51e4&wsBindIP=2&wsserid=1168159941867791187"
-                        },
-                        {
-                          "id": "lnk-ed42bd99f4",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-69cbc8f7a80d",
           "name": "⚽ Palestino vs A. Italiano | Live 0 - 0 07:00 24/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-101023c928",
+                          "id": "lnk-cf77167bb4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx03go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=d545ab77958479705b2e703c-178226227391332&wsIPSercert=d7ace2f64dd9faa98f1b44040b3e51e4&wsBindIP=2&wsserid=1168178988325669341"
+                          "url": "https://tfx00gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fc387c98748ade8f54f1ef90-178226287470945&wsIPSercert=8ab0d7e522e5e5b0289b3fa110426af4&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-cfbfcd3a23",
+                          "id": "lnk-abe0f7c560",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-4969e8c26c6b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a84a48d38c1a",
+          "name": "⚽ Morocco vs Haiti | Sắp diễn ra vs 05:00 25/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a84a48d38c1a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a84a48d38c1a",
+                  "name": "Morocco vs Haiti",
+                  "streams": [
+                    {
+                      "id": "kaytee-a84a48d38c1a",
                       "name": "F",
                       "stream_links": []
                     }
