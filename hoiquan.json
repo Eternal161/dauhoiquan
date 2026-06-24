@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:20 24/06/2026",
+  "last_updated": "17:30 24/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-9b2edf5abe87",
-          "name": "⚽ Kahibah vs Adamstown Rosebuds | H1 - 20' 0 - 0 17:00 24/06/2026",
+          "name": "⚽ Kahibah vs Adamstown Rosebuds | H1 - 31' 0 - 0 17:00 24/06/2026",
           "tournament": "Northern NSW NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/23502.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10201.png",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-42f603a522",
+                          "id": "lnk-3aa37e0d96",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx00gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=00489e5fa24fa852f6673a81-178229646481044&wsIPSercert=d0eb56d4a20a74bbaae844d39021d68e&wsBindIP=2&wsserid=1168231589574964209"
-                        },
-                        {
-                          "id": "lnk-ca37b95954",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
                         }
                       ]
@@ -113,11 +106,11 @@
           ]
         },
         {
-          "id": "kaytee-1614effeeedb",
-          "name": "⚽ Zhenys vs Kaiserslautern | Sắp diễn ra vs 20:00 24/06/2026",
+          "id": "kaytee-8eb6daf2cce2",
+          "name": "⚽ Zhenis Astana vs Kaisar Kyzylorda | Sắp diễn ra vs 20:00 24/06/2026",
           "tournament": "Ngoại hạng Kazakhstan",
-          "logo_nha": "https://media.api-sports.io/football/teams/16611.png",
-          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzD62kWX1JaLvAMswiHCrHxHQPYwTCof7teQ&s",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5rt8vVH1GBoc6UFus5b0NMO-AfLS7DCt0lVgClAZEQ&s=10",
+          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZTtg54WiTJkS7einJZGMUhkb6HUvmIl3WkLZ3fMV01g&s=10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -125,7 +118,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/16611.png",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5rt8vVH1GBoc6UFus5b0NMO-AfLS7DCt0lVgClAZEQ&s=10",
             "width": 1600,
             "height": 1200
           },
@@ -139,15 +132,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-1614effeeedb",
+              "id": "kaytee-8eb6daf2cce2",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-1614effeeedb",
-                  "name": "Zhenys vs Kaiserslautern",
+                  "id": "kaytee-8eb6daf2cce2",
+                  "name": "Zhenis Astana vs Kaisar Kyzylorda",
                   "streams": [
                     {
-                      "id": "kaytee-1614effeeedb",
+                      "id": "kaytee-8eb6daf2cce2",
                       "name": "F",
                       "stream_links": []
                     }
@@ -158,7 +151,7 @@
           ]
         },
         {
-          "id": "kaytee-8cac799a2eab",
+          "id": "kaytee-5fa028939016",
           "name": "⚽ Gagra vs Samgurali | Sắp diễn ra vs 23:00 24/06/2026",
           "tournament": "Erovnuli Liga",
           "logo_nha": "https://media.api-sports.io/football/teams/3505.png",
@@ -184,15 +177,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-8cac799a2eab",
+              "id": "kaytee-5fa028939016",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-8cac799a2eab",
+                  "id": "kaytee-5fa028939016",
                   "name": "Gagra vs Samgurali",
                   "streams": [
                     {
-                      "id": "kaytee-8cac799a2eab",
+                      "id": "kaytee-5fa028939016",
                       "name": "F",
                       "stream_links": []
                     }
