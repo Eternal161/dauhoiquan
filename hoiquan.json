@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:00 24/06/2026",
+  "last_updated": "18:10 24/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-9b2edf5abe87",
-          "name": "⚽ Kahibah vs Adamstown Rosebuds | H2 - 46' 1 - 0 17:00 24/06/2026",
+          "name": "⚽ Kahibah vs Adamstown Rosebuds | Live 0 - 0 17:00 24/06/2026",
           "tournament": "Northern NSW NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/23502.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10201.png",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-406f1440ab",
+                          "id": "lnk-d54c1693da",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-05a36aabb874",
-          "name": "⚽ Shenzhen 2028 vs Langfang Glory City | Sắp diễn ra vs 18:30 24/06/2026",
+          "name": "⚽ Shenzhen 2028 vs Langfang Glory City | Live 0 - 0 18:30 24/06/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/25779.png",
           "logo_khach": "https://media.api-sports.io/football/teams/23270.png",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,15 @@
                     {
                       "id": "kaytee-05a36aabb874",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-f2458e1110",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
