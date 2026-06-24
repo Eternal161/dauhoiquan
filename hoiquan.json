@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:30 24/06/2026",
+  "last_updated": "10:40 24/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-ede720edbf0b",
-          "name": "⚽ Colombia vs Congo Dr | H2 - 70' 0 - 0 09:00 24/06/2026",
+          "name": "⚽ Colombia vs Congo Dr | Live 0 - 0 09:00 24/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-53f2731ead",
+                          "id": "lnk-7a514d3edb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx04gr3uomttgr31hqbtfa5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=f2e819f0a18b57070f0c843d-178227186206545&wsIPSercert=858c7d72d52c67afbb0e86cd08e718f6&wsBindIP=2&wsserid=1168233226235345617"
+                          "url": "https://tfx03go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=17c3465b91c9ffdca6f1eed0-178227246430787&wsIPSercert=f1a90dd761be95d525248465b395723e&wsBindIP=2&wsserid=1168178973994183557"
                         },
                         {
-                          "id": "lnk-c5bf6f1dc9",
+                          "id": "lnk-63bb4b516e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
