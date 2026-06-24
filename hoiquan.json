@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:40 24/06/2026",
+  "last_updated": "07:50 24/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-42269492cb38",
-          "name": "⚽ Panama vs Croatia | H2 - 82' 0 - 1 06:00 24/06/2026",
+          "name": "⚽ Panama vs Croatia | Live 0 - 0 06:00 24/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ded6918ea3",
+                          "id": "lnk-8bd39a74c9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx03gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=802b7b15f629a240c7792d6b-178226166138651&wsIPSercert=b9430176b5926ab6b0dd859eea089e2b&wsBindIP=2&wsserid=1168239032764520582"
+                          "url": "https://tfx03go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ac54fedd9b782e62f6a5c9d8-178226226519865&wsIPSercert=d7ace2f64dd9faa98f1b44040b3e51e4&wsBindIP=2&wsserid=1168159941867791187"
                         },
                         {
-                          "id": "lnk-acd4b6c801",
+                          "id": "lnk-ed42bd99f4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4085d51dd7",
+                          "id": "lnk-101023c928",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx03gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=6931d1040439771ff9a052ea-178226167005893&wsIPSercert=b9430176b5926ab6b0dd859eea089e2b&wsBindIP=2&wsserid=1168239032787589538"
+                          "url": "https://tfx03go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=d545ab77958479705b2e703c-178226227391332&wsIPSercert=d7ace2f64dd9faa98f1b44040b3e51e4&wsBindIP=2&wsserid=1168178988325669341"
                         },
                         {
-                          "id": "lnk-68df63adc6",
+                          "id": "lnk-cfbfcd3a23",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
