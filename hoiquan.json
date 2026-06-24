@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:31 25/06/2026",
+  "last_updated": "02:40 25/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-07c5cefe1632",
-          "name": "⚽ Bosnia & Herzegovina vs Qatar | H1 - 31' 1 - 0 02:00 25/06/2026",
+          "name": "⚽ Bosnia & Herzegovina vs Qatar | H1 - 40' 2 - 0 02:00 25/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1113.png",
           "logo_khach": "https://cdn.haitrieu.com/wp-content/uploads/2022/05/Logo-Doi-Tuyen-Qatar.png",
@@ -46,10 +46,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f98d383eda",
+                          "id": "lnk-fcca62d8d3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfx03go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=d545ab77958479705b2e703c-178233006031358&wsIPSercert=a480cc615c41f231b649a39d72620ab2&wsBindIP=2&wsserid=1168178988325669341"
+                        },
+                        {
+                          "id": "lnk-bf3ee831e5",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
                         }
                       ]
@@ -62,7 +69,7 @@
         },
         {
           "id": "kaytee-4969e8c26c6b",
-          "name": "⚽ Switzerland vs Canada | H1 - 31' 0 - 0 02:00 25/06/2026",
+          "name": "⚽ Switzerland vs Canada | H1 - 41' 0 - 0 02:00 25/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
@@ -99,10 +106,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a35e9af3eb",
+                          "id": "lnk-438783ff67",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfx03go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=d545ab77958479705b2e703c-178233006886672&wsIPSercert=a480cc615c41f231b649a39d72620ab2&wsBindIP=2&wsserid=1168178988325669341"
+                        },
+                        {
+                          "id": "lnk-f348a04f61",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
                         }
                       ]
