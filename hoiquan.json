@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:20 25/06/2026",
+  "last_updated": "08:31 25/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-4f454dca9da5",
-          "name": "⚽ Miami Fc vs Orange County Sc | H2 - 88' 2 - 3 06:00 25/06/2026",
+          "name": "⚽ Miami Fc vs Orange County Sc | H2 - 90+5' 2 - 4 06:00 25/06/2026",
           "tournament": "USL Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/9030.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4007.png",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-54add52838",
+                          "id": "lnk-1ef9982286",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx13go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178235045898666&wsIPSercert=9c07ab7820ec1044666927881fafc29e&wsBindIP=2&wsserid=1168178972991608093"
-                        },
-                        {
-                          "id": "lnk-03862c27f4",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
                         }
                       ]
@@ -69,7 +62,7 @@
         },
         {
           "id": "kaytee-7f7506f58b03",
-          "name": "⚽ Czech Republic vs Mexico | H1 - 21' 0 - 0 08:00 25/06/2026",
+          "name": "⚽ Czech Republic vs Mexico | H1 - 31' 0 - 0 08:00 25/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/770.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
@@ -106,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c5f80a6038",
+                          "id": "lnk-7ef4b2e452",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx13go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=b729ead558c9cf9a676e9806-178235046680874&wsIPSercert=9c07ab7820ec1044666927881fafc29e&wsBindIP=2&wsserid=1168159941876180135"
+                          "url": "https://tfx13go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=e3fcde56d983ccae380d59b5-178235108098544&wsIPSercert=695b5d4daae2a788977e8d1d1e575dd6&wsBindIP=2&wsserid=1168159941869888407"
                         },
                         {
-                          "id": "lnk-92a212be42",
+                          "id": "lnk-669eb48180",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +122,7 @@
         },
         {
           "id": "kaytee-40d2a0d460b0",
-          "name": "⚽ South Africa vs South Korea | H1 - 21' 0 - 0 08:00 25/06/2026",
+          "name": "⚽ South Africa vs South Korea | H1 - 31' 0 - 0 08:00 25/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1728.png",
@@ -166,14 +159,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-dbe718befd",
+                          "id": "lnk-0cb7a5df48",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx13go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b729ead558c9cf9a676e9806-178235047615202&wsIPSercert=9c07ab7820ec1044666927881fafc29e&wsBindIP=2&wsserid=1168159941876180135"
+                          "url": "https://tfx13go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e3fcde56d983ccae380d59b5-178235109002343&wsIPSercert=695b5d4daae2a788977e8d1d1e575dd6&wsBindIP=2&wsserid=1168159941869888407"
                         },
                         {
-                          "id": "lnk-2a598dfbad",
+                          "id": "lnk-f8d316c202",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
