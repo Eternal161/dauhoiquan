@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:31 25/06/2026",
+  "last_updated": "16:40 25/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b582dcffc887",
-          "name": "⚽ Khovd vs Hunters | H2 - 73' 0 - 4 15:00 25/06/2026",
+          "name": "⚽ Khovd vs Hunters | Live 0 - 0 15:00 25/06/2026",
           "tournament": "Premier League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Khovd_Broncos_FC_Logo.png/250px-Khovd_Broncos_FC_Logo.png",
           "logo_khach": "https://media.api-sports.io/football/teams/24722.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4b8513d286",
+                          "id": "lnk-11dacdf4ac",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx11gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=6d3d810ef4bd4df8f26f8b50-178237987783421&wsIPSercert=c0d9fca78a7c491fc10df73d58b193cc&wsBindIP=2&wsserid=1168168154460945005"
+                          "url": "https://tfx10gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0e049b26c5ec10b00ed2fc6c-178238046262264&wsIPSercert=d0cb3b501f886b84385407849114d907&wsBindIP=2&wsserid=1168283323302724409"
                         },
                         {
-                          "id": "lnk-7d5e4f9c8b",
+                          "id": "lnk-edb7c89000",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f96239eec2",
+                          "id": "lnk-c0da6b619c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx11gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=1a7e779dd8ced2edf73e23dc-178237988619059&wsIPSercert=c0d9fca78a7c491fc10df73d58b193cc&wsBindIP=2&wsserid=1168235283031012122"
+                          "url": "https://tfx10gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=8ba658945e64d68e86674644-178238047125217&wsIPSercert=d0cb3b501f886b84385407849114d907&wsBindIP=2&wsserid=1168283618402913555"
                         },
                         {
-                          "id": "lnk-91b7aacc80",
+                          "id": "lnk-67a69c83f3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
