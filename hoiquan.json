@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:51 26/06/2026",
+  "last_updated": "05:01 26/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-4a1547058c63",
-          "name": "⚽ Curaçao vs Ivory Coast | H2 - 89' 0 - 2 03:00 26/06/2026",
+          "name": "⚽ Curaçao vs Ivory Coast | H2 - 90+7' 0 - 2 03:00 26/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/250px-Flag_of_Cura%C3%A7ao.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e6de3a328a",
+                          "id": "lnk-89293802fb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx14go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ce0743b5eba69bd80a398a5f-178242427109205&wsIPSercert=8a7386d224d4aff5b9441629b68d8614&wsBindIP=2&wsserid=1168231394939227592"
+                          "url": "https://tfx14grauqmtofaauqmtt8rh147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=8c9453ae7a7502a6fc485964-178242487541823&wsIPSercert=4132140d1ecd6335758b2b74e0ba0d99&wsBindIP=2&wsserid=1168235949173878536"
                         },
                         {
-                          "id": "lnk-c637d4ac57",
+                          "id": "lnk-c5fc45bd54",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,68 +68,8 @@
           ]
         },
         {
-          "id": "kaytee-7dd708b0fcbc",
-          "name": "⚽ Ecuador vs Germany | H2 - 90' 2 - 1 03:00 26/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-7dd708b0fcbc",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-7dd708b0fcbc",
-                  "name": "Ecuador vs Germany",
-                  "streams": [
-                    {
-                      "id": "kaytee-7dd708b0fcbc",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-10ecd1cee6",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx14go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ce0743b5eba69bd80a398a5f-178242427983850&wsIPSercert=8a7386d224d4aff5b9441629b68d8614&wsBindIP=2&wsserid=1168231394939227592"
-                        },
-                        {
-                          "id": "lnk-01432fdcaf",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-b2ec455f3cbc",
-          "name": "⚽ Japan vs Sweden | Sắp diễn ra vs 06:00 26/06/2026",
+          "name": "⚽ Japan vs Sweden | Sắp bắt đầu - null' 0 - 0 06:00 26/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5.png",
@@ -146,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +104,22 @@
                     {
                       "id": "kaytee-b2ec455f3cbc",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-1879d8fcc3",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx14grauqmtofaauqmtt8rh144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c23809456a72ad36bacffa0c-178242488432666&wsIPSercert=4132140d1ecd6335758b2b74e0ba0d99&wsBindIP=2&wsserid=1168235948340111272"
+                        },
+                        {
+                          "id": "lnk-52b281ab60",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -174,7 +129,7 @@
         },
         {
           "id": "kaytee-4fa07a28d716",
-          "name": "⚽ Tunisia vs Netherlands | Sắp diễn ra vs 06:00 26/06/2026",
+          "name": "⚽ Tunisia vs Netherlands | Sắp bắt đầu - null' 0 - 0 06:00 26/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1118.png",
@@ -191,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -209,7 +164,22 @@
                     {
                       "id": "kaytee-4fa07a28d716",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-5a1b7798e2",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx14grauqmtofaauqmtt8rh147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=8c9453ae7a7502a6fc485964-178242489269223&wsIPSercert=4132140d1ecd6335758b2b74e0ba0d99&wsBindIP=2&wsserid=1168235949173878536"
+                        },
+                        {
+                          "id": "lnk-2380cf5d87",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -478,6 +448,51 @@
                   "streams": [
                     {
                       "id": "kaytee-eae0b8f7b814",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-00dc219d7790",
+          "name": "⚽ Taraz vs Shakhter Karagandy | Sắp diễn ra vs 20:00 26/06/2026",
+          "tournament": "1. Division",
+          "logo_nha": "https://media.api-sports.io/football/teams/4559.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4566.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4559.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-00dc219d7790",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-00dc219d7790",
+                  "name": "Taraz vs Shakhter Karagandy",
+                  "streams": [
+                    {
+                      "id": "kaytee-00dc219d7790",
                       "name": "F",
                       "stream_links": []
                     }
