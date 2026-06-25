@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:31 25/06/2026",
+  "last_updated": "15:41 25/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b582dcffc887",
-          "name": "⚽ Khovd vs Hunters | H1 - 31' 0 - 0 15:00 25/06/2026",
+          "name": "⚽ Khovd vs Hunters | H1 - 41' 0 - 1 15:00 25/06/2026",
           "tournament": "Premier League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Khovd_Broncos_FC_Logo.png/250px-Khovd_Broncos_FC_Logo.png",
           "logo_khach": "https://media.api-sports.io/football/teams/24722.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-96ad476606",
+                          "id": "lnk-61cce7a508",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx13gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=5bd5ca106460d708e48cc2cb-178237628806577&wsIPSercert=342fa4d3158b8c6ec544653b87dcc614&wsBindIP=2&wsserid=1168158473487963106"
+                          "url": "https://tfx13gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=5bd5ca106460d708e48cc2cb-178237688100513&wsIPSercert=7865b5b97b9f0ca06f40e0db08e441ce&wsBindIP=2&wsserid=1168158473487963106"
                         },
                         {
-                          "id": "lnk-276db1030f",
+                          "id": "lnk-49e2f99d82",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-8d53c78aac3a",
-          "name": "⚽ Hà Nội Nữ vs Nữ Hồ Chí Minh | Sắp diễn ra vs 16:00 25/06/2026",
+          "name": "⚽ Hà Nội Nữ vs Nữ Hồ Chí Minh | Live 0 - 0 16:00 25/06/2026",
           "tournament": "V.league",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwbRVnSljHy8WGaU8UVE_bNbA_ouun6OHpw&s",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/Logo_HWFC.png/250px-Logo_HWFC.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-8d53c78aac3a",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-160165190a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx13gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178237688932503&wsIPSercert=7865b5b97b9f0ca06f40e0db08e441ce&wsBindIP=2&wsserid=1177063474761571144"
+                        },
+                        {
+                          "id": "lnk-32b32640ae",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
