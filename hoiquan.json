@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:20 25/06/2026",
+  "last_updated": "23:31 25/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-b1aceb56e28f",
-          "name": "⚽ Fc Jazz vs Tampere United | H1 - 19' 0 - 0 23:00 25/06/2026",
-          "tournament": "Ykkönen",
-          "logo_nha": "https://media.api-sports.io/football/teams/2074.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/9190.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2074.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b1aceb56e28f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b1aceb56e28f",
-                  "name": "Fc Jazz vs Tampere United",
-                  "streams": [
-                    {
-                      "id": "kaytee-b1aceb56e28f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-586d54c841",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-3d5c93be5ea9",
           "name": "⚽ Super Nova vs Fs Jelgava | Sắp diễn ra vs 00:00 26/06/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-8d1dbea44ccb",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-07f3574a668a",
+          "name": "⚽ West Torrens Birkalla vs Sturt Lions | Sắp diễn ra vs 17:30 26/06/2026",
+          "tournament": "South Australia NPL",
+          "logo_nha": "https://media.api-sports.io/football/teams/16769.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/12866.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/16769.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-07f3574a668a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-07f3574a668a",
+                  "name": "West Torrens Birkalla vs Sturt Lions",
+                  "streams": [
+                    {
+                      "id": "kaytee-07f3574a668a",
                       "name": "F",
                       "stream_links": []
                     }
