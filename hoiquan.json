@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:01 25/06/2026",
+  "last_updated": "18:10 25/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-8d53c78aac3a",
-          "name": "⚽ Hà Nội Nữ vs Nữ Hồ Chí Minh | Live 0 - 0 16:00 25/06/2026",
-          "tournament": "V.league",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwbRVnSljHy8WGaU8UVE_bNbA_ouun6OHpw&s",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/Logo_HWFC.png/250px-Logo_HWFC.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwbRVnSljHy8WGaU8UVE_bNbA_ouun6OHpw&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-8d53c78aac3a",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-8d53c78aac3a",
-                  "name": "Hà Nội Nữ vs Nữ Hồ Chí Minh",
-                  "streams": [
-                    {
-                      "id": "kaytee-8d53c78aac3a",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5fb9fba70a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-4e0e4a3d4b46",
-          "name": "⚽ Khoromkhon vs Ulaangom City | Sắp bắt đầu - null' 0 - 0 18:00 25/06/2026",
+          "name": "⚽ Khoromkhon vs Ulaangom City | H1 - 10' 0 - 0 18:00 25/06/2026",
           "tournament": "Ngoại Hạng Mông Cổ",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/4/48/Bishrelt_Khoromkhon_FC_logo.png",
           "logo_khach": "https://media.api-sports.io/football/teams/26667.png",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8f2a3708f8",
+                          "id": "lnk-b4616a6612",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx11gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=9491eed0fee4da244cb519bb-178238528098092&wsIPSercert=ad87cf407892777487f6fe3e0869ccef&wsBindIP=2&wsserid=1168176346313714739"
+                          "url": "https://tfx10gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178238585670864&wsIPSercert=15c487496d38de6e5f3dc11bd8c95678&wsBindIP=2&wsserid=1168283477179400067"
                         },
                         {
-                          "id": "lnk-e731c51d46",
+                          "id": "lnk-dcb93561f1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-9a1de9a467f7",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8eb966e83f41",
+          "name": "⚽ Paraguay vs Australia | Sắp diễn ra vs 09:00 26/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8eb966e83f41",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8eb966e83f41",
+                  "name": "Paraguay vs Australia",
+                  "streams": [
+                    {
+                      "id": "kaytee-8eb966e83f41",
                       "name": "F",
                       "stream_links": []
                     }
