@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:10 26/06/2026",
+  "last_updated": "04:20 26/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-4a1547058c63",
-          "name": "⚽ Curaçao vs Ivory Coast | Live 0 - 0 03:00 26/06/2026",
+          "name": "⚽ Curaçao vs Ivory Coast | H2 - 59' 0 - 1 03:00 26/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/250px-Flag_of_Cura%C3%A7ao.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-44c2f858d3",
+                          "id": "lnk-d93e4b1f77",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx14grauqmtofaauqmt1gyh147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=885964986e1b7764d324be51-178242186054588&wsIPSercert=c41c0435202ea96d568df2a8d974a725&wsBindIP=2&wsserid=1168235948391492464"
+                          "url": "https://tfx14grauqmtofaauqmtt8rh147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0a38ed42e0ab93fdd8a253b8-178242245875647&wsIPSercert=deb443c120eeef8be14558c86c3e80fd&wsBindIP=2&wsserid=1168235948346402864"
                         },
                         {
-                          "id": "lnk-65e77e17ff",
+                          "id": "lnk-82636b54a3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-7dd708b0fcbc",
-          "name": "⚽ Ecuador vs Germany | Live 0 - 0 03:00 26/06/2026",
+          "name": "⚽ Ecuador vs Germany | H2 - 60' 1 - 1 03:00 26/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9e651cc513",
+                          "id": "lnk-ba83eb21c6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx14grauqmtofaauqmt1gr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=8c9453ae7a7502a6fc485964-178242186919134&wsIPSercert=c41c0435202ea96d568df2a8d974a725&wsBindIP=2&wsserid=1168235949173878536"
+                          "url": "https://tfx14grauqmtofaauqmtt8rh144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0a38ed42e0ab93fdd8a253b8-178242246739594&wsIPSercert=deb443c120eeef8be14558c86c3e80fd&wsBindIP=2&wsserid=1168235948346402864"
                         },
                         {
-                          "id": "lnk-9222f79106",
+                          "id": "lnk-9135f7799c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
