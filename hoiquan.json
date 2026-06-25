@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:50 25/06/2026",
+  "last_updated": "22:01 25/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-5e64f0486f3d",
-          "name": "⚽ Jaiyq vs Akademiya Ontustik | H2 - 89' 0 - 1 20:00 25/06/2026",
-          "tournament": "1. Division",
-          "logo_nha": "https://media.api-sports.io/football/teams/27561.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/4545.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/27561.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-5e64f0486f3d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-5e64f0486f3d",
-                  "name": "Jaiyq vs Akademiya Ontustik",
-                  "streams": [
-                    {
-                      "id": "kaytee-5e64f0486f3d",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-78298a4092",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx14gchnhcjo8rzdrpjtfa4144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=2c45ec0ee708bf7b239c6926-178239906460040&wsIPSercert=7214ae66fe69338b9ac1f0d2a9f4af0e&wsBindIP=2&wsserid=1168168154451507561"
-                        },
-                        {
-                          "id": "lnk-93c161b2ad",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-b1aceb56e28f",
           "name": "⚽ Fc Jazz vs Tampere United | Sắp diễn ra vs 23:00 25/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-b8cb970c3fd0",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8d1dbea44ccb",
+          "name": "⚽ Rochedale Rovers vs Gold Coast Knights | Sắp diễn ra vs 16:30 26/06/2026",
+          "tournament": "Queensland NPL",
+          "logo_nha": "https://media.api-sports.io/football/teams/11182.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10215.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/11182.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8d1dbea44ccb",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8d1dbea44ccb",
+                  "name": "Rochedale Rovers vs Gold Coast Knights",
+                  "streams": [
+                    {
+                      "id": "kaytee-8d1dbea44ccb",
                       "name": "F",
                       "stream_links": []
                     }
