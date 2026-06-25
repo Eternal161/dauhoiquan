@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:41 25/06/2026",
+  "last_updated": "08:50 25/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-4f454dca9da5",
-          "name": "⚽ Miami Fc vs Orange County Sc | H2 - 90+5' 2 - 4 06:00 25/06/2026",
-          "tournament": "USL Championship",
-          "logo_nha": "https://media.api-sports.io/football/teams/9030.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/4007.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/9030.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-4f454dca9da5",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-4f454dca9da5",
-                  "name": "Miami Fc vs Orange County Sc",
-                  "streams": [
-                    {
-                      "id": "kaytee-4f454dca9da5",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a4a656aae9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-7f7506f58b03",
-          "name": "⚽ Czech Republic vs Mexico | H1 - 41' 0 - 0 08:00 25/06/2026",
+          "name": "⚽ Czech Republic vs Mexico | Giữa Hiệp - 45+4' 0 - 0 08:00 25/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/770.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2ea980f9a5",
+                          "id": "lnk-401f488ebe",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx13gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=5fd004480db7fd30dbb0a661-178235168867039&wsIPSercert=e662009f67ca48f2c5c05511332a3d7d&wsBindIP=2&wsserid=1168271556796710501"
+                          "url": "https://tfx11gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178235226044218&wsIPSercert=94a0f018aac1a4b07b9d81e4ec4acd1a&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-ffab9eef10",
+                          "id": "lnk-16be60db0a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -122,7 +69,7 @@
         },
         {
           "id": "kaytee-40d2a0d460b0",
-          "name": "⚽ South Africa vs South Korea | H1 - 41' 0 - 0 08:00 25/06/2026",
+          "name": "⚽ South Africa vs South Korea | Giữa Hiệp - 45+4' 0 - 0 08:00 25/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1728.png",
@@ -159,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ec8db5730c",
+                          "id": "lnk-0af6bff6d5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx11gr4uqmtt8y41hcjagyzdectppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=aa40ee8dc1e3144fd9462661-178235169712213&wsIPSercert=e662009f67ca48f2c5c05511332a3d7d&wsBindIP=2&wsserid=1168195251501065244"
+                          "url": "https://tfx11gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178235226905071&wsIPSercert=94a0f018aac1a4b07b9d81e4ec4acd1a&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-bee07ab6df",
+                          "id": "lnk-e226ae409c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -486,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-4a1547058c63",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-7dd708b0fcbc",
+          "name": "⚽ Ecuador vs Germany | Sắp diễn ra vs 03:00 26/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-7dd708b0fcbc",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-7dd708b0fcbc",
+                  "name": "Ecuador vs Germany",
+                  "streams": [
+                    {
+                      "id": "kaytee-7dd708b0fcbc",
                       "name": "F",
                       "stream_links": []
                     }
