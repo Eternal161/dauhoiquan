@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:40 25/06/2026",
+  "last_updated": "16:50 25/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-b582dcffc887",
-          "name": "⚽ Khovd vs Hunters | Live 0 - 0 15:00 25/06/2026",
-          "tournament": "Premier League",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Khovd_Broncos_FC_Logo.png/250px-Khovd_Broncos_FC_Logo.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/24722.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Khovd_Broncos_FC_Logo.png/250px-Khovd_Broncos_FC_Logo.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b582dcffc887",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b582dcffc887",
-                  "name": "Khovd vs Hunters",
-                  "streams": [
-                    {
-                      "id": "kaytee-b582dcffc887",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-11dacdf4ac",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx10gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0e049b26c5ec10b00ed2fc6c-178238046262264&wsIPSercert=d0cb3b501f886b84385407849114d907&wsBindIP=2&wsserid=1168283323302724409"
-                        },
-                        {
-                          "id": "lnk-edb7c89000",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-8d53c78aac3a",
           "name": "⚽ Hà Nội Nữ vs Nữ Hồ Chí Minh | Live 0 - 0 16:00 25/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c0da6b619c",
+                          "id": "lnk-c6037bdaa1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx10gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=8ba658945e64d68e86674644-178238047125217&wsIPSercert=d0cb3b501f886b84385407849114d907&wsBindIP=2&wsserid=1168283618402913555"
+                          "url": "https://tfx10gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=8ba658945e64d68e86674644-178238106037678&wsIPSercert=28ba532bf3ad6aef518ecfe21889bb79&wsBindIP=2&wsserid=1168283618402913555"
                         },
                         {
-                          "id": "lnk-67a69c83f3",
+                          "id": "lnk-4dfb62ff14",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-4fa07a28d716",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-9a1de9a467f7",
+          "name": "⚽ Cuiaba vs Londrina | Sắp diễn ra vs 06:30 26/06/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/1193.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/148.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1193.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-9a1de9a467f7",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-9a1de9a467f7",
+                  "name": "Cuiaba vs Londrina",
+                  "streams": [
+                    {
+                      "id": "kaytee-9a1de9a467f7",
                       "name": "F",
                       "stream_links": []
                     }
