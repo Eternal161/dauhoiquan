@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:01 25/06/2026",
+  "last_updated": "15:10 25/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b582dcffc887",
-          "name": "⚽ Khovd vs Hunters | Sắp bắt đầu - null' 0 - 0 15:00 25/06/2026",
+          "name": "⚽ Khovd vs Hunters | H1 - 10' 0 - 0 15:00 25/06/2026",
           "tournament": "Premier League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Khovd_Broncos_FC_Logo.png/250px-Khovd_Broncos_FC_Logo.png",
           "logo_khach": "https://media.api-sports.io/football/teams/24722.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-948f225ff8",
+                          "id": "lnk-292858a5fd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx11gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=6cdfc146647d1c9a32ddbcec-178237447867278&wsIPSercert=0aa1aa66f8ced713f1b39e61ae059ba1&wsBindIP=2&wsserid=1177063474757376778"
+                          "url": "https://tfx10gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=00489e5fa24fa852f6673a81-178237506328809&wsIPSercert=f0283a59b404e2ed6c35984c8fab7267&wsBindIP=2&wsserid=1168231589574964209"
                         },
                         {
-                          "id": "lnk-66ab851afe",
+                          "id": "lnk-6098f3bb25",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
