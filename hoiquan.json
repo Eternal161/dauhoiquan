@@ -1,132 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:50 25/06/2026",
+  "last_updated": "10:00 25/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-7f7506f58b03",
-          "name": "⚽ Czech Republic vs Mexico | H2 - 90' 0 - 2 08:00 25/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/770.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/770.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-7f7506f58b03",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-7f7506f58b03",
-                  "name": "Czech Republic vs Mexico",
-                  "streams": [
-                    {
-                      "id": "kaytee-7f7506f58b03",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7dd0ba16bd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx13go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ac54fedd9b782e62f6a5c9d8-178235586711620&wsIPSercert=150f2b7e3de12b5ab9d2aa20c2a72051&wsBindIP=2&wsserid=1168159941867791187"
-                        },
-                        {
-                          "id": "lnk-7f5a522903",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-40d2a0d460b0",
-          "name": "⚽ South Africa vs South Korea | H2 - 90' 1 - 0 08:00 25/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1728.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-40d2a0d460b0",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-40d2a0d460b0",
-                  "name": "South Africa vs South Korea",
-                  "streams": [
-                    {
-                      "id": "kaytee-40d2a0d460b0",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d555fbe680",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx13go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ac54fedd9b782e62f6a5c9d8-178235587605921&wsIPSercert=150f2b7e3de12b5ab9d2aa20c2a72051&wsBindIP=2&wsserid=1168159941867791187"
-                        },
-                        {
-                          "id": "lnk-0f8174680a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-b582dcffc887",
           "name": "⚽ Khovd vs Hunters | Sắp diễn ra vs 15:00 25/06/2026",
@@ -478,6 +358,96 @@
                   "streams": [
                     {
                       "id": "kaytee-7dd708b0fcbc",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b2ec455f3cbc",
+          "name": "⚽ Japan vs Sweden | Sắp diễn ra vs 06:00 26/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/5.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b2ec455f3cbc",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b2ec455f3cbc",
+                  "name": "Japan vs Sweden",
+                  "streams": [
+                    {
+                      "id": "kaytee-b2ec455f3cbc",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-4fa07a28d716",
+          "name": "⚽ Tunisia vs Netherlands | Sắp diễn ra vs 06:00 26/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1118.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4fa07a28d716",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4fa07a28d716",
+                  "name": "Tunisia vs Netherlands",
+                  "streams": [
+                    {
+                      "id": "kaytee-4fa07a28d716",
                       "name": "F",
                       "stream_links": []
                     }
