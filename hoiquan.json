@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:00 26/06/2026",
+  "last_updated": "02:11 26/06/2026",
   "groups": [
     {
       "id": "live",
@@ -54,7 +54,7 @@
         },
         {
           "id": "kaytee-7dd708b0fcbc",
-          "name": "⚽ Ecuador vs Germany | Sắp diễn ra vs 03:00 26/06/2026",
+          "name": "⚽ Ecuador vs Germany | Live 0 - 0 03:00 26/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
@@ -71,10 +71,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -89,7 +89,22 @@
                     {
                       "id": "kaytee-7dd708b0fcbc",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-d5f5954d9e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx14go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178241469737842&wsIPSercert=38ab4d6e9dd172691d1bde9d1c96ad93&wsBindIP=2&wsserid=1168231394942373370"
+                        },
+                        {
+                          "id": "lnk-8247ba21a9",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
