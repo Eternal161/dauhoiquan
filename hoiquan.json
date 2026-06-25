@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:31 25/06/2026",
+  "last_updated": "07:40 25/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-4f454dca9da5",
-          "name": "⚽ Miami Fc vs Orange County Sc | Giữa Hiệp - 45+3' 1 - 1 06:00 25/06/2026",
+          "name": "⚽ Miami Fc vs Orange County Sc | H2 - 48' 1 - 1 06:00 25/06/2026",
           "tournament": "USL Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/9030.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4007.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2280d2cd5c",
+                          "id": "lnk-9f40389a0c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx13gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2ea24eeaab6b90524c5bac93-178234748303104&wsIPSercert=2d89023830c82974250e70e1ac3516de&wsBindIP=2&wsserid=1168271556800904919"
+                          "url": "https://tfx13gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3a3ddfb0ca0fd79a326e7377-178234805714467&wsIPSercert=4f5fc3e73301b72e6290556c76c3f6d5&wsBindIP=2&wsserid=1168239097222411122"
                         },
                         {
-                          "id": "lnk-852cc0d0c6",
+                          "id": "lnk-c46bd74430",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-7f7506f58b03",
-          "name": "⚽ Czech Republic vs Mexico | Sắp diễn ra vs 08:00 25/06/2026",
+          "name": "⚽ Czech Republic vs Mexico | Sắp bắt đầu - null' 0 - 0 08:00 25/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/770.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-7f7506f58b03",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-1e5fde0dc9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx13gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=26fa799ae456cfc17ee2bcd7-178234806525610&wsIPSercert=4f5fc3e73301b72e6290556c76c3f6d5&wsBindIP=2&wsserid=1168239097225556910"
+                        },
+                        {
+                          "id": "lnk-59d2275266",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -151,14 +166,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-37991dedd6",
+                          "id": "lnk-00ecd98f91",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx13gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=dd4bb502e89ec83c9bff36ac-178234750016279&wsIPSercert=2d89023830c82974250e70e1ac3516de&wsBindIP=2&wsserid=1168276518868027036"
+                          "url": "https://tfx13gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ff451cfe95dafc5596a3de93-178234807455903&wsIPSercert=4f5fc3e73301b72e6290556c76c3f6d5&wsBindIP=2&wsserid=1168276518870124245"
                         },
                         {
-                          "id": "lnk-ad4bae29b7",
+                          "id": "lnk-c03a4d1022",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
