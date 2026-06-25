@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:50 26/06/2026",
+  "last_updated": "06:01 26/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-31b7e28112a1",
-          "name": "⚽ Japan vs Sweden | Sắp bắt đầu - null' 0 - 0 06:00 26/06/2026",
+          "name": "⚽ Japan vs Sweden | H1 - 1' 0 - 0 06:00 26/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b87d2471ac",
+                          "id": "lnk-6166e55e6d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx14go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ce0743b5eba69bd80a398a5f-178242785647813&wsIPSercert=38434defe3721faee71cd656a01497c7&wsBindIP=2&wsserid=1168231394939227592"
+                          "url": "https://tfx14grauqmtofaauqmt1gyh144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7bf5ed5eb363907021363457-178242848830735&wsIPSercert=cef04deafe39bfa2c41b1840da03e85c&wsBindIP=2&wsserid=1168235948394638260"
                         },
                         {
-                          "id": "lnk-3455d37355",
+                          "id": "lnk-597ae5c714",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-63a41729b0af",
-          "name": "⚽ Tunisia vs Netherlands | Sắp bắt đầu - null' 0 - 0 06:00 26/06/2026",
+          "name": "⚽ Tunisia vs Netherlands | H1 - 1' 0 - 0 06:00 26/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1118.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-389a4588c1",
+                          "id": "lnk-9be1e36208",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx14go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ce0743b5eba69bd80a398a5f-178242786493611&wsIPSercert=38434defe3721faee71cd656a01497c7&wsBindIP=2&wsserid=1168231394939227592"
+                          "url": "https://tfx14grauqmtofaauqmtt8rh147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=8c9453ae7a7502a6fc485964-178242849685002&wsIPSercert=cef04deafe39bfa2c41b1840da03e85c&wsBindIP=2&wsserid=1168235949173878536"
                         },
                         {
-                          "id": "lnk-ecdf5eb475",
+                          "id": "lnk-ef05222445",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
