@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:01 26/06/2026",
+  "last_updated": "01:11 26/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-3d5c93be5ea9",
-          "name": "⚽ Super Nova vs Fs Jelgava | Giữa Hiệp - 45+3' 1 - 3 00:00 26/06/2026",
+          "name": "⚽ Super Nova vs Fs Jelgava | H2 - 53' 1 - 3 00:00 26/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/4143.png",
           "logo_khach": "https://media.api-sports.io/football/teams/18834.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-859052559b",
+                          "id": "lnk-e5db4bafff",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx14go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178241049536275&wsIPSercert=a8b76d304682ba95fcd7939cae282965&wsBindIP=2&wsserid=1168231394942373370"
+                          "url": "https://tfx14grauqmtofaauqmt1gr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8dda795914471440c999e60e-178241109285188&wsIPSercert=264bc8fc3b73e365da75037ceb2e32d6&wsBindIP=2&wsserid=1168235948388346668"
                         },
                         {
-                          "id": "lnk-a6ba869b3a",
+                          "id": "lnk-9cd830008c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
