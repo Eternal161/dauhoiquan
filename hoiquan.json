@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:21 25/06/2026",
+  "last_updated": "09:31 25/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-7f7506f58b03",
-          "name": "⚽ Czech Republic vs Mexico | H2 - 61' 0 - 1 08:00 25/06/2026",
+          "name": "⚽ Czech Republic vs Mexico | H2 - 71' 0 - 2 08:00 25/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/770.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-142a338fc7",
+                          "id": "lnk-0060712ee5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx13go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=17c3465b91c9ffdca6f1eed0-178235407255411&wsIPSercert=083891938cba3f71cce5e45f958902dc&wsBindIP=2&wsserid=1168178973994183557"
+                          "url": "https://tfx13go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=17c3465b91c9ffdca6f1eed0-178235467528309&wsIPSercert=6f344e3dd17222bc7a850a9e159d4b92&wsBindIP=2&wsserid=1168178973994183557"
                         },
                         {
-                          "id": "lnk-0d6999c24e",
+                          "id": "lnk-6de783136e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-40d2a0d460b0",
-          "name": "⚽ South Africa vs South Korea | H2 - 60' 0 - 0 08:00 25/06/2026",
+          "name": "⚽ South Africa vs South Korea | H2 - 70' 1 - 0 08:00 25/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1728.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e155c69282",
+                          "id": "lnk-de504afe10",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx13go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=17c3465b91c9ffdca6f1eed0-178235408124890&wsIPSercert=083891938cba3f71cce5e45f958902dc&wsBindIP=2&wsserid=1168178973994183557"
+                          "url": "https://tfx13go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=17c3465b91c9ffdca6f1eed0-178235468377783&wsIPSercert=6f344e3dd17222bc7a850a9e159d4b92&wsBindIP=2&wsserid=1168178973994183557"
                         },
                         {
-                          "id": "lnk-7b73958c85",
+                          "id": "lnk-1b90468d11",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
