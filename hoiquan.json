@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:20 25/06/2026",
+  "last_updated": "07:31 25/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-4f454dca9da5",
-          "name": "⚽ Miami Fc vs Orange County Sc | H1 - 45' 1 - 1 06:00 25/06/2026",
+          "name": "⚽ Miami Fc vs Orange County Sc | Giữa Hiệp - 45+3' 1 - 1 06:00 25/06/2026",
           "tournament": "USL Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/9030.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4007.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-08910b0a4d",
+                          "id": "lnk-2280d2cd5c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx13gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3a3ddfb0ca0fd79a326e7377-178234686143174&wsIPSercert=91d59ed7217f76e1859ad9e2f5aaf157&wsBindIP=2&wsserid=1168239097222411122"
+                          "url": "https://tfx13gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2ea24eeaab6b90524c5bac93-178234748303104&wsIPSercert=2d89023830c82974250e70e1ac3516de&wsBindIP=2&wsserid=1168271556800904919"
                         },
                         {
-                          "id": "lnk-4eeb048e23",
+                          "id": "lnk-852cc0d0c6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -114,7 +114,7 @@
         },
         {
           "id": "kaytee-40d2a0d460b0",
-          "name": "⚽ South Africa vs South Korea | Sắp diễn ra vs 08:00 25/06/2026",
+          "name": "⚽ South Africa vs South Korea | Sắp bắt đầu - null' 0 - 0 08:00 25/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1728.png",
@@ -131,10 +131,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -149,7 +149,22 @@
                     {
                       "id": "kaytee-40d2a0d460b0",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-37991dedd6",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx13gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=dd4bb502e89ec83c9bff36ac-178234750016279&wsIPSercert=2d89023830c82974250e70e1ac3516de&wsBindIP=2&wsserid=1168276518868027036"
+                        },
+                        {
+                          "id": "lnk-ad4bae29b7",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
