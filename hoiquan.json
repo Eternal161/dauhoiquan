@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:21 26/06/2026",
+  "last_updated": "18:30 26/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-38f1418cfdd0",
-          "name": "⚽ Rochedale Rovers vs Gold Coast Knights | H2 - 90' 3 - 1 16:30 26/06/2026",
-          "tournament": "Queensland NPL",
-          "logo_nha": "https://media.api-sports.io/football/teams/11182.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/10215.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/11182.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-38f1418cfdd0",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-38f1418cfdd0",
-                  "name": "Rochedale Rovers vs Gold Coast Knights",
-                  "streams": [
-                    {
-                      "id": "kaytee-38f1418cfdd0",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2ebb5761cd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx21gr3uomttgr31hctsfaau1ptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0224150a09c9fe9f6dea2201-178247287561552&wsIPSercert=8e2a54193b4f8d96d76c8bcc14a9c9a0&wsBindIP=2&wsserid=1177063474750036592"
-                        },
-                        {
-                          "id": "lnk-340c6cf5db",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-07f3574a668a",
           "name": "⚽ West Torrens Birkalla vs Sturt Lions | Giữa Hiệp - 45+3' 2 - 1 17:30 26/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-29aaa4752d",
+                          "id": "lnk-c174e04fd1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx23gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178247288404250&wsIPSercert=8e2a54193b4f8d96d76c8bcc14a9c9a0&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfx21gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=45be673f9c0838073bc08b6e-178247346547812&wsIPSercert=3dbc4970326128dc62a4b9128b8e8b26&wsBindIP=2&wsserid=1168243343860730937"
                         },
                         {
-                          "id": "lnk-2029f9caa1",
+                          "id": "lnk-dd697d63f1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +69,7 @@
         },
         {
           "id": "kaytee-eae0b8f7b814",
-          "name": "⚽ Qingdao Jonoon vs Yunnan Yukun | Sắp diễn ra vs 18:35 26/06/2026",
+          "name": "⚽ Qingdao Jonoon vs Yunnan Yukun | Sắp bắt đầu - null' 0 - 0 18:35 26/06/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/1431.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh90L_Xr1yfJQmgPZctKVUWm-ISXa5A-cIdw&s",
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d1509696dd",
+                          "id": "lnk-261100ecb3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx23gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=48fd414b4b689dc7f41f4800-178247289269959&wsIPSercert=8e2a54193b4f8d96d76c8bcc14a9c9a0&wsBindIP=2&wsserid=1172662091344090222"
+                          "url": "https://tfx21gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=eb70f8498029e49ad4e5bdab-178247347380650&wsIPSercert=3dbc4970326128dc62a4b9128b8e8b26&wsBindIP=2&wsserid=1168243343870168317"
                         },
                         {
-                          "id": "lnk-94e6d95a8d",
+                          "id": "lnk-c8b7fa9b40",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-f96797493642",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-bbf7ade16752",
+          "name": "⚽ Uruguay vs Spain | Sắp diễn ra vs 07:00 27/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/9.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bbf7ade16752",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bbf7ade16752",
+                  "name": "Uruguay vs Spain",
+                  "streams": [
+                    {
+                      "id": "kaytee-bbf7ade16752",
                       "name": "F",
                       "stream_links": []
                     }
