@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:01 26/06/2026",
+  "last_updated": "16:10 26/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8d1dbea44ccb",
-          "name": "⚽ Rochedale Rovers vs Gold Coast Knights | Sắp diễn ra vs 16:30 26/06/2026",
+          "name": "⚽ Rochedale Rovers vs Gold Coast Knights | Sắp bắt đầu - null' 0 - 0 16:30 26/06/2026",
           "tournament": "Queensland NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/11182.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10215.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-8d1dbea44ccb",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-b381702656",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx20gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178246506008030&wsIPSercert=af74cb511c670a02e69a7bf9228145a5&wsBindIP=2&wsserid=1168283323221983365"
+                        },
+                        {
+                          "id": "lnk-621adc39cd",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
