@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:50 26/06/2026",
+  "last_updated": "11:00 26/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8eb966e83f41",
-          "name": "⚽ Paraguay vs Australia | H2 - 88' 0 - 0 09:00 26/06/2026",
+          "name": "⚽ Paraguay vs Australia | H2 - 90+5' 0 - 0 09:00 26/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-95c1ddb481",
+                          "id": "lnk-eaff2575c0",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx24grauqmtofaauqmtt8rh147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=6e8c943e4cd7a8586481ccd7-178244586022442&wsIPSercert=8afc99687cb4bfd3dc57dcb45a15350e&wsBindIP=2&wsserid=1168235949180170132"
+                          "url": "https://tfx24grauqmtofaauqmtt8rh147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0a38ed42e0ab93fdd8a253b8-178244646810084&wsIPSercert=885937b40df135708bbf5f6400c5b51b&wsBindIP=2&wsserid=1168235948346402864"
                         },
                         {
-                          "id": "lnk-59a236f6fb",
+                          "id": "lnk-11cc720414",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-b8cb970c3fd0",
-          "name": "⚽ Türkiye vs Usa | H2 - 88' 2 - 2 09:00 26/06/2026",
+          "name": "⚽ Türkiye vs Usa | H2 - 90+8' 2 - 2 09:00 26/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/777.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2384.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-77cad031c2",
+                          "id": "lnk-4c0d20372a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx24grauqmtofaauqmt1gr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=885964986e1b7764d324be51-178244586892648&wsIPSercert=8afc99687cb4bfd3dc57dcb45a15350e&wsBindIP=2&wsserid=1168235948391492464"
+                          "url": "https://tfx24grauqmtofaauqmt1gr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=8dda795914471440c999e60e-178244647683198&wsIPSercert=885937b40df135708bbf5f6400c5b51b&wsBindIP=2&wsserid=1168235948388346668"
                         },
                         {
-                          "id": "lnk-330fe8e833",
+                          "id": "lnk-b3ea09600a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
