@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:11 26/06/2026",
+  "last_updated": "08:20 26/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-9a1de9a467f7",
-          "name": "⚽ Cuiaba vs Londrina | H2 - 79' 2 - 2 06:30 26/06/2026",
+          "name": "⚽ Cuiaba vs Londrina | H2 - 89' 2 - 2 06:30 26/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/1193.png",
           "logo_khach": "https://media.api-sports.io/football/teams/148.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-330fbd5678",
+                          "id": "lnk-f3e39ad2f3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx24go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0d134b8c6677d318f0d3554c-178243627560598&wsIPSercert=24f9ef802bbd5d9be8ee02b12ac8a2da&wsBindIP=2&wsserid=1168231235299071981"
+                          "url": "https://tfx24go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0d134b8c6677d318f0d3554c-178243686002086&wsIPSercert=2f6a412e73bc4321eecb8d0fcc1fba70&wsBindIP=2&wsserid=1168231235299071981"
                         },
                         {
-                          "id": "lnk-406c6397d7",
+                          "id": "lnk-19f6810628",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
