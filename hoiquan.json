@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:00 26/06/2026",
+  "last_updated": "18:10 26/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-38f1418cfdd0",
-          "name": "⚽ Rochedale Rovers vs Gold Coast Knights | Live 0 - 0 16:30 26/06/2026",
+          "name": "⚽ Rochedale Rovers vs Gold Coast Knights | H2 - 80' 2 - 1 16:30 26/06/2026",
           "tournament": "Queensland NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/11182.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10215.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-698653596f",
+                          "id": "lnk-2392c6798c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx20gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=fc387c98748ade8f54f1ef90-178247166872603&wsIPSercert=9906804c7efc144d818bdcd85f1806f2&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfx21gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178247226107536&wsIPSercert=ef8a1abb63b6fd56d2c3a4af3937230c&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-128a27c780",
+                          "id": "lnk-9c7dc07378",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-07f3574a668a",
-          "name": "⚽ West Torrens Birkalla vs Sturt Lions | Live 0 - 0 17:30 26/06/2026",
+          "name": "⚽ West Torrens Birkalla vs Sturt Lions | H1 - 40' 2 - 1 17:30 26/06/2026",
           "tournament": "South Australia NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/16769.png",
           "logo_khach": "https://media.api-sports.io/football/teams/12866.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4d12ac6a4e",
+                          "id": "lnk-315b18b702",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx21gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=f64ed1182ed1d47a38e6ed7e-178247167756509&wsIPSercert=9906804c7efc144d818bdcd85f1806f2&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfx20gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=8ba658945e64d68e86674644-178247226988280&wsIPSercert=ef8a1abb63b6fd56d2c3a4af3937230c&wsBindIP=2&wsserid=1168283618402913555"
                         },
                         {
-                          "id": "lnk-5b622018b1",
+                          "id": "lnk-26514ff088",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
