@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:10 26/06/2026",
+  "last_updated": "17:21 26/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-38f1418cfdd0",
-          "name": "⚽ Rochedale Rovers vs Gold Coast Knights | H1 - 38' 1 - 0 16:30 26/06/2026",
+          "name": "⚽ Rochedale Rovers vs Gold Coast Knights | H1 - 45+3' 1 - 1 16:30 26/06/2026",
           "tournament": "Queensland NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/11182.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10215.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4b8f88a9f6",
+                          "id": "lnk-275c498b93",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx20gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178246865952498&wsIPSercert=61901db2847810f730c1a542cb596351&wsBindIP=2&wsserid=1168231589572867007"
+                          "url": "https://tfx20gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178246927046990&wsIPSercert=5366ac753aac8380a5cbe257ef4b659e&wsBindIP=2&wsserid=1168231589572867007"
                         },
                         {
-                          "id": "lnk-7a018432a8",
+                          "id": "lnk-ab1fad7be6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ca13a3bedb",
+                          "id": "lnk-b75008cda7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx20gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=8ba658945e64d68e86674644-178246866827399&wsIPSercert=61901db2847810f730c1a542cb596351&wsBindIP=2&wsserid=1168283618402913555"
+                          "url": "https://tfx20gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=cd928fc8bd71595dacf45826-178246927914833&wsIPSercert=5366ac753aac8380a5cbe257ef4b659e&wsBindIP=2&wsserid=1168231589586498745"
                         },
                         {
-                          "id": "lnk-0df5941b27",
+                          "id": "lnk-b1024b72cc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
