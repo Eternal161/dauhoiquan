@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:20 26/06/2026",
+  "last_updated": "08:30 26/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-9a1de9a467f7",
-          "name": "⚽ Cuiaba vs Londrina | H2 - 89' 2 - 2 06:30 26/06/2026",
-          "tournament": "Serie B",
-          "logo_nha": "https://media.api-sports.io/football/teams/1193.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/148.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1193.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-9a1de9a467f7",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-9a1de9a467f7",
-                  "name": "Cuiaba vs Londrina",
-                  "streams": [
-                    {
-                      "id": "kaytee-9a1de9a467f7",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f3e39ad2f3",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx24go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0d134b8c6677d318f0d3554c-178243686002086&wsIPSercert=2f6a412e73bc4321eecb8d0fcc1fba70&wsBindIP=2&wsserid=1168231235299071981"
-                        },
-                        {
-                          "id": "lnk-19f6810628",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-8eb966e83f41",
           "name": "⚽ Paraguay vs Australia | Sắp diễn ra vs 09:00 26/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-63f92c434122",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3122446f3e79",
+          "name": "⚽ Senegal vs Iraq | Sắp diễn ra vs 02:00 27/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1567.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3122446f3e79",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3122446f3e79",
+                  "name": "Senegal vs Iraq",
+                  "streams": [
+                    {
+                      "id": "kaytee-3122446f3e79",
                       "name": "F",
                       "stream_links": []
                     }
