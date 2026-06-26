@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:20 26/06/2026",
+  "last_updated": "19:31 26/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-07f3574a668a",
-          "name": "⚽ West Torrens Birkalla vs Sturt Lions | H2 - 90+1' 4 - 1 17:30 26/06/2026",
-          "tournament": "South Australia NPL",
-          "logo_nha": "https://media.api-sports.io/football/teams/16769.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/12866.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/16769.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-07f3574a668a",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-07f3574a668a",
-                  "name": "West Torrens Birkalla vs Sturt Lions",
-                  "streams": [
-                    {
-                      "id": "kaytee-07f3574a668a",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0fffc7c58b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx21gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=f64ed1182ed1d47a38e6ed7e-178247646585473&wsIPSercert=9e7df29756d57957afed82522dac3ee4&wsBindIP=2&wsserid=1168176581104105640"
-                        },
-                        {
-                          "id": "lnk-51358a47b3",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-eae0b8f7b814",
-          "name": "⚽ Qingdao Jonoon vs Yunnan Yukun | H1 - 45+1' 3 - 2 18:35 26/06/2026",
+          "name": "⚽ Qingdao Jonoon vs Yunnan Yukun | Giữa Hiệp - 45' 4 - 2 18:35 26/06/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/1431.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh90L_Xr1yfJQmgPZctKVUWm-ISXa5A-cIdw&s",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9294af4117",
+                          "id": "lnk-dd7752d8e3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx21gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=94245d5293b2ddbce4bab474-178247647413485&wsIPSercert=9e7df29756d57957afed82522dac3ee4&wsBindIP=2&wsserid=1168176581102008440"
+                          "url": "https://tfx21gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=a494d14ca8a5025163275316-178247706972902&wsIPSercert=578b0cc04d9c0a5e9c06298ff69521d1&wsBindIP=2&wsserid=1168168154459896377"
                         },
                         {
-                          "id": "lnk-e864079dc7",
+                          "id": "lnk-0051c08e3d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-bbf7ade16752",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c53d6f3d99ad",
+          "name": "⚽ Egypt vs Iran | Sắp diễn ra vs 10:00 27/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
+          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcHjuJwQinnq7yrEdYTZNb6xYpuKE2zdRCXg&s",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c53d6f3d99ad",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c53d6f3d99ad",
+                  "name": "Egypt vs Iran",
+                  "streams": [
+                    {
+                      "id": "kaytee-c53d6f3d99ad",
                       "name": "F",
                       "stream_links": []
                     }
