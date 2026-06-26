@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:01 27/06/2026",
+  "last_updated": "03:10 27/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-63f92c434122",
-          "name": "⚽ Norway vs France | Giữa Hiệp - 45+6' 1 - 3 02:00 27/06/2026",
+          "name": "⚽ Norway vs France | H2 - 47' 1 - 3 02:00 27/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cf918d79c8",
+                          "id": "lnk-252efc687d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx24go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0d134b8c6677d318f0d3554c-178250407449068&wsIPSercert=f0eb6cfc9a905cd961f5dbd95376d8bb&wsBindIP=2&wsserid=1168231235299071981"
+                          "url": "https://tfx23go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=36a2295e4cd9b36484d06c82-178250466771934&wsIPSercert=df7c5211413eda1e0473827815fc6877&wsBindIP=2&wsserid=1168159941877228745"
                         },
                         {
-                          "id": "lnk-f75bc03dbc",
+                          "id": "lnk-d11d7a40d0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a4dd334b50",
+                          "id": "lnk-2608f5d502",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx24go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=0d134b8c6677d318f0d3554c-178250408248666&wsIPSercert=f0eb6cfc9a905cd961f5dbd95376d8bb&wsBindIP=2&wsserid=1168231235299071981"
+                          "url": "https://tfx23go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=36a2295e4cd9b36484d06c82-178250467593480&wsIPSercert=df7c5211413eda1e0473827815fc6877&wsBindIP=2&wsserid=1168159941877228745"
                         },
                         {
-                          "id": "lnk-c85e45f0bc",
+                          "id": "lnk-f105ca2fc8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
