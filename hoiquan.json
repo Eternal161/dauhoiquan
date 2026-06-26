@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:21 26/06/2026",
+  "last_updated": "16:31 26/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,10 +46,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-560d3f4945",
+                          "id": "lnk-1caa1dcf15",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfx21gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=de40530e31dc965cd08ee763-178246627247913&wsIPSercert=139e4b7463f8b91684e093a403222661&wsBindIP=2&wsserid=1168243256623223254"
+                        },
+                        {
+                          "id": "lnk-fe26f473d0",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
                         }
                       ]
