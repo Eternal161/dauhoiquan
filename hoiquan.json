@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:51 27/06/2026",
+  "last_updated": "04:01 27/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-63f92c434122",
-          "name": "⚽ Norway vs France | H2 - 87' 1 - 3 02:00 27/06/2026",
+          "name": "⚽ Norway vs France | H2 - 90+6' 1 - 4 02:00 27/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-177977c832",
+                          "id": "lnk-1092e946dd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx23go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e9ec9e67fdbb1c75c9ba050c-178250708798722&wsIPSercert=a86fa50f8288e59a2ddc7d19d53b3bea&wsBindIP=2&wsserid=1168159941873034271"
+                          "url": "https://tfx23gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=d6feb5e55820b7c46cf83296-178250767859884&wsIPSercert=2d92dcba3e332c8b054ef745d6155397&wsBindIP=2&wsserid=1168239733739784689"
                         },
                         {
-                          "id": "lnk-fee035d5f5",
+                          "id": "lnk-3dd51012e8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-b7fbabe3717f",
-          "name": "⚽ Senegal vs Iraq | H2 - 83' 5 - 0 02:00 27/06/2026",
+          "name": "⚽ Senegal vs Iraq | H2 - 90+3' 5 - 0 02:00 27/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1567.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0428283b0d",
+                          "id": "lnk-4e8ddf4306",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx23go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=36a2295e4cd9b36484d06c82-178250709597641&wsIPSercert=a86fa50f8288e59a2ddc7d19d53b3bea&wsBindIP=2&wsserid=1168159941877228745"
+                          "url": "https://tfx23gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=d6feb5e55820b7c46cf83296-178250768687284&wsIPSercert=2d92dcba3e332c8b054ef745d6155397&wsBindIP=2&wsserid=1168239733739784689"
                         },
                         {
-                          "id": "lnk-7d66a52919",
+                          "id": "lnk-e9b1c6f2a3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
