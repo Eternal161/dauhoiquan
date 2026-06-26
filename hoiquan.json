@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:01 27/06/2026",
+  "last_updated": "01:11 27/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-104a0152aeba",
-          "name": "⚽ Fk Liepaja vs Rīgas Fs | H2 - 90+7' 0 - 2 23:00 26/06/2026",
-          "tournament": "Virsliga",
-          "logo_nha": "https://media.api-sports.io/football/teams/661.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/4160.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/661.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-104a0152aeba",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-104a0152aeba",
-                  "name": "Fk Liepaja vs Rīgas Fs",
-                  "streams": [
-                    {
-                      "id": "kaytee-104a0152aeba",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-44f7a39f26",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx23gr4nhct1gwzdrcttfa5unmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8c068f835df7f016d76f1c91-178249687096381&wsIPSercert=1e16da202aa844db1f6fc401c80a07f0&wsBindIP=2&wsserid=1168239733243780912"
-                        },
-                        {
-                          "id": "lnk-5363aa686a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-63f92c434122",
-          "name": "⚽ Norway vs France | Sắp diễn ra vs 02:00 27/06/2026",
+          "name": "⚽ Norway vs France | Sắp bắt đầu - null' 0 - 0 02:00 27/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2.png",
@@ -86,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +44,22 @@
                     {
                       "id": "kaytee-63f92c434122",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-50ea8d7a1a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx23go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178249747272324&wsIPSercert=51cddb19e7a9d2651e0ec0d706cbccb2&wsBindIP=2&wsserid=1168159941874082915"
+                        },
+                        {
+                          "id": "lnk-be12886c7a",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -463,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-11dcb882cf22",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a06ba3985094",
+          "name": "⚽ Shanghai Second vs Qingdao Red Lions | Sắp diễn ra vs 15:00 27/06/2026",
+          "tournament": "League Two",
+          "logo_nha": "https://media.api-sports.io/football/teams/27619.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/5679.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/27619.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a06ba3985094",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a06ba3985094",
+                  "name": "Shanghai Second vs Qingdao Red Lions",
+                  "streams": [
+                    {
+                      "id": "kaytee-a06ba3985094",
                       "name": "F",
                       "stream_links": []
                     }
