@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:41 27/06/2026",
+  "last_updated": "01:51 27/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d4c8565afd",
+                          "id": "lnk-0d5ce59138",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx23go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178249927115386&wsIPSercert=1716aa8a423390d3a6a4148f0bea8b37&wsBindIP=2&wsserid=1168159941874082915"
+                          "url": "https://tfx23go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b729ead558c9cf9a676e9806-178249987589861&wsIPSercert=b2d2e0f8114f71a565db1d0767323146&wsBindIP=2&wsserid=1168159941876180135"
                         },
                         {
-                          "id": "lnk-38cb2570d3",
+                          "id": "lnk-d559424909",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
           ]
         },
         {
-          "id": "kaytee-3122446f3e79",
+          "id": "kaytee-b7fbabe3717f",
           "name": "⚽ Senegal vs Iraq | Sắp bắt đầu - null' 0 - 0 02:00 27/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
@@ -94,23 +94,30 @@
           ],
           "sources": [
             {
-              "id": "kaytee-3122446f3e79",
+              "id": "kaytee-b7fbabe3717f",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-3122446f3e79",
+                  "id": "kaytee-b7fbabe3717f",
                   "name": "Senegal vs Iraq",
                   "streams": [
                     {
-                      "id": "kaytee-3122446f3e79",
+                      "id": "kaytee-b7fbabe3717f",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e29875cd2e",
+                          "id": "lnk-afd4b60783",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
+                          "url": "https://tfx23go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=ac54fedd9b782e62f6a5c9d8-178249988417013&wsIPSercert=b2d2e0f8114f71a565db1d0767323146&wsBindIP=2&wsserid=1168159941867791187"
+                        },
+                        {
+                          "id": "lnk-214d43fc20",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
                         }
                       ]
                     }
