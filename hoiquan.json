@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:50 26/06/2026",
+  "last_updated": "00:00 27/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-df7c7b117cea",
-          "name": "⚽ Ogre United vs Tukums | H2 - 90+4' 2 - 2 22:00 26/06/2026",
-          "tournament": "Virsliga",
-          "logo_nha": "https://media.api-sports.io/football/teams/18936.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/4144.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/18936.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-df7c7b117cea",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-df7c7b117cea",
-                  "name": "Ogre United vs Tukums",
-                  "streams": [
-                    {
-                      "id": "kaytee-df7c7b117cea",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5da07b6082",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx23go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178249266626271&wsIPSercert=90bf52e56992e9a5f12255d085b287f5&wsBindIP=2&wsserid=1168159941874082915"
-                        },
-                        {
-                          "id": "lnk-eef3814993",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-104a0152aeba",
-          "name": "⚽ Fk Liepaja vs Rīgas Fs | Giữa Hiệp - 45+3' 0 - 0 23:00 26/06/2026",
+          "name": "⚽ Fk Liepaja vs Rīgas Fs | Live 0 - 0 23:00 26/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/661.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4160.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f00cc48424",
+                          "id": "lnk-822f843218",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx23go3nhcjtgczdncjqgrhurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178249267499143&wsIPSercert=90bf52e56992e9a5f12255d085b287f5&wsBindIP=2&wsserid=1168159941874082915"
+                          "url": "https://tfx23go3nhcjtgczdncjqgrhurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178249326882817&wsIPSercert=50c22c22913c90ad645d07ecb76ba2e6&wsBindIP=2&wsserid=1168159941874082915"
                         },
                         {
-                          "id": "lnk-89aa34f6ea",
+                          "id": "lnk-e10a3befd3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-1f7135d0a23f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-11dcb882cf22",
+          "name": "⚽ Valentine vs Lambton Jaffas | Sắp diễn ra vs 13:30 27/06/2026",
+          "tournament": "Northern NSW NPL",
+          "logo_nha": "https://media.api-sports.io/football/teams/10209.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10207.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/10209.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-11dcb882cf22",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-11dcb882cf22",
+                  "name": "Valentine vs Lambton Jaffas",
+                  "streams": [
+                    {
+                      "id": "kaytee-11dcb882cf22",
                       "name": "F",
                       "stream_links": []
                     }
