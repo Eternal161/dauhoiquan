@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:40 26/06/2026",
+  "last_updated": "22:51 26/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-df7c7b117cea",
-          "name": "⚽ Ogre United vs Tukums | H1 - 41' 1 - 2 22:00 26/06/2026",
+          "name": "⚽ Ogre United vs Tukums | Live 0 - 0 22:00 26/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/18936.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4144.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ce66848c2a",
+                          "id": "lnk-3d9bf10c1e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx20gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178248846843348&wsIPSercert=75c4831be4623bfd86acbfdf8f4e0879&wsBindIP=2&wsserid=1168231785641135723"
+                          "url": "https://tfx21gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178248907283216&wsIPSercert=a362ebe66641df47c94918b8b7597424&wsBindIP=2&wsserid=1168283477179400067"
                         },
                         {
-                          "id": "lnk-539c7a2b44",
+                          "id": "lnk-3792c7fc9f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-104a0152aeba",
-          "name": "⚽ Fk Liepaja vs Rīgas Fs | Sắp bắt đầu - null' 0 - 0 23:00 26/06/2026",
+          "name": "⚽ Fk Liepaja vs Rīgas Fs | Live 0 - 0 23:00 26/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/661.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4160.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1ffc10fb6d",
+                          "id": "lnk-88620fdd03",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx20gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178248847720394&wsIPSercert=75c4831be4623bfd86acbfdf8f4e0879&wsBindIP=2&wsserid=1168231589572867007"
+                          "url": "https://tfx20gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178248908136417&wsIPSercert=a362ebe66641df47c94918b8b7597424&wsBindIP=2&wsserid=1168231589572867007"
                         },
                         {
-                          "id": "lnk-4a977a4ed0",
+                          "id": "lnk-3507000ff6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
