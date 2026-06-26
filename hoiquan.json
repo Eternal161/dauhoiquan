@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:31 26/06/2026",
+  "last_updated": "16:40 26/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-38f1418cfdd0",
-          "name": "⚽ Rochedale Rovers vs Gold Coast Knights | Sắp bắt đầu - null' 0 - 0 16:30 26/06/2026",
+          "name": "⚽ Rochedale Rovers vs Gold Coast Knights | H1 - 8' 0 - 0 16:30 26/06/2026",
           "tournament": "Queensland NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/11182.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10215.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1caa1dcf15",
+                          "id": "lnk-13fc71be88",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx21gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=de40530e31dc965cd08ee763-178246627247913&wsIPSercert=139e4b7463f8b91684e093a403222661&wsBindIP=2&wsserid=1168243256623223254"
+                          "url": "https://tfx23gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=5bd5ca106460d708e48cc2cb-178246686618068&wsIPSercert=cbe8ddd8030b6d85e82481509a4659c1&wsBindIP=2&wsserid=1168158473487963106"
                         },
                         {
-                          "id": "lnk-fe26f473d0",
+                          "id": "lnk-74c9e424fd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
