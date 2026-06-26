@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:31 26/06/2026",
+  "last_updated": "19:41 26/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-dd7752d8e3",
+                          "id": "lnk-fd729b5f46",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx21gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=a494d14ca8a5025163275316-178247706972902&wsIPSercert=578b0cc04d9c0a5e9c06298ff69521d1&wsBindIP=2&wsserid=1168168154459896377"
+                          "url": "https://tfx24gchnhcjo8rzdrpjtfa4144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=f7e42543e61847d2fa7bb4d5-178247768516415&wsIPSercert=dffd68f42f21e56f8c4ef5f895259327&wsBindIP=2&wsserid=1168168154453604765"
                         },
                         {
-                          "id": "lnk-0051c08e3d",
+                          "id": "lnk-8e796768d0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-00dc219d7790",
-          "name": "⚽ Taraz vs Shakhter Karagandy | Sắp diễn ra vs 20:00 26/06/2026",
+          "name": "⚽ Taraz vs Shakhter Karagandy | Sắp bắt đầu - null' 0 - 0 20:00 26/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/4559.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4566.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,15 @@
                     {
                       "id": "kaytee-00dc219d7790",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-472e72c667",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
