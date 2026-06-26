@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:50 26/06/2026",
+  "last_updated": "21:00 26/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-00dc219d7790",
-          "name": "⚽ Taraz vs Shakhter Karagandy | H1 - 45+2' 0 - 1 20:00 26/06/2026",
+          "name": "⚽ Taraz vs Shakhter Karagandy | Live 0 - 0 20:00 26/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/4559.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4566.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f025d28780",
+                          "id": "lnk-189f9d9683",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx23gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178248186354075&wsIPSercert=29d53ff073be230ac5f0cc6d507d337f&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfx21gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178248246853447&wsIPSercert=2071b10ba295553d24f8c9b03a3755f2&wsBindIP=2&wsserid=1168283477179400067"
                         },
                         {
-                          "id": "lnk-f3cd1d8419",
+                          "id": "lnk-471262634e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
