@@ -1,132 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:00 26/06/2026",
+  "last_updated": "11:10 26/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-8eb966e83f41",
-          "name": "⚽ Paraguay vs Australia | H2 - 90+5' 0 - 0 09:00 26/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-8eb966e83f41",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-8eb966e83f41",
-                  "name": "Paraguay vs Australia",
-                  "streams": [
-                    {
-                      "id": "kaytee-8eb966e83f41",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-eaff2575c0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx24grauqmtofaauqmtt8rh147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0a38ed42e0ab93fdd8a253b8-178244646810084&wsIPSercert=885937b40df135708bbf5f6400c5b51b&wsBindIP=2&wsserid=1168235948346402864"
-                        },
-                        {
-                          "id": "lnk-11cc720414",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-b8cb970c3fd0",
-          "name": "⚽ Türkiye vs Usa | H2 - 90+8' 2 - 2 09:00 26/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/777.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2384.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/777.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b8cb970c3fd0",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b8cb970c3fd0",
-                  "name": "Türkiye vs Usa",
-                  "streams": [
-                    {
-                      "id": "kaytee-b8cb970c3fd0",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4c0d20372a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx24grauqmtofaauqmt1gr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=8dda795914471440c999e60e-178244647683198&wsIPSercert=885937b40df135708bbf5f6400c5b51b&wsBindIP=2&wsserid=1168235948388346668"
-                        },
-                        {
-                          "id": "lnk-b3ea09600a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-8d1dbea44ccb",
           "name": "⚽ Rochedale Rovers vs Gold Coast Knights | Sắp diễn ra vs 16:30 26/06/2026",
@@ -478,6 +358,96 @@
                   "streams": [
                     {
                       "id": "kaytee-3122446f3e79",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-61372bfd47da",
+          "name": "⚽ Novorizontino vs Vila Nova | Sắp diễn ra vs 05:00 27/06/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/7834.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/142.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/7834.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-61372bfd47da",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-61372bfd47da",
+                  "name": "Novorizontino vs Vila Nova",
+                  "streams": [
+                    {
+                      "id": "kaytee-61372bfd47da",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f96797493642",
+          "name": "⚽ Cape Verde Islands vs Saudi Arabia | Sắp diễn ra vs 07:00 27/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f96797493642",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f96797493642",
+                  "name": "Cape Verde Islands vs Saudi Arabia",
+                  "streams": [
+                    {
+                      "id": "kaytee-f96797493642",
                       "name": "F",
                       "stream_links": []
                     }
