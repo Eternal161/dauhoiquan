@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:30 26/06/2026",
+  "last_updated": "18:40 26/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-07f3574a668a",
-          "name": "⚽ West Torrens Birkalla vs Sturt Lions | Giữa Hiệp - 45+3' 2 - 1 17:30 26/06/2026",
+          "name": "⚽ West Torrens Birkalla vs Sturt Lions | Live 0 - 0 17:30 26/06/2026",
           "tournament": "South Australia NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/16769.png",
           "logo_khach": "https://media.api-sports.io/football/teams/12866.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c174e04fd1",
+                          "id": "lnk-1062804ff6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx21gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=45be673f9c0838073bc08b6e-178247346547812&wsIPSercert=3dbc4970326128dc62a4b9128b8e8b26&wsBindIP=2&wsserid=1168243343860730937"
+                          "url": "https://tfx21gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=8ba658945e64d68e86674644-178247406022628&wsIPSercert=964bbc3dac30dd04b066f0b1b2412322&wsBindIP=2&wsserid=1168283618402913555"
                         },
                         {
-                          "id": "lnk-dd697d63f1",
+                          "id": "lnk-7386a0612a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-eae0b8f7b814",
-          "name": "⚽ Qingdao Jonoon vs Yunnan Yukun | Sắp bắt đầu - null' 0 - 0 18:35 26/06/2026",
+          "name": "⚽ Qingdao Jonoon vs Yunnan Yukun | Live 0 - 0 18:35 26/06/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/1431.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh90L_Xr1yfJQmgPZctKVUWm-ISXa5A-cIdw&s",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-261100ecb3",
+                          "id": "lnk-649bec1233",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx21gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=eb70f8498029e49ad4e5bdab-178247347380650&wsIPSercert=3dbc4970326128dc62a4b9128b8e8b26&wsBindIP=2&wsserid=1168243343870168317"
+                          "url": "https://tfx21gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=d34f0b3d7ea231833648feb7-178247406867554&wsIPSercert=964bbc3dac30dd04b066f0b1b2412322&wsBindIP=2&wsserid=1168283529569158070"
                         },
                         {
-                          "id": "lnk-c8b7fa9b40",
+                          "id": "lnk-0780236fce",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
