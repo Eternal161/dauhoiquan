@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:30 26/06/2026",
+  "last_updated": "21:41 26/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-00dc219d7790",
-          "name": "⚽ Taraz vs Shakhter Karagandy | H2 - 69' 0 - 2 20:00 26/06/2026",
+          "name": "⚽ Taraz vs Shakhter Karagandy | H2 - 79' 0 - 2 20:00 26/06/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/4559.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4566.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3dc6d61835",
+                          "id": "lnk-75efc483e7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx21gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=706d286fa60d1f2a8282d305-178248426680078&wsIPSercert=adffc8c2d83afc9fadbcc668c4f572a1&wsBindIP=2&wsserid=1168243256667264290"
+                          "url": "https://tfx23gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178248487211147&wsIPSercert=def7ece497a5d6d6f46ef202dd319c6c&wsBindIP=2&wsserid=1177063474761571144"
                         },
                         {
-                          "id": "lnk-ab49b5421c",
+                          "id": "lnk-0759206fdc",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-df7c7b117cea",
-          "name": "⚽ Ogre United vs Tukums | Sắp diễn ra vs 22:00 26/06/2026",
+          "name": "⚽ Ogre United vs Tukums | Sắp bắt đầu - null' 0 - 0 22:00 26/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/18936.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4144.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-df7c7b117cea",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-0519d6b06e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx23gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178248488064012&wsIPSercert=def7ece497a5d6d6f46ef202dd319c6c&wsBindIP=2&wsserid=1177063474761571144"
+                        },
+                        {
+                          "id": "lnk-644fd22228",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
