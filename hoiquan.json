@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:50 26/06/2026",
+  "last_updated": "22:01 26/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-00dc219d7790",
-          "name": "⚽ Taraz vs Shakhter Karagandy | H2 - 89' 0 - 2 20:00 26/06/2026",
-          "tournament": "1. Division",
-          "logo_nha": "https://media.api-sports.io/football/teams/4559.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/4566.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/4559.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-00dc219d7790",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-00dc219d7790",
-                  "name": "Taraz vs Shakhter Karagandy",
-                  "streams": [
-                    {
-                      "id": "kaytee-00dc219d7790",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cb80872ed",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx20gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178248546259253&wsIPSercert=f2856b2d26a8f4f965f0529888bb613e&wsBindIP=2&wsserid=1168231785641135723"
-                        },
-                        {
-                          "id": "lnk-9c1584fcbc",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-df7c7b117cea",
-          "name": "⚽ Ogre United vs Tukums | Sắp bắt đầu - null' 0 - 0 22:00 26/06/2026",
+          "name": "⚽ Ogre United vs Tukums | H1 - 1' 0 - 0 22:00 26/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/18936.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4144.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6f7618ea75",
+                          "id": "lnk-8cac310252",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx20gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178248547129564&wsIPSercert=f2856b2d26a8f4f965f0529888bb613e&wsBindIP=2&wsserid=1168231785641135723"
+                          "url": "https://tfx20gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178248606910915&wsIPSercert=083e63ec479bcee2224245f85879b50d&wsBindIP=2&wsserid=1168283477179400067"
                         },
                         {
-                          "id": "lnk-f0baa887a6",
+                          "id": "lnk-d4acba5028",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-41f937edb454",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1f7135d0a23f",
+          "name": "⚽ Charlestown City Blues vs Belmont Swansea | Sắp diễn ra vs 11:00 27/06/2026",
+          "tournament": "Northern NSW NPL",
+          "logo_nha": "https://media.api-sports.io/football/teams/10203.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/23500.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/10203.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1f7135d0a23f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1f7135d0a23f",
+                  "name": "Charlestown City Blues vs Belmont Swansea",
+                  "streams": [
+                    {
+                      "id": "kaytee-1f7135d0a23f",
                       "name": "F",
                       "stream_links": []
                     }
