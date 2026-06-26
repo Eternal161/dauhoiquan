@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:31 27/06/2026",
+  "last_updated": "01:41 27/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f7a539f6f2",
+                          "id": "lnk-d4c8565afd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx23gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=8ad33e744396bed8b0996bd9-178249869341918&wsIPSercert=efbfebb2ac2eaf7c8d1cd3ac12428511&wsBindIP=2&wsserid=1168239733240635128"
+                          "url": "https://tfx23go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178249927115386&wsIPSercert=1716aa8a423390d3a6a4148f0bea8b37&wsBindIP=2&wsserid=1168159941874082915"
                         },
                         {
-                          "id": "lnk-c356bc5d1d",
+                          "id": "lnk-38cb2570d3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-3122446f3e79",
-          "name": "⚽ Senegal vs Iraq | Sắp diễn ra vs 02:00 27/06/2026",
+          "name": "⚽ Senegal vs Iraq | Sắp bắt đầu - null' 0 - 0 02:00 27/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1567.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,15 @@
                     {
                       "id": "kaytee-3122446f3e79",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-e29875cd2e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
