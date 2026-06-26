@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:11 27/06/2026",
+  "last_updated": "05:21 27/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-fcb83906f890",
-          "name": "⚽ Novorizontino vs Vila Nova | H1 - 11' 1 - 0 05:00 27/06/2026",
+          "name": "⚽ Novorizontino vs Vila Nova | H1 - 19' 1 - 0 05:00 27/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/7834.png",
           "logo_khach": "https://media.api-sports.io/football/teams/142.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-752fe18027",
+                          "id": "lnk-93ce7a2abf",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx23gr4nhct1gwzdrcttfa5unmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f599ce373dc5bf3b6cf8a7c6-178251187957173&wsIPSercert=385d9f1907cad943fbec861f411489a8&wsBindIP=2&wsserid=1168239733746099117"
+                          "url": "https://tfx23gr4nhct1gwzdrcttfa5unmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f599ce373dc5bf3b6cf8a7c6-178251247302797&wsIPSercert=252289dba675a019d5749fcc6c4a10ce&wsBindIP=2&wsserid=1168239733746099117"
                         },
                         {
-                          "id": "lnk-1deebf5141",
+                          "id": "lnk-9456677759",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
