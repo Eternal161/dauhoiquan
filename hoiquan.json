@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:11 27/06/2026",
+  "last_updated": "01:20 27/06/2026",
   "groups": [
     {
       "id": "live",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-50ea8d7a1a",
+                          "id": "lnk-a36cd08e0c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx23go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178249747272324&wsIPSercert=51cddb19e7a9d2651e0ec0d706cbccb2&wsBindIP=2&wsserid=1168159941874082915"
+                          "url": "https://tfx24go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178249806448231&wsIPSercert=662a4431cd8aedc7c20264f6dcb86a93&wsBindIP=2&wsserid=1168231394942373370"
                         },
                         {
-                          "id": "lnk-be12886c7a",
+                          "id": "lnk-1f262c55a1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
