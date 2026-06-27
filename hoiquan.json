@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:01 28/06/2026",
+  "last_updated": "01:10 28/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-98d540db0f35",
-          "name": "⚽ Gnistan vs Vps | H2 - 90+3' 1 - 1 23:00 27/06/2026",
-          "tournament": "Veikkausliiga",
-          "logo_nha": "https://media.api-sports.io/football/teams/2082.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/650.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2082.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-98d540db0f35",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-98d540db0f35",
-                  "name": "Gnistan vs Vps",
-                  "streams": [
-                    {
-                      "id": "kaytee-98d540db0f35",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ec0f5bad45",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx33gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=6ef88ce499dd4f565223d5e8-178258327752242&wsIPSercert=f1a90dd761be95d525248465b395723e&wsBindIP=2&wsserid=1168239733742939020"
-                        },
-                        {
-                          "id": "lnk-103b9cb260",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-846a545ca334",
-          "name": "⚽ Ac Oulu vs Lahti | Sắp bắt đầu - null' 0 - 0 01:00 28/06/2026",
+          "name": "⚽ Ac Oulu vs Lahti | H1 - 9' 0 - 0 01:00 28/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/2077.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1166.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e2402e95e1",
+                          "id": "lnk-1e112f9ad8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx33gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=d6feb5e55820b7c46cf83296-178258328543009&wsIPSercert=f1a90dd761be95d525248465b395723e&wsBindIP=2&wsserid=1168239733739784689"
+                          "url": "https://tfx33go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=ac54fedd9b782e62f6a5c9d8-178258386521176&wsIPSercert=80630a278f5192b25089f51892cc9e9b&wsBindIP=2&wsserid=1168159941867791187"
                         },
                         {
-                          "id": "lnk-9d2a211923",
+                          "id": "lnk-d8146ec6cb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-450ee8262dda",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-66e231fdfb09",
+          "name": "⚽ Gold Coast United vs Moreton City Excelsior | Sắp diễn ra vs 12:00 28/06/2026",
+          "tournament": "Queensland NPL",
+          "logo_nha": "https://media.api-sports.io/football/teams/10216.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/22916.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/10216.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-66e231fdfb09",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-66e231fdfb09",
+                  "name": "Gold Coast United vs Moreton City Excelsior",
+                  "streams": [
+                    {
+                      "id": "kaytee-66e231fdfb09",
                       "name": "F",
                       "stream_links": []
                     }
