@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:30 28/06/2026",
+  "last_updated": "01:40 28/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-846a545ca334",
-          "name": "⚽ Ac Oulu vs Lahti | H1 - 29' 0 - 0 01:00 28/06/2026",
+          "name": "⚽ Ac Oulu vs Lahti | H1 - 39' 0 - 0 01:00 28/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/2077.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1166.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8be9596339",
+                          "id": "lnk-53b03f9f95",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx34go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=457cd3ff23d949ef61c4dc48-178258506745750&wsIPSercert=17efd8552bfdbf0b9f12e60c67234edd&wsBindIP=2&wsserid=1168231394936081814"
+                          "url": "https://tfx34go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=457cd3ff23d949ef61c4dc48-178258566312097&wsIPSercert=9c8b84a59412a7075e45017cc656bff6&wsBindIP=2&wsserid=1168231394936081814"
                         },
                         {
-                          "id": "lnk-5b211c17d4",
+                          "id": "lnk-d51b00b6e1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-76f1189c6c4e",
-          "name": "⚽ Criciuma vs São Bernardo | Sắp diễn ra vs 02:00 28/06/2026",
+          "name": "⚽ Criciuma vs São Bernardo | Sắp bắt đầu - null' 0 - 0 02:00 28/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/140.png",
           "logo_khach": "https://media.api-sports.io/football/teams/7865.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-76f1189c6c4e",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-4d86b29710",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx34go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178258567114734&wsIPSercert=9c8b84a59412a7075e45017cc656bff6&wsBindIP=2&wsserid=1168231394942373370"
+                        },
+                        {
+                          "id": "lnk-0891461497",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
