@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:31 27/06/2026",
+  "last_updated": "10:40 27/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c53d6f3d99ad",
-          "name": "⚽ Egypt vs Iran | H1 - 31' 1 - 1 10:00 27/06/2026",
+          "name": "⚽ Egypt vs Iran | H1 - 40' 1 - 1 10:00 27/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcHjuJwQinnq7yrEdYTZNb6xYpuKE2zdRCXg&s",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a4baec5903",
+                          "id": "lnk-8bebf3b012",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx33gr4nhct1gwzdrcttfa5unmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=6ef88ce499dd4f565223d5e8-178253108568383&wsIPSercert=f5346fc8e574a581bd2f881c9f577cee&wsBindIP=2&wsserid=1168239733742939020"
+                          "url": "https://tfx33go3nhcjtgczdncjqgrhurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178253166073486&wsIPSercert=a9f752ba5e15921acac0505943b51d71&wsBindIP=2&wsserid=1168159941874082915"
                         },
                         {
-                          "id": "lnk-d06065f791",
+                          "id": "lnk-92d437f0cd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-41f937edb454",
-          "name": "⚽ New Zealand vs Belgium | H1 - 30' 0 - 1 10:00 27/06/2026",
+          "name": "⚽ New Zealand vs Belgium | H1 - 40' 0 - 1 10:00 27/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/1.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d7410676ed",
+                          "id": "lnk-5e2d0f9294",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx33gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=6ef88ce499dd4f565223d5e8-178253109406104&wsIPSercert=f5346fc8e574a581bd2f881c9f577cee&wsBindIP=2&wsserid=1168239733742939020"
+                          "url": "https://tfx33go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178253166932454&wsIPSercert=a9f752ba5e15921acac0505943b51d71&wsBindIP=2&wsserid=1168159941874082915"
                         },
                         {
-                          "id": "lnk-4945779df9",
+                          "id": "lnk-f9e3adbd12",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-1f7135d0a23f",
-          "name": "⚽ Charlestown City Blues vs Belmont Swansea | Sắp diễn ra vs 11:00 27/06/2026",
+          "name": "⚽ Charlestown City Blues vs Belmont Swansea | Sắp bắt đầu - null' 0 - 0 11:00 27/06/2026",
           "tournament": "Northern NSW NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/10203.png",
           "logo_khach": "https://media.api-sports.io/football/teams/23500.png",
@@ -146,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +164,22 @@
                     {
                       "id": "kaytee-1f7135d0a23f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-d7e876f92a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx33go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=2ba370caf3f49e1b7c45518a-178253167729805&wsIPSercert=a9f752ba5e15921acac0505943b51d71&wsBindIP=2&wsserid=1168159941878277389"
+                        },
+                        {
+                          "id": "lnk-425b4557ac",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -173,7 +188,7 @@
           ]
         },
         {
-          "id": "kaytee-11dcb882cf22",
+          "id": "kaytee-40c0eb052dcd",
           "name": "⚽ Valentine vs Lambton Jaffas | Sắp diễn ra vs 13:30 27/06/2026",
           "tournament": "Northern NSW NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/10209.png",
@@ -199,15 +214,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-11dcb882cf22",
+              "id": "kaytee-40c0eb052dcd",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-11dcb882cf22",
+                  "id": "kaytee-40c0eb052dcd",
                   "name": "Valentine vs Lambton Jaffas",
                   "streams": [
                     {
-                      "id": "kaytee-11dcb882cf22",
+                      "id": "kaytee-40c0eb052dcd",
                       "name": "F",
                       "stream_links": []
                     }
