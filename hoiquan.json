@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:30 27/06/2026",
+  "last_updated": "15:40 27/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-40c0eb052dcd",
-          "name": "⚽ Valentine vs Lambton Jaffas | H2 - 90+4' 1 - 1 13:30 27/06/2026",
-          "tournament": "Northern NSW NPL",
-          "logo_nha": "https://media.api-sports.io/football/teams/10209.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/10207.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10209.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-40c0eb052dcd",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-40c0eb052dcd",
-                  "name": "Valentine vs Lambton Jaffas",
-                  "streams": [
-                    {
-                      "id": "kaytee-40c0eb052dcd",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2ee8039a7b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-a06ba3985094",
-          "name": "⚽ Shanghai Second vs Qingdao Red Lions | H1 - 31' 0 - 1 15:00 27/06/2026",
+          "name": "⚽ Shanghai Second vs Qingdao Red Lions | Live 0 - 0 15:00 27/06/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/27619.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5679.png",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9cd416a26b",
+                          "id": "lnk-8a296abc03",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx31gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e851a2b515b39bfc1b7fa041-178254907251857&wsIPSercert=10454ae6e36fec32738035a9378e9d30&wsBindIP=2&wsserid=1168243256629514822"
+                          "url": "https://tfx31gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=f64ed1182ed1d47a38e6ed7e-178254965944028&wsIPSercert=44df4261c42b6737eb5cc9b83252ee8d&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-8277774c90",
+                          "id": "lnk-0e95818fe3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-ee971a3f4777",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c9f290d72172",
+          "name": "⚽ Panama vs England | Sắp diễn ra vs 04:00 28/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c9f290d72172",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c9f290d72172",
+                  "name": "Panama vs England",
+                  "streams": [
+                    {
+                      "id": "kaytee-c9f290d72172",
                       "name": "F",
                       "stream_links": []
                     }
