@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:51 28/06/2026",
+  "last_updated": "04:01 28/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-76f1189c6c4e",
-          "name": "⚽ Criciuma vs São Bernardo | H2 - 89' 1 - 0 02:00 28/06/2026",
-          "tournament": "Serie B",
-          "logo_nha": "https://media.api-sports.io/football/teams/140.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/7865.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/140.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-76f1189c6c4e",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-76f1189c6c4e",
-                  "name": "Criciuma vs São Bernardo",
-                  "streams": [
-                    {
-                      "id": "kaytee-76f1189c6c4e",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7209f8b286",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx34go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178259347633481&wsIPSercert=60058bc32a558f3ba0eac29172668426&wsBindIP=2&wsserid=1168231394942373370"
-                        },
-                        {
-                          "id": "lnk-345f31658e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-ee971a3f4777",
           "name": "⚽ Croatia vs Ghana | Sắp bắt đầu - null' 0 - 0 04:00 28/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c5817f4435",
+                          "id": "lnk-0bde77449e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx34go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178259348431031&wsIPSercert=60058bc32a558f3ba0eac29172668426&wsBindIP=2&wsserid=1168231394942373370"
+                          "url": "https://tfx33go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=1c66e4ed59792af5c9430327-178259408143996&wsIPSercert=336bc67e8c8267e26a39d94fd8bfa50a&wsBindIP=2&wsserid=1168178972992656721"
                         },
                         {
-                          "id": "lnk-04b29dc92a",
+                          "id": "lnk-418e1423e9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1e076c75d5",
+                          "id": "lnk-d31bd96f5a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx34go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178259349363856&wsIPSercert=60058bc32a558f3ba0eac29172668426&wsBindIP=2&wsserid=1168231394942373370"
+                          "url": "https://tfx33go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=1c66e4ed59792af5c9430327-178259408993491&wsIPSercert=336bc67e8c8267e26a39d94fd8bfa50a&wsBindIP=2&wsserid=1168178972992656721"
                         },
                         {
-                          "id": "lnk-a420e18ea8",
+                          "id": "lnk-f4b958f470",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-a723d21f47dd",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-cd3d3317561c",
+          "name": "⚽ Qingdao Youth Island vs Hangzhou Greentown | Sắp diễn ra vs 17:00 28/06/2026",
+          "tournament": "Super League",
+          "logo_nha": "https://media.api-sports.io/football/teams/17265.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/848.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/17265.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-cd3d3317561c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-cd3d3317561c",
+                  "name": "Qingdao Youth Island vs Hangzhou Greentown",
+                  "streams": [
+                    {
+                      "id": "kaytee-cd3d3317561c",
                       "name": "F",
                       "stream_links": []
                     }
