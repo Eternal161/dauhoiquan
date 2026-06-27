@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:50 27/06/2026",
+  "last_updated": "07:01 27/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-fcb83906f890",
-          "name": "⚽ Novorizontino vs Vila Nova | H2 - 87' 1 - 1 05:00 27/06/2026",
-          "tournament": "Serie B",
-          "logo_nha": "https://media.api-sports.io/football/teams/7834.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/142.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/7834.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-fcb83906f890",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-fcb83906f890",
-                  "name": "Novorizontino vs Vila Nova",
-                  "streams": [
-                    {
-                      "id": "kaytee-fcb83906f890",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f098cdb8f8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx23go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=b729ead558c9cf9a676e9806-178251786347829&wsIPSercert=0c428e8e739ba6615639696733a6ffad&wsBindIP=2&wsserid=1168159941876180135"
-                        },
-                        {
-                          "id": "lnk-5d6c2cb03c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-f96797493642",
           "name": "⚽ Cape Verde Islands vs Saudi Arabia | Sắp bắt đầu - null' 0 - 0 07:00 27/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8f8726bea5",
+                          "id": "lnk-8f3da68339",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx23go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=b729ead558c9cf9a676e9806-178251787110624&wsIPSercert=0c428e8e739ba6615639696733a6ffad&wsBindIP=2&wsserid=1168159941876180135"
+                          "url": "https://tfx33gr4nhct1gwzdrcttfa5unmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=8ad33e744396bed8b0996bd9-178251849231969&wsIPSercert=3fc4786de02d6ad40f3902d49a4642c7&wsBindIP=2&wsserid=1168239733240635128"
                         },
                         {
-                          "id": "lnk-aa386a079d",
+                          "id": "lnk-724ec34003",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-29312fb851",
+                          "id": "lnk-bce8f3083d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx23go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b729ead558c9cf9a676e9806-178251788032644&wsIPSercert=0c428e8e739ba6615639696733a6ffad&wsBindIP=2&wsserid=1168159941876180135"
+                          "url": "https://tfx33gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=8ad33e744396bed8b0996bd9-178251850086214&wsIPSercert=3fc4786de02d6ad40f3902d49a4642c7&wsBindIP=2&wsserid=1168239733240635128"
                         },
                         {
-                          "id": "lnk-162cbdeec4",
+                          "id": "lnk-af7aa977ed",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-9a2a90660992",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3afbeb7ac26d",
+          "name": "⚽ Beijing Guoan vs Wuhan Three Towns | Sắp diễn ra vs 19:00 27/06/2026",
+          "tournament": "Super League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Wuhan_Three_Towns_F.C.svg/250px-Wuhan_Three_Towns_F.C.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3afbeb7ac26d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3afbeb7ac26d",
+                  "name": "Beijing Guoan vs Wuhan Three Towns",
+                  "streams": [
+                    {
+                      "id": "kaytee-3afbeb7ac26d",
                       "name": "F",
                       "stream_links": []
                     }
