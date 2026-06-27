@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:10 27/06/2026",
+  "last_updated": "21:20 27/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-3afbeb7ac26d",
-          "name": "⚽ Beijing Guoan vs Wuhan Three Towns | H2 - 90+9' 1 - 0 19:00 27/06/2026",
-          "tournament": "Super League",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Wuhan_Three_Towns_F.C.svg/250px-Wuhan_Three_Towns_F.C.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3afbeb7ac26d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3afbeb7ac26d",
-                  "name": "Beijing Guoan vs Wuhan Three Towns",
-                  "streams": [
-                    {
-                      "id": "kaytee-3afbeb7ac26d",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f27fe2cc99",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-3b61339da6bf",
-          "name": "⚽ Mariehamn vs Inter Turku | Sắp diễn ra vs 21:00 27/06/2026",
+          "name": "⚽ Mariehamn vs Inter Turku | H1 - 19' 0 - 0 21:00 27/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/587.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1164.png",
@@ -79,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +44,22 @@
                     {
                       "id": "kaytee-3b61339da6bf",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-190dd2dfba",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx30gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178257005808510&wsIPSercert=38da2d27f093bbcf8aaa0c304f58352a&wsBindIP=2&wsserid=1168283477179400067"
+                        },
+                        {
+                          "id": "lnk-d6bf5a2d02",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -456,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-f34e34cb60b0",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f57f3f8c76e8",
+          "name": "⚽ Algeria vs Austria | Sắp diễn ra vs 09:00 28/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/775.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f57f3f8c76e8",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f57f3f8c76e8",
+                  "name": "Algeria vs Austria",
+                  "streams": [
+                    {
+                      "id": "kaytee-f57f3f8c76e8",
                       "name": "F",
                       "stream_links": []
                     }
