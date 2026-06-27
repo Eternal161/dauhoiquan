@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:00 28/06/2026",
+  "last_updated": "03:10 28/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-76f1189c6c4e",
-          "name": "⚽ Criciuma vs São Bernardo | Giữa Hiệp - 45+3' 1 - 0 02:00 28/06/2026",
+          "name": "⚽ Criciuma vs São Bernardo | H2 - 49' 1 - 0 02:00 28/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/140.png",
           "logo_khach": "https://media.api-sports.io/football/teams/7865.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-689d626f9b",
+                          "id": "lnk-5d0fee7a78",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx34go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178259046289278&wsIPSercert=35396746ae736afae044dea53ef2fc8a&wsBindIP=2&wsserid=1168231394942373370"
+                          "url": "https://tfx34go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178259105830312&wsIPSercert=817c69188eebf0b7d0af72c1d15d3ea7&wsBindIP=2&wsserid=1168231394942373370"
                         },
                         {
-                          "id": "lnk-1ee154b75c",
+                          "id": "lnk-eb34901f02",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
