@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:50 27/06/2026",
+  "last_updated": "08:00 27/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-f96797493642",
-          "name": "⚽ Cape Verde Islands vs Saudi Arabia | H1 - 45+4' 0 - 0 07:00 27/06/2026",
+          "name": "⚽ Cape Verde Islands vs Saudi Arabia | Giữa Hiệp - 45+6' 0 - 0 07:00 27/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b68ce5550e",
+                          "id": "lnk-c799cfa66c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx33gr4nhct1gwzdrcttfa5unmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=8ad33e744396bed8b0996bd9-178252146495771&wsIPSercert=912dea1c7699479c0fe4aa492305e711&wsBindIP=2&wsserid=1168239733240635128"
+                          "url": "https://tfx33go3nhcjtgczdncjqgrhurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178252206922207&wsIPSercert=f485b4e2a15868255271ae439ca5f1ef&wsBindIP=2&wsserid=1168159941874082915"
                         },
                         {
-                          "id": "lnk-964100537e",
+                          "id": "lnk-5680bd0c34",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-bbf7ade16752",
-          "name": "⚽ Uruguay vs Spain | H1 - 45+4' 0 - 1 07:00 27/06/2026",
+          "name": "⚽ Uruguay vs Spain | Giữa Hiệp - 45+8' 0 - 1 07:00 27/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/9.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-80680dd033",
+                          "id": "lnk-b30413b534",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx33gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=8ad33e744396bed8b0996bd9-178252147359806&wsIPSercert=912dea1c7699479c0fe4aa492305e711&wsBindIP=2&wsserid=1168239733240635128"
+                          "url": "https://tfx33go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178252207779640&wsIPSercert=f485b4e2a15868255271ae439ca5f1ef&wsBindIP=2&wsserid=1168159941874082915"
                         },
                         {
-                          "id": "lnk-898e79e494",
+                          "id": "lnk-ba2d8efcd7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
