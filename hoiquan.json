@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:50 27/06/2026",
+  "last_updated": "20:00 27/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8a37d11cf636",
-          "name": "⚽ Shenyang Urban vs Shandong Luneng | H2 - 90+1' 1 - 5 18:00 27/06/2026",
+          "name": "⚽ Shenyang Urban vs Shandong Luneng | H2 - 90+6' 1 - 5 18:00 27/06/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/5684.png",
           "logo_khach": "https://media.api-sports.io/football/teams/844.png",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f1c33b5b14",
+                          "id": "lnk-ff323a9db6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx30gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=8ba658945e64d68e86674644-178256466218162&wsIPSercert=890a4d00711758fceb080349ca5b458b&wsBindIP=2&wsserid=1168283618402913555"
-                        },
-                        {
-                          "id": "lnk-201f0669b8",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8"
                         }
                       ]
@@ -69,7 +62,7 @@
         },
         {
           "id": "kaytee-9a2a90660992",
-          "name": "⚽ Henan Jianye vs Shanghai Sipg | H2 - 56' 1 - 1 18:35 27/06/2026",
+          "name": "⚽ Henan Jianye vs Shanghai Sipg | H2 - 66' 1 - 2 18:35 27/06/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/840.png",
           "logo_khach": "https://media.api-sports.io/football/teams/836.png",
@@ -106,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-42eac1bda6",
+                          "id": "lnk-d39bb184e1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx30gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=d34f0b3d7ea231833648feb7-178256467058068&wsIPSercert=890a4d00711758fceb080349ca5b458b&wsBindIP=2&wsserid=1168283529569158070"
+                          "url": "https://tfx31gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=eb70f8498029e49ad4e5bdab-178256527523961&wsIPSercert=a600295c44a299257e6fa9dca234041d&wsBindIP=2&wsserid=1168243343870168317"
                         },
                         {
-                          "id": "lnk-e83924f30a",
+                          "id": "lnk-6474d83b79",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +159,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f60586b693",
+                          "id": "lnk-eec8a266b1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx30gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178256467945963&wsIPSercert=890a4d00711758fceb080349ca5b458b&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfx31gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=45be673f9c0838073bc08b6e-178256528397506&wsIPSercert=a600295c44a299257e6fa9dca234041d&wsBindIP=2&wsserid=1168243343860730937"
                         },
                         {
-                          "id": "lnk-d411e90dc0",
+                          "id": "lnk-f3cac688f9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
