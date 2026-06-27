@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:50 27/06/2026",
+  "last_updated": "23:01 27/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-3b61339da6bf",
-          "name": "⚽ Mariehamn vs Inter Turku | H2 - 86' 0 - 1 21:00 27/06/2026",
+          "name": "⚽ Mariehamn vs Inter Turku | H2 - 90+6' 0 - 2 21:00 27/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/587.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1164.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-050052f7b5",
+                          "id": "lnk-9295493ad3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx34gr3uomttgr31hqbtfahn44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=fe58ed78aa43c18157419eb6-178257545703201&wsIPSercert=3eac73e880dca8885dcd1dc4e5070a86&wsBindIP=2&wsserid=1168233249805491466"
+                          "url": "https://tfx34gchnhcjo8rzdrpjtfa4144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=2c45ec0ee708bf7b239c6926-178257607164474&wsIPSercert=972da8eb661a85ddd73a4c46d3bf6055&wsBindIP=2&wsserid=1168168154451507561"
                         },
                         {
-                          "id": "lnk-af82058e64",
+                          "id": "lnk-7a8d644533",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-746c5ffc78",
+                          "id": "lnk-f191eaccc2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx34gr3uomttgr31hqbtfahn44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=9ff1e1b5e16c2357e3ba263c-178257546537438&wsIPSercert=3eac73e880dca8885dcd1dc4e5070a86&wsBindIP=2&wsserid=1168233226261560417"
+                          "url": "https://tfx34gchnhcjo8rzdrpjtfa4144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f7e42543e61847d2fa7bb4d5-178257608029152&wsIPSercert=972da8eb661a85ddd73a4c46d3bf6055&wsBindIP=2&wsserid=1168168154453604765"
                         },
                         {
-                          "id": "lnk-f997cfff9a",
+                          "id": "lnk-bf2064f28e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
