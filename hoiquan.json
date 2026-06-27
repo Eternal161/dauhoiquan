@@ -1,135 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:00 28/06/2026",
+  "last_updated": "06:10 28/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-ee971a3f4777",
-          "name": "⚽ Croatia vs Ghana | H2 - 90+8' 2 - 1 04:00 28/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ee971a3f4777",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ee971a3f4777",
-                  "name": "Croatia vs Ghana",
-                  "streams": [
-                    {
-                      "id": "kaytee-ee971a3f4777",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-878d38cd66",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx34go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=457cd3ff23d949ef61c4dc48-178260126499751&wsIPSercert=f84ff9228c937dc5f3caf36940bd7b93&wsBindIP=2&wsserid=1168231394936081814"
-                        },
-                        {
-                          "id": "lnk-ad8eaba626",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-c9f290d72172",
-          "name": "⚽ Panama vs England | H2 - 90+6' 0 - 2 04:00 28/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/10.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c9f290d72172",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c9f290d72172",
-                  "name": "Panama vs England",
-                  "streams": [
-                    {
-                      "id": "kaytee-c9f290d72172",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-24923a455a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx34go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=457cd3ff23d949ef61c4dc48-178260127321362&wsIPSercert=f84ff9228c937dc5f3caf36940bd7b93&wsBindIP=2&wsserid=1168231394936081814"
-                        },
-                        {
-                          "id": "lnk-48e5d17bb6",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-1a3fe0320393",
-          "name": "⚽ Colombia vs Portugal | Sắp diễn ra vs 06:30 28/06/2026",
+          "name": "⚽ Colombia vs Portugal | Sắp bắt đầu - null' 0 - 0 06:30 28/06/2026",
           "tournament": "World CupW ( ĐẦU CẦU TRUNG LẬP )",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/27.png",
@@ -146,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -164,7 +44,22 @@
                     {
                       "id": "kaytee-1a3fe0320393",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-d0f782b443",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx34go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0d134b8c6677d318f0d3554c-178260185783818&wsIPSercert=1e4caa9c6616c3691dd8301cd7663abc&wsBindIP=2&wsserid=1168231235299071981"
+                        },
+                        {
+                          "id": "lnk-8a59f1bb75",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -174,7 +69,7 @@
         },
         {
           "id": "kaytee-0ca7d729a7cf",
-          "name": "⚽ Congo Dr vs Uzbekistan | Sắp diễn ra vs 06:30 28/06/2026",
+          "name": "⚽ Congo Dr vs Uzbekistan | Sắp bắt đầu - null' 0 - 0 06:30 28/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1568.png",
@@ -191,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -209,7 +104,22 @@
                     {
                       "id": "kaytee-0ca7d729a7cf",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-e1548d7849",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx34go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0d134b8c6677d318f0d3554c-178260186668809&wsIPSercert=1e4caa9c6616c3691dd8301cd7663abc&wsBindIP=2&wsserid=1168231235299071981"
+                        },
+                        {
+                          "id": "lnk-4fc33401d6",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -478,6 +388,96 @@
                   "streams": [
                     {
                       "id": "kaytee-cd3d3317561c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-38cf56293a27",
+          "name": "⚽ Dalian Zhixing vs Shanghai Shenhua | Sắp diễn ra vs 18:00 28/06/2026",
+          "tournament": "Super League",
+          "logo_nha": "https://media.api-sports.io/football/teams/21263.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/21263.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-38cf56293a27",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-38cf56293a27",
+                  "name": "Dalian Zhixing vs Shanghai Shenhua",
+                  "streams": [
+                    {
+                      "id": "kaytee-38cf56293a27",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a58583691d92",
+          "name": "⚽ Fk Tobol Kostanay vs Altay | Sắp diễn ra vs 20:00 28/06/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/2259.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4544.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2259.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a58583691d92",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a58583691d92",
+                  "name": "Fk Tobol Kostanay vs Altay",
+                  "streams": [
+                    {
+                      "id": "kaytee-a58583691d92",
                       "name": "F",
                       "stream_links": []
                     }
