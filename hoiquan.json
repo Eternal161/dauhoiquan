@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:40 28/06/2026",
+  "last_updated": "00:50 28/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-98d540db0f35",
-          "name": "⚽ Gnistan vs Vps | H2 - 76' 1 - 1 23:00 27/06/2026",
+          "name": "⚽ Gnistan vs Vps | H2 - 85' 1 - 1 23:00 27/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/2082.png",
           "logo_khach": "https://media.api-sports.io/football/teams/650.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9c0d6e69eb",
+                          "id": "lnk-02c0934e48",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx34go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0d134b8c6677d318f0d3554c-178258206131123&wsIPSercert=66a84b15904d216e60e5b7e0953dfbc9&wsBindIP=2&wsserid=1168231235299071981"
+                          "url": "https://tfx34go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0d134b8c6677d318f0d3554c-178258266041011&wsIPSercert=fc6264648704bf462bf233d74bb0ca55&wsBindIP=2&wsserid=1168231235299071981"
                         },
                         {
-                          "id": "lnk-3572634280",
+                          "id": "lnk-dc20a3c4ad",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f758022110",
+                          "id": "lnk-01c0d59489",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx34go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=457cd3ff23d949ef61c4dc48-178258206930785&wsIPSercert=66a84b15904d216e60e5b7e0953dfbc9&wsBindIP=2&wsserid=1168231394936081814"
+                          "url": "https://tfx34go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=457cd3ff23d949ef61c4dc48-178258266847450&wsIPSercert=fc6264648704bf462bf233d74bb0ca55&wsBindIP=2&wsserid=1168231394936081814"
                         },
                         {
-                          "id": "lnk-69b0600477",
+                          "id": "lnk-ea5de6a50c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -443,9 +443,9 @@
           ]
         },
         {
-          "id": "kaytee-413c670890a5",
+          "id": "kaytee-450ee8262dda",
           "name": "⚽ Jordan vs Argentina | Sắp diễn ra vs 09:00 28/06/2026",
-          "tournament": "World Cup ( Râu Con và Fan Bà Xã )",
+          "tournament": "World CupW ( ĐẦU CẦU TRUNG LẬP )",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
           "type": "single",
@@ -469,15 +469,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-413c670890a5",
+              "id": "kaytee-450ee8262dda",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-413c670890a5",
+                  "id": "kaytee-450ee8262dda",
                   "name": "Jordan vs Argentina",
                   "streams": [
                     {
-                      "id": "kaytee-413c670890a5",
+                      "id": "kaytee-450ee8262dda",
                       "name": "F",
                       "stream_links": []
                     }
