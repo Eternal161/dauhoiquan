@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:20 27/06/2026",
+  "last_updated": "22:31 27/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-3b61339da6bf",
-          "name": "⚽ Mariehamn vs Inter Turku | H2 - 56' 0 - 1 21:00 27/06/2026",
+          "name": "⚽ Mariehamn vs Inter Turku | H2 - 66' 0 - 1 21:00 27/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/587.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1164.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b2f5920ccc",
+                          "id": "lnk-cd656d5e31",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx30gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178257365986799&wsIPSercert=3c66557d62fe96a396111082b86e8bb7&wsBindIP=2&wsserid=1168231785641135723"
+                          "url": "https://tfx30gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178257428032923&wsIPSercert=332b29362d5bac0efac8390707f32b5a&wsBindIP=2&wsserid=1168231785641135723"
                         },
                         {
-                          "id": "lnk-d7f75a460e",
+                          "id": "lnk-a37411ebde",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-98d540db0f35",
-          "name": "⚽ Gnistan vs Vps | Sắp diễn ra vs 23:00 27/06/2026",
+          "name": "⚽ Gnistan vs Vps | Sắp bắt đầu - null' 0 - 0 23:00 27/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/2082.png",
           "logo_khach": "https://media.api-sports.io/football/teams/650.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-98d540db0f35",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-490db986b9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx30gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=00489e5fa24fa852f6673a81-178257428897831&wsIPSercert=332b29362d5bac0efac8390707f32b5a&wsBindIP=2&wsserid=1168231589574964209"
+                        },
+                        {
+                          "id": "lnk-e118a137e6",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
