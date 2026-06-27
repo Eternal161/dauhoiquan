@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:50 28/06/2026",
+  "last_updated": "03:00 28/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-846a545ca334",
-          "name": "⚽ Ac Oulu vs Lahti | H2 - 88' 1 - 1 01:00 28/06/2026",
-          "tournament": "Veikkausliiga",
-          "logo_nha": "https://media.api-sports.io/football/teams/2077.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1166.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2077.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-846a545ca334",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-846a545ca334",
-                  "name": "Ac Oulu vs Lahti",
-                  "streams": [
-                    {
-                      "id": "kaytee-846a545ca334",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d0a5a045f0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx34go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=457cd3ff23d949ef61c4dc48-178258985977124&wsIPSercert=a722953477b3d3e0d5b739b2f9075b62&wsBindIP=2&wsserid=1168231394936081814"
-                        },
-                        {
-                          "id": "lnk-09c410934c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-76f1189c6c4e",
           "name": "⚽ Criciuma vs São Bernardo | Giữa Hiệp - 45+3' 1 - 0 02:00 28/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-de8106d16b",
+                          "id": "lnk-689d626f9b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx34go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178258986859998&wsIPSercert=a722953477b3d3e0d5b739b2f9075b62&wsBindIP=2&wsserid=1168231394942373370"
+                          "url": "https://tfx34go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178259046289278&wsIPSercert=35396746ae736afae044dea53ef2fc8a&wsBindIP=2&wsserid=1168231394942373370"
                         },
                         {
-                          "id": "lnk-3b66c8beb0",
+                          "id": "lnk-1ee154b75c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-66e231fdfb09",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a723d21f47dd",
+          "name": "⚽ Lions vs Wdsc Wolves | Sắp diễn ra vs 14:00 28/06/2026",
+          "tournament": "Queensland NPL",
+          "logo_nha": "https://media.api-sports.io/football/teams/10217.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/11184.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/10217.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a723d21f47dd",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a723d21f47dd",
+                  "name": "Lions vs Wdsc Wolves",
+                  "streams": [
+                    {
+                      "id": "kaytee-a723d21f47dd",
                       "name": "F",
                       "stream_links": []
                     }
