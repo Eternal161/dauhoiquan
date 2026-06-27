@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:20 27/06/2026",
+  "last_updated": "10:31 27/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c53d6f3d99ad",
-          "name": "⚽ Egypt vs Iran | H1 - 20' 1 - 1 10:00 27/06/2026",
+          "name": "⚽ Egypt vs Iran | H1 - 31' 1 - 1 10:00 27/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcHjuJwQinnq7yrEdYTZNb6xYpuKE2zdRCXg&s",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b3b6b4f8de",
+                          "id": "lnk-a4baec5903",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx34go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0d134b8c6677d318f0d3554c-178253046438026&wsIPSercert=11aba54e4d8b32a0f00d8caea8401a15&wsBindIP=2&wsserid=1168231235299071981"
+                          "url": "https://tfx33gr4nhct1gwzdrcttfa5unmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=6ef88ce499dd4f565223d5e8-178253108568383&wsIPSercert=f5346fc8e574a581bd2f881c9f577cee&wsBindIP=2&wsserid=1168239733742939020"
                         },
                         {
-                          "id": "lnk-6d95b74b89",
+                          "id": "lnk-d06065f791",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-41f937edb454",
-          "name": "⚽ New Zealand vs Belgium | H1 - 20' 0 - 0 10:00 27/06/2026",
+          "name": "⚽ New Zealand vs Belgium | H1 - 30' 0 - 1 10:00 27/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/1.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2ff1a1f9f9",
+                          "id": "lnk-d7410676ed",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx34go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0d134b8c6677d318f0d3554c-178253047305493&wsIPSercert=11aba54e4d8b32a0f00d8caea8401a15&wsBindIP=2&wsserid=1168231235299071981"
+                          "url": "https://tfx33gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=6ef88ce499dd4f565223d5e8-178253109406104&wsIPSercert=f5346fc8e574a581bd2f881c9f577cee&wsBindIP=2&wsserid=1168239733742939020"
                         },
                         {
-                          "id": "lnk-eb2d7d2b03",
+                          "id": "lnk-4945779df9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
