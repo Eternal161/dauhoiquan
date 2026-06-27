@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:20 27/06/2026",
+  "last_updated": "21:30 27/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-3b61339da6bf",
-          "name": "⚽ Mariehamn vs Inter Turku | H1 - 19' 0 - 0 21:00 27/06/2026",
+          "name": "⚽ Mariehamn vs Inter Turku | Live 0 - 0 21:00 27/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/587.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1164.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-190dd2dfba",
+                          "id": "lnk-6b4db1c209",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx30gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178257005808510&wsIPSercert=38da2d27f093bbcf8aaa0c304f58352a&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfx31gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e851a2b515b39bfc1b7fa041-178257066108402&wsIPSercert=5ff414be2be8ba2d152c2587f1b3c24c&wsBindIP=2&wsserid=1168243256629514822"
                         },
                         {
-                          "id": "lnk-d6bf5a2d02",
+                          "id": "lnk-003a7e6562",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
