@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:30 27/06/2026",
+  "last_updated": "20:40 27/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-3afbeb7ac26d",
-          "name": "⚽ Beijing Guoan vs Wuhan Three Towns | Live 0 - 0 19:00 27/06/2026",
+          "name": "⚽ Beijing Guoan vs Wuhan Three Towns | H2 - 79' 1 - 0 19:00 27/06/2026",
           "tournament": "Super League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Wuhan_Three_Towns_F.C.svg/250px-Wuhan_Three_Towns_F.C.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a2d89da18d",
+                          "id": "lnk-c30944943f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx33gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=5bd5ca106460d708e48cc2cb-178256706417977&wsIPSercert=82a46988af17befe0b00bca65a6e7daa&wsBindIP=2&wsserid=1168158473487963106"
+                          "url": "https://tfx30gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178256766466900&wsIPSercert=ff833b267a61ba4e65b46cac33bde8d7&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-a3206bb7d7",
+                          "id": "lnk-f3683d27f2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
