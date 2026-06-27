@@ -1,132 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:01 27/06/2026",
+  "last_updated": "09:10 27/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-f96797493642",
-          "name": "⚽ Cape Verde Islands vs Saudi Arabia | H2 - 90+5' 0 - 0 07:00 27/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f96797493642",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f96797493642",
-                  "name": "Cape Verde Islands vs Saudi Arabia",
-                  "streams": [
-                    {
-                      "id": "kaytee-f96797493642",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5e4a7ecb78",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx33go3nhcjtgczdncjqgrhurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=cceec7e69e0b5e177642d555-178252567264111&wsIPSercert=d73670c6f62cb34fb1f53449adb421c5&wsBindIP=2&wsserid=1168159941865693933"
-                        },
-                        {
-                          "id": "lnk-b253ee0ff1",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-bbf7ade16752",
-          "name": "⚽ Uruguay vs Spain | H2 - 90+7' 0 - 1 07:00 27/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/9.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-bbf7ade16752",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-bbf7ade16752",
-                  "name": "Uruguay vs Spain",
-                  "streams": [
-                    {
-                      "id": "kaytee-bbf7ade16752",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6cee6e8665",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx33go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=cceec7e69e0b5e177642d555-178252568119850&wsIPSercert=d73670c6f62cb34fb1f53449adb421c5&wsBindIP=2&wsserid=1168159941865693933"
-                        },
-                        {
-                          "id": "lnk-703a59aad1",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-c53d6f3d99ad",
           "name": "⚽ Egypt vs Iran | Sắp diễn ra vs 10:00 27/06/2026",
@@ -478,6 +358,96 @@
                   "streams": [
                     {
                       "id": "kaytee-3afbeb7ac26d",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3b61339da6bf",
+          "name": "⚽ Mariehamn vs Inter Turku | Sắp diễn ra vs 21:00 27/06/2026",
+          "tournament": "Veikkausliiga",
+          "logo_nha": "https://media.api-sports.io/football/teams/587.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1164.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/587.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3b61339da6bf",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3b61339da6bf",
+                  "name": "Mariehamn vs Inter Turku",
+                  "streams": [
+                    {
+                      "id": "kaytee-3b61339da6bf",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-98d540db0f35",
+          "name": "⚽ Gnistan vs Vps | Sắp diễn ra vs 23:00 27/06/2026",
+          "tournament": "Veikkausliiga",
+          "logo_nha": "https://media.api-sports.io/football/teams/2082.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/650.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2082.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-98d540db0f35",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-98d540db0f35",
+                  "name": "Gnistan vs Vps",
+                  "streams": [
+                    {
+                      "id": "kaytee-98d540db0f35",
                       "name": "F",
                       "stream_links": []
                     }
