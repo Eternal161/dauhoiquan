@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:21 28/06/2026",
+  "last_updated": "00:30 28/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-98d540db0f35",
-          "name": "⚽ Gnistan vs Vps | H2 - 56' 1 - 1 23:00 27/06/2026",
+          "name": "⚽ Gnistan vs Vps | H2 - 66' 1 - 1 23:00 27/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/2082.png",
           "logo_khach": "https://media.api-sports.io/football/teams/650.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ec8b47288a",
+                          "id": "lnk-58355581bd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx33go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=d545ab77958479705b2e703c-178258087383879&wsIPSercert=575d74b84a1659d3854054e75a4c9986&wsBindIP=2&wsserid=1168178988325669341"
+                          "url": "https://tfx33gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=6ef88ce499dd4f565223d5e8-178258146754196&wsIPSercert=f0eb6cfc9a905cd961f5dbd95376d8bb&wsBindIP=2&wsserid=1168239733742939020"
                         },
                         {
-                          "id": "lnk-7e0b2a0f42",
+                          "id": "lnk-1bfa2e6a55",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-846a545ca334",
-          "name": "⚽ Ac Oulu vs Lahti | Sắp diễn ra vs 01:00 28/06/2026",
+          "name": "⚽ Ac Oulu vs Lahti | Sắp bắt đầu - null' 0 - 0 01:00 28/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/2077.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1166.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-846a545ca334",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-3b0ad4e26e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx33gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=d6feb5e55820b7c46cf83296-178258147569495&wsIPSercert=f0eb6cfc9a905cd961f5dbd95376d8bb&wsBindIP=2&wsserid=1168239733739784689"
+                        },
+                        {
+                          "id": "lnk-4a82ea8977",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
