@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:01 27/06/2026",
+  "last_updated": "18:10 27/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8a37d11cf636",
-          "name": "⚽ Shenyang Urban vs Shandong Luneng | H1 - 1' 0 - 0 18:00 27/06/2026",
+          "name": "⚽ Shenyang Urban vs Shandong Luneng | H1 - 11' 0 - 0 18:00 27/06/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/5684.png",
           "logo_khach": "https://media.api-sports.io/football/teams/844.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-baab0830ae",
+                          "id": "lnk-30f3fde76b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx30gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=95b2d17f05aaf34003ea6935-178255808425750&wsIPSercert=42e0db94cb2edf9314f49401df5af3eb&wsBindIP=2&wsserid=1168176337061519089"
+                          "url": "https://tfx30gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=8ba658945e64d68e86674644-178255865775603&wsIPSercert=aecc7d67663aa61f65fb69c4c69f6185&wsBindIP=2&wsserid=1168283618402913555"
                         },
                         {
-                          "id": "lnk-cc88bc4a40",
+                          "id": "lnk-5df968372f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fa7a5c384a",
+                          "id": "lnk-4a178677bf",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx30gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=603385c54bccd54e234eabbe-178255809270015&wsIPSercert=42e0db94cb2edf9314f49401df5af3eb&wsBindIP=2&wsserid=1168041062945190795"
+                          "url": "https://tfx30gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=d34f0b3d7ea231833648feb7-178255866616031&wsIPSercert=aecc7d67663aa61f65fb69c4c69f6185&wsBindIP=2&wsserid=1168283529569158070"
                         },
                         {
-                          "id": "lnk-1ba543b4d1",
+                          "id": "lnk-e8ad34546d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
