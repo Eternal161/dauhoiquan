@@ -1,14 +1,14 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:41 27/06/2026",
+  "last_updated": "17:50 27/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-1d3a9b07b27f",
+          "id": "kaytee-8a37d11cf636",
           "name": "⚽ Shenyang Urban vs Shandong Luneng | Sắp bắt đầu - null' 0 - 0 18:00 27/06/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/5684.png",
@@ -34,30 +34,23 @@
           ],
           "sources": [
             {
-              "id": "kaytee-1d3a9b07b27f",
+              "id": "kaytee-8a37d11cf636",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-1d3a9b07b27f",
+                  "id": "kaytee-8a37d11cf636",
                   "name": "Shenyang Urban vs Shandong Luneng",
                   "streams": [
                     {
-                      "id": "kaytee-1d3a9b07b27f",
+                      "id": "kaytee-8a37d11cf636",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-937da8b0f6",
+                          "id": "lnk-dc821f91ca",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx34gchnhcjo8rzdrpjtfa4147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2c45ec0ee708bf7b239c6926-178255687198017&wsIPSercert=c937921dfe24669d8eae97f71daeec8e&wsBindIP=2&wsserid=1168168154451507561"
-                        },
-                        {
-                          "id": "lnk-87a8bcf8ff",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8"
                         }
                       ]
                     }
