@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:20 28/06/2026",
+  "last_updated": "01:30 28/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-846a545ca334",
-          "name": "⚽ Ac Oulu vs Lahti | H1 - 19' 0 - 0 01:00 28/06/2026",
+          "name": "⚽ Ac Oulu vs Lahti | H1 - 29' 0 - 0 01:00 28/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/2077.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1166.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-56a088dfe7",
+                          "id": "lnk-8be9596339",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx34go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=457cd3ff23d949ef61c4dc48-178258445894286&wsIPSercert=917d3cb1a085797d2b6f245f8693fdac&wsBindIP=2&wsserid=1168231394936081814"
+                          "url": "https://tfx34go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=457cd3ff23d949ef61c4dc48-178258506745750&wsIPSercert=17efd8552bfdbf0b9f12e60c67234edd&wsBindIP=2&wsserid=1168231394936081814"
                         },
                         {
-                          "id": "lnk-f48d636195",
+                          "id": "lnk-5b211c17d4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
