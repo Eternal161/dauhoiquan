@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:40 28/06/2026",
+  "last_updated": "02:50 28/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-846a545ca334",
-          "name": "⚽ Ac Oulu vs Lahti | H2 - 78' 0 - 1 01:00 28/06/2026",
+          "name": "⚽ Ac Oulu vs Lahti | H2 - 88' 1 - 1 01:00 28/06/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/2077.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1166.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3a19775a07",
+                          "id": "lnk-d0a5a045f0",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx33go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=ac54fedd9b782e62f6a5c9d8-178258926077507&wsIPSercert=01f216aa5bb36e4b2ae7f1d924f7473a&wsBindIP=2&wsserid=1168159941867791187"
+                          "url": "https://tfx34go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=457cd3ff23d949ef61c4dc48-178258985977124&wsIPSercert=a722953477b3d3e0d5b739b2f9075b62&wsBindIP=2&wsserid=1168231394936081814"
                         },
                         {
-                          "id": "lnk-f26a77da2c",
+                          "id": "lnk-09c410934c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-76f1189c6c4e",
-          "name": "⚽ Criciuma vs São Bernardo | H1 - 39' 1 - 0 02:00 28/06/2026",
+          "name": "⚽ Criciuma vs São Bernardo | Giữa Hiệp - 45+3' 1 - 0 02:00 28/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/140.png",
           "logo_khach": "https://media.api-sports.io/football/teams/7865.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e2ac375c07",
+                          "id": "lnk-de8106d16b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx33go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178258926915082&wsIPSercert=01f216aa5bb36e4b2ae7f1d924f7473a&wsBindIP=2&wsserid=1168178972991608093"
+                          "url": "https://tfx34go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178258986859998&wsIPSercert=a722953477b3d3e0d5b739b2f9075b62&wsBindIP=2&wsserid=1168231394942373370"
                         },
                         {
-                          "id": "lnk-9563896acb",
+                          "id": "lnk-3b66c8beb0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
