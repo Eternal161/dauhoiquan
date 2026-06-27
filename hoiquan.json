@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:01 27/06/2026",
+  "last_updated": "16:10 27/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a06ba3985094",
-          "name": "⚽ Shanghai Second vs Qingdao Red Lions | Giữa Hiệp - 45+5' 0 - 1 15:00 27/06/2026",
+          "name": "⚽ Shanghai Second vs Qingdao Red Lions | H2 - 50' 0 - 1 15:00 27/06/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/27619.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5679.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5b4c75d407",
+                          "id": "lnk-10979dbd00",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx30gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178255087187334&wsIPSercert=a2d2a94520362c9dc2587f5f506b8dd8&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfx33gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178255146635547&wsIPSercert=0d20403c32e62a359de7df32826b6446&wsBindIP=2&wsserid=1177063474761571144"
                         },
                         {
-                          "id": "lnk-bcdb7aec2c",
+                          "id": "lnk-da50caccd1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
