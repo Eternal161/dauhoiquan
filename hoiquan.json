@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "12:10 27/06/2026",
+  "last_updated": "12:20 27/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1f7135d0a23f",
-          "name": "⚽ Charlestown City Blues vs Belmont Swansea | H2 - 52' 0 - 3 11:00 27/06/2026",
+          "name": "⚽ Charlestown City Blues vs Belmont Swansea | H2 - 62' 0 - 3 11:00 27/06/2026",
           "tournament": "Northern NSW NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/10203.png",
           "logo_khach": "https://media.api-sports.io/football/teams/23500.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5dc4ef9cf4",
+                          "id": "lnk-19ccf1b281",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx34go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0d134b8c6677d318f0d3554c-178253705933309&wsIPSercert=8f2fc6a660d7312d9619dab3c2496909&wsBindIP=2&wsserid=1168231235299071981"
+                          "url": "https://tfx33go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=2ba370caf3f49e1b7c45518a-178253766334384&wsIPSercert=8c39e68b6596c1ea7bc7fd272e0fc462&wsBindIP=2&wsserid=1168159941878277389"
                         },
                         {
-                          "id": "lnk-7c920f614b",
+                          "id": "lnk-bcf95f935a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
