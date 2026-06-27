@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:00 27/06/2026",
+  "last_updated": "20:10 27/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-8a37d11cf636",
-          "name": "⚽ Shenyang Urban vs Shandong Luneng | H2 - 90+6' 1 - 5 18:00 27/06/2026",
-          "tournament": "Super League",
-          "logo_nha": "https://media.api-sports.io/football/teams/5684.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/844.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/5684.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-8a37d11cf636",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-8a37d11cf636",
-                  "name": "Shenyang Urban vs Shandong Luneng",
-                  "streams": [
-                    {
-                      "id": "kaytee-8a37d11cf636",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ff323a9db6",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-9a2a90660992",
-          "name": "⚽ Henan Jianye vs Shanghai Sipg | H2 - 66' 1 - 2 18:35 27/06/2026",
+          "name": "⚽ Henan Jianye vs Shanghai Sipg | H2 - 77' 1 - 2 18:35 27/06/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/840.png",
           "logo_khach": "https://media.api-sports.io/football/teams/836.png",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d39bb184e1",
+                          "id": "lnk-c7a3332e33",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx31gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=eb70f8498029e49ad4e5bdab-178256527523961&wsIPSercert=a600295c44a299257e6fa9dca234041d&wsBindIP=2&wsserid=1168243343870168317"
+                          "url": "https://tfx31gr4uqmtt8y41hcjz8yzdnqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=fa1257d2a4a5ce6de22a31c1-178256586903862&wsIPSercert=0cdfb0ca16c066c797035beedf9b6920&wsBindIP=2&wsserid=1172658902177711887"
                         },
                         {
-                          "id": "lnk-6474d83b79",
+                          "id": "lnk-acc0079d1a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -122,7 +69,7 @@
         },
         {
           "id": "kaytee-3afbeb7ac26d",
-          "name": "⚽ Beijing Guoan vs Wuhan Three Towns | Giữa Hiệp - 45+5' 0 - 0 19:00 27/06/2026",
+          "name": "⚽ Beijing Guoan vs Wuhan Three Towns | H2 - 49' 0 - 0 19:00 27/06/2026",
           "tournament": "Super League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Wuhan_Three_Towns_F.C.svg/250px-Wuhan_Three_Towns_F.C.svg.png",
@@ -159,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-eec8a266b1",
+                          "id": "lnk-a2f019b1e1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx31gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=45be673f9c0838073bc08b6e-178256528397506&wsIPSercert=a600295c44a299257e6fa9dca234041d&wsBindIP=2&wsserid=1168243343860730937"
+                          "url": "https://tfx31gr4uqmtt8y41hcjz8yzdnqjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=fa1257d2a4a5ce6de22a31c1-178256587750046&wsIPSercert=0cdfb0ca16c066c797035beedf9b6920&wsBindIP=2&wsserid=1172658902177711887"
                         },
                         {
-                          "id": "lnk-f3cac688f9",
+                          "id": "lnk-ca63803377",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -486,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-1a3fe0320393",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0ca7d729a7cf",
+          "name": "⚽ Congo Dr vs Uzbekistan | Sắp diễn ra vs 06:30 28/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1568.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0ca7d729a7cf",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0ca7d729a7cf",
+                  "name": "Congo Dr vs Uzbekistan",
+                  "streams": [
+                    {
+                      "id": "kaytee-0ca7d729a7cf",
                       "name": "F",
                       "stream_links": []
                     }
