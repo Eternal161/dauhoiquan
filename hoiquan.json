@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:01 28/06/2026",
+  "last_updated": "05:11 28/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-ee971a3f4777",
-          "name": "⚽ Croatia vs Ghana | Giữa Hiệp - 45+3' 1 - 0 04:00 28/06/2026",
+          "name": "⚽ Croatia vs Ghana | H2 - 49' 1 - 0 04:00 28/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1301a50634",
+                          "id": "lnk-14fc263e4e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx34go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ce0743b5eba69bd80a398a5f-178259767463624&wsIPSercert=61834881c42414dd7ee652ffda749751&wsBindIP=2&wsserid=1168231394939227592"
+                          "url": "https://tfx34go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178259827155854&wsIPSercert=a722953477b3d3e0d5b739b2f9075b62&wsBindIP=2&wsserid=1168231394942373370"
                         },
                         {
-                          "id": "lnk-254cf0c3c9",
+                          "id": "lnk-1a90b56a0c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-c9f290d72172",
-          "name": "⚽ Panama vs England | Giữa Hiệp - 45+3' 0 - 0 04:00 28/06/2026",
+          "name": "⚽ Panama vs England | H2 - 52' 0 - 0 04:00 28/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4c0b091f7e",
+                          "id": "lnk-71902447e1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx34go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ce0743b5eba69bd80a398a5f-178259768302358&wsIPSercert=61834881c42414dd7ee652ffda749751&wsBindIP=2&wsserid=1168231394939227592"
+                          "url": "https://tfx34go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178259827996684&wsIPSercert=a722953477b3d3e0d5b739b2f9075b62&wsBindIP=2&wsserid=1168231394942373370"
                         },
                         {
-                          "id": "lnk-48e0fd0def",
+                          "id": "lnk-4cec6be5bd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
