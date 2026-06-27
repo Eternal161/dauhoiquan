@@ -1,128 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "12:01 27/06/2026",
+  "last_updated": "12:10 27/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-c53d6f3d99ad",
-          "name": "⚽ Egypt vs Iran | H2 - 90+7' 1 - 1 10:00 27/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
-          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcHjuJwQinnq7yrEdYTZNb6xYpuKE2zdRCXg&s",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c53d6f3d99ad",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c53d6f3d99ad",
-                  "name": "Egypt vs Iran",
-                  "streams": [
-                    {
-                      "id": "kaytee-c53d6f3d99ad",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-29af85016c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx33go3nhcjtgczdncjqgrhurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178253647211391&wsIPSercert=b92f0c00cf16ebcf3cfacdedfbafc16b&wsBindIP=2&wsserid=1168159941874082915"
-                        },
-                        {
-                          "id": "lnk-e4349cbad8",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-41f937edb454",
-          "name": "⚽ New Zealand vs Belgium | H2 - 90+5' 1 - 5 10:00 27/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/1.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-41f937edb454",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-41f937edb454",
-                  "name": "New Zealand vs Belgium",
-                  "streams": [
-                    {
-                      "id": "kaytee-41f937edb454",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b65c7817ee",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-1f7135d0a23f",
-          "name": "⚽ Charlestown City Blues vs Belmont Swansea | Giữa Hiệp - 45+1' 0 - 3 11:00 27/06/2026",
+          "name": "⚽ Charlestown City Blues vs Belmont Swansea | H2 - 52' 0 - 3 11:00 27/06/2026",
           "tournament": "Northern NSW NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/10203.png",
           "logo_khach": "https://media.api-sports.io/football/teams/23500.png",
@@ -159,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ecb480ed47",
+                          "id": "lnk-5dc4ef9cf4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx33go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=2ba370caf3f49e1b7c45518a-178253648905271&wsIPSercert=b92f0c00cf16ebcf3cfacdedfbafc16b&wsBindIP=2&wsserid=1168159941878277389"
+                          "url": "https://tfx34go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=0d134b8c6677d318f0d3554c-178253705933309&wsIPSercert=8f2fc6a660d7312d9619dab3c2496909&wsBindIP=2&wsserid=1168231235299071981"
                         },
                         {
-                          "id": "lnk-e4eedec6d9",
+                          "id": "lnk-7c920f614b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -486,6 +373,96 @@
                   "streams": [
                     {
                       "id": "kaytee-98d540db0f35",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-846a545ca334",
+          "name": "⚽ Ac Oulu vs Lahti | Sắp diễn ra vs 01:00 28/06/2026",
+          "tournament": "Veikkausliiga",
+          "logo_nha": "https://media.api-sports.io/football/teams/2077.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1166.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2077.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-846a545ca334",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-846a545ca334",
+                  "name": "Ac Oulu vs Lahti",
+                  "streams": [
+                    {
+                      "id": "kaytee-846a545ca334",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-76f1189c6c4e",
+          "name": "⚽ Criciuma vs São Bernardo | Sắp diễn ra vs 02:00 28/06/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/140.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/7865.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/140.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-76f1189c6c4e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-76f1189c6c4e",
+                  "name": "Criciuma vs São Bernardo",
+                  "streams": [
+                    {
+                      "id": "kaytee-76f1189c6c4e",
                       "name": "F",
                       "stream_links": []
                     }
