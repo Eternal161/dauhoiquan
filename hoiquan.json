@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:10 28/06/2026",
+  "last_updated": "03:21 28/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-76f1189c6c4e",
-          "name": "⚽ Criciuma vs São Bernardo | H2 - 49' 1 - 0 02:00 28/06/2026",
+          "name": "⚽ Criciuma vs São Bernardo | H2 - 59' 1 - 0 02:00 28/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/140.png",
           "logo_khach": "https://media.api-sports.io/football/teams/7865.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5d0fee7a78",
+                          "id": "lnk-31cdc53d56",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx34go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178259105830312&wsIPSercert=817c69188eebf0b7d0af72c1d15d3ea7&wsBindIP=2&wsserid=1168231394942373370"
+                          "url": "https://tfx33go3nhcjtgczdncjqgrhurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178259167569971&wsIPSercert=408f425fe36070e49e7124e1a65382dc&wsBindIP=2&wsserid=1168159941874082915"
                         },
                         {
-                          "id": "lnk-eb34901f02",
+                          "id": "lnk-5365643dd6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -114,7 +114,7 @@
         },
         {
           "id": "kaytee-c9f290d72172",
-          "name": "⚽ Panama vs England | Sắp diễn ra vs 04:00 28/06/2026",
+          "name": "⚽ Panama vs England | Sắp bắt đầu - null' 0 - 0 04:00 28/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10.png",
@@ -131,10 +131,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -149,7 +149,22 @@
                     {
                       "id": "kaytee-c9f290d72172",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-fc9c0db08a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx33go3nhcjtgczdncjqgrhurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=63688ec8dab1749b5fbe0ded-178259169286720&wsIPSercert=408f425fe36070e49e7124e1a65382dc&wsBindIP=2&wsserid=1168159941874082915"
+                        },
+                        {
+                          "id": "lnk-ce0249af51",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
