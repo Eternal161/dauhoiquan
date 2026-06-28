@@ -1,135 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:31 28/06/2026",
+  "last_updated": "08:40 28/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-1a3fe0320393",
-          "name": "⚽ Colombia vs Portugal | H2 - 90+6' 0 - 0 06:30 28/06/2026",
-          "tournament": "World CupW ( ĐẦU CẦU TRUNG LẬP )",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/27.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-1a3fe0320393",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-1a3fe0320393",
-                  "name": "Colombia vs Portugal",
-                  "streams": [
-                    {
-                      "id": "kaytee-1a3fe0320393",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-122a2553d3",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx43go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=17c3465b91c9ffdca6f1eed0-178261027449429&wsIPSercert=eb54aeaaffdab8d632e7eacb7cbdfb21&wsBindIP=2&wsserid=1168178973994183557"
-                        },
-                        {
-                          "id": "lnk-4f219a8198",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-0ca7d729a7cf",
-          "name": "⚽ Congo Dr vs Uzbekistan | H2 - 90+7' 3 - 1 06:30 28/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1568.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-0ca7d729a7cf",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-0ca7d729a7cf",
-                  "name": "Congo Dr vs Uzbekistan",
-                  "streams": [
-                    {
-                      "id": "kaytee-0ca7d729a7cf",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3c7a9ee1b5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx43go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=17c3465b91c9ffdca6f1eed0-178261028286666&wsIPSercert=eb54aeaaffdab8d632e7eacb7cbdfb21&wsBindIP=2&wsserid=1168178973994183557"
-                        },
-                        {
-                          "id": "lnk-7413ab3f26",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-f34e34cb60b0",
-          "name": "⚽ U. Catolica vs San Luis | H2 - 73' 3 - 1 07:00 28/06/2026",
+          "name": "⚽ U. Catolica vs San Luis | H2 - 83' 4 - 1 07:00 28/06/2026",
           "tournament": "Copa Chile",
           "logo_nha": "https://media.api-sports.io/football/teams/2994.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2322.png",
@@ -166,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9fa552ff65",
+                          "id": "lnk-b831393b1d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx43go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=1c66e4ed59792af5c9430327-178261029110130&wsIPSercert=eb54aeaaffdab8d632e7eacb7cbdfb21&wsBindIP=2&wsserid=1168178972992656721"
+                          "url": "https://tfx44go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=ce0743b5eba69bd80a398a5f-178261086495557&wsIPSercert=6aae1af9acb84220cd030e6e00a20f56&wsBindIP=2&wsserid=1168231394939227592"
                         },
                         {
-                          "id": "lnk-737cbc655d",
+                          "id": "lnk-e3676cf4a9",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -189,7 +69,7 @@
         },
         {
           "id": "kaytee-f57f3f8c76e8",
-          "name": "⚽ Algeria vs Austria | Sắp diễn ra vs 09:00 28/06/2026",
+          "name": "⚽ Algeria vs Austria | Sắp bắt đầu - null' 0 - 0 09:00 28/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/775.png",
@@ -206,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -224,7 +104,22 @@
                     {
                       "id": "kaytee-f57f3f8c76e8",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-79e318da56",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx44go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=0d134b8c6677d318f0d3554c-178261087278443&wsIPSercert=6aae1af9acb84220cd030e6e00a20f56&wsBindIP=2&wsserid=1168231235299071981"
+                        },
+                        {
+                          "id": "lnk-9c1e25c697",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -234,7 +129,7 @@
         },
         {
           "id": "kaytee-450ee8262dda",
-          "name": "⚽ Jordan vs Argentina | Sắp diễn ra vs 09:00 28/06/2026",
+          "name": "⚽ Jordan vs Argentina | Sắp bắt đầu - null' 0 - 0 09:00 28/06/2026",
           "tournament": "World CupW ( ĐẦU CẦU TRUNG LẬP )",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
@@ -251,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -269,7 +164,22 @@
                     {
                       "id": "kaytee-450ee8262dda",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-309618cead",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx44go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0d134b8c6677d318f0d3554c-178261088172485&wsIPSercert=6aae1af9acb84220cd030e6e00a20f56&wsBindIP=2&wsserid=1168231235299071981"
+                        },
+                        {
+                          "id": "lnk-21695a4e2b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -493,6 +403,96 @@
                   "streams": [
                     {
                       "id": "kaytee-a58583691d92",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3eb749ddaf9f",
+          "name": "⚽ Fc Dnepr Mogilev vs Neman | Sắp diễn ra vs 22:00 28/06/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/384.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/387.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/384.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3eb749ddaf9f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3eb749ddaf9f",
+                  "name": "Fc Dnepr Mogilev vs Neman",
+                  "streams": [
+                    {
+                      "id": "kaytee-3eb749ddaf9f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-65caed7859f7",
+          "name": "⚽ Wales U19 vs Spain U19 | Sắp diễn ra vs 00:00 29/06/2026",
+          "tournament": "UEFA U19 Championship",
+          "logo_nha": "https://media.api-sports.io/football/teams/10353.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10349.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/10353.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-65caed7859f7",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-65caed7859f7",
+                  "name": "Wales U19 vs Spain U19",
+                  "streams": [
+                    {
+                      "id": "kaytee-65caed7859f7",
                       "name": "F",
                       "stream_links": []
                     }
