@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:50 29/06/2026",
+  "last_updated": "02:00 29/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-65caed7859f7",
-          "name": "⚽ Wales U19 vs Spain U19 | H2 - 90+2' 0 - 7 00:00 29/06/2026",
+          "name": "⚽ Wales U19 vs Spain U19 | H2 - 90+4' 0 - 7 00:00 29/06/2026",
           "tournament": "UEFA U19 Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/10353.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10349.png",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-449be05e79",
+                          "id": "lnk-5ec68d74ff",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx41gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=9b1083a56b5533e485918882-178267266010032&wsIPSercert=d64d5adfb8a6feebbd345342e525df32&wsBindIP=2&wsserid=1168243256620077470"
-                        },
-                        {
-                          "id": "lnk-b1687e318a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
                         }
                       ]
@@ -69,7 +62,7 @@
         },
         {
           "id": "kaytee-7a968036c408",
-          "name": "⚽ South Africa vs Canada | Sắp bắt đầu - null' 0 - 0 02:00 29/06/2026",
+          "name": "⚽ South Africa vs Canada | H1 - 1' 0 - 0 02:00 29/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
@@ -106,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0323182d3a",
+                          "id": "lnk-939c71777b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx41gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=de40530e31dc965cd08ee763-178267266860223&wsIPSercert=d64d5adfb8a6feebbd345342e525df32&wsBindIP=2&wsserid=1168243256623223254"
+                          "url": "https://tfx43gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=5bd5ca106460d708e48cc2cb-178267327603536&wsIPSercert=cc0331af4b9cb80dcf54a03e60d136f3&wsBindIP=2&wsserid=1168158473487963106"
                         },
                         {
-                          "id": "lnk-73fee5192b",
+                          "id": "lnk-566829b5a0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
