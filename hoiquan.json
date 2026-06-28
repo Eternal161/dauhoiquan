@@ -1,132 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:01 28/06/2026",
+  "last_updated": "11:10 28/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-f57f3f8c76e8",
-          "name": "⚽ Algeria vs Austria | H2 - 90+7' 3 - 3 09:00 28/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/775.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f57f3f8c76e8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f57f3f8c76e8",
-                  "name": "Algeria vs Austria",
-                  "streams": [
-                    {
-                      "id": "kaytee-f57f3f8c76e8",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f36084de99",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx44go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=0d134b8c6677d318f0d3554c-178261928041357&wsIPSercert=2b12876ba6f32909602c6c3a78005236&wsBindIP=2&wsserid=1168231235299071981"
-                        },
-                        {
-                          "id": "lnk-1c276f6c62",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-450ee8262dda",
-          "name": "⚽ Jordan vs Argentina | H2 - 90+5' 1 - 3 09:00 28/06/2026",
-          "tournament": "World CupW ( ĐẦU CẦU TRUNG LẬP )",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-450ee8262dda",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-450ee8262dda",
-                  "name": "Jordan vs Argentina",
-                  "streams": [
-                    {
-                      "id": "kaytee-450ee8262dda",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b59b0d3452",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx44go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0d134b8c6677d318f0d3554c-178261928858134&wsIPSercert=2b12876ba6f32909602c6c3a78005236&wsBindIP=2&wsserid=1168231235299071981"
-                        },
-                        {
-                          "id": "lnk-68aa376acd",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-66e231fdfb09",
           "name": "⚽ Gold Coast United vs Moreton City Excelsior | Sắp diễn ra vs 12:00 28/06/2026",
@@ -173,7 +53,7 @@
           ]
         },
         {
-          "id": "kaytee-a723d21f47dd",
+          "id": "kaytee-9d2aeeb6da57",
           "name": "⚽ Lions vs Wdsc Wolves | Sắp diễn ra vs 14:00 28/06/2026",
           "tournament": "Queensland NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/10217.png",
@@ -199,15 +79,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-a723d21f47dd",
+              "id": "kaytee-9d2aeeb6da57",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-a723d21f47dd",
+                  "id": "kaytee-9d2aeeb6da57",
                   "name": "Lions vs Wdsc Wolves",
                   "streams": [
                     {
-                      "id": "kaytee-a723d21f47dd",
+                      "id": "kaytee-9d2aeeb6da57",
                       "name": "F",
                       "stream_links": []
                     }
@@ -478,6 +358,96 @@
                   "streams": [
                     {
                       "id": "kaytee-7a968036c408",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-4822adc7c359",
+          "name": "⚽ Nautico Recife vs Goias | Sắp diễn ra vs 04:30 29/06/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/755.png",
+          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdA4dVwq19DxdhyjbUAo3wM3GSIMHaPl3tLg&s",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/755.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4822adc7c359",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4822adc7c359",
+                  "name": "Nautico Recife vs Goias",
+                  "streams": [
+                    {
+                      "id": "kaytee-4822adc7c359",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0d7057a1e438",
+          "name": "⚽ Ha Noi vs Nữ Hồ Chí Minh | Sắp diễn ra vs 16:00 29/06/2026",
+          "tournament": "V.league",
+          "logo_nha": "https://media.api-sports.io/football/teams/3670.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/Logo_HWFC.png/250px-Logo_HWFC.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3670.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0d7057a1e438",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0d7057a1e438",
+                  "name": "Ha Noi vs Nữ Hồ Chí Minh",
+                  "streams": [
+                    {
+                      "id": "kaytee-0d7057a1e438",
                       "name": "F",
                       "stream_links": []
                     }
