@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:10 28/06/2026",
+  "last_updated": "22:20 28/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-3eb749ddaf9f",
-          "name": "⚽ Fc Dnepr Mogilev vs Neman | H1 - 10' 0 - 0 22:00 28/06/2026",
+          "name": "⚽ Fc Dnepr Mogilev vs Neman | Live 0 - 0 22:00 28/06/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/384.png",
           "logo_khach": "https://media.api-sports.io/football/teams/387.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5b3e014429",
+                          "id": "lnk-4e909323f1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx40gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178265946017086&wsIPSercert=b62f7a3b6c391bbf1c5afc10c6465615&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfx40gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=9491eed0fee4da244cb519bb-178266005774809&wsIPSercert=a555cce545af163aaa75d2bffee442b5&wsBindIP=2&wsserid=1168176346313714739"
                         },
                         {
-                          "id": "lnk-b23fb8b849",
+                          "id": "lnk-4ea82d8bcd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
