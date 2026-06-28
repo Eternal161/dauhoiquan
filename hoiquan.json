@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:01 28/06/2026",
+  "last_updated": "09:10 28/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-f34e34cb60b0",
-          "name": "⚽ U. Catolica vs San Luis | Live 0 - 0 07:00 28/06/2026",
-          "tournament": "Copa Chile",
-          "logo_nha": "https://media.api-sports.io/football/teams/2994.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2322.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2994.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f34e34cb60b0",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f34e34cb60b0",
-                  "name": "U. Catolica vs San Luis",
-                  "streams": [
-                    {
-                      "id": "kaytee-f34e34cb60b0",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3463e3f012",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-f57f3f8c76e8",
-          "name": "⚽ Algeria vs Austria | Live 0 - 0 09:00 28/06/2026",
+          "name": "⚽ Algeria vs Austria | H1 - 10' 0 - 0 09:00 28/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/775.png",
@@ -99,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e8faf7b7b2",
+                          "id": "lnk-ba91801fd6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx44go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178261207865218&wsIPSercert=39a4dcb1a79620b90006ec3dac574ebe&wsBindIP=2&wsserid=1168231394942373370"
+                          "url": "https://tfx43go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=1c66e4ed59792af5c9430327-178261266630810&wsIPSercert=d8230297146bf5c11c984a67ae03d82b&wsBindIP=2&wsserid=1168178972992656721"
                         },
                         {
-                          "id": "lnk-82ec37fe50",
+                          "id": "lnk-1689da282c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -122,7 +69,7 @@
         },
         {
           "id": "kaytee-450ee8262dda",
-          "name": "⚽ Jordan vs Argentina | Sắp bắt đầu - null' 0 - 0 09:00 28/06/2026",
+          "name": "⚽ Jordan vs Argentina | H1 - 10' 0 - 0 09:00 28/06/2026",
           "tournament": "World CupW ( ĐẦU CẦU TRUNG LẬP )",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
@@ -159,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1bd84cceb4",
+                          "id": "lnk-8319dc91bd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx44go3nhcjtgczdncjqgr5n44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178261208712561&wsIPSercert=39a4dcb1a79620b90006ec3dac574ebe&wsBindIP=2&wsserid=1168231394942373370"
+                          "url": "https://tfx43go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=1c66e4ed59792af5c9430327-178261267448571&wsIPSercert=d8230297146bf5c11c984a67ae03d82b&wsBindIP=2&wsserid=1168178972992656721"
                         },
                         {
-                          "id": "lnk-b0a50fda37",
+                          "id": "lnk-c0b1e83a43",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -486,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-65caed7859f7",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-7a968036c408",
+          "name": "⚽ South Africa vs Canada | Sắp diễn ra vs 02:00 29/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-7a968036c408",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-7a968036c408",
+                  "name": "South Africa vs Canada",
+                  "streams": [
+                    {
+                      "id": "kaytee-7a968036c408",
                       "name": "F",
                       "stream_links": []
                     }
