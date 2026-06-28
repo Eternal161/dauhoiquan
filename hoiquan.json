@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "12:31 28/06/2026",
+  "last_updated": "12:40 28/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-66e231fdfb09",
-          "name": "⚽ Gold Coast United vs Moreton City Excelsior | H1 - 30' 0 - 0 12:00 28/06/2026",
+          "name": "⚽ Gold Coast United vs Moreton City Excelsior | H1 - 40' 0 - 0 12:00 28/06/2026",
           "tournament": "Queensland NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/10216.png",
           "logo_khach": "https://media.api-sports.io/football/teams/22916.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d856c4c6e1",
+                          "id": "lnk-ecf5ca41fb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx43go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178262467671355&wsIPSercert=782ac9b75ed4523bc665dbf8eaec1745&wsBindIP=2&wsserid=1168178972991608093"
+                          "url": "https://tfx44go3nhcjtgczdncjqgr5n47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2e0b6c401d62f23e44f61e09-178262526110578&wsIPSercert=5af75ff63026c093581f4816a26ca2e2&wsBindIP=2&wsserid=1168231394942373370"
                         },
                         {
-                          "id": "lnk-e00b40479c",
+                          "id": "lnk-c9004b9ed3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
