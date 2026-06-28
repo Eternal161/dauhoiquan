@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:20 28/06/2026",
+  "last_updated": "20:30 28/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-fae1f405ac74",
-          "name": "⚽ Fk Tobol Kostanay vs Altay | H1 - 18' 1 - 0 20:00 28/06/2026",
+          "name": "⚽ Fk Tobol Kostanay vs Altay | H1 - 19' 1 - 0 20:00 28/06/2026",
           "tournament": "Ngoại hạng Kazakhstan",
           "logo_nha": "https://media.api-sports.io/football/teams/2259.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4544.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2f00e223c7",
+                          "id": "lnk-0446841130",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx41gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=2c45ec0ee708bf7b239c6926-178265285672048&wsIPSercert=a2e45f2946d5b1cdea0234041cadb06a&wsBindIP=2&wsserid=1168168154451507561"
+                          "url": "https://tfx40gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178265346459520&wsIPSercert=cf45145db7f44ac21a3aa8da6c0766b3&wsBindIP=2&wsserid=1168231785641135723"
                         },
                         {
-                          "id": "lnk-be3e305482",
+                          "id": "lnk-b3c40fe369",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
