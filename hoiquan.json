@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:01 28/06/2026",
+  "last_updated": "22:10 28/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-fae1f405ac74",
-          "name": "⚽ Fk Tobol Kostanay vs Altay | H2 - 90+1' 3 - 1 20:00 28/06/2026",
-          "tournament": "Ngoại hạng Kazakhstan",
-          "logo_nha": "https://media.api-sports.io/football/teams/2259.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/4544.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2259.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-fae1f405ac74",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-fae1f405ac74",
-                  "name": "Fk Tobol Kostanay vs Altay",
-                  "streams": [
-                    {
-                      "id": "kaytee-fae1f405ac74",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-504f4b18f3",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx43gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b6bdf850d998586dbfe6b2e9-178265887341689&wsIPSercert=2e21eeec2c405ef59bbede303e2c4248&wsBindIP=2&wsserid=1177063474761571144"
-                        },
-                        {
-                          "id": "lnk-c62e7cd032",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-3eb749ddaf9f",
-          "name": "⚽ Fc Dnepr Mogilev vs Neman | Sắp bắt đầu - null' 0 - 0 22:00 28/06/2026",
+          "name": "⚽ Fc Dnepr Mogilev vs Neman | H1 - 10' 0 - 0 22:00 28/06/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/384.png",
           "logo_khach": "https://media.api-sports.io/football/teams/387.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-09d71ad575",
+                          "id": "lnk-5b3e014429",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx41gr3uomttgr31hctsfaau1ptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2c21d016b9a2cf26629bd32f-178265888200517&wsIPSercert=2e21eeec2c405ef59bbede303e2c4248&wsBindIP=2&wsserid=1168056276211756464"
+                          "url": "https://tfx40gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178265946017086&wsIPSercert=b62f7a3b6c391bbf1c5afc10c6465615&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-b2498eef2c",
+                          "id": "lnk-b23fb8b849",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-6bb3b8413ed9",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-9526d320a809",
+          "name": "⚽ Brazil vs Japan | Sắp diễn ra vs 00:00 30/06/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-9526d320a809",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-9526d320a809",
+                  "name": "Brazil vs Japan",
+                  "streams": [
+                    {
+                      "id": "kaytee-9526d320a809",
                       "name": "F",
                       "stream_links": []
                     }
