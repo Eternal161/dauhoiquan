@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:20 28/06/2026",
+  "last_updated": "17:30 28/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-cd3d3317561c",
-          "name": "⚽ Qingdao Youth Island vs Hangzhou Greentown | H1 - 21' 1 - 1 17:00 28/06/2026",
+          "name": "⚽ Qingdao Youth Island vs Hangzhou Greentown | H1 - 31' 1 - 1 17:00 28/06/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/17265.png",
           "logo_khach": "https://media.api-sports.io/football/teams/848.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-58a420ae69",
+                          "id": "lnk-0bcae60f7a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx41gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0de74705abe5721b1a19c464-178264205348843&wsIPSercert=f102ec161a3425dbb4c0bbd74ac1293a&wsBindIP=2&wsserid=1168243343857585137"
+                          "url": "https://tfx40gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178264266137731&wsIPSercert=7230c57bb7bb4fafde5e6442a355d7d5&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-2144c435d5",
+                          "id": "lnk-5377465f85",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-38cf56293a27",
-          "name": "⚽ Dalian Zhixing vs Shanghai Shenhua | Sắp diễn ra vs 18:00 28/06/2026",
+          "name": "⚽ Dalian Zhixing vs Shanghai Shenhua | Sắp bắt đầu - null' 0 - 0 18:00 28/06/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/21263.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
@@ -86,10 +86,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +104,22 @@
                     {
                       "id": "kaytee-38cf56293a27",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-47b78e995d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx41gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=d34f0b3d7ea231833648feb7-178264267009309&wsIPSercert=7230c57bb7bb4fafde5e6442a355d7d5&wsBindIP=2&wsserid=1168283529569158070"
+                        },
+                        {
+                          "id": "lnk-753c63eac0",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
