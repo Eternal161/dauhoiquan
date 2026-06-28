@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:40 29/06/2026",
+  "last_updated": "00:51 29/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-65caed7859f7",
-          "name": "⚽ Wales U19 vs Spain U19 | H1 - 39' 0 - 4 00:00 29/06/2026",
+          "name": "⚽ Wales U19 vs Spain U19 | Giữa Hiệp - 45+1' 0 - 4 00:00 29/06/2026",
           "tournament": "UEFA U19 Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/10353.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10349.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1f438a985a",
+                          "id": "lnk-02a06b1d90",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx40gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=6a4094de2f01003befc3243a-178266846413397&wsIPSercert=3cd50000787bfbb4c5e03135f8b04394&wsBindIP=2&wsserid=1168231589578109987"
+                          "url": "https://tfx41gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=6cdfc146647d1c9a32ddbcec-178266906999689&wsIPSercert=49d9a47d97126b3ab905854bd58f1dbd&wsBindIP=2&wsserid=1177063474757376778"
                         },
                         {
-                          "id": "lnk-8cb952cffb",
+                          "id": "lnk-f6d91fc107",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
