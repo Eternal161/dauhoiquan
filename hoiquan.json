@@ -1,76 +1,16 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:01 28/06/2026",
+  "last_updated": "20:10 28/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-38cf56293a27",
-          "name": "⚽ Dalian Zhixing vs Shanghai Shenhua | H2 - 90+6' 1 - 4 18:00 28/06/2026",
-          "tournament": "Super League",
-          "logo_nha": "https://media.api-sports.io/football/teams/21263.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/21263.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-38cf56293a27",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-38cf56293a27",
-                  "name": "Dalian Zhixing vs Shanghai Shenhua",
-                  "streams": [
-                    {
-                      "id": "kaytee-38cf56293a27",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d1f4edf75a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx41gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=d34f0b3d7ea231833648feb7-178265166892435&wsIPSercert=57d38acd6b68a9a7d6db063a840e6a9c&wsBindIP=2&wsserid=1168283529569158070"
-                        },
-                        {
-                          "id": "lnk-e9a3c363e6",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-a58583691d92",
-          "name": "⚽ Fk Tobol Kostanay vs Altay | Sắp bắt đầu - null' 0 - 0 20:00 28/06/2026",
-          "tournament": "Premier League",
+          "id": "kaytee-fae1f405ac74",
+          "name": "⚽ Fk Tobol Kostanay vs Altay | H1 - 9' 0 - 0 20:00 28/06/2026",
+          "tournament": "Ngoại hạng Kazakhstan",
           "logo_nha": "https://media.api-sports.io/football/teams/2259.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4544.png",
           "type": "single",
@@ -94,26 +34,26 @@
           ],
           "sources": [
             {
-              "id": "kaytee-a58583691d92",
+              "id": "kaytee-fae1f405ac74",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-a58583691d92",
+                  "id": "kaytee-fae1f405ac74",
                   "name": "Fk Tobol Kostanay vs Altay",
                   "streams": [
                     {
-                      "id": "kaytee-a58583691d92",
+                      "id": "kaytee-fae1f405ac74",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1fc4576fd4",
+                          "id": "lnk-19fbdaa0a9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx41gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178265167751651&wsIPSercert=57d38acd6b68a9a7d6db063a840e6a9c&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfx41gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e851a2b515b39bfc1b7fa041-178265225694549&wsIPSercert=edc34c30bad01b9dbecbdda90c5b8b7e&wsBindIP=2&wsserid=1168243256629514822"
                         },
                         {
-                          "id": "lnk-5d00589ca2",
+                          "id": "lnk-6972ca00ee",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-97977eff4d04",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6bb3b8413ed9",
+          "name": "⚽ Vjs vs Tpv | Sắp diễn ra vs 22:30 29/06/2026",
+          "tournament": "Ykkönen",
+          "logo_nha": "https://media.api-sports.io/football/teams/6075.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2244.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/6075.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6bb3b8413ed9",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6bb3b8413ed9",
+                  "name": "Vjs vs Tpv",
+                  "streams": [
+                    {
+                      "id": "kaytee-6bb3b8413ed9",
                       "name": "F",
                       "stream_links": []
                     }
