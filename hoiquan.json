@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:30 29/06/2026",
+  "last_updated": "06:40 29/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-4822adc7c359",
-          "name": "⚽ Nautico Recife vs Goias | H2 - 90+4' 0 - 1 04:30 29/06/2026",
+          "name": "⚽ Nautico Recife vs Goias | H2 - 90+8' 0 - 1 04:30 29/06/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/755.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdA4dVwq19DxdhyjbUAo3wM3GSIMHaPl3tLg&s",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5c69894957",
+                          "id": "lnk-5c4c6956e5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx40gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e331d122e560c418e00aa989-178268946368195&wsIPSercert=43d01f17b1c69ad0a5d030b4ef7e6557&wsBindIP=2&wsserid=1168283477179400067"
-                        },
-                        {
-                          "id": "lnk-be2861858e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
