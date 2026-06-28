@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:51 28/06/2026",
+  "last_updated": "19:01 28/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-cd3d3317561c",
-          "name": "⚽ Qingdao Youth Island vs Hangzhou Greentown | H2 - 89' 3 - 1 17:00 28/06/2026",
-          "tournament": "Super League",
-          "logo_nha": "https://media.api-sports.io/football/teams/17265.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/848.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/17265.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-cd3d3317561c",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-cd3d3317561c",
-                  "name": "Qingdao Youth Island vs Hangzhou Greentown",
-                  "streams": [
-                    {
-                      "id": "kaytee-cd3d3317561c",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e9c60d6058",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx41gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=de40530e31dc965cd08ee763-178264747535207&wsIPSercert=a1284a7277f2b65b3943ce2f24741b65&wsBindIP=2&wsserid=1168243256623223254"
-                        },
-                        {
-                          "id": "lnk-db1e3a3f14",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-38cf56293a27",
-          "name": "⚽ Dalian Zhixing vs Shanghai Shenhua | H1 - 45+6' 1 - 2 18:00 28/06/2026",
+          "name": "⚽ Dalian Zhixing vs Shanghai Shenhua | Giữa Hiệp - 45+9' 1 - 2 18:00 28/06/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/21263.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-56fa9284fd",
+                          "id": "lnk-d2f73aa3ec",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx41gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=eb70f8498029e49ad4e5bdab-178264748389858&wsIPSercert=a1284a7277f2b65b3943ce2f24741b65&wsBindIP=2&wsserid=1168243343870168317"
+                          "url": "https://tfx43gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=48fd414b4b689dc7f41f4800-178264806979990&wsIPSercert=6585652734b7b644a6bfc550b3cb1de2&wsBindIP=2&wsserid=1172662091344090222"
                         },
                         {
-                          "id": "lnk-8de87703d0",
+                          "id": "lnk-9c6b0c7600",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-96aa773b5154",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-97977eff4d04",
+          "name": "⚽ Fs Jelgava vs Grobiņa | Sắp diễn ra vs 22:00 29/06/2026",
+          "tournament": "Virsliga",
+          "logo_nha": "https://media.api-sports.io/football/teams/18834.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4138.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/18834.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-97977eff4d04",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-97977eff4d04",
+                  "name": "Fs Jelgava vs Grobiņa",
+                  "streams": [
+                    {
+                      "id": "kaytee-97977eff4d04",
                       "name": "F",
                       "stream_links": []
                     }
