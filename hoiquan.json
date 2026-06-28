@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "14:01 28/06/2026",
+  "last_updated": "14:10 28/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-9d2aeeb6da57",
-          "name": "⚽ Lions vs Wdsc Wolves | H1 - 1' 0 - 0 14:00 28/06/2026",
+          "name": "⚽ Lions vs Wdsc Wolves | Live 0 - 0 14:00 28/06/2026",
           "tournament": "Queensland NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/10217.png",
           "logo_khach": "https://media.api-sports.io/football/teams/11184.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-280f4044f2",
+                          "id": "lnk-0e6eb852e6",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx43go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178263007763110&wsIPSercert=0413bf991144aa0cace045676bbc75d2&wsBindIP=2&wsserid=1168178972991608093"
+                          "url": "https://tfx40gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178263066314971&wsIPSercert=c04cb56d2b7e15fec83f3d099ca12233&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-0bfe116a95",
+                          "id": "lnk-78114f3c45",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
