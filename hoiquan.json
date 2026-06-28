@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:31 28/06/2026",
+  "last_updated": "09:40 28/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-f57f3f8c76e8",
-          "name": "⚽ Algeria vs Austria | H1 - 30' 0 - 1 09:00 28/06/2026",
+          "name": "⚽ Algeria vs Austria | H1 - 40' 0 - 1 09:00 28/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/775.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-adcec45165",
+                          "id": "lnk-ff36d7fc64",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx43go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b729ead558c9cf9a676e9806-178261387129062&wsIPSercert=e8faa47e63450d19cf282d14b629657d&wsBindIP=2&wsserid=1168159941876180135"
+                          "url": "https://tfx43go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=ac54fedd9b782e62f6a5c9d8-178261446836193&wsIPSercert=3e914234f701fabfac97579ddd42017a&wsBindIP=2&wsserid=1168159941867791187"
                         },
                         {
-                          "id": "lnk-b8f20ee7f8",
+                          "id": "lnk-515b0b3924",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-450ee8262dda",
-          "name": "⚽ Jordan vs Argentina | H1 - 30' 0 - 1 09:00 28/06/2026",
+          "name": "⚽ Jordan vs Argentina | H1 - 40' 0 - 2 09:00 28/06/2026",
           "tournament": "World CupW ( ĐẦU CẦU TRUNG LẬP )",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0191abc78f",
+                          "id": "lnk-125387246d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx43go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b729ead558c9cf9a676e9806-178261387941793&wsIPSercert=e8faa47e63450d19cf282d14b629657d&wsBindIP=2&wsserid=1168159941876180135"
+                          "url": "https://tfx43go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ac54fedd9b782e62f6a5c9d8-178261447645826&wsIPSercert=3e914234f701fabfac97579ddd42017a&wsBindIP=2&wsserid=1168159941867791187"
                         },
                         {
-                          "id": "lnk-9504276c21",
+                          "id": "lnk-08381cc8d2",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
