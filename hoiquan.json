@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:50 28/06/2026",
+  "last_updated": "07:01 28/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1a3fe0320393",
-          "name": "⚽ Colombia vs Portugal | H1 - 20' 0 - 0 06:30 28/06/2026",
+          "name": "⚽ Colombia vs Portugal | H1 - 30' 0 - 0 06:30 28/06/2026",
           "tournament": "World CupW ( ĐẦU CẦU TRUNG LẬP )",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/27.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3b02337265",
+                          "id": "lnk-43c52e511f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx33go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b666b584e4acbbaf977137a3-178260426748213&wsIPSercert=8ea58b072e2d092425cd9c7b3194510b&wsBindIP=2&wsserid=1168159941878277355"
+                          "url": "https://tfx43go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e3fcde56d983ccae380d59b5-178260487310117&wsIPSercert=a812f1e8937c2ba60a09a1c59c91a0ee&wsBindIP=2&wsserid=1168159941869888407"
                         },
                         {
-                          "id": "lnk-12eb09e2a0",
+                          "id": "lnk-b4e1ad0990",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-0ca7d729a7cf",
-          "name": "⚽ Congo Dr vs Uzbekistan | H1 - 19' 1 - 1 06:30 28/06/2026",
+          "name": "⚽ Congo Dr vs Uzbekistan | H1 - 30' 0 - 1 06:30 28/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1568.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ae2021d5f7",
+                          "id": "lnk-7a3a32d219",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx33go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=b666b584e4acbbaf977137a3-178260427618517&wsIPSercert=8ea58b072e2d092425cd9c7b3194510b&wsBindIP=2&wsserid=1168159941878277355"
+                          "url": "https://tfx43go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=e3fcde56d983ccae380d59b5-178260488182085&wsIPSercert=a812f1e8937c2ba60a09a1c59c91a0ee&wsBindIP=2&wsserid=1168159941869888407"
                         },
                         {
-                          "id": "lnk-35cd5bbcaa",
+                          "id": "lnk-c38f90fc85",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -129,7 +129,7 @@
         },
         {
           "id": "kaytee-f34e34cb60b0",
-          "name": "⚽ U. Catolica vs San Luis | Sắp bắt đầu - null' 0 - 0 07:00 28/06/2026",
+          "name": "⚽ U. Catolica vs San Luis | H1 - 2' 0 - 0 07:00 28/06/2026",
           "tournament": "Copa Chile",
           "logo_nha": "https://media.api-sports.io/football/teams/2994.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2322.png",
@@ -166,10 +166,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ae7d2d637f",
+                          "id": "lnk-fac12568c5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfx43go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=1c66e4ed59792af5c9430327-178260488990011&wsIPSercert=a812f1e8937c2ba60a09a1c59c91a0ee&wsBindIP=2&wsserid=1168178972992656721"
+                        },
+                        {
+                          "id": "lnk-fbd14badf3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
