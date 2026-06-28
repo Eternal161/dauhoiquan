@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:20 29/06/2026",
+  "last_updated": "03:30 29/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-65caed7859f7",
-          "name": "⚽ Wales U19 vs Spain U19 | Live 0 - 0 00:00 29/06/2026",
+          "name": "⚽ Wales U19 vs Spain U19 | H2 - 90+4' 0 - 7 00:00 29/06/2026",
           "tournament": "UEFA U19 Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/10353.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10349.png",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1c87acf863",
+                          "id": "lnk-c2fc657988",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-7a968036c408",
-          "name": "⚽ South Africa vs Canada | Live 0 - 0 02:00 29/06/2026",
+          "name": "⚽ South Africa vs Canada | H2 - 71' 0 - 0 02:00 29/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
@@ -99,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f30b7547b7",
+                          "id": "lnk-b7b2e8535f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx40gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178267806812782&wsIPSercert=36dc0a0a9c38282afe2c70319405c64b&wsBindIP=2&wsserid=1168231785641135723"
+                          "url": "https://tfx40gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b3b13107eb9fc4a340874f65-178267867606844&wsIPSercert=b85130debde26865b942a10019f2637a&wsBindIP=2&wsserid=1168283323290141448"
                         },
                         {
-                          "id": "lnk-c5c0d554bb",
+                          "id": "lnk-188429faa1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
