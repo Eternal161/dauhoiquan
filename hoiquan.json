@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "13:50 28/06/2026",
+  "last_updated": "14:01 28/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-66e231fdfb09",
-          "name": "⚽ Gold Coast United vs Moreton City Excelsior | H2 - 90+4' 0 - 1 12:00 28/06/2026",
-          "tournament": "Queensland NPL",
-          "logo_nha": "https://media.api-sports.io/football/teams/10216.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/22916.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10216.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-66e231fdfb09",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-66e231fdfb09",
-                  "name": "Gold Coast United vs Moreton City Excelsior",
-                  "streams": [
-                    {
-                      "id": "kaytee-66e231fdfb09",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-129f3a9a80",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx43gr4nhct1gwzdrcttfa5unmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=d6feb5e55820b7c46cf83296-178262946502827&wsIPSercert=22b80b85d24e7a631ba6b7bbfa1a07cc&wsBindIP=2&wsserid=1168239733739784689"
-                        },
-                        {
-                          "id": "lnk-9f8d3c073e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-9d2aeeb6da57",
-          "name": "⚽ Lions vs Wdsc Wolves | Sắp bắt đầu - null' 0 - 0 14:00 28/06/2026",
+          "name": "⚽ Lions vs Wdsc Wolves | H1 - 1' 0 - 0 14:00 28/06/2026",
           "tournament": "Queensland NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/10217.png",
           "logo_khach": "https://media.api-sports.io/football/teams/11184.png",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2d6036daad",
+                          "id": "lnk-280f4044f2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx43gr4nhct1gwzdrcttfa5unmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=d6feb5e55820b7c46cf83296-178262947357407&wsIPSercert=22b80b85d24e7a631ba6b7bbfa1a07cc&wsBindIP=2&wsserid=1168239733739784689"
+                          "url": "https://tfx43go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178263007763110&wsIPSercert=0413bf991144aa0cace045676bbc75d2&wsBindIP=2&wsserid=1168178972991608093"
                         },
                         {
-                          "id": "lnk-281b9b39d3",
+                          "id": "lnk-0bfe116a95",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -443,7 +383,7 @@
           ]
         },
         {
-          "id": "kaytee-79f0016be191",
+          "id": "kaytee-809315643baa",
           "name": "⚽ Ha Noi vs Nữ Hồ Chí Minh | Sắp diễn ra vs 16:00 29/06/2026",
           "tournament": "V.league",
           "logo_nha": "https://media.api-sports.io/football/teams/3670.png",
@@ -469,15 +409,60 @@
           ],
           "sources": [
             {
-              "id": "kaytee-79f0016be191",
+              "id": "kaytee-809315643baa",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-79f0016be191",
+                  "id": "kaytee-809315643baa",
                   "name": "Ha Noi vs Nữ Hồ Chí Minh",
                   "streams": [
                     {
-                      "id": "kaytee-79f0016be191",
+                      "id": "kaytee-809315643baa",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-58ba6c94280f",
+          "name": "⚽ Guangdong Meizhou W vs Wuhan Jiangda W | Sắp diễn ra vs 18:00 29/06/2026",
+          "tournament": "China Super League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Guangdong_South_China_Tiger_F.C.svg/1280px-Guangdong_South_China_Tiger_F.C.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/24895.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Guangdong_South_China_Tiger_F.C.svg/1280px-Guangdong_South_China_Tiger_F.C.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-58ba6c94280f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-58ba6c94280f",
+                  "name": "Guangdong Meizhou W vs Wuhan Jiangda W",
+                  "streams": [
+                    {
+                      "id": "kaytee-58ba6c94280f",
                       "name": "F",
                       "stream_links": []
                     }
