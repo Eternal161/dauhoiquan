@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:11 28/06/2026",
+  "last_updated": "16:20 28/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-9d2aeeb6da57",
-          "name": "⚽ Lions vs Wdsc Wolves | H2 - 90+5' 6 - 2 14:00 28/06/2026",
-          "tournament": "Queensland NPL",
-          "logo_nha": "https://media.api-sports.io/football/teams/10217.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/11184.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10217.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-9d2aeeb6da57",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-9d2aeeb6da57",
-                  "name": "Lions vs Wdsc Wolves",
-                  "streams": [
-                    {
-                      "id": "kaytee-9d2aeeb6da57",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-22854c6b3b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx40gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=02943d6646a7d5c97720b006-178263786994156&wsIPSercert=232b6eaa4569d194753ad2f2c854a160&wsBindIP=2&wsserid=1168283323221983365"
-                        },
-                        {
-                          "id": "lnk-afb633105d",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-cd3d3317561c",
           "name": "⚽ Qingdao Youth Island vs Hangzhou Greentown | Sắp diễn ra vs 17:00 28/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-58ba6c94280f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-96aa773b5154",
+          "name": "⚽ Al Nejmeh vs Racing | Sắp diễn ra vs 20:00 29/06/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/4570.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4572.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4570.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-96aa773b5154",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-96aa773b5154",
+                  "name": "Al Nejmeh vs Racing",
+                  "streams": [
+                    {
+                      "id": "kaytee-96aa773b5154",
                       "name": "F",
                       "stream_links": []
                     }
