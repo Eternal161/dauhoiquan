@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:50 30/06/2026",
+  "last_updated": "02:00 30/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1d673b739fe6",
-          "name": "⚽ Brazil vs Japan | H2 - 89' 1 - 1 00:00 30/06/2026",
+          "name": "⚽ Brazil vs Japan | H2 - 90+9' 2 - 1 00:00 30/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c7479072ce",
+                          "id": "lnk-9bda998067",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx51gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=225c8c2a6194ec4bad269a9a-178275905455646&wsIPSercert=353fc7024cee17152f6a04ed90c531cf&wsBindIP=2&wsserid=1168243256620077470"
+                          "url": "https://tfx51gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=dd65a829423b7a9bfc19eadf-178275966347015&wsIPSercert=598a5b46e89e02bf9971e0d93b39ec76&wsBindIP=2&wsserid=1168243256623223254"
                         },
                         {
-                          "id": "lnk-3b80348657",
+                          "id": "lnk-c89c684e85",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-304bcc06abe0",
-          "name": "⚽ Croatia U19 vs Ukraine U19 | Sắp bắt đầu - null' 0 - 0 02:00 30/06/2026",
+          "name": "⚽ Croatia U19 vs Ukraine U19 | H1 - 1' 0 - 0 02:00 30/06/2026",
           "tournament": "UEFA U19 Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/10352.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ffe5c0f3c6",
+                          "id": "lnk-ebeaa5b0c7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx51gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=dd65a829423b7a9bfc19eadf-178275906283955&wsIPSercert=353fc7024cee17152f6a04ed90c531cf&wsBindIP=2&wsserid=1168243256623223254"
+                          "url": "https://tfx51gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=dd65a829423b7a9bfc19eadf-178275967186031&wsIPSercert=598a5b46e89e02bf9971e0d93b39ec76&wsBindIP=2&wsserid=1168243256623223254"
                         },
                         {
-                          "id": "lnk-2eff58099d",
+                          "id": "lnk-01ccc748db",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
