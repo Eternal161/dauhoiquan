@@ -1,16 +1,16 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:10 29/06/2026",
+  "last_updated": "20:20 29/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-96aa773b5154",
-          "name": "⚽ Al Nejmeh vs Racing | H1 - 11' 0 - 0 20:00 29/06/2026",
-          "tournament": "Premier League",
+          "id": "kaytee-0db4f7491945",
+          "name": "⚽ Al Nejmeh vs Racing | H1 - 21' 1 - 0 20:00 29/06/2026",
+          "tournament": "VĐQG Latvia",
           "logo_nha": "https://media.api-sports.io/football/teams/4570.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4572.png",
           "type": "single",
@@ -34,26 +34,26 @@
           ],
           "sources": [
             {
-              "id": "kaytee-96aa773b5154",
+              "id": "kaytee-0db4f7491945",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-96aa773b5154",
+                  "id": "kaytee-0db4f7491945",
                   "name": "Al Nejmeh vs Racing",
                   "streams": [
                     {
-                      "id": "kaytee-96aa773b5154",
+                      "id": "kaytee-0db4f7491945",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5e4b2af889",
+                          "id": "lnk-6c911042ef",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx51gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=1dcbe5f7cb158398529deaa3-178273866082133&wsIPSercert=9a5edd07e6f0d47d809af726fa6e0ed1&wsBindIP=2&wsserid=1168243256626369038"
+                          "url": "https://tfx50gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=12f61ad437d6c80730531e9a-178273926308915&wsIPSercert=35d654fb2b72b10f133d9719a157fbb8&wsBindIP=2&wsserid=1168231589586498745"
                         },
                         {
-                          "id": "lnk-c69ad6af27",
+                          "id": "lnk-011dbfbb5d",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
