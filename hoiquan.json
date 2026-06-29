@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:30 29/06/2026",
+  "last_updated": "15:40 29/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-011a6f897ad7",
-          "name": "⚽ Ha Noi vs Nữ Hồ Chí Minh | Sắp diễn ra vs 16:00 29/06/2026",
+          "name": "⚽ Ha Noi vs Nữ Hồ Chí Minh | Live 0 - 0 16:00 29/06/2026",
           "tournament": "V.league",
           "logo_nha": "https://media.api-sports.io/football/teams/3670.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/Logo_HWFC.png/250px-Logo_HWFC.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-011a6f897ad7",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-dbf9b2f418",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx53gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=5bd5ca106460d708e48cc2cb-178272246165451&wsIPSercert=3e2bfff0e1d66bbad700ceb2276e17a4&wsBindIP=2&wsserid=1168158473487963106"
+                        },
+                        {
+                          "id": "lnk-1a843c36c4",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
