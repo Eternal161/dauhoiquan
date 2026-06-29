@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:30 29/06/2026",
+  "last_updated": "21:40 29/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-0db4f7491945",
-          "name": "⚽ Al Nejmeh vs Racing | Live 0 - 0 20:00 29/06/2026",
+          "name": "⚽ Al Nejmeh vs Racing | H2 - 84' 4 - 0 20:00 29/06/2026",
           "tournament": "VĐQG Latvia",
           "logo_nha": "https://media.api-sports.io/football/teams/4570.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4572.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-111b59bc43",
+                          "id": "lnk-deaa831200",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx54gchnhcjo8rzdrpjtfa3144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=269e7cfbbd459e2e0bf3bfd4-178274346729670&wsIPSercert=6f5f47bd478cc89f6d000bf55845ad5d&wsBindIP=2&wsserid=1168235283031012122"
+                          "url": "https://tfx50gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=12f61ad437d6c80730531e9a-178274405484727&wsIPSercert=6ad7be2d8237b4cc86ad89e5562f6e01&wsBindIP=2&wsserid=1168231589586498745"
                         },
                         {
-                          "id": "lnk-cc67a87e05",
+                          "id": "lnk-eb279625b0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-97977eff4d04",
-          "name": "⚽ Fs Jelgava vs Grobiņa | Live 0 - 0 22:00 29/06/2026",
+          "name": "⚽ Fs Jelgava vs Grobiņa | Sắp bắt đầu - null' 0 - 0 22:00 29/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/18834.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4138.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-dd6514d027",
+                          "id": "lnk-6688c7732f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx54gchnhcjo8rzdrpjtfa3144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2f799863f55cde7f365f1337-178274347561607&wsIPSercert=6f5f47bd478cc89f6d000bf55845ad5d&wsBindIP=2&wsserid=1168168154460945005"
+                          "url": "https://tfx50gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=c202e8eb0a9576b5eb413b38-178274406304414&wsIPSercert=6ad7be2d8237b4cc86ad89e5562f6e01&wsBindIP=2&wsserid=1168231589578109987"
                         },
                         {
-                          "id": "lnk-83ea799510",
+                          "id": "lnk-649540fd97",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
