@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:40 30/06/2026",
+  "last_updated": "03:50 30/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-304bcc06abe0",
-          "name": "⚽ Croatia U19 vs Ukraine U19 | Live 0 - 0 02:00 30/06/2026",
+          "name": "⚽ Croatia U19 vs Ukraine U19 | H2 - 90+4' 1 - 3 02:00 30/06/2026",
           "tournament": "UEFA U19 Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/10352.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-da7f0e0a0f",
+                          "id": "lnk-a9bd7b8b1c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx50gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178276566284826&wsIPSercert=2f7864b8a759827dc8dee911b6a7efda&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfx50gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178276625752869&wsIPSercert=ea0ff74d198d0f71dd46bbdb48732447&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-03eb932af1",
+                          "id": "lnk-0fa07978f6",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-fb5be6c4119c",
-          "name": "⚽ Germany vs Paraguay | H1 - 11' 0 - 0 03:30 30/06/2026",
+          "name": "⚽ Germany vs Paraguay | H1 - 20' 0 - 0 03:30 30/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-58d548a170",
+                          "id": "lnk-a195bb9d82",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx50gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c98fb645e2cab09a3fa40f79-178276567085394&wsIPSercert=2f7864b8a759827dc8dee911b6a7efda&wsBindIP=2&wsserid=1168283618402913555"
+                          "url": "https://tfx50gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0bb9974e18223129e2110e8c-178276626587983&wsIPSercert=ea0ff74d198d0f71dd46bbdb48732447&wsBindIP=2&wsserid=1168283529569158070"
                         },
                         {
-                          "id": "lnk-3fa1928b41",
+                          "id": "lnk-1c66752786",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
