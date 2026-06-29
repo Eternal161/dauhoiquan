@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:50 29/06/2026",
+  "last_updated": "21:00 29/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-0db4f7491945",
-          "name": "⚽ Al Nejmeh vs Racing | Giữa Hiệp - 45+2' 2 - 0 20:00 29/06/2026",
+          "name": "⚽ Al Nejmeh vs Racing | Live 0 - 0 20:00 29/06/2026",
           "tournament": "VĐQG Latvia",
           "logo_nha": "https://media.api-sports.io/football/teams/4570.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4572.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8afbc0c465",
+                          "id": "lnk-f98684406c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx53gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178274106309415&wsIPSercert=148e45700485b6782f1f4a00d3e9ed75&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfx51gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=c98fb645e2cab09a3fa40f79-178274166347171&wsIPSercert=76f47bee23f3ba3be3d4521a63dd67f4&wsBindIP=2&wsserid=1168283618402913555"
                         },
                         {
-                          "id": "lnk-d3171f3354",
+                          "id": "lnk-6a20a63a2c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
