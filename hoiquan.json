@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:10 30/06/2026",
+  "last_updated": "06:20 30/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-fb5be6c4119c",
-          "name": "⚽ Germany vs Paraguay | Kết thúc - 120' 1 - 1 03:30 30/06/2026",
+          "name": "⚽ Germany vs Paraguay | Kết thúc - null' 1 - 1 03:30 30/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d659a5acb0",
+                          "id": "lnk-6144685d71",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx53gr3uomttgr31hctsfa3dommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f5ffd5b4e2bc84f134028855-178277466714005&wsIPSercert=e022903d2c4b6f9dacc6cd6ec4b97cb3&wsBindIP=2&wsserid=1168056276210707857"
+                          "url": "https://tfx50gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c5af1d3f9d74e675286e540c-178277526144531&wsIPSercert=6b14216b42f4de79f5b55cff03bdc6b6&wsBindIP=2&wsserid=1168231785639038521"
                         },
                         {
-                          "id": "lnk-229c0f62c1",
+                          "id": "lnk-a80b8184b0",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -68,7 +68,7 @@
           ]
         },
         {
-          "id": "kaytee-2083f8f42a98",
+          "id": "kaytee-569743688aed",
           "name": "⚽ Netherlands vs Morocco | Sắp diễn ra vs 08:00 30/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1118.png",
@@ -94,15 +94,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-2083f8f42a98",
+              "id": "kaytee-569743688aed",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-2083f8f42a98",
+                  "id": "kaytee-569743688aed",
                   "name": "Netherlands vs Morocco",
                   "streams": [
                     {
-                      "id": "kaytee-2083f8f42a98",
+                      "id": "kaytee-569743688aed",
                       "name": "F",
                       "stream_links": []
                     }
