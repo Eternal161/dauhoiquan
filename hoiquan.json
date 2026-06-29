@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:10 30/06/2026",
+  "last_updated": "04:20 30/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-fb5be6c4119c",
-          "name": "⚽ Germany vs Paraguay | H1 - 40' 0 - 0 03:30 30/06/2026",
+          "name": "⚽ Germany vs Paraguay | H1 - 45+5' 0 - 1 03:30 30/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e62a573146",
+                          "id": "lnk-8635b87ea0",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx50gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=3ccefa48e510df8195afcf92-178276745891374&wsIPSercert=c078c2d0ffb8d1643fd733e3b4362dcb&wsBindIP=2&wsserid=1168202333418134578"
+                          "url": "https://tfx53gr3uomttgr31hctsfa3dommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f5ffd5b4e2bc84f134028855-178276806144894&wsIPSercert=0c4a9307111b0717392d51a553454132&wsBindIP=2&wsserid=1168056276210707857"
                         },
                         {
-                          "id": "lnk-ae5f930cd1",
+                          "id": "lnk-599db209ff",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
