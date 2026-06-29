@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:10 30/06/2026",
+  "last_updated": "02:20 30/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-304bcc06abe0",
-          "name": "⚽ Croatia U19 vs Ukraine U19 | H1 - 11' 0 - 0 02:00 30/06/2026",
+          "name": "⚽ Croatia U19 vs Ukraine U19 | H1 - 21' 0 - 0 02:00 30/06/2026",
           "tournament": "UEFA U19 Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/10352.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-872c6db935",
+                          "id": "lnk-942c9dfef2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx51gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=dd65a829423b7a9bfc19eadf-178276025840884&wsIPSercert=ccadbe7652161986426b567383bb65b8&wsBindIP=2&wsserid=1168243256623223254"
+                          "url": "https://tfx51gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178276085707256&wsIPSercert=893f3af46a9ec80ff9419d8cb8d933f2&wsBindIP=2&wsserid=1168283323221983365"
                         },
                         {
-                          "id": "lnk-e63f842d71",
+                          "id": "lnk-a7cc6180d3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
