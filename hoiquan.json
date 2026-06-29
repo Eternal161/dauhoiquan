@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:10 30/06/2026",
+  "last_updated": "01:20 30/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1d673b739fe6",
-          "name": "⚽ Brazil vs Japan | H2 - 49' 0 - 1 00:00 30/06/2026",
+          "name": "⚽ Brazil vs Japan | H2 - 59' 1 - 1 00:00 30/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e2a7d45bfa",
+                          "id": "lnk-094d6bdf93",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx50gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=12f61ad437d6c80730531e9a-178275666362503&wsIPSercert=d1fd47c8ffaa4d29cac4664d28b7c938&wsBindIP=2&wsserid=1168231589586498745"
+                          "url": "https://tfx51gr3uomttgr31hcj18yzd1p3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=931dc2ac27846864d9c6313c-178275725993327&wsIPSercert=150f2b7e3de12b5ab9d2aa20c2a72051&wsBindIP=2&wsserid=1168243343863876729"
                         },
                         {
-                          "id": "lnk-c780ae2e48",
+                          "id": "lnk-758c1fb330",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
