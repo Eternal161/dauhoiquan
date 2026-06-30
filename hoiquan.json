@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:51 01/07/2026",
+  "last_updated": "04:01 01/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c6da66165043",
-          "name": "⚽ France vs Sweden | Sắp bắt đầu - null' 0 - 0 04:00 01/07/2026",
+          "name": "⚽ France vs Sweden | H1 - 1' 0 - 0 04:00 01/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/2.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6d7cda3b1f",
+                          "id": "lnk-d1c5f38732",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx61gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178285266919433&wsIPSercert=ce0b95efee1e41a3f6504d985f21af94&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfx61gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=3248a74b00d70e69f8530d7f-178285327961225&wsIPSercert=eac0674406cb5efdd1a13794ec82e116&wsBindIP=2&wsserid=1168243343870168317"
                         },
                         {
-                          "id": "lnk-4d0dc3f990",
+                          "id": "lnk-de4a6c8267",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
