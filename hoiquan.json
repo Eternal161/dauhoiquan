@@ -1,12 +1,72 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "15:30 30/06/2026",
+  "last_updated": "15:40 30/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
+        {
+          "id": "kaytee-759c23cc098b",
+          "name": "⚽ Phong Phu Ha Nam W vs Tks Viet Nam W | Live 0 - 0 16:00 30/06/2026",
+          "tournament": "V.league",
+          "logo_nha": "https://imgts.sportpulseapiz.com/football/team/y39mp1h5ew7mojx/image/small",
+          "logo_khach": "https://imgts.sportpulseapiz.com/football/team/k82rekh9jxzrepz/image/small",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://imgts.sportpulseapiz.com/football/team/y39mp1h5ew7mojx/image/small",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-759c23cc098b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-759c23cc098b",
+                  "name": "Phong Phu Ha Nam W vs Tks Viet Nam W",
+                  "streams": [
+                    {
+                      "id": "kaytee-759c23cc098b",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa2ba58708",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx63gr3uomttgr31hctsfa3dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=f5ffd5b4e2bc84f134028855-178280886725656&wsIPSercert=8471fdc8aa4e5d0f5712ffcaf1017b0a&wsBindIP=2&wsserid=1168056276210707857"
+                        },
+                        {
+                          "id": "lnk-93f2c2698d",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
         {
           "id": "kaytee-b596f22daf69",
           "name": "⚽ Logan Lightning vs Redlands United | Sắp diễn ra vs 17:30 30/06/2026",
@@ -233,6 +293,96 @@
           ]
         },
         {
+          "id": "kaytee-04043a151a0f",
+          "name": "⚽ Botafogo Sp vs Crb | Sắp diễn ra vs 06:00 01/07/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/2618.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/146.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2618.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-04043a151a0f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-04043a151a0f",
+                  "name": "Botafogo Sp vs Crb",
+                  "streams": [
+                    {
+                      "id": "kaytee-04043a151a0f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-81d12a766a1a",
+          "name": "⚽ U. Catolica vs Everton De Vina | Sắp diễn ra vs 07:30 01/07/2026",
+          "tournament": "Copa Chile",
+          "logo_nha": "https://media.api-sports.io/football/teams/2994.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2325.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2994.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-81d12a766a1a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-81d12a766a1a",
+                  "name": "U. Catolica vs Everton De Vina",
+                  "streams": [
+                    {
+                      "id": "kaytee-81d12a766a1a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-d733fe80e410",
           "name": "⚽ Mexico vs Ecuador | Sắp diễn ra vs 08:00 01/07/2026",
           "tournament": "World Cup",
@@ -278,11 +428,11 @@
           ]
         },
         {
-          "id": "kaytee-f2a91d4d4bc2",
-          "name": "⚽ England vs Congo Dr | Sắp diễn ra vs 23:00 01/07/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/10.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+          "id": "kaytee-6ab09f6c0c4d",
+          "name": "⚽ Hamilton Olympic vs Charlestown City Blues | Sắp diễn ra vs 17:00 01/07/2026",
+          "tournament": "Northern NSW NPL",
+          "logo_nha": "https://media.api-sports.io/football/teams/10205.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10203.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -290,7 +440,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10.png",
+            "url": "https://media.api-sports.io/football/teams/10205.png",
             "width": 1600,
             "height": 1200
           },
@@ -304,15 +454,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-f2a91d4d4bc2",
+              "id": "kaytee-6ab09f6c0c4d",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-f2a91d4d4bc2",
-                  "name": "England vs Congo Dr",
+                  "id": "kaytee-6ab09f6c0c4d",
+                  "name": "Hamilton Olympic vs Charlestown City Blues",
                   "streams": [
                     {
-                      "id": "kaytee-f2a91d4d4bc2",
+                      "id": "kaytee-6ab09f6c0c4d",
                       "name": "F",
                       "stream_links": []
                     }
