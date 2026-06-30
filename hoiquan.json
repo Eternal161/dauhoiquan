@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:50 01/07/2026",
+  "last_updated": "02:00 01/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1c62d6be08c1",
-          "name": "⚽ Ivory Coast vs Norway | H2 - 90+1' 1 - 2 00:00 01/07/2026",
+          "name": "⚽ Ivory Coast vs Norway | H2 - 90+8' 1 - 2 00:00 01/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3d87e1157e",
+                          "id": "lnk-023afb12d8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx60gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=1312be97bc6761f8fba294e1-178284545686324&wsIPSercert=53cbf807ce2d016df770dc6bfeb3e65f&wsBindIP=2&wsserid=1168283323328938907"
+                          "url": "https://tfx60gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=f447814a1fff598df910f9f5-178284606348223&wsIPSercert=1ac0b363bce44e63d49cdc3e2661eacd&wsBindIP=2&wsserid=1168231589572867007"
                         },
                         {
-                          "id": "lnk-cd7b4618a7",
+                          "id": "lnk-22ac2700ff",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
