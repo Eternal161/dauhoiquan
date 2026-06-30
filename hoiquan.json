@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:11 30/06/2026",
+  "last_updated": "16:20 30/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-759c23cc098b",
-          "name": "⚽ Phong Phu Ha Nam W vs Tks Viet Nam W | Live 0 - 0 16:00 30/06/2026",
-          "tournament": "V.league",
-          "logo_nha": "https://imgts.sportpulseapiz.com/football/team/y39mp1h5ew7mojx/image/small",
-          "logo_khach": "https://imgts.sportpulseapiz.com/football/team/k82rekh9jxzrepz/image/small",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://imgts.sportpulseapiz.com/football/team/y39mp1h5ew7mojx/image/small",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-759c23cc098b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-759c23cc098b",
-                  "name": "Phong Phu Ha Nam W vs Tks Viet Nam W",
-                  "streams": [
-                    {
-                      "id": "kaytee-759c23cc098b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-11f1300075",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx63gr3uomttgr31hctsfa3dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=f5ffd5b4e2bc84f134028855-178281067220852&wsIPSercert=106d37113621a032f7560f58cdec0bcc&wsBindIP=2&wsserid=1168056276210707857"
-                        },
-                        {
-                          "id": "lnk-0ede499cb2",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-25e4714fbd71",
           "name": "⚽ Logan Lightning vs Redlands United | Sắp diễn ra vs 17:30 30/06/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-6ab09f6c0c4d",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-dc3889ceb7b6",
+          "name": "⚽ Tukums vs Super Nova | Sắp diễn ra vs 22:00 01/07/2026",
+          "tournament": "Virsliga",
+          "logo_nha": "https://media.api-sports.io/football/teams/4144.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4143.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4144.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-dc3889ceb7b6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-dc3889ceb7b6",
+                  "name": "Tukums vs Super Nova",
+                  "streams": [
+                    {
+                      "id": "kaytee-dc3889ceb7b6",
                       "name": "F",
                       "stream_links": []
                     }
