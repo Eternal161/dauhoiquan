@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:50 30/06/2026",
+  "last_updated": "11:01 30/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-569743688aed",
-          "name": "⚽ Netherlands vs Morocco | Kết thúc - null' 1 - 1 08:00 30/06/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/1118.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1118.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-569743688aed",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-569743688aed",
-                  "name": "Netherlands vs Morocco",
-                  "streams": [
-                    {
-                      "id": "kaytee-569743688aed",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5a1143f7c3",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx63gr3uomttgr31hctsfa3dommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f5ffd5b4e2bc84f134028855-178279146174418&wsIPSercert=9a26d80cdc5c17c6b00ed25ceec41be1&wsBindIP=2&wsserid=1168056276210707857"
-                        },
-                        {
-                          "id": "lnk-5f1d9ba2b7",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-b596f22daf69",
           "name": "⚽ Logan Lightning vs Redlands United | Sắp diễn ra vs 17:30 30/06/2026",
