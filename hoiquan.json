@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:31 01/07/2026",
+  "last_updated": "03:40 01/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c6da66165043",
-          "name": "⚽ France vs Sweden | Sắp diễn ra vs 04:00 01/07/2026",
+          "name": "⚽ France vs Sweden | Sắp bắt đầu - null' 0 - 0 04:00 01/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/2.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,22 @@
                     {
                       "id": "kaytee-c6da66165043",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-e5b43dc1f7",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx60gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=43280c1c975363fe81a8d8d5-178285206368306&wsIPSercert=62ef1e53e6025f1b9c7d883a9bf42cea&wsBindIP=2&wsserid=1168202392933970899"
+                        },
+                        {
+                          "id": "lnk-b90c4cbb5c",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -358,6 +373,96 @@
                   "streams": [
                     {
                       "id": "kaytee-c6cc1bb367f7",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-6c6fa62a9540",
+          "name": "⚽ Belgium vs Senegal | Sắp diễn ra vs 03:00 02/07/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/1.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6c6fa62a9540",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6c6fa62a9540",
+                  "name": "Belgium vs Senegal",
+                  "streams": [
+                    {
+                      "id": "kaytee-6c6fa62a9540",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b51ec1cbbf93",
+          "name": "⚽ Ldu De Quito vs Orense Sc | Sắp diễn ra vs 05:00 02/07/2026",
+          "tournament": "Liga Pro",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/e/e8/LDUQuitologo2.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1992.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/LDUQuitologo2.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b51ec1cbbf93",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b51ec1cbbf93",
+                  "name": "Ldu De Quito vs Orense Sc",
+                  "streams": [
+                    {
+                      "id": "kaytee-b51ec1cbbf93",
                       "name": "F",
                       "stream_links": []
                     }
