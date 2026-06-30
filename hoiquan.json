@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:50 30/06/2026",
+  "last_updated": "00:00 01/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-13c5fca6f4fb",
-          "name": "⚽ Vps vs Inter Turku | H2 - 90+2' 1 - 3 22:00 30/06/2026",
-          "tournament": "Suomen Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/650.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1164.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/650.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-13c5fca6f4fb",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-13c5fca6f4fb",
-                  "name": "Vps vs Inter Turku",
-                  "streams": [
-                    {
-                      "id": "kaytee-13c5fca6f4fb",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4bdcc9ce3b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx61gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0fecc200ad94635c875c47ce-178283826181430&wsIPSercert=d31483b79fec2c0dc06646f92b65a632&wsBindIP=2&wsserid=1168282035663924028"
-                        },
-                        {
-                          "id": "lnk-d72be67f32",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-26b62136463d",
           "name": "⚽ Fk Liepaja vs Ogre United | Giữa Hiệp - 45+3' 3 - 0 23:00 30/06/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-34f0cae7c0",
+                          "id": "lnk-fd087fcdb7",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx61gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=349560c79a44166872039751-178283827045201&wsIPSercert=d31483b79fec2c0dc06646f92b65a632&wsBindIP=2&wsserid=1168282035622980969"
+                          "url": "https://tfx61gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178283886337741&wsIPSercert=1725c5bdf6fc81526bdb8b3aa2c73ad6&wsBindIP=2&wsserid=1177063474757376778"
                         },
                         {
-                          "id": "lnk-72fde27bba",
+                          "id": "lnk-2472370b6f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0227416bbb",
+                          "id": "lnk-ea3398ad6e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx61gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178283827903688&wsIPSercert=d31483b79fec2c0dc06646f92b65a632&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfx61gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=7d7d8c99c06f93d847c9d109-178283887182627&wsIPSercert=1725c5bdf6fc81526bdb8b3aa2c73ad6&wsBindIP=2&wsserid=1177063474750036592"
                         },
                         {
-                          "id": "lnk-22b131009b",
+                          "id": "lnk-266f06f359",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -493,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-f2a91d4d4bc2",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c6cc1bb367f7",
+          "name": "⚽ Hjk Helsinki vs Ilves | Sắp diễn ra vs 23:00 01/07/2026",
+          "tournament": "Suomen Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/pt/e/ec/HJK_Helsinki_Logo.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1163.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/pt/e/ec/HJK_Helsinki_Logo.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c6cc1bb367f7",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c6cc1bb367f7",
+                  "name": "Hjk Helsinki vs Ilves",
+                  "streams": [
+                    {
+                      "id": "kaytee-c6cc1bb367f7",
                       "name": "F",
                       "stream_links": []
                     }
