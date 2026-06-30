@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:31 01/07/2026",
+  "last_updated": "04:41 01/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c6da66165043",
-          "name": "⚽ France vs Sweden | H1 - 31' 0 - 0 04:00 01/07/2026",
+          "name": "⚽ France vs Sweden | H1 - 41' 0 - 0 04:00 01/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/2.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-958c50d4e3",
+                          "id": "lnk-4125a6daa3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx60gr4uqmtt8y41hcjz8rzdncbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b2a439e2d523219d38158b30-178285506934346&wsIPSercert=9da334f0c33eb9bef7fa0d8d9b007997&wsBindIP=2&wsserid=1168176337059421885"
+                          "url": "https://tfx60gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c5af1d3f9d74e675286e540c-178285568902518&wsIPSercert=b9cb7a6f7737ee547d8275396c83c6e0&wsBindIP=2&wsserid=1168231785639038521"
                         },
                         {
-                          "id": "lnk-7b76996f42",
+                          "id": "lnk-f6153cef21",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
