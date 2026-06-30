@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:41 01/07/2026",
+  "last_updated": "04:50 01/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c6da66165043",
-          "name": "⚽ France vs Sweden | H1 - 41' 0 - 0 04:00 01/07/2026",
+          "name": "⚽ France vs Sweden | Giữa Hiệp - 45+3' 1 - 0 04:00 01/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/2.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4125a6daa3",
+                          "id": "lnk-c4e9a7ee78",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx60gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c5af1d3f9d74e675286e540c-178285568902518&wsIPSercert=b9cb7a6f7737ee547d8275396c83c6e0&wsBindIP=2&wsserid=1168231785639038521"
+                          "url": "https://tfx60gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=bf1635bfa3f520667d7bafad-178285625620129&wsIPSercert=3f46fc6f359431802f1518981c1de1c4&wsBindIP=2&wsserid=1168283323393951462"
                         },
                         {
-                          "id": "lnk-f6153cef21",
+                          "id": "lnk-914893f7ff",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -158,7 +158,7 @@
           ]
         },
         {
-          "id": "kaytee-d733fe80e410",
+          "id": "kaytee-007567797f38",
           "name": "⚽ Mexico vs Ecuador | Sắp diễn ra vs 08:00 01/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
@@ -184,15 +184,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-d733fe80e410",
+              "id": "kaytee-007567797f38",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-d733fe80e410",
+                  "id": "kaytee-007567797f38",
                   "name": "Mexico vs Ecuador",
                   "streams": [
                     {
-                      "id": "kaytee-d733fe80e410",
+                      "id": "kaytee-007567797f38",
                       "name": "F",
                       "stream_links": []
                     }
