@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:51 01/07/2026",
+  "last_updated": "06:01 01/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-c6da66165043",
-          "name": "⚽ France vs Sweden | Giữa Hiệp - 45+3' 1 - 0 04:00 01/07/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/2.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/5.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c6da66165043",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c6da66165043",
-                  "name": "France vs Sweden",
-                  "streams": [
-                    {
-                      "id": "kaytee-c6da66165043",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-033adcd823",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx60gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178285987658081&wsIPSercert=9e0e1935bff2e9a9c480b80a326068fa&wsBindIP=2&wsserid=1168283323406534424"
-                        },
-                        {
-                          "id": "lnk-3e0f0f612f",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-04043a151a0f",
           "name": "⚽ Botafogo Sp vs Crb | Sắp bắt đầu - null' 0 - 0 06:00 01/07/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-45e9339d44",
+                          "id": "lnk-0bb5530377",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx60gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178285988507815&wsIPSercert=9e0e1935bff2e9a9c480b80a326068fa&wsBindIP=2&wsserid=1168283323302724409"
+                          "url": "https://tfx64gchnhcjo8rzdrpjtfa3144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=2f799863f55cde7f365f1337-178286048845105&wsIPSercert=176e01607367651d1aca44918d8e8a55&wsBindIP=2&wsserid=1168168154460945005"
                         },
                         {
-                          "id": "lnk-c8c6ef5f42",
+                          "id": "lnk-ad53f8960b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -478,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-b51ec1cbbf93",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-5fd16b9bd52e",
+          "name": "⚽ Usa vs Bosnia & Herzegovina | Sắp diễn ra vs 07:00 02/07/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1113.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2384.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-5fd16b9bd52e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-5fd16b9bd52e",
+                  "name": "Usa vs Bosnia & Herzegovina",
+                  "streams": [
+                    {
+                      "id": "kaytee-5fd16b9bd52e",
                       "name": "F",
                       "stream_links": []
                     }
