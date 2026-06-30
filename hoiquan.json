@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:30 30/06/2026",
+  "last_updated": "18:40 30/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-25e4714fbd71",
-          "name": "⚽ Logan Lightning vs Redlands United | Giữa Hiệp - 45+2' 3 - 1 17:30 30/06/2026",
+          "name": "⚽ Logan Lightning vs Redlands United | H2 - 48' 3 - 1 17:30 30/06/2026",
           "tournament": "Queensland Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/11180.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10222.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-26c7fdd185",
+                          "id": "lnk-7a9dfb0e07",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx64gchnhcjo8rzdrpjtfahn47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=269e7cfbbd459e2e0bf3bfd4-178281906534389&wsIPSercert=fc098a454f515f974debaa9fee019a16&wsBindIP=2&wsserid=1168235283031012122"
+                          "url": "https://tfx64gchnhcjo8rzdrpjtfahn47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=269e7cfbbd459e2e0bf3bfd4-178281966102721&wsIPSercert=9c8b84a59412a7075e45017cc656bff6&wsBindIP=2&wsserid=1168235283031012122"
                         },
                         {
-                          "id": "lnk-154d53fb78",
+                          "id": "lnk-a574eb9947",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
