@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:41 01/07/2026",
+  "last_updated": "00:50 01/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-26b62136463d",
-          "name": "⚽ Fk Liepaja vs Ogre United | H2 - 81' 4 - 0 23:00 30/06/2026",
+          "name": "⚽ Fk Liepaja vs Ogre United | Live 0 - 0 23:00 30/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/661.png",
           "logo_khach": "https://media.api-sports.io/football/teams/18936.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-07f03904b2",
+                          "id": "lnk-3175872952",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx60gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd74cd9ba0c14603d7073e4b-178284127829167&wsIPSercert=2e1896ed997297c63bbafe9051228d77&wsBindIP=2&wsserid=1168231589574964209"
+                          "url": "https://tfx61gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=2405a2a24215f54d1eb1e38c-178284186698613&wsIPSercert=5fd25ffddb76063efc17b0b5535b2c0a&wsBindIP=2&wsserid=1168168154453604765"
                         },
                         {
-                          "id": "lnk-f8acf57a90",
+                          "id": "lnk-6de068310c",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-1c62d6be08c1",
-          "name": "⚽ Ivory Coast vs Norway | H1 - 41' 0 - 1 00:00 01/07/2026",
+          "name": "⚽ Ivory Coast vs Norway | Giữa Hiệp - 45+4' 0 - 1 00:00 01/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b8a37b9c3d",
+                          "id": "lnk-5a09bcdd7c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx60gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=12f61ad437d6c80730531e9a-178284128692859&wsIPSercert=2e1896ed997297c63bbafe9051228d77&wsBindIP=2&wsserid=1168231589586498745"
+                          "url": "https://tfx61gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=00a62cc6094de4f7b329cc7e-178284187535136&wsIPSercert=5fd25ffddb76063efc17b0b5535b2c0a&wsBindIP=2&wsserid=1168168154451507561"
                         },
                         {
-                          "id": "lnk-44efba3ded",
+                          "id": "lnk-d8ba940cbb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
