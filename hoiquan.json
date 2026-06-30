@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:50 01/07/2026",
+  "last_updated": "01:00 01/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-26b62136463d",
-          "name": "⚽ Fk Liepaja vs Ogre United | Live 0 - 0 23:00 30/06/2026",
-          "tournament": "Virsliga",
-          "logo_nha": "https://media.api-sports.io/football/teams/661.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/18936.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/661.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-26b62136463d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-26b62136463d",
-                  "name": "Fk Liepaja vs Ogre United",
-                  "streams": [
-                    {
-                      "id": "kaytee-26b62136463d",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3175872952",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx61gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=2405a2a24215f54d1eb1e38c-178284186698613&wsIPSercert=5fd25ffddb76063efc17b0b5535b2c0a&wsBindIP=2&wsserid=1168168154453604765"
-                        },
-                        {
-                          "id": "lnk-6de068310c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-1c62d6be08c1",
           "name": "⚽ Ivory Coast vs Norway | Giữa Hiệp - 45+4' 0 - 1 00:00 01/07/2026",
@@ -106,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5a09bcdd7c",
+                          "id": "lnk-19d827bf9a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx61gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=00a62cc6094de4f7b329cc7e-178284187535136&wsIPSercert=5fd25ffddb76063efc17b0b5535b2c0a&wsBindIP=2&wsserid=1168168154451507561"
+                          "url": "https://tfx61gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=00a62cc6094de4f7b329cc7e-178284246652630&wsIPSercert=4d3ede1e8f586696bdd29eaef1db8949&wsBindIP=2&wsserid=1168168154451507561"
                         },
                         {
-                          "id": "lnk-d8ba940cbb",
+                          "id": "lnk-9f21f7c79a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
