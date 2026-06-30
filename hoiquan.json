@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:01 30/06/2026",
+  "last_updated": "23:11 30/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-13c5fca6f4fb",
-          "name": "⚽ Vps vs Inter Turku | Giữa Hiệp - 45+2' 1 - 0 22:00 30/06/2026",
+          "name": "⚽ Vps vs Inter Turku | H2 - 52' 1 - 1 22:00 30/06/2026",
           "tournament": "Suomen Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/650.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1164.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8267c2c5c9",
+                          "id": "lnk-92d4ed2e6d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx61gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=dd65a829423b7a9bfc19eadf-178283527155611&wsIPSercert=aa3fa368195de3b858f36715d9f54fc3&wsBindIP=2&wsserid=1168243256623223254"
+                          "url": "https://tfx61gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0fecc200ad94635c875c47ce-178283587396923&wsIPSercert=17bea462e1eb2e475667f0c083cf704f&wsBindIP=2&wsserid=1168282035663924028"
                         },
                         {
-                          "id": "lnk-333672ec53",
+                          "id": "lnk-892538edf8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-26b62136463d",
-          "name": "⚽ Fk Liepaja vs Ogre United | Sắp bắt đầu - null' 0 - 0 23:00 30/06/2026",
+          "name": "⚽ Fk Liepaja vs Ogre United | H1 - 11' 1 - 0 23:00 30/06/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/661.png",
           "logo_khach": "https://media.api-sports.io/football/teams/18936.png",
@@ -106,14 +106,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-58857f5ccc",
+                          "id": "lnk-110281b59d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx61gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f191522ea6ad00e485395737-178283528032213&wsIPSercert=aa3fa368195de3b858f36715d9f54fc3&wsBindIP=2&wsserid=1168243256629514822"
+                          "url": "https://tfx61gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178283588282553&wsIPSercert=17bea462e1eb2e475667f0c083cf704f&wsBindIP=2&wsserid=1177063474757376778"
                         },
                         {
-                          "id": "lnk-3ed076f4c5",
+                          "id": "lnk-11bb54e96f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
