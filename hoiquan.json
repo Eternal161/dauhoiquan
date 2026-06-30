@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:30 30/06/2026",
+  "last_updated": "19:40 30/06/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-25e4714fbd71",
-          "name": "⚽ Logan Lightning vs Redlands United | H2 - 90+4' 5 - 1 17:30 30/06/2026",
-          "tournament": "Queensland Premier League",
-          "logo_nha": "https://media.api-sports.io/football/teams/11180.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/10222.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/11180.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-25e4714fbd71",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-25e4714fbd71",
-                  "name": "Logan Lightning vs Redlands United",
-                  "streams": [
-                    {
-                      "id": "kaytee-25e4714fbd71",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8a9dcd9f8c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-13c5fca6f4fb",
           "name": "⚽ Vps vs Inter Turku | Sắp diễn ra vs 22:00 30/06/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-dc3889ceb7b6",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f2a91d4d4bc2",
+          "name": "⚽ England vs Congo Dr | Sắp diễn ra vs 23:00 01/07/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/10.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/10.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f2a91d4d4bc2",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f2a91d4d4bc2",
+                  "name": "England vs Congo Dr",
+                  "streams": [
+                    {
+                      "id": "kaytee-f2a91d4d4bc2",
                       "name": "F",
                       "stream_links": []
                     }
