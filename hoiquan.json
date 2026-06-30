@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:10 30/06/2026",
+  "last_updated": "10:21 30/06/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-569743688aed",
-          "name": "⚽ Netherlands vs Morocco | Kết thúc - 96' 1 - 1 08:00 30/06/2026",
+          "name": "⚽ Netherlands vs Morocco | Kết thúc - 120' 1 - 1 08:00 30/06/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1118.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8fa0f82ae9",
+                          "id": "lnk-a7d2a9e255",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx61gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=d50ab20a33cd1e3fab7f76e4-178278905658660&wsIPSercert=43d01f17b1c69ad0a5d030b4ef7e6557&wsBindIP=2&wsserid=1168283323380319328"
+                          "url": "https://tfx60gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ce579d12f6b624c5068d7b3d-178278967337674&wsIPSercert=261858434c7a3db748226678df0afe29&wsBindIP=2&wsserid=1168202333420231774"
                         },
                         {
-                          "id": "lnk-4f34178df4",
+                          "id": "lnk-3ac65efb62",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
