@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:50 01/07/2026",
+  "last_updated": "08:01 01/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-04043a151a0f",
-          "name": "⚽ Botafogo Sp vs Crb | H2 - 90+1' 0 - 1 06:00 01/07/2026",
+          "name": "⚽ Botafogo Sp vs Crb | H2 - 90+7' 0 - 1 06:00 01/07/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/2618.png",
           "logo_khach": "https://media.api-sports.io/football/teams/146.png",
@@ -46,17 +46,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fee0275c6b",
+                          "id": "lnk-f6bc3024e1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx71gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178286705951088&wsIPSercert=637fba7b658dd247d474589ab95fdcda&wsBindIP=2&wsserid=1168283323302724409"
-                        },
-                        {
-                          "id": "lnk-904aceb0aa",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
                         }
                       ]
@@ -69,7 +62,7 @@
         },
         {
           "id": "kaytee-81d12a766a1a",
-          "name": "⚽ U. Catolica vs Everton De Vina | H1 - 21' 0 - 0 07:30 01/07/2026",
+          "name": "⚽ U. Catolica vs Everton De Vina | H1 - 32' 0 - 0 07:30 01/07/2026",
           "tournament": "Copa Chile",
           "logo_nha": "https://media.api-sports.io/football/teams/2994.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2325.png",
@@ -106,14 +99,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f8648af5fb",
+                          "id": "lnk-b7f71b9796",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx71gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4f5605f94f7e28b0acf59620-178286706813200&wsIPSercert=637fba7b658dd247d474589ab95fdcda&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfx71gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b4ec00d48384c469dc7c20db-178286768644916&wsIPSercert=8e8be5191c5e04dd30d2ef2f6381e0a2&wsBindIP=2&wsserid=1168243256667264290"
                         },
                         {
-                          "id": "lnk-4168231f27",
+                          "id": "lnk-09b9a7f611",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -166,14 +159,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-207061484f",
+                          "id": "lnk-a94ca97bc1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx71gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178286707684113&wsIPSercert=637fba7b658dd247d474589ab95fdcda&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfx71gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=06fa26912fb2fbf1257238c2-178286769467079&wsIPSercert=8e8be5191c5e04dd30d2ef2f6381e0a2&wsBindIP=2&wsserid=1168243344279114758"
                         },
                         {
-                          "id": "lnk-833ac7d2bf",
+                          "id": "lnk-68006a86a4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
