@@ -11,7 +11,7 @@ from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 from playwright_stealth import Stealth
 
 # =========================================================
-# CONFIG HỘI QUÁN TV - BẢN FULL CHỐNG LAG MẠNG
+# CONFIG HỘI QUÁN TV - BẢN FULL CHỐNG LAG MẠNG + GỘP TRẬN
 # =========================================================
 TARGET_SITE   = "https://sv2.hoiquan4.live/lich-thi-dau/bong-da"
 BASE_URL      = "https://sv2.hoiquan4.live"
@@ -60,7 +60,7 @@ def parse_time_from_url(url: str) -> str:
     return ""
 
 # =========================================================
-# JS: EXTRACT DATA
+# JS: EXTRACT DATA (ĐÃ THÊM TÌM TÊN BLV)
 # =========================================================
 JS_EXTRACT = """
 () => {
@@ -109,10 +109,20 @@ JS_EXTRACT = """
 
         const isLive = /live|trực tiếp|đang phát/.test(clean(a.innerText).toLowerCase());
 
-        let spans = a.querySelectorAll('span.text-xs.font-normal'); // TÌM TÊN GIẢI
+        let spans = a.querySelectorAll('span.text-xs.font-normal'); 
         let tournament = spans.length > 0 ? spans[0].innerText.trim() : '';
+        
+        // 💡 BỔ SUNG: TÌM TÊN BLV TRONG THẺ
+        let blvName = "BLV Mặc định";
+        const allTexts = a.innerText.split('\\n');
+        for (let t of allTexts) {
+            if (t.toUpperCase().includes('BLV')) {
+                blvName = t.trim();
+                break;
+            }
+        }
 
-        results.push({ href, home, away, timeStr, homeLogo, awayLogo, tournament });
+        results.push({ href, home, away, timeStr, homeLogo, awayLogo, tournament, isLive, blvName });
     }
     return results;
 }
@@ -132,7 +142,7 @@ def capture_stream(context, match_url: str) -> list:
         page.goto(match_url, wait_until="load", timeout=60000)
         page.wait_for_timeout(8000)
     except PWTimeout:
-        print("      ⚠️ Web lag nhẹ nhưng vẫn tiếp tục bắt link...")
+        pass # Bỏ qua print để console đỡ rối
     except Exception:
         pass
     finally:
@@ -148,9 +158,9 @@ def capture_stream(context, match_url: str) -> list:
     return [s for sc, s in scored]
 
 # =========================================================
-# BUILD CHANNEL
+# BUILD CHANNEL (GỘP LUỒNG)
 # =========================================================
-def build_channel(m, stream_urls):
+def build_channel(m, stream_data):
     home = (m.get('home') or "Unknown").title()
     away = (m.get('away') or "Unknown").title()
     thoi_gian = m.get('timeStr') or "Không rõ"
@@ -162,10 +172,21 @@ def build_channel(m, stream_urls):
     display_name = f"⚽ {title_clean}" + (f" | {m.get('league')}" if m.get('league') else "") + f" | {thoi_gian}"
 
     cid = make_id(m['href'])
-    is_live = len(stream_urls) > 0
+    is_live = len(stream_data) > 0
     
     label_text = "● Live" if is_live else ("🔴 Chờ stream" if m.get('isLive') else "⏳ Chưa live")
     label_color = "#ff0000" if is_live else ("#ff6600" if m.get('isLive') else "#d54f1a")
+
+    # 💡 MAP DỮ LIỆU ĐA LUỒNG BLV TỪ TRẬN ĐÃ GỘP
+    stream_links = []
+    for i, s in enumerate(stream_data):
+        stream_links.append({
+            "id": make_link_id(),
+            "name": s["name"],
+            "type": "hls",
+            "default": i == 0,
+            "url": s["url"]
+        })
 
     return {
         "id": cid, "name": display_name, 
@@ -179,7 +200,7 @@ def build_channel(m, stream_urls):
             "id": cid, "name": "Hội Quán",
             "contents": [{
                 "id": cid, "name": title_clean,
-                "streams": [{"id": cid, "name": "F", "stream_links": [{"id": make_link_id(), "name": f"Link {i+1}", "type": "hls", "default": i==0, "url": u} for i, u in enumerate(stream_urls[:2])]}]
+                "streams": [{"id": cid, "name": "F", "stream_links": stream_links}]
             }]
         }],
     }
@@ -193,46 +214,61 @@ def scrape_and_push():
     print(f"🚀 BẮT ĐẦU BOT HỘI QUÁN (Giờ VN): {now_str}")
 
     with sync_playwright() as p:
-        # THÊM CỜ BẢO VỆ CHỐNG SẬP TRÌNH DUYỆT TRÊN GITHUB ACTIONS
         browser = p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-setuid-sandbox"])
         context = browser.new_context(viewport={"width": 1920, "height": 1080}, user_agent=_HEADERS["User-Agent"], timezone_id="Asia/Ho_Chi_Minh")
         page = context.new_page()
         try: Stealth().apply_stealth_sync(page)
         except: pass
         
-        # BỌC GIÁP CHỐNG LỖI TIMEOUT TRANG CHỦ
         try:
             print("📺 Đang mở trang Hội Quán...")
             page.goto(TARGET_SITE, wait_until="domcontentloaded", timeout=60000)
         except PWTimeout:
-            print("   ⚠️ Web load quá chậm (quá 60s). Đang ép Bot cào tiếp...")
+            print("   ⚠️ Web load chậm. Đang ép Bot cào tiếp...")
         except Exception as e:
-            print(f"   ⚠️ Có sự cố mạng nhỏ: {e}")
+            pass
             
         page.wait_for_timeout(5000)
         
         raw_matches = page.evaluate(JS_EXTRACT)
         
-        valid_matches = []
-        seen_keys = set()
+        # 💡 THUẬT TOÁN GỘP TRẬN (MATCH GROUPING)
+        grouped_matches = {}
         for m in raw_matches:
             h_lower = (m.get('home') or "").lower()
             a_lower = (m.get('away') or "").lower()
             if not h_lower or not a_lower or "unknown" in h_lower or "hoiquan" in h_lower: continue
             
             key = f"{h_lower} vs {a_lower}"
-            if key not in seen_keys:
-                seen_keys.add(key)
-                valid_matches.append(m)
-
-        raw_matches = valid_matches[:LIMIT_MATCHES]
-        channels = []
-        for idx, m in enumerate(raw_matches, 1):
-            m["timeStr"] = m.get("timeStr") or parse_time_from_url(m["href"]) or "Chưa rõ"
-            print(f"   [{idx}/{len(raw_matches)}] {m['home']} vs {m['away']} ({m['timeStr']})")
+            blv_name = m.get('blvName', 'BLV Mặc định')
             
-            streams = capture_stream(context, m["href"])
-            channels.append(build_channel(m, streams))
+            if key not in grouped_matches:
+                # Trận mới -> Tạo sổ chứa danh sách [ (link, tên_blv) ]
+                m['hrefs_and_blvs'] = [(m['href'], blv_name)]
+                grouped_matches[key] = m
+            else:
+                # Đã có trận này -> Nhét thêm link và BLV vào sổ
+                grouped_matches[key]['hrefs_and_blvs'].append((m['href'], blv_name))
+
+        # Rút gọn số lượng trận cần cào
+        valid_matches = list(grouped_matches.values())[:LIMIT_MATCHES]
+        
+        channels = []
+        for idx, m in enumerate(valid_matches, 1):
+            m["timeStr"] = m.get("timeStr") or parse_time_from_url(m["href"]) or "Chưa rõ"
+            print(f"\n[{idx}/{len(valid_matches)}] {m['home']} vs {m['away']} ({m['timeStr']})")
+            
+            # Cào luồng cho TỪNG BLV trong trận đấu này
+            all_match_streams = []
+            for href, blv_name in m['hrefs_and_blvs']:
+                print(f"      > Cào luồng: {blv_name}...")
+                streams = capture_stream(context, href)
+                if streams:
+                    # Lấy link mượt nhất (index 0) gán cho BLV này
+                    all_match_streams.append({"name": blv_name, "url": streams[0]})
+
+            # Gắn danh sách BLV vào hàm build_channel
+            channels.append(build_channel(m, all_match_streams))
 
     # Đẩy lên GitHub
     g = Github(GITHUB_TOKEN)
