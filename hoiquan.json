@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:40 01/07/2026",
+  "last_updated": "22:51 01/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-4cca0986d96c",
-          "name": "⚽ Tukums vs Super Nova | Live 0 - 0 22:00 01/07/2026",
+          "name": "⚽ Tukums vs Super Nova | Giữa Hiệp - 45+2' 1 - 1 22:00 01/07/2026",
           "tournament": "Virsliga",
           "logo_nha": "https://media.api-sports.io/football/teams/4144.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4143.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b968859ab5",
+                          "id": "lnk-c6c1fedb05",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178292046389096&wsIPSercert=1c35e4aa37bf5dab92632c0e81dc8846&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178292107086109&wsIPSercert=2e12f01868161c0cc21b943234df8e6e&wsBindIP=2&wsserid=1168283323221983365"
                         }
                       ]
                     }
@@ -61,7 +61,7 @@
           ]
         },
         {
-          "id": "kaytee-f2a91d4d4bc2",
+          "id": "kaytee-087b0f825b74",
           "name": "⚽ England vs Congo Dr | Sắp bắt đầu - null' 0 - 0 23:00 01/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/10.png",
@@ -87,30 +87,23 @@
           ],
           "sources": [
             {
-              "id": "kaytee-f2a91d4d4bc2",
+              "id": "kaytee-087b0f825b74",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-f2a91d4d4bc2",
+                  "id": "kaytee-087b0f825b74",
                   "name": "England vs Congo Dr",
                   "streams": [
                     {
-                      "id": "kaytee-f2a91d4d4bc2",
+                      "id": "kaytee-087b0f825b74",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-18248a2750",
-                          "name": "BLV PHAN QUẨY",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx71gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=22dc27e5affbb6b58c947890-178292047240445&wsIPSercert=1c35e4aa37bf5dab92632c0e81dc8846&wsBindIP=2&wsserid=1168283323207303220"
-                        },
-                        {
-                          "id": "lnk-9c48377792",
+                          "id": "lnk-18de734e63",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
-                          "default": false,
-                          "url": "https://tfx71gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178292048101781&wsIPSercert=1c35e4aa37bf5dab92632c0e81dc8846&wsBindIP=2&wsserid=1168283323406534424"
+                          "default": true,
+                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=888d29275c171651bfd71aa6-178292107941315&wsIPSercert=2e12f01868161c0cc21b943234df8e6e&wsBindIP=2&wsserid=1168231785641135723"
                         }
                       ]
                     }
@@ -122,7 +115,7 @@
         },
         {
           "id": "kaytee-c6cc1bb367f7",
-          "name": "⚽ Hjk Helsinki vs Ilves | Live 0 - 0 23:00 01/07/2026",
+          "name": "⚽ Hjk Helsinki vs Ilves | Sắp bắt đầu - null' 0 - 0 23:00 01/07/2026",
           "tournament": "Suomen Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/pt/e/ec/HJK_Helsinki_Logo.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1163.png",
@@ -159,11 +152,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1e8324ba58",
+                          "id": "lnk-59d4444e95",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178292048927210&wsIPSercert=1c35e4aa37bf5dab92632c0e81dc8846&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178292108799159&wsIPSercert=2e12f01868161c0cc21b943234df8e6e&wsBindIP=2&wsserid=1168283323221983365"
                         }
                       ]
                     }
