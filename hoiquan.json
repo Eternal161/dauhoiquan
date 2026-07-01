@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:00 01/07/2026",
+  "last_updated": "11:10 01/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-007567797f38",
-          "name": "⚽ Mexico vs Ecuador | H2 - 90+8' 2 - 0 08:00 01/07/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-007567797f38",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-007567797f38",
-                  "name": "Mexico vs Ecuador",
-                  "streams": [
-                    {
-                      "id": "kaytee-007567797f38",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1357e2bb19",
-                          "name": "BLV LƯƠNG BỔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c202e8eb0a9576b5eb413b38-178287846669862&wsIPSercert=cafed9cede1e6fdb8dc95004de7149ad&wsBindIP=2&wsserid=1168231589578109987"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-6ab09f6c0c4d",
           "name": "⚽ Hamilton Olympic vs Charlestown City Blues | Sắp diễn ra vs 17:00 01/07/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-495de34bbf33",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b14f61c879f1",
+          "name": "⚽ Abdish-Ata vs Alga | Sắp diễn ra vs 21:00 02/07/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/12234.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/12235.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/12234.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b14f61c879f1",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b14f61c879f1",
+                  "name": "Abdish-Ata vs Alga",
+                  "streams": [
+                    {
+                      "id": "kaytee-b14f61c879f1",
                       "name": "F",
                       "stream_links": []
                     }
