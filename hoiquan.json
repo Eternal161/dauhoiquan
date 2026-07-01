@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:30 01/07/2026",
+  "last_updated": "16:41 01/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6ab09f6c0c4d",
-          "name": "⚽ Hamilton Olympic vs Charlestown City Blues | Sắp diễn ra vs 17:00 01/07/2026",
+          "name": "⚽ Hamilton Olympic vs Charlestown City Blues | H1 - 7' 0 - 0 17:00 01/07/2026",
           "tournament": "Northern NSW NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/10205.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10203.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "kaytee-6ab09f6c0c4d",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-40301587bc",
+                          "name": "BLV TÁO GIÀ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx71gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0fecc200ad94635c875c47ce-178289888032991&wsIPSercert=508b90bdebe9da6b236c810e88537a2f&wsBindIP=2&wsserid=1168282035663924028"
+                        }
+                      ]
                     }
                   ]
                 }
