@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:50 02/07/2026",
+  "last_updated": "06:01 02/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-6c6fa62a9540",
-          "name": "⚽ Belgium vs Senegal | Kết thúc - 132' 3 - 2 03:00 02/07/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/1.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-6c6fa62a9540",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-6c6fa62a9540",
-                  "name": "Belgium vs Senegal",
-                  "streams": [
-                    {
-                      "id": "kaytee-6c6fa62a9540",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-33380d4175",
-                          "name": "BLV THẦN THÔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=888d29275c171651bfd71aa6-178294626566261&wsIPSercert=8ab2e184096edc73f3bc049b2b1cd1ee&wsBindIP=2&wsserid=1168231785641135723"
-                        },
-                        {
-                          "id": "lnk-30832ef40e",
-                          "name": "BLV LƯƠNG BỔNG",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178294627452256&wsIPSercert=8ab2e184096edc73f3bc049b2b1cd1ee&wsBindIP=2&wsserid=1168283323406534424"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-b51ec1cbbf93",
-          "name": "⚽ Ldu De Quito vs Orense Sc | H1 - 45+5' 1 - 0 05:00 02/07/2026",
+          "name": "⚽ Ldu De Quito vs Orense Sc | Giữa Hiệp - 45+6' 1 - 0 05:00 02/07/2026",
           "tournament": "Liga Pro",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/e/e8/LDUQuitologo2.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1992.png",
@@ -106,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c5f53afe93",
+                          "id": "lnk-c460403480",
                           "name": "BLV PHAN ANH",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4f5605f94f7e28b0acf59620-178294628310542&wsIPSercert=8ab2e184096edc73f3bc049b2b1cd1ee&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfx73gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178294687871615&wsIPSercert=1f0b1674cf1010ca06201ce0d09db7cd&wsBindIP=2&wsserid=1177063474761571144"
                         }
                       ]
                     }
@@ -471,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-3bcb4cb6e1cd",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-fa5cb2322a41",
+          "name": "⚽ Portugal vs Croatia | Sắp diễn ra vs 06:00 03/07/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/27.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/27.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-fa5cb2322a41",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-fa5cb2322a41",
+                  "name": "Portugal vs Croatia",
+                  "streams": [
+                    {
+                      "id": "kaytee-fa5cb2322a41",
                       "name": "F",
                       "stream_links": []
                     }
