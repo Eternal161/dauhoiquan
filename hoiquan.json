@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:40 02/07/2026",
+  "last_updated": "04:50 02/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6c6fa62a9540",
-          "name": "⚽ Belgium vs Senegal | H2 - 78' 0 - 2 03:00 02/07/2026",
+          "name": "⚽ Belgium vs Senegal | H2 - 88' 1 - 2 03:00 02/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
@@ -46,18 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-58205d6450",
+                          "id": "lnk-19aed82dae",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178294205691821&wsIPSercert=70ae1dc56756ab684141cf0295674497&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfx71gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=528174f76dff844af8e13215-178294266880550&wsIPSercert=e3e816834f6e3757f1900c3593ffd4f3&wsBindIP=2&wsserid=1168283323420165962"
                         },
                         {
-                          "id": "lnk-b5a82736fa",
+                          "id": "lnk-de3598e666",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=571d2a4afe500643949a1324-178294206537251&wsIPSercert=70ae1dc56756ab684141cf0295674497&wsBindIP=2&wsserid=1168283323250295406"
+                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b468ab79432469a78079810f-178294267748382&wsIPSercert=e3e816834f6e3757f1900c3593ffd4f3&wsBindIP=2&wsserid=1168283323342570444"
                         }
                       ]
                     }
@@ -106,11 +106,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7327c734f7",
+                          "id": "lnk-85b072cd0f",
                           "name": "BLV PHAN ANH",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4f5605f94f7e28b0acf59620-178294268600309&wsIPSercert=e3e816834f6e3757f1900c3593ffd4f3&wsBindIP=2&wsserid=1168283477179400067"
                         }
                       ]
                     }
