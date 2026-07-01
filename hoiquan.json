@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:30 02/07/2026",
+  "last_updated": "05:41 02/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-6c6fa62a9540",
-          "name": "⚽ Belgium vs Senegal | Kết thúc - 113' 2 - 2 03:00 02/07/2026",
+          "name": "⚽ Belgium vs Senegal | Kết thúc - 123' 2 - 2 03:00 02/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
@@ -46,18 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-06c53f1ef3",
+                          "id": "lnk-c630bcf6b8",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=214abf917bf2df58627cf314-178294506613851&wsIPSercert=bd104ddd7738cbbf47b122a05ec857fb&wsBindIP=2&wsserid=1168283323432748950"
+                          "url": "https://tfx73gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178294567360344&wsIPSercert=4cb3488a240440f19a142339eb0a9240&wsBindIP=2&wsserid=1177063474761571144"
                         },
                         {
-                          "id": "lnk-1419f08fd3",
+                          "id": "lnk-44e73838b0",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=571d2a4afe500643949a1324-178294507465553&wsIPSercert=bd104ddd7738cbbf47b122a05ec857fb&wsBindIP=2&wsserid=1168283323250295406"
+                          "url": "https://tfx71gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f5f570a3bb9d14f558978d9a-178294568246060&wsIPSercert=4cb3488a240440f19a142339eb0a9240&wsBindIP=2&wsserid=1168282037991221552"
                         }
                       ]
                     }
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-b51ec1cbbf93",
-          "name": "⚽ Ldu De Quito vs Orense Sc | H1 - 30' 0 - 0 05:00 02/07/2026",
+          "name": "⚽ Ldu De Quito vs Orense Sc | H1 - 40' 1 - 0 05:00 02/07/2026",
           "tournament": "Liga Pro",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/e/e8/LDUQuitologo2.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1992.png",
@@ -106,11 +106,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1930fecda8",
+                          "id": "lnk-3693b7cbba",
                           "name": "BLV PHAN ANH",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4f5605f94f7e28b0acf59620-178294508309371&wsIPSercert=bd104ddd7738cbbf47b122a05ec857fb&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfx71gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=0fecc200ad94635c875c47ce-178294569078298&wsIPSercert=4cb3488a240440f19a142339eb0a9240&wsBindIP=2&wsserid=1168282035663924028"
                         }
                       ]
                     }
