@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:51 01/07/2026",
+  "last_updated": "23:01 01/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c6c1fedb05",
+                          "id": "lnk-a00e0f47cd",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178292107086109&wsIPSercert=2e12f01868161c0cc21b943234df8e6e&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfx71gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0fecc200ad94635c875c47ce-178292168169233&wsIPSercert=9adaf0755027fc312b664cbf199aac72&wsBindIP=2&wsserid=1168282035663924028"
                         }
                       ]
                     }
@@ -99,64 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-18de734e63",
+                          "id": "lnk-87e826e18e",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=888d29275c171651bfd71aa6-178292107941315&wsIPSercert=2e12f01868161c0cc21b943234df8e6e&wsBindIP=2&wsserid=1168231785641135723"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-c6cc1bb367f7",
-          "name": "⚽ Hjk Helsinki vs Ilves | Sắp bắt đầu - null' 0 - 0 23:00 01/07/2026",
-          "tournament": "Suomen Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/pt/e/ec/HJK_Helsinki_Logo.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1163.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/pt/e/ec/HJK_Helsinki_Logo.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c6cc1bb367f7",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c6cc1bb367f7",
-                  "name": "Hjk Helsinki vs Ilves",
-                  "streams": [
-                    {
-                      "id": "kaytee-c6cc1bb367f7",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-59d4444e95",
-                          "name": "BLV TÁO GIÀ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178292108799159&wsIPSercert=2e12f01868161c0cc21b943234df8e6e&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfx73gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2913e7e4a41189eb44ceed4c-178292169011782&wsIPSercert=9adaf0755027fc312b664cbf199aac72&wsBindIP=2&wsserid=1172662091344090222"
                         }
                       ]
                     }
@@ -472,6 +419,51 @@
                   "streams": [
                     {
                       "id": "kaytee-b5647d4973ad",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-fed4281ec06b",
+          "name": "⚽ Bate Borisov vs Fc Gomel | Sắp diễn ra vs 22:00 02/07/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/388.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/389.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/388.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-fed4281ec06b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-fed4281ec06b",
+                  "name": "Bate Borisov vs Fc Gomel",
+                  "streams": [
+                    {
+                      "id": "kaytee-fed4281ec06b",
                       "name": "F",
                       "stream_links": []
                     }
