@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:30 01/07/2026",
+  "last_updated": "07:40 01/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-04043a151a0f",
-          "name": "⚽ Botafogo Sp vs Crb | H2 - 71' 0 - 1 06:00 01/07/2026",
+          "name": "⚽ Botafogo Sp vs Crb | H2 - 81' 0 - 1 06:00 01/07/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/2618.png",
           "logo_khach": "https://media.api-sports.io/football/teams/146.png",
@@ -46,14 +46,14 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-607373f892",
+                          "id": "lnk-4425181166",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd74cd9ba0c14603d7073e4b-178286586471185&wsIPSercert=e694d7f499e1f064ee1513dfc31b048a&wsBindIP=2&wsserid=1168231589574964209"
+                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd74cd9ba0c14603d7073e4b-178286646047907&wsIPSercert=ad054ab17c64efd1213e7175f3a74921&wsBindIP=2&wsserid=1168231589574964209"
                         },
                         {
-                          "id": "lnk-39b33babdb",
+                          "id": "lnk-17af5733a7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-81d12a766a1a",
-          "name": "⚽ U. Catolica vs Everton De Vina | H1 - 1' 0 - 0 07:30 01/07/2026",
+          "name": "⚽ U. Catolica vs Everton De Vina | H1 - 12' 0 - 0 07:30 01/07/2026",
           "tournament": "Copa Chile",
           "logo_nha": "https://media.api-sports.io/football/teams/2994.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2325.png",
@@ -106,10 +106,17 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-121f3efca9",
+                          "id": "lnk-5c4f84c71f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=888d29275c171651bfd71aa6-178286646908507&wsIPSercert=ad054ab17c64efd1213e7175f3a74921&wsBindIP=2&wsserid=1168231785641135723"
+                        },
+                        {
+                          "id": "lnk-de51195cc1",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
@@ -122,7 +129,7 @@
         },
         {
           "id": "kaytee-007567797f38",
-          "name": "⚽ Mexico vs Ecuador | Sắp diễn ra vs 08:00 01/07/2026",
+          "name": "⚽ Mexico vs Ecuador | Sắp bắt đầu - null' 0 - 0 08:00 01/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
@@ -139,10 +146,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -157,7 +164,22 @@
                     {
                       "id": "kaytee-007567797f38",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-b7bcb87147",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx70gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=888d29275c171651bfd71aa6-178286647754777&wsIPSercert=ad054ab17c64efd1213e7175f3a74921&wsBindIP=2&wsserid=1168231785641135723"
+                        },
+                        {
+                          "id": "lnk-07aad3b744",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
