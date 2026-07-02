@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:40 03/07/2026",
+  "last_updated": "02:50 03/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-3bcb4cb6e1cd",
-          "name": "⚽ Spain vs Austria | H1 - 41' 1 - 0 02:00 03/07/2026",
+          "name": "⚽ Spain vs Austria | Giữa Hiệp - 45' 1 - 0 02:00 03/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/9.png",
           "logo_khach": "https://media.api-sports.io/football/teams/775.png",
@@ -46,25 +46,25 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-92623670ac",
+                          "id": "lnk-88449e0932",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=3d3857e01cdd08f648776a11-178302126269975&wsIPSercert=64a0e1668a03d23897cef6ea6e43069d&wsBindIP=2&wsserid=1168283617522996180"
+                          "url": "https://tfx81gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f8297f23ac177a648779645f-178302186613435&wsIPSercert=c29ad7ccd6cebfb424dc160bcd66f3c3&wsBindIP=2&wsserid=1168056276211756464"
                         },
                         {
-                          "id": "lnk-084c4909ac",
+                          "id": "lnk-cbe4d7c534",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=3d3857e01cdd08f648776a11-178302127132472&wsIPSercert=64a0e1668a03d23897cef6ea6e43069d&wsBindIP=2&wsserid=1168283617522996180"
+                          "url": "https://tfx81gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=f8297f23ac177a648779645f-178302187464534&wsIPSercert=c29ad7ccd6cebfb424dc160bcd66f3c3&wsBindIP=2&wsserid=1168056276211756464"
                         },
                         {
-                          "id": "lnk-6bd3923566",
+                          "id": "lnk-9376202427",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c5af1d3f9d74e675286e540c-178302128017004&wsIPSercert=64a0e1668a03d23897cef6ea6e43069d&wsBindIP=2&wsserid=1168231785639038521"
+                          "url": "https://tfx81gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0fecc200ad94635c875c47ce-178302188352695&wsIPSercert=c29ad7ccd6cebfb424dc160bcd66f3c3&wsBindIP=2&wsserid=1168282035663924028"
                         }
                       ]
                     }
