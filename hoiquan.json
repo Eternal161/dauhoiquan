@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:40 03/07/2026",
+  "last_updated": "06:50 03/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-2878af9a2d3f",
-          "name": "⚽ Portugal vs Croatia | H1 - 41' 0 - 0 06:00 03/07/2026",
+          "name": "⚽ Portugal vs Croatia | Live 0 - 0 06:00 03/07/2026",
           "tournament": "World CupW ( FAN ANH BẢY )",
           "logo_nha": "https://media.api-sports.io/football/teams/27.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
@@ -46,18 +46,25 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b3b1360264",
+                          "id": "lnk-8bb78b6041",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnpbufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=888d29275c171651bfd71aa6-178303566796373&wsIPSercert=35396746ae736afae044dea53ef2fc8a&wsBindIP=2&wsserid=1168231785641135723"
+                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178303625776792&wsIPSercert=9576a1c2d13dd237a0afc99ece0b611e&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-a5271effa5",
+                          "id": "lnk-a3a1e6f3ce",
+                          "name": "BLV LƯƠNG BỔNG",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfx81gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178303626659310&wsIPSercert=9576a1c2d13dd237a0afc99ece0b611e&wsBindIP=2&wsserid=1168283323406534424"
+                        },
+                        {
+                          "id": "lnk-97601db031",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=ffa784bdc531ce98a0a7650c-178303568509136&wsIPSercert=35396746ae736afae044dea53ef2fc8a&wsBindIP=2&wsserid=1168283477138504804"
+                          "url": "https://tfx81gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=22dc27e5affbb6b58c947890-178303627507431&wsIPSercert=9576a1c2d13dd237a0afc99ece0b611e&wsBindIP=2&wsserid=1168283323207303220"
                         }
                       ]
                     }
@@ -69,7 +76,7 @@
         },
         {
           "id": "kaytee-9faf827471dc",
-          "name": "⚽ Fortaleza Ec vs Ponte Preta | Sắp bắt đầu - null' 0 - 0 07:00 03/07/2026",
+          "name": "⚽ Fortaleza Ec vs Ponte Preta | Live 0 - 0 07:00 03/07/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/154.png",
           "logo_khach": "https://media.api-sports.io/football/teams/139.png",
@@ -106,7 +113,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d436830190",
+                          "id": "lnk-4220ce9a61",
                           "name": "BLV PHAN ANH",
                           "type": "hls",
                           "default": true,
