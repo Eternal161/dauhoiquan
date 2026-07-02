@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:20 02/07/2026",
+  "last_updated": "21:30 02/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-495de34bbf33",
-          "name": "⚽ Croatia U19 vs Italy U19 | H2 - 63' 0 - 0 20:00 02/07/2026",
+          "name": "⚽ Croatia U19 vs Italy U19 | H2 - 74' 0 - 0 20:00 02/07/2026",
           "tournament": "UEFA U19 Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-23323dd081",
+                          "id": "lnk-87fb4743cd",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx81gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178300206542259&wsIPSercert=128d4d34372e34a4f51c5f6f546f1fa7&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfx83gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178300266641841&wsIPSercert=f84ff9228c937dc5f3caf36940bd7b93&wsBindIP=2&wsserid=1177063474761571144"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-c09cd9e10cb7",
-          "name": "⚽ Kairat Almaty vs Okzhetpes | Sắp diễn ra vs 21:00 02/07/2026",
+          "name": "⚽ Kairat Almaty vs Okzhetpes | Live 0 - 0 21:00 02/07/2026",
           "tournament": "VĐQG Kyrgyzstan",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FCKairat_logo.png/250px-FCKairat_logo.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4558.png",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,15 @@
                     {
                       "id": "kaytee-c09cd9e10cb7",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-b1aef62d05",
+                          "name": "BLV PHAN CA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx83gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=3deccf1ae3c21780f71b9075-178300267468603&wsIPSercert=f84ff9228c937dc5f3caf36940bd7b93&wsBindIP=2&wsserid=1168158473487963106"
+                        }
+                      ]
                     }
                   ]
                 }
