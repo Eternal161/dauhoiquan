@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:31 02/07/2026",
+  "last_updated": "09:40 02/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-b211a6ff7fb0",
-          "name": "⚽ Universidad De Chile vs Union La Calera | H2 - 90+8' 0 - 1 07:30 02/07/2026",
-          "tournament": "Copa Chile",
-          "logo_nha": "https://media.api-sports.io/football/teams/2323.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2326.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2323.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b211a6ff7fb0",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b211a6ff7fb0",
-                  "name": "Universidad De Chile vs Union La Calera",
-                  "streams": [
-                    {
-                      "id": "kaytee-b211a6ff7fb0",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bcf0418039",
-                          "name": "BLV PHAN CA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-495de34bbf33",
           "name": "⚽ Croatia U19 vs Italy U19 | Sắp diễn ra vs 20:00 02/07/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-8853c8660148",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-07dd6701cf8d",
+          "name": "⚽ Edgeworth Eagles vs Kahibah | Sắp diễn ra vs 17:00 03/07/2026",
+          "tournament": "Northern NSW NPL",
+          "logo_nha": "https://media.api-sports.io/football/teams/10204.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/23502.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/10204.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-07dd6701cf8d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-07dd6701cf8d",
+                  "name": "Edgeworth Eagles vs Kahibah",
+                  "streams": [
+                    {
+                      "id": "kaytee-07dd6701cf8d",
                       "name": "F",
                       "stream_links": []
                     }
