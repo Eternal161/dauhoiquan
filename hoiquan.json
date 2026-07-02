@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:31 02/07/2026",
+  "last_updated": "19:40 02/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-495de34bbf33",
-          "name": "⚽ Croatia U19 vs Italy U19 | Sắp diễn ra vs 20:00 02/07/2026",
+          "name": "⚽ Croatia U19 vs Italy U19 | Sắp bắt đầu - null' 0 - 0 20:00 02/07/2026",
           "tournament": "UEFA U19 Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "kaytee-495de34bbf33",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-c0235f190e",
+                          "name": "BLV TÁO GIÀ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx81gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178299606781573&wsIPSercert=385cc29815a82d943fbd47ee516d5c0a&wsBindIP=2&wsserid=1168283323221983365"
+                        }
+                      ]
                     }
                   ]
                 }
