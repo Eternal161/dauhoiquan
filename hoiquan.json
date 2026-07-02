@@ -1,79 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:50 03/07/2026",
+  "last_updated": "04:01 03/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-3bcb4cb6e1cd",
-          "name": "⚽ Spain vs Austria | H2 - 89' 2 - 0 02:00 03/07/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/9.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/775.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/9.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3bcb4cb6e1cd",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3bcb4cb6e1cd",
-                  "name": "Spain vs Austria",
-                  "streams": [
-                    {
-                      "id": "kaytee-3bcb4cb6e1cd",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-89c415a90e",
-                          "name": "BLV LƯƠNG BỔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=399a1a704eb10dd43bc57f39-178302546306927&wsIPSercert=97b7fdc22b3d2c9b1e4903bbc70012dc&wsBindIP=2&wsserid=1168283323236663568"
-                        },
-                        {
-                          "id": "lnk-bdcab49056",
-                          "name": "BLV PHAN QUẨY",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=399a1a704eb10dd43bc57f39-178302547172039&wsIPSercert=97b7fdc22b3d2c9b1e4903bbc70012dc&wsBindIP=2&wsserid=1168283323236663568"
-                        },
-                        {
-                          "id": "lnk-55a1f3a373",
-                          "name": "BLV THẦN THÔNG",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfx81gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=1312be97bc6761f8fba294e1-178302548025031&wsIPSercert=97b7fdc22b3d2c9b1e4903bbc70012dc&wsBindIP=2&wsserid=1168283323328938907"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-2878af9a2d3f",
           "name": "⚽ Portugal vs Croatia | Sắp diễn ra vs 06:00 03/07/2026",
@@ -470,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-3c2d1c655fe7",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c264557fb6db",
+          "name": "⚽ Australia vs Egypt | Sắp diễn ra vs 01:00 04/07/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
+          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c264557fb6db",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c264557fb6db",
+                  "name": "Australia vs Egypt",
+                  "streams": [
+                    {
+                      "id": "kaytee-c264557fb6db",
                       "name": "F",
                       "stream_links": []
                     }
