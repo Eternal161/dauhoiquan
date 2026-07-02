@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:41 02/07/2026",
+  "last_updated": "08:50 02/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-5fd16b9bd52e",
-          "name": "⚽ Usa vs Bosnia & Herzegovina | H2 - 75' 1 - 0 07:00 02/07/2026",
+          "name": "⚽ Usa vs Bosnia & Herzegovina | H2 - 85' 2 - 0 07:00 02/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1113.png",
@@ -46,18 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f955ea1770",
+                          "id": "lnk-8419330d50",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx81gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178295647189667&wsIPSercert=3d9c445cbaa3a9bbf22bd6b3b7ded228&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfx81gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=225c8c2a6194ec4bad269a9a-178295706770482&wsIPSercert=1ac1d10ca52dceda68c225581dfbeb83&wsBindIP=2&wsserid=1168243256620077470"
                         },
                         {
-                          "id": "lnk-4777334f65",
+                          "id": "lnk-c55000f103",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfx81gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178295648053570&wsIPSercert=3d9c445cbaa3a9bbf22bd6b3b7ded228&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfx81gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=4f205237aaa82a7544424d0c-178295707635274&wsIPSercert=1ac1d10ca52dceda68c225581dfbeb83&wsBindIP=2&wsserid=1168243343860730937"
                         }
                       ]
                     }
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-b211a6ff7fb0",
-          "name": "⚽ Universidad De Chile vs Union La Calera | H2 - 50' 0 - 1 07:30 02/07/2026",
+          "name": "⚽ Universidad De Chile vs Union La Calera | H2 - 60' 0 - 1 07:30 02/07/2026",
           "tournament": "Copa Chile",
           "logo_nha": "https://media.api-sports.io/football/teams/2323.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2326.png",
@@ -106,11 +106,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cb07eaeb3c",
+                          "id": "lnk-71d35b0cbf",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx81gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=349560c79a44166872039751-178295648873292&wsIPSercert=3d9c445cbaa3a9bbf22bd6b3b7ded228&wsBindIP=2&wsserid=1168282035622980969"
+                          "url": "https://tfx81gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f191522ea6ad00e485395737-178295708493098&wsIPSercert=1ac1d10ca52dceda68c225581dfbeb83&wsBindIP=2&wsserid=1168243256629514822"
                         }
                       ]
                     }
