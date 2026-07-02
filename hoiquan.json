@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:30 02/07/2026",
+  "last_updated": "21:41 02/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-495de34bbf33",
-          "name": "⚽ Croatia U19 vs Italy U19 | H2 - 74' 0 - 0 20:00 02/07/2026",
+          "name": "⚽ Croatia U19 vs Italy U19 | H2 - 84' 0 - 0 20:00 02/07/2026",
           "tournament": "UEFA U19 Championship",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-87fb4743cd",
+                          "id": "lnk-92806d64e3",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx83gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178300266641841&wsIPSercert=f84ff9228c937dc5f3caf36940bd7b93&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178300328014748&wsIPSercert=b85130debde26865b942a10019f2637a&wsBindIP=2&wsserid=1168283323221983365"
                         }
                       ]
                     }
@@ -99,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b1aef62d05",
+                          "id": "lnk-54f26fe637",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx83gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=3deccf1ae3c21780f71b9075-178300267468603&wsIPSercert=f84ff9228c937dc5f3caf36940bd7b93&wsBindIP=2&wsserid=1168158473487963106"
+                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd74cd9ba0c14603d7073e4b-178300328877272&wsIPSercert=b85130debde26865b942a10019f2637a&wsBindIP=2&wsserid=1168231589574964209"
                         }
                       ]
                     }
@@ -115,7 +115,7 @@
         },
         {
           "id": "kaytee-fed4281ec06b",
-          "name": "⚽ Bate Borisov vs Fc Gomel | Sắp diễn ra vs 22:00 02/07/2026",
+          "name": "⚽ Bate Borisov vs Fc Gomel | Sắp bắt đầu - null' 0 - 0 22:00 02/07/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/388.png",
           "logo_khach": "https://media.api-sports.io/football/teams/389.png",
@@ -132,10 +132,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -150,7 +150,15 @@
                     {
                       "id": "kaytee-fed4281ec06b",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-7308537bb4",
+                          "name": "BLV TÁO GIÀ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178300329740246&wsIPSercert=b85130debde26865b942a10019f2637a&wsBindIP=2&wsserid=1168283323221983365"
+                        }
+                      ]
                     }
                   ]
                 }
