@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:50 03/07/2026",
+  "last_updated": "02:01 03/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-ad88d0a0e5d9",
-          "name": "⚽ Serbia U19 vs Ukraine U19 | H2 - 90+3' 1 - 2 00:00 03/07/2026",
-          "tournament": "UEFA U19 Championship",
-          "logo_nha": "https://media.api-sports.io/football/teams/10346.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/10352.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10346.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ad88d0a0e5d9",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ad88d0a0e5d9",
-                  "name": "Serbia U19 vs Ukraine U19",
-                  "streams": [
-                    {
-                      "id": "kaytee-ad88d0a0e5d9",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-805e284e3b",
-                          "name": "BLV TÁO GIÀ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178301826519093&wsIPSercert=e718c52d8ee23cd2bbf23da8e6e7bc55&wsBindIP=2&wsserid=1168283323221983365"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-3bcb4cb6e1cd",
           "name": "⚽ Spain vs Austria | Sắp bắt đầu - null' 0 - 0 02:00 03/07/2026",
@@ -99,25 +46,25 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-84f43b439e",
+                          "id": "lnk-ed7210369e",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2da5aa785b400d749e5c0d1c-178301827383516&wsIPSercert=e718c52d8ee23cd2bbf23da8e6e7bc55&wsBindIP=2&wsserid=1168283323355153405"
+                          "url": "https://tfx81gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=92e720cf97108f061ca7c977-178301887197263&wsIPSercert=071e0fae5526247bc8544a0f55f06bdf&wsBindIP=2&wsserid=1168283323290141448"
                         },
                         {
-                          "id": "lnk-7a3e977357",
+                          "id": "lnk-9fbd925944",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=22dc27e5affbb6b58c947890-178301828264294&wsIPSercert=e718c52d8ee23cd2bbf23da8e6e7bc55&wsBindIP=2&wsserid=1168283323207303220"
+                          "url": "https://tfx81gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=92e720cf97108f061ca7c977-178301888059030&wsIPSercert=071e0fae5526247bc8544a0f55f06bdf&wsBindIP=2&wsserid=1168283323290141448"
                         },
                         {
-                          "id": "lnk-aca36db724",
+                          "id": "lnk-2d070c3dc6",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178301829068671&wsIPSercert=e718c52d8ee23cd2bbf23da8e6e7bc55&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c002e63a1aa1d66f956b6b0f-178301888962071&wsIPSercert=071e0fae5526247bc8544a0f55f06bdf&wsBindIP=2&wsserid=1168283323316355946"
                         }
                       ]
                     }
@@ -478,6 +425,51 @@
                   "streams": [
                     {
                       "id": "kaytee-3f64bd0dd81d",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3c2d1c655fe7",
+          "name": "⚽ Sirius vs Mjallby Aif | Sắp diễn ra vs 00:00 04/07/2026",
+          "tournament": "Allsvenskan",
+          "logo_nha": "https://media.api-sports.io/football/teams/370.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2240.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/370.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3c2d1c655fe7",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3c2d1c655fe7",
+                  "name": "Sirius vs Mjallby Aif",
+                  "streams": [
+                    {
+                      "id": "kaytee-3c2d1c655fe7",
                       "name": "F",
                       "stream_links": []
                     }
