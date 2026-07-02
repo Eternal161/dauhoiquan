@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:10 02/07/2026",
+  "last_updated": "08:20 02/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-b51ec1cbbf93",
-          "name": "⚽ Ldu De Quito vs Orense Sc | Live 0 - 0 05:00 02/07/2026",
-          "tournament": "Liga Pro",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/e/e8/LDUQuitologo2.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1992.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/LDUQuitologo2.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b51ec1cbbf93",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b51ec1cbbf93",
-                  "name": "Ldu De Quito vs Orense Sc",
-                  "streams": [
-                    {
-                      "id": "kaytee-b51ec1cbbf93",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-73d8d21cba",
-                          "name": "BLV PHAN ANH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-5fd16b9bd52e",
-          "name": "⚽ Usa vs Bosnia & Herzegovina | Giữa Hiệp - 45+11' 1 - 0 07:00 02/07/2026",
+          "name": "⚽ Usa vs Bosnia & Herzegovina | H2 - 55' 1 - 0 07:00 02/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1113.png",
@@ -99,18 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-719a49b665",
+                          "id": "lnk-79ff8f7b13",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=7c7d106456981d78de4f4a4d-178295467543743&wsIPSercert=6f4e5b752a5f6c38d205539cbcf92f98&wsBindIP=2&wsserid=1168283323277558487"
+                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=fd74cd9ba0c14603d7073e4b-178295525676324&wsIPSercert=952c83494a5e0282eb97ced1f1481983&wsBindIP=2&wsserid=1168231589574964209"
                         },
                         {
-                          "id": "lnk-03b078a72c",
+                          "id": "lnk-17b0037632",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178295468436311&wsIPSercert=6f4e5b752a5f6c38d205539cbcf92f98&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=bf1635bfa3f520667d7bafad-178295526550536&wsIPSercert=952c83494a5e0282eb97ced1f1481983&wsBindIP=2&wsserid=1168283323393951462"
                         }
                       ]
                     }
@@ -122,7 +69,7 @@
         },
         {
           "id": "kaytee-b211a6ff7fb0",
-          "name": "⚽ Universidad De Chile vs Union La Calera | H1 - 40' 0 - 0 07:30 02/07/2026",
+          "name": "⚽ Universidad De Chile vs Union La Calera | Live 0 - 0 07:30 02/07/2026",
           "tournament": "Copa Chile",
           "logo_nha": "https://media.api-sports.io/football/teams/2323.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2326.png",
@@ -159,11 +106,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1568a5435f",
+                          "id": "lnk-45cc254a2f",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178295469243820&wsIPSercert=6f4e5b752a5f6c38d205539cbcf92f98&wsBindIP=2&wsserid=1168283323302724409"
+                          "url": "https://tfx80gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd74cd9ba0c14603d7073e4b-178295527404903&wsIPSercert=952c83494a5e0282eb97ced1f1481983&wsBindIP=2&wsserid=1168231589574964209"
                         }
                       ]
                     }
@@ -479,6 +426,51 @@
                   "streams": [
                     {
                       "id": "kaytee-fa5cb2322a41",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-9faf827471dc",
+          "name": "⚽ Fortaleza Ec vs Ponte Preta | Sắp diễn ra vs 07:00 03/07/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/154.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/139.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/154.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-9faf827471dc",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-9faf827471dc",
+                  "name": "Fortaleza Ec vs Ponte Preta",
+                  "streams": [
+                    {
+                      "id": "kaytee-9faf827471dc",
                       "name": "F",
                       "stream_links": []
                     }
