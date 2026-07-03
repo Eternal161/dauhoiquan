@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:20 03/07/2026",
+  "last_updated": "20:30 03/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-29bc00824237",
-          "name": "⚽ Yunnan Yukun vs Henan Jianye | H2 - 52' 0 - 1 19:00 03/07/2026",
+          "name": "⚽ Yunnan Yukun vs Henan Jianye | H2 - 62' 0 - 1 19:00 03/07/2026",
           "tournament": "Super League",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh90L_Xr1yfJQmgPZctKVUWm-ISXa5A-cIdw&s",
           "logo_khach": "https://media.api-sports.io/football/teams/840.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8f78b04caa",
+                          "id": "lnk-87ae42ee50",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx91gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178308485977547&wsIPSercert=f12d48c09c9aee471a73e9e478e2bd46&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfx91gr3uomttgr31hctsfaau1ptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=7d7d8c99c06f93d847c9d109-178308546713457&wsIPSercert=3eef9a58189569cca6b2f59cc383bb96&wsBindIP=2&wsserid=1177063474750036592"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-2cc4cb21cbe9",
-          "name": "⚽ Naftan vs Dinamo Brest | H1 - 20' 0 - 2 20:00 03/07/2026",
+          "name": "⚽ Naftan vs Dinamo Brest | H1 - 30' 0 - 3 20:00 03/07/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/750.png",
           "logo_khach": "https://media.api-sports.io/football/teams/386.png",
@@ -99,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-837e81d166",
+                          "id": "lnk-0cdd1adda1",
                           "name": "BLV PHAN ANH",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx90gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=888d29275c171651bfd71aa6-178308486834629&wsIPSercert=f12d48c09c9aee471a73e9e478e2bd46&wsBindIP=2&wsserid=1168231785641135723"
+                          "url": "https://tfx91gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=0fecc200ad94635c875c47ce-178308547593865&wsIPSercert=3eef9a58189569cca6b2f59cc383bb96&wsBindIP=2&wsserid=1168282035663924028"
                         }
                       ]
                     }
@@ -115,7 +115,7 @@
         },
         {
           "id": "kaytee-e51cd9cbdd91",
-          "name": "⚽ Fc Astana vs Zhenys | Sắp diễn ra vs 21:00 03/07/2026",
+          "name": "⚽ Fc Astana vs Zhenys | Sắp bắt đầu - null' 0 - 0 21:00 03/07/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/562.png",
           "logo_khach": "https://media.api-sports.io/football/teams/16611.png",
@@ -132,10 +132,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -150,7 +150,15 @@
                     {
                       "id": "kaytee-e51cd9cbdd91",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-dc9d122da4",
+                          "name": "BLV TÁO GIÀ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx91gr3uomttgr31hctsfaau1ptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f8297f23ac177a648779645f-178308548443871&wsIPSercert=3eef9a58189569cca6b2f59cc383bb96&wsBindIP=2&wsserid=1168056276211756464"
+                        }
+                      ]
                     }
                   ]
                 }
