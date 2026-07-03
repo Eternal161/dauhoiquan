@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:50 03/07/2026",
+  "last_updated": "22:00 03/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-2cc4cb21cbe9",
-          "name": "⚽ Naftan vs Dinamo Brest | H2 - 90+2' 2 - 4 20:00 03/07/2026",
-          "tournament": "Premier League",
-          "logo_nha": "https://media.api-sports.io/football/teams/750.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/386.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/750.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-2cc4cb21cbe9",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-2cc4cb21cbe9",
-                  "name": "Naftan vs Dinamo Brest",
-                  "streams": [
-                    {
-                      "id": "kaytee-2cc4cb21cbe9",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-60af2b21c5",
-                          "name": "BLV PHAN ANH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx91gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=b4ec00d48384c469dc7c20db-178309026322314&wsIPSercert=5d8c594ec59e48137fd693c7d7cf44b6&wsBindIP=2&wsserid=1168243256667264290"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-1733f0ccf945",
-          "name": "⚽ Fc Astana vs Zhenys | Giữa Hiệp - 45+1' 1 - 0 21:00 03/07/2026",
+          "name": "⚽ Fc Astana vs Zhenys | Giữa Hiệp - 45' 1 - 0 21:00 03/07/2026",
           "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/562.png",
           "logo_khach": "https://media.api-sports.io/football/teams/16611.png",
@@ -99,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8cc5dd441d",
+                          "id": "lnk-b32415b74f",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx91gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=dd65a829423b7a9bfc19eadf-178309027192648&wsIPSercert=5d8c594ec59e48137fd693c7d7cf44b6&wsBindIP=2&wsserid=1168243256623223254"
+                          "url": "https://tfx91gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f7c12a09cf3db87c15168f56-178309086894356&wsIPSercert=5f33e9d96debcaacf3755a149d1ffc11&wsBindIP=2&wsserid=1168243343857585137"
                         }
                       ]
                     }
@@ -464,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-1b6cb015b28c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a54ac6a71b78",
+          "name": "⚽ Qingdao Youth Island vs Shanghai Sipg | Sắp diễn ra vs 18:00 04/07/2026",
+          "tournament": "Super League",
+          "logo_nha": "https://media.api-sports.io/football/teams/17265.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/836.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/17265.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a54ac6a71b78",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a54ac6a71b78",
+                  "name": "Qingdao Youth Island vs Shanghai Sipg",
+                  "streams": [
+                    {
+                      "id": "kaytee-a54ac6a71b78",
                       "name": "F",
                       "stream_links": []
                     }
