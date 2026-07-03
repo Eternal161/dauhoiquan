@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:50 03/07/2026",
+  "last_updated": "11:01 03/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8853c8660148",
-          "name": "⚽ Switzerland vs Algeria | Giữa Hiệp - 45+4' 1 - 0 10:00 03/07/2026",
+          "name": "⚽ Switzerland vs Algeria | Giữa Hiệp - 45' 1 - 0 10:00 03/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
@@ -46,18 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b19ecaf32a",
+                          "id": "lnk-9b29b3e549",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx91gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178305066435797&wsIPSercert=1d23e505ed36ad917f357c525e6e84c3&wsBindIP=2&wsserid=1177063474757376778"
+                          "url": "https://tfx90gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=888d29275c171651bfd71aa6-178305127095998&wsIPSercert=68f4c508b7203fac02c3e8f7b63eb13d&wsBindIP=2&wsserid=1168231785641135723"
                         },
                         {
-                          "id": "lnk-75735a207e",
+                          "id": "lnk-58e9b73681",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfx91gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178305067271541&wsIPSercert=1d23e505ed36ad917f357c525e6e84c3&wsBindIP=2&wsserid=1177063474757376778"
+                          "url": "https://tfx90gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=888d29275c171651bfd71aa6-178305127934064&wsIPSercert=68f4c508b7203fac02c3e8f7b63eb13d&wsBindIP=2&wsserid=1168231785641135723"
                         }
                       ]
                     }
