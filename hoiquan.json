@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:50 03/07/2026",
+  "last_updated": "09:00 03/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,21 +46,21 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-95ff50c522",
+                          "id": "lnk-7d3244aeda",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": true,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-9669fc60bf",
+                          "id": "lnk-7503009c78",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-b2b1ce45cd",
+                          "id": "lnk-7ee4fa2280",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
@@ -76,7 +76,7 @@
         },
         {
           "id": "kaytee-9faf827471dc",
-          "name": "⚽ Fortaleza Ec vs Ponte Preta | H2 - 90' 2 - 0 07:00 03/07/2026",
+          "name": "⚽ Fortaleza Ec vs Ponte Preta | H2 - 90+6' 2 - 0 07:00 03/07/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/154.png",
           "logo_khach": "https://media.api-sports.io/football/teams/139.png",
@@ -113,7 +113,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e716da6b57",
+                          "id": "lnk-5666fa6be8",
                           "name": "BLV PHAN ANH",
                           "type": "hls",
                           "default": true,
