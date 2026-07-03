@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:30 03/07/2026",
+  "last_updated": "21:40 03/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-2cc4cb21cbe9",
-          "name": "⚽ Naftan vs Dinamo Brest | H2 - 73' 2 - 4 20:00 03/07/2026",
+          "name": "⚽ Naftan vs Dinamo Brest | H2 - 83' 2 - 4 20:00 03/07/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/750.png",
           "logo_khach": "https://media.api-sports.io/football/teams/386.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-16396f9aff",
+                          "id": "lnk-d5da8a007b",
                           "name": "BLV PHAN ANH",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx90gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4f5605f94f7e28b0acf59620-178308906724910&wsIPSercert=d8fba5c91b2a9ab5f6fd9fb006955961&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfx91gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4f5605f94f7e28b0acf59620-178308965944726&wsIPSercert=8bfc40ad2205564b6f90fadc11aa0258&wsBindIP=2&wsserid=1168283477179400067"
                         }
                       ]
                     }
@@ -61,9 +61,9 @@
           ]
         },
         {
-          "id": "kaytee-e51cd9cbdd91",
-          "name": "⚽ Fc Astana vs Zhenys | H1 - 32' 0 - 0 21:00 03/07/2026",
-          "tournament": "Premier League",
+          "id": "kaytee-1733f0ccf945",
+          "name": "⚽ Fc Astana vs Zhenys | H1 - 42' 1 - 0 21:00 03/07/2026",
+          "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/562.png",
           "logo_khach": "https://media.api-sports.io/football/teams/16611.png",
           "type": "single",
@@ -87,23 +87,23 @@
           ],
           "sources": [
             {
-              "id": "kaytee-e51cd9cbdd91",
+              "id": "kaytee-1733f0ccf945",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-e51cd9cbdd91",
+                  "id": "kaytee-1733f0ccf945",
                   "name": "Fc Astana vs Zhenys",
                   "streams": [
                     {
-                      "id": "kaytee-e51cd9cbdd91",
+                      "id": "kaytee-1733f0ccf945",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-09e8ca277f",
+                          "id": "lnk-45a102beda",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx90gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f447814a1fff598df910f9f5-178308907644630&wsIPSercert=d8fba5c91b2a9ab5f6fd9fb006955961&wsBindIP=2&wsserid=1168231589572867007"
+                          "url": "https://tfx90gr4uqmtt8y41hcjsgyzdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178308966812663&wsIPSercert=8bfc40ad2205564b6f90fadc11aa0258&wsBindIP=2&wsserid=1168283323221983365"
                         }
                       ]
                     }
