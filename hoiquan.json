@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:50 04/07/2026",
+  "last_updated": "01:00 04/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-3f64bd0dd81d",
-          "name": "⚽ Nõmme United vs Kalju Nomme | H2 - 90+2' 1 - 3 23:00 03/07/2026",
-          "tournament": "Meistriliiga",
-          "logo_nha": "https://media.api-sports.io/football/teams/10059.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/662.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10059.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3f64bd0dd81d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3f64bd0dd81d",
-                  "name": "Nõmme United vs Kalju Nomme",
-                  "streams": [
-                    {
-                      "id": "kaytee-3f64bd0dd81d",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b98eba802f",
-                          "name": "BLV PHAN CA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx91gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=349560c79a44166872039751-178310106610621&wsIPSercert=0cfb5c955965127acb27e4937229e670&wsBindIP=2&wsserid=1168282035622980969"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-3c2d1c655fe7",
           "name": "⚽ Sirius vs Mjallby Aif | Giữa Hiệp - 45+1' 1 - 0 00:00 04/07/2026",
@@ -99,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5be5eb0212",
+                          "id": "lnk-926e379b2d",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx91gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0fecc200ad94635c875c47ce-178310107444381&wsIPSercert=0cfb5c955965127acb27e4937229e670&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfx91gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f7c12a09cf3db87c15168f56-178310166765074&wsIPSercert=b07e2b9aa61aa038da5d0c63ec6ad874&wsBindIP=2&wsserid=1168243343857585137"
                         }
                       ]
                     }
@@ -152,25 +99,25 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a9d1a51127",
+                          "id": "lnk-0552d56e19",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx91gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178310108319853&wsIPSercert=0cfb5c955965127acb27e4937229e670&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfx91gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=06fa26912fb2fbf1257238c2-178310167627591&wsIPSercert=b07e2b9aa61aa038da5d0c63ec6ad874&wsBindIP=2&wsserid=1168243344279114758"
                         },
                         {
-                          "id": "lnk-dad54e4550",
+                          "id": "lnk-077cc9eabb",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfx91gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178310109140395&wsIPSercert=0cfb5c955965127acb27e4937229e670&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfx91gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=4f205237aaa82a7544424d0c-178310168451417&wsIPSercert=b07e2b9aa61aa038da5d0c63ec6ad874&wsBindIP=2&wsserid=1168243343860730937"
                         },
                         {
-                          "id": "lnk-b84e999463",
+                          "id": "lnk-a43005d37a",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfx91gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178310110012626&wsIPSercert=0cfb5c955965127acb27e4937229e670&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfx91gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=3248a74b00d70e69f8530d7f-178310169321819&wsIPSercert=b07e2b9aa61aa038da5d0c63ec6ad874&wsBindIP=2&wsserid=1168243343870168317"
                         }
                       ]
                     }
@@ -486,6 +433,51 @@
                   "streams": [
                     {
                       "id": "kaytee-481e7aa8fcf1",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-726253a40dd3",
+          "name": "⚽ Vps vs Mariehamn | Sắp diễn ra vs 22:00 04/07/2026",
+          "tournament": "Veikkausliiga",
+          "logo_nha": "https://media.api-sports.io/football/teams/650.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/587.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/650.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-726253a40dd3",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-726253a40dd3",
+                  "name": "Vps vs Mariehamn",
+                  "streams": [
+                    {
+                      "id": "kaytee-726253a40dd3",
                       "name": "F",
                       "stream_links": []
                     }
