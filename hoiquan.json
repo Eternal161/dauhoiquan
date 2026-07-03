@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:20 03/07/2026",
+  "last_updated": "18:31 03/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8e32cdcda6",
+                          "id": "lnk-d40d0567ea",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx90gr4uqmtt8y41hcjsgyzdnpbufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f447814a1fff598df910f9f5-178307765977691&wsIPSercert=a149853bff9aa8ddbb27a04fe40381ea&wsBindIP=2&wsserid=1168231589572867007"
+                          "url": "https://tfx91gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=dd65a829423b7a9bfc19eadf-178307828035211&wsIPSercert=b1a952f5776f8bc375b92a7e08a2de55&wsBindIP=2&wsserid=1168243256623223254"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-29bc00824237",
-          "name": "⚽ Yunnan Yukun vs Henan Jianye | Sắp diễn ra vs 19:00 03/07/2026",
+          "name": "⚽ Yunnan Yukun vs Henan Jianye | Sắp bắt đầu - null' 0 - 0 19:00 03/07/2026",
           "tournament": "Super League",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh90L_Xr1yfJQmgPZctKVUWm-ISXa5A-cIdw&s",
           "logo_khach": "https://media.api-sports.io/football/teams/840.png",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,15 @@
                     {
                       "id": "kaytee-29bc00824237",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-8d4bf01dc7",
+                          "name": "BLV THẦN THÔNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx91gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=dd65a829423b7a9bfc19eadf-178307828876194&wsIPSercert=b1a952f5776f8bc375b92a7e08a2de55&wsBindIP=2&wsserid=1168243256623223254"
+                        }
+                      ]
                     }
                   ]
                 }
