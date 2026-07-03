@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:10 04/07/2026",
+  "last_updated": "02:20 04/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c264557fb6db",
-          "name": "⚽ Australia vs Egypt | H2 - 49' 0 - 1 01:00 04/07/2026",
+          "name": "⚽ Australia vs Egypt | H2 - 59' 1 - 1 01:00 04/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
@@ -46,25 +46,25 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a5269b1be1",
+                          "id": "lnk-cd24fb6dbd",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx91gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=f8297f23ac177a648779645f-178310586130333&wsIPSercert=5ea326203bec926df1143d9c5af6c7fc&wsBindIP=2&wsserid=1168056276211756464"
+                          "url": "https://tfx90gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=22dc27e5affbb6b58c947890-178310646955870&wsIPSercert=803dffb3c5ea3bd6b1f3ac1660ad247d&wsBindIP=2&wsserid=1168283323207303220"
                         },
                         {
-                          "id": "lnk-b53ffe1151",
+                          "id": "lnk-a33a1b82c4",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfx91gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178310587002001&wsIPSercert=5ea326203bec926df1143d9c5af6c7fc&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfx90gr4uqmtt8y41hcjsgyzdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178310647865830&wsIPSercert=803dffb3c5ea3bd6b1f3ac1660ad247d&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-d4f6145fc7",
+                          "id": "lnk-80795449e3",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfx91gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178310587841672&wsIPSercert=5ea326203bec926df1143d9c5af6c7fc&wsBindIP=2&wsserid=1177063474757376778"
+                          "url": "https://tfx90gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=22dc27e5affbb6b58c947890-178310648686977&wsIPSercert=803dffb3c5ea3bd6b1f3ac1660ad247d&wsBindIP=2&wsserid=1168283323207303220"
                         }
                       ]
                     }
