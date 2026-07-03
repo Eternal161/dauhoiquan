@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:30 03/07/2026",
+  "last_updated": "16:40 03/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-07dd6701cf8d",
-          "name": "⚽ Edgeworth Eagles vs Kahibah | Sắp diễn ra vs 17:00 03/07/2026",
+          "name": "⚽ Edgeworth Eagles vs Kahibah | Sắp bắt đầu - null' 0 - 0 17:00 03/07/2026",
           "tournament": "Northern NSW NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/10204.png",
           "logo_khach": "https://media.api-sports.io/football/teams/23502.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "kaytee-07dd6701cf8d",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-76511f3d0f",
+                          "name": "BLV TÁO GIÀ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx91gr3uomttgr31hcj3fa3deqbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=00a62cc6094de4f7b329cc7e-178307166196530&wsIPSercert=a187c758816d189b160c36398d7c1bb0&wsBindIP=2&wsserid=1168168154451507561"
+                        }
+                      ]
                     }
                   ]
                 }
