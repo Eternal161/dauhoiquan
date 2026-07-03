@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:30 03/07/2026",
+  "last_updated": "22:40 03/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1733f0ccf945",
-          "name": "⚽ Fc Astana vs Zhenys | H2 - 75' 1 - 0 21:00 03/07/2026",
+          "name": "⚽ Fc Astana vs Zhenys | Live 0 - 0 21:00 03/07/2026",
           "tournament": "VĐQG Belarus",
           "logo_nha": "https://media.api-sports.io/football/teams/562.png",
           "logo_khach": "https://media.api-sports.io/football/teams/16611.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-11550972da",
+                          "id": "lnk-538c45ef07",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx91gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178309266297082&wsIPSercert=b8a6854631d4dfe0b79795b6bff8c8b9&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfx91gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f7c12a09cf3db87c15168f56-178309326366108&wsIPSercert=72c8a32800a88abb5043fb57b8e2f9bd&wsBindIP=2&wsserid=1168243343857585137"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-3f64bd0dd81d",
-          "name": "⚽ Nõmme United vs Kalju Nomme | Sắp diễn ra vs 23:00 03/07/2026",
+          "name": "⚽ Nõmme United vs Kalju Nomme | Live 0 - 0 23:00 03/07/2026",
           "tournament": "Meistriliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/10059.png",
           "logo_khach": "https://media.api-sports.io/football/teams/662.png",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,15 @@
                     {
                       "id": "kaytee-3f64bd0dd81d",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-1fe728fdd0",
+                          "name": "BLV PHAN CA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx91gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=4f205237aaa82a7544424d0c-178309327189356&wsIPSercert=72c8a32800a88abb5043fb57b8e2f9bd&wsBindIP=2&wsserid=1168243343860730937"
+                        }
+                      ]
                     }
                   ]
                 }
