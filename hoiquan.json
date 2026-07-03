@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:20 04/07/2026",
+  "last_updated": "00:31 04/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-3f64bd0dd81d",
-          "name": "⚽ Nõmme United vs Kalju Nomme | H2 - 62' 1 - 3 23:00 03/07/2026",
+          "name": "⚽ Nõmme United vs Kalju Nomme | H2 - 73' 1 - 3 23:00 03/07/2026",
           "tournament": "Meistriliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/10059.png",
           "logo_khach": "https://media.api-sports.io/football/teams/662.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-39c6b264e7",
+                          "id": "lnk-bfb98bef1c",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx91gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f191522ea6ad00e485395737-178309926123103&wsIPSercert=759cef6124f5c53889ab6cc445663d8e&wsBindIP=2&wsserid=1168243256629514822"
+                          "url": "https://tfx91gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=931dc2ac27846864d9c6313c-178309989962071&wsIPSercert=149774ee04e3b565054fd8b612e9d345&wsBindIP=2&wsserid=1168243343863876729"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-3c2d1c655fe7",
-          "name": "⚽ Sirius vs Mjallby Aif | H1 - 20' 1 - 0 00:00 04/07/2026",
+          "name": "⚽ Sirius vs Mjallby Aif | H1 - 31' 1 - 0 00:00 04/07/2026",
           "tournament": "Allsvenskan",
           "logo_nha": "https://media.api-sports.io/football/teams/370.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2240.png",
@@ -99,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d78d48b3fc",
+                          "id": "lnk-f9fa8ba276",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx91gr3uomttgr31hcj18yzd1p3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=9d62b33910220ef0e93c95c7-178309926970577&wsIPSercert=759cef6124f5c53889ab6cc445663d8e&wsBindIP=2&wsserid=1168243256654681122"
+                          "url": "https://tfx91gr3uomttgr31hcj18yzd1p3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=9d62b33910220ef0e93c95c7-178309990832077&wsIPSercert=149774ee04e3b565054fd8b612e9d345&wsBindIP=2&wsserid=1168243256654681122"
                         }
                       ]
                     }
@@ -115,7 +115,7 @@
         },
         {
           "id": "kaytee-c264557fb6db",
-          "name": "⚽ Australia vs Egypt | Sắp diễn ra vs 01:00 04/07/2026",
+          "name": "⚽ Australia vs Egypt | Sắp bắt đầu - null' 0 - 0 01:00 04/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
@@ -132,10 +132,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -150,7 +150,15 @@
                     {
                       "id": "kaytee-c264557fb6db",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-dabcb261bf",
+                          "name": "BLV PHAN QUẨY",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx91gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=ab77dfd1fa1dcd9c7b71f549-178309991664275&wsIPSercert=149774ee04e3b565054fd8b612e9d345&wsBindIP=2&wsserid=1168243256645243746"
+                        }
+                      ]
                     }
                   ]
                 }
