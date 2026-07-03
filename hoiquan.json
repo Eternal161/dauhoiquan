@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:51 04/07/2026",
+  "last_updated": "02:01 04/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-3c2d1c655fe7",
-          "name": "⚽ Sirius vs Mjallby Aif | H2 - 90+2' 4 - 4 00:00 04/07/2026",
-          "tournament": "Allsvenskan",
-          "logo_nha": "https://media.api-sports.io/football/teams/370.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2240.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/370.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3c2d1c655fe7",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3c2d1c655fe7",
-                  "name": "Sirius vs Mjallby Aif",
-                  "streams": [
-                    {
-                      "id": "kaytee-3c2d1c655fe7",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dba117d85b",
-                          "name": "BLV TÁO GIÀ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfx91gr3uomttgr31hcj18yzd1p3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=9d62b33910220ef0e93c95c7-178310468185713&wsIPSercert=2e4bdc648fe4b42e0269af22497eb4aa&wsBindIP=2&wsserid=1168243256654681122"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-c264557fb6db",
-          "name": "⚽ Australia vs Egypt | H1 - 45+6' 0 - 1 01:00 04/07/2026",
+          "name": "⚽ Australia vs Egypt | Giữa Hiệp - 45+6' 0 - 1 01:00 04/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
@@ -99,25 +46,25 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2a9b06cd35",
+                          "id": "lnk-cac96cedd1",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfx91gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=9d62b33910220ef0e93c95c7-178310468520666&wsIPSercert=2e4bdc648fe4b42e0269af22497eb4aa&wsBindIP=2&wsserid=1168243256654681122"
+                          "url": "https://tfx90gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=12f61ad437d6c80730531e9a-178310527406968&wsIPSercert=6318eeb25d4396f31157fba2a6853ef6&wsBindIP=2&wsserid=1168231589586498745"
                         },
                         {
-                          "id": "lnk-9bc0fe5ce9",
+                          "id": "lnk-b357802420",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfx91gr3uomttgr31hcj18yzd1p3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=163da5e11d1fcb3ff420b66f-178310469364810&wsIPSercert=2e4bdc648fe4b42e0269af22497eb4aa&wsBindIP=2&wsserid=1168243344275968966"
+                          "url": "https://tfx90gr4uqmtt8y41hcjsgyzdnpbufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f447814a1fff598df910f9f5-178310527895233&wsIPSercert=6318eeb25d4396f31157fba2a6853ef6&wsBindIP=2&wsserid=1168231589572867007"
                         },
                         {
-                          "id": "lnk-30d66eae06",
+                          "id": "lnk-5375727329",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfx91gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=9d62b33910220ef0e93c95c7-178310470187858&wsIPSercert=2e4bdc648fe4b42e0269af22497eb4aa&wsBindIP=2&wsserid=1168243256654681122"
+                          "url": "https://tfx90gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=888d29275c171651bfd71aa6-178310528767191&wsIPSercert=6318eeb25d4396f31157fba2a6853ef6&wsBindIP=2&wsserid=1168231785641135723"
                         }
                       ]
                     }
@@ -478,6 +425,51 @@
                   "streams": [
                     {
                       "id": "kaytee-726253a40dd3",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8befaaa816fc",
+          "name": "⚽ Canada vs Morocco | Sắp diễn ra vs 00:00 05/07/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8befaaa816fc",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8befaaa816fc",
+                  "name": "Canada vs Morocco",
+                  "streams": [
+                    {
+                      "id": "kaytee-8befaaa816fc",
                       "name": "F",
                       "stream_links": []
                     }
