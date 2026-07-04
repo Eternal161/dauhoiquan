@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:10 05/07/2026",
+  "last_updated": "02:20 05/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-19ba94299478",
-          "name": "⚽ Novorizontino vs Atletico Goianiense | H1 - 11' 0 - 0 02:00 05/07/2026",
+          "name": "⚽ Novorizontino vs Atletico Goianiense | H1 - 21' 0 - 0 02:00 05/07/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/7834.png",
           "logo_khach": "https://media.api-sports.io/football/teams/144.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b705983b9b",
+                          "id": "lnk-0c9214eeb7",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxa0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=528174f76dff844af8e13215-178319225902069&wsIPSercert=9b50c2713bfe8b3ed97213c2ff031a3e&wsBindIP=2&wsserid=1168283323420165962"
+                          "url": "https://tfxa0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178319285991021&wsIPSercert=b8416bf947f24d4e83f899130d97596b&wsBindIP=2&wsserid=1168283323221983365"
                         }
                       ]
                     }
@@ -141,51 +141,6 @@
                   "streams": [
                     {
                       "id": "kaytee-57415dee83af",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-31aad08e82b5",
-          "name": "⚽ U. Catolica vs Deportes Copiapo | Sắp diễn ra vs 07:30 05/07/2026",
-          "tournament": "Copa Chile",
-          "logo_nha": "https://media.api-sports.io/football/teams/2994.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2343.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2994.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-31aad08e82b5",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-31aad08e82b5",
-                  "name": "U. Catolica vs Deportes Copiapo",
-                  "streams": [
-                    {
-                      "id": "kaytee-31aad08e82b5",
                       "name": "F",
                       "stream_links": []
                     }
@@ -456,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-9e7f5aecee19",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e2ed985761b9",
+          "name": "⚽ Aktobe vs Zhetysu | Sắp diễn ra vs 21:00 05/07/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/4563.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4560.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4563.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e2ed985761b9",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e2ed985761b9",
+                  "name": "Aktobe vs Zhetysu",
+                  "streams": [
+                    {
+                      "id": "kaytee-e2ed985761b9",
                       "name": "F",
                       "stream_links": []
                     }
