@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:20 05/07/2026",
+  "last_updated": "03:30 05/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-19ba94299478",
-          "name": "⚽ Novorizontino vs Atletico Goianiense | H2 - 62' 1 - 0 02:00 05/07/2026",
+          "name": "⚽ Novorizontino vs Atletico Goianiense | H2 - 71' 2 - 0 02:00 05/07/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/7834.png",
           "logo_khach": "https://media.api-sports.io/football/teams/144.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-dddeab60b8",
+                          "id": "lnk-90829f3cb0",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxa0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f447814a1fff598df910f9f5-178319646172862&wsIPSercert=28f90feb7fe6df43433239665dcfb5d5&wsBindIP=2&wsserid=1168231589572867007"
+                          "url": "https://tfxa1gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f7c12a09cf3db87c15168f56-178319706313999&wsIPSercert=f024dcc311ffec4a1ca1a0630d19ac98&wsBindIP=2&wsserid=1168243343857585137"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-04e4d0037861",
-          "name": "⚽ Paraguay vs France | Sắp diễn ra vs 04:00 05/07/2026",
+          "name": "⚽ Paraguay vs France | Sắp bắt đầu - null' 0 - 0 04:00 05/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2.png",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,29 @@
                     {
                       "id": "kaytee-04e4d0037861",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-d81d46ef61",
+                          "name": "BLV THẦN THÔNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxa1gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=4f205237aaa82a7544424d0c-178319707134039&wsIPSercert=f024dcc311ffec4a1ca1a0630d19ac98&wsBindIP=2&wsserid=1168243343860730937"
+                        },
+                        {
+                          "id": "lnk-af567fcf77",
+                          "name": "BLV LƯƠNG BỔNG",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfxa1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=3248a74b00d70e69f8530d7f-178319708017578&wsIPSercert=f024dcc311ffec4a1ca1a0630d19ac98&wsBindIP=2&wsserid=1168243343870168317"
+                        },
+                        {
+                          "id": "lnk-c8e5afcb7d",
+                          "name": "BLV PHAN QUẨY",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfxa1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=06fa26912fb2fbf1257238c2-178319708823721&wsIPSercert=f024dcc311ffec4a1ca1a0630d19ac98&wsBindIP=2&wsserid=1168243344279114758"
+                        }
+                      ]
                     }
                   ]
                 }
