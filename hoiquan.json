@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:50 04/07/2026",
+  "last_updated": "21:00 04/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-481e7aa8fcf1",
-          "name": "⚽ Tianjin Teda vs Sichuan Jiuniu | H2 - 89' 1 - 0 19:00 04/07/2026",
-          "tournament": "Super League",
-          "logo_nha": "https://media.api-sports.io/football/teams/837.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/5686.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/837.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-481e7aa8fcf1",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-481e7aa8fcf1",
-                  "name": "Tianjin Teda vs Sichuan Jiuniu",
-                  "streams": [
-                    {
-                      "id": "kaytee-481e7aa8fcf1",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-87bafbc192",
-                          "name": "BLV TÁO GIÀ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxa0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178317306057480&wsIPSercert=cb216f9978b1a8ce092db672dc6fe608&wsBindIP=2&wsserid=1168283323221983365"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-726253a40dd3",
           "name": "⚽ Vps vs Mariehamn | Sắp diễn ra vs 22:00 04/07/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-24f012f4ec93",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1e55655d0c12",
+          "name": "⚽ Gwangju Fc vs Ulsan Hyundai Fc | Sắp diễn ra vs 17:30 05/07/2026",
+          "tournament": "K League 1",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/6/65/Gwangju_FC.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/2767.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/6/65/Gwangju_FC.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1e55655d0c12",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1e55655d0c12",
+                  "name": "Gwangju Fc vs Ulsan Hyundai Fc",
+                  "streams": [
+                    {
+                      "id": "kaytee-1e55655d0c12",
                       "name": "F",
                       "stream_links": []
                     }
