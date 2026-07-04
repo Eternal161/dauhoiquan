@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:10 04/07/2026",
+  "last_updated": "10:21 04/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a08cecabffa9",
-          "name": "⚽ Colombia vs Ghana | H2 - 77' 1 - 0 08:30 04/07/2026",
+          "name": "⚽ Colombia vs Ghana | H2 - 87' 1 - 0 08:30 04/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
@@ -46,18 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7e9acf42a1",
+                          "id": "lnk-602693e4d8",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxa1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=931dc2ac27846864d9c6313c-178313465766588&wsIPSercert=7aacbb4c7fc8c13609dbf129a46c7a6b&wsBindIP=2&wsserid=1168243343863876729"
+                          "url": "https://tfxa1gr3uomttgr31hqbtfaau1pjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0388854a12b34762ecaa54ee-178313528199246&wsIPSercert=cfdf79e08e5f6a136d3705d0a67c634e&wsBindIP=2&wsserid=1168233246737846107"
                         },
                         {
-                          "id": "lnk-f084d8aa43",
+                          "id": "lnk-b3d1eb0742",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxa1gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=dd65a829423b7a9bfc19eadf-178313466671863&wsIPSercert=7aacbb4c7fc8c13609dbf129a46c7a6b&wsBindIP=2&wsserid=1168243256623223254"
+                          "url": "https://tfxa4gr3uomttgr31hqbtfa5147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ae0fc46294dfb2dce8f56f61-178313529122844&wsIPSercert=cfdf79e08e5f6a136d3705d0a67c634e&wsBindIP=2&wsserid=1168233226243734375"
                         }
                       ]
                     }
