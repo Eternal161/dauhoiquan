@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:30 04/07/2026",
+  "last_updated": "08:41 04/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-9cafbe595121",
-          "name": "⚽ Naples vs Portland Hearts Of Pine | H2 - 90+5' 2 - 3 06:30 04/07/2026",
+          "name": "⚽ Naples vs Portland Hearts Of Pine | H2 - 90+6' 2 - 3 06:30 04/07/2026",
           "tournament": "USL League One",
           "logo_nha": "https://media.api-sports.io/football/teams/25485.png",
           "logo_khach": "https://media.api-sports.io/football/teams/25486.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ce0eaeadfb",
+                          "id": "lnk-b101fa4023",
                           "name": "BLV PHAN ANH",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxa0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4f5605f94f7e28b0acf59620-178312865983776&wsIPSercert=02947c956ca3bf3b071cc7218b556507&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-a08cecabffa9",
-          "name": "⚽ Colombia vs Ghana | H1 - 1' 0 - 0 08:30 04/07/2026",
+          "name": "⚽ Colombia vs Ghana | H1 - 11' 0 - 0 08:30 04/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
@@ -99,18 +99,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-99d48b26c3",
+                          "id": "lnk-26d58fb261",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxa0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ffa784bdc531ce98a0a7650c-178312866833114&wsIPSercert=02947c956ca3bf3b071cc7218b556507&wsBindIP=2&wsserid=1168283477138504804"
+                          "url": "https://tfxa0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=7691cce5c2e2599d1a827bf3-178312931261316&wsIPSercert=dd01f56fb42338264972c23fbcf6527b&wsBindIP=2&wsserid=1168283323263926950"
                         },
                         {
-                          "id": "lnk-4f5b61da9a",
+                          "id": "lnk-6ad79986b8",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxa0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f447814a1fff598df910f9f5-178312867703753&wsIPSercert=02947c956ca3bf3b071cc7218b556507&wsBindIP=2&wsserid=1168231589572867007"
+                          "url": "https://tfxa0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=399a1a704eb10dd43bc57f39-178312932138459&wsIPSercert=dd01f56fb42338264972c23fbcf6527b&wsBindIP=2&wsserid=1168283323236663568"
                         }
                       ]
                     }
