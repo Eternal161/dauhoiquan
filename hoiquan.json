@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:50 04/07/2026",
+  "last_updated": "08:01 04/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-9cafbe595121",
-          "name": "⚽ Naples vs Portland Hearts Of Pine | H2 - 55' 1 - 1 06:30 04/07/2026",
+          "name": "⚽ Naples vs Portland Hearts Of Pine | H2 - 65' 1 - 1 06:30 04/07/2026",
           "tournament": "USL League One",
           "logo_nha": "https://media.api-sports.io/football/teams/25485.png",
           "logo_khach": "https://media.api-sports.io/football/teams/25486.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c9fafeabeb",
+                          "id": "lnk-50d2a387a6",
                           "name": "BLV PHAN ANH",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxa1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=f191522ea6ad00e485395737-178312626233747&wsIPSercert=8e8be5191c5e04dd30d2ef2f6381e0a2&wsBindIP=2&wsserid=1168243256629514822"
+                          "url": "https://tfxa0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=888d29275c171651bfd71aa6-178312686960440&wsIPSercert=323eec53efea98dfd2c39194fdee73ba&wsBindIP=2&wsserid=1168231785641135723"
                         }
                       ]
                     }
@@ -99,25 +99,25 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3a70288caf",
+                          "id": "lnk-6a406f809e",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxa1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=225c8c2a6194ec4bad269a9a-178312627090413&wsIPSercert=8e8be5191c5e04dd30d2ef2f6381e0a2&wsBindIP=2&wsserid=1168243256620077470"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-4b9d44e30c",
+                          "id": "lnk-b1ba402faf",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxa1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=dd65a829423b7a9bfc19eadf-178312627975665&wsIPSercert=8e8be5191c5e04dd30d2ef2f6381e0a2&wsBindIP=2&wsserid=1168243256623223254"
+                          "url": "https://tfxa0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c5af1d3f9d74e675286e540c-178312688738117&wsIPSercert=323eec53efea98dfd2c39194fdee73ba&wsBindIP=2&wsserid=1168231785639038521"
                         },
                         {
-                          "id": "lnk-d4763f03a4",
+                          "id": "lnk-1d9739c87e",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxa1gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=dd65a829423b7a9bfc19eadf-178312628789952&wsIPSercert=8e8be5191c5e04dd30d2ef2f6381e0a2&wsBindIP=2&wsserid=1168243256623223254"
+                          "url": "https://tfxa1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=33393c172edbd0a40aed3398-178312689576205&wsIPSercert=323eec53efea98dfd2c39194fdee73ba&wsBindIP=2&wsserid=1168283323367736366"
                         }
                       ]
                     }
