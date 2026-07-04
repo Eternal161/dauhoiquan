@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:31 05/07/2026",
+  "last_updated": "01:40 05/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8befaaa816fc",
-          "name": "⚽ Canada vs Morocco | H2 - 66' 0 - 1 00:00 05/07/2026",
+          "name": "⚽ Canada vs Morocco | H2 - 77' 0 - 1 00:00 05/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
@@ -46,25 +46,25 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bacf3086dc",
+                          "id": "lnk-9653730c7c",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxa0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=fd74cd9ba0c14603d7073e4b-178318986797794&wsIPSercert=e90762f07ccfcae692c3cdbd714c2c35&wsBindIP=2&wsserid=1168231589574964209"
+                          "url": "https://tfxa0gr4uqmtt8y41hcjsgyzdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=0bb9974e18223129e2110e8c-178319046001050&wsIPSercert=a2ba6b5b8cb5b1db2218208d78194559&wsBindIP=2&wsserid=1168283529569158070"
                         },
                         {
-                          "id": "lnk-c5ff6b1106",
+                          "id": "lnk-bb08eec86a",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxa0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=fd74cd9ba0c14603d7073e4b-178318987663751&wsIPSercert=e90762f07ccfcae692c3cdbd714c2c35&wsBindIP=2&wsserid=1168231589574964209"
+                          "url": "https://tfxa0gr4uqmtt8y41hcjsgyzdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0bb9974e18223129e2110e8c-178319046825581&wsIPSercert=a2ba6b5b8cb5b1db2218208d78194559&wsBindIP=2&wsserid=1168283529569158070"
                         },
                         {
-                          "id": "lnk-351d5655a1",
+                          "id": "lnk-f68f60d121",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxa0gr4uqmtt8y41hcjsgyzdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ffa784bdc531ce98a0a7650c-178318988546611&wsIPSercert=e90762f07ccfcae692c3cdbd714c2c35&wsBindIP=2&wsserid=1168283477138504804"
+                          "url": "https://tfxa0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=214abf917bf2df58627cf314-178319047694799&wsIPSercert=a2ba6b5b8cb5b1db2218208d78194559&wsBindIP=2&wsserid=1168283323432748950"
                         }
                       ]
                     }
@@ -76,7 +76,7 @@
         },
         {
           "id": "kaytee-19ba94299478",
-          "name": "⚽ Novorizontino vs Atletico Goianiense | Sắp diễn ra vs 02:00 05/07/2026",
+          "name": "⚽ Novorizontino vs Atletico Goianiense | Sắp bắt đầu - null' 0 - 0 02:00 05/07/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/7834.png",
           "logo_khach": "https://media.api-sports.io/football/teams/144.png",
@@ -93,10 +93,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -111,7 +111,15 @@
                     {
                       "id": "kaytee-19ba94299478",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-00126d8b1b",
+                          "name": "BLV TÁO GIÀ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxa0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178319048509325&wsIPSercert=a2ba6b5b8cb5b1db2218208d78194559&wsBindIP=2&wsserid=1168283323221983365"
+                        }
+                      ]
                     }
                   ]
                 }
