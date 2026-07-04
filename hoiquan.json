@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:51 05/07/2026",
+  "last_updated": "04:01 05/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-19ba94299478",
-          "name": "⚽ Novorizontino vs Atletico Goianiense | H2 - 90+1' 3 - 0 02:00 05/07/2026",
-          "tournament": "Serie B",
-          "logo_nha": "https://media.api-sports.io/football/teams/7834.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/144.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/7834.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-19ba94299478",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-19ba94299478",
-                  "name": "Novorizontino vs Atletico Goianiense",
-                  "streams": [
-                    {
-                      "id": "kaytee-19ba94299478",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fa9e5ed45f",
-                          "name": "BLV TÁO GIÀ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxa1gr3uomttgr31hctsfaau1ptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f8297f23ac177a648779645f-178319827647375&wsIPSercert=ffd1e459e9a2e135fbe9085b6074bd57&wsBindIP=2&wsserid=1168056276211756464"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-04e4d0037861",
           "name": "⚽ Paraguay vs France | Sắp bắt đầu - null' 0 - 0 04:00 05/07/2026",
@@ -99,25 +46,25 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-52f8709ee2",
+                          "id": "lnk-1828a548b1",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxa1gr3uomttgr31hctsfaau1ptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178319828533918&wsIPSercert=ffd1e459e9a2e135fbe9085b6074bd57&wsBindIP=2&wsserid=1177063474757376778"
+                          "url": "https://tfxa0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=43280c1c975363fe81a8d8d5-178319887667581&wsIPSercert=44ae7576acf5cadc5fe5783a5764bafc&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-be05f05454",
+                          "id": "lnk-d7478ae4f7",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxa1gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178319829433982&wsIPSercert=ffd1e459e9a2e135fbe9085b6074bd57&wsBindIP=2&wsserid=1177063474757376778"
+                          "url": "https://tfxa1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=616f653cb9a9bacc0da12063-178319888513864&wsIPSercert=44ae7576acf5cadc5fe5783a5764bafc&wsBindIP=2&wsserid=1168176581102008440"
                         },
                         {
-                          "id": "lnk-b88c6407b4",
+                          "id": "lnk-4103037e68",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxa1gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178319830244461&wsIPSercert=ffd1e459e9a2e135fbe9085b6074bd57&wsBindIP=2&wsserid=1177063474757376778"
+                          "url": "https://tfxa1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=fe98348b1e299f1542a9c7d2-178319889319538&wsIPSercert=44ae7576acf5cadc5fe5783a5764bafc&wsBindIP=2&wsserid=1168176581104105640"
                         }
                       ]
                     }
@@ -478,6 +425,51 @@
                   "streams": [
                     {
                       "id": "kaytee-e2ed985761b9",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-5593aca6afd6",
+          "name": "⚽ Belshina vs Baranovichi | Sắp diễn ra vs 22:00 05/07/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/3384.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3383.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3384.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-5593aca6afd6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-5593aca6afd6",
+                  "name": "Belshina vs Baranovichi",
+                  "streams": [
+                    {
+                      "id": "kaytee-5593aca6afd6",
                       "name": "F",
                       "stream_links": []
                     }
