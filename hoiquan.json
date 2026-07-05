@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:40 05/07/2026",
+  "last_updated": "23:51 05/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-5593aca6afd6",
-          "name": "⚽ Belshina vs Baranovichi | H2 - 85' 1 - 1 22:00 05/07/2026",
+          "name": "⚽ Belshina vs Baranovichi | H2 - 90+5' 1 - 1 22:00 05/07/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/3384.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3383.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-db10e55646",
+                          "id": "lnk-2269418825",
                           "name": "BLV PHAN ANH",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxb1gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=7d7d8c99c06f93d847c9d109-178326966758856&wsIPSercert=ff59d4de75fa0361229414cb2696a086&wsBindIP=2&wsserid=1177063474750036592"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-8fcbb0271442",
-          "name": "⚽ Tammeka vs Laagri | H1 - 40' 2 - 1 23:00 05/07/2026",
+          "name": "⚽ Tammeka vs Laagri | Giữa Hiệp - 45+3' 2 - 1 23:00 05/07/2026",
           "tournament": "Meistriliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/3530.png",
           "logo_khach": "https://media.api-sports.io/football/teams/18657.png",
@@ -99,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-78542daf8d",
+                          "id": "lnk-9c7e0de837",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxb1gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178326967614065&wsIPSercert=ff59d4de75fa0361229414cb2696a086&wsBindIP=2&wsserid=1177063474757376778"
+                          "url": "https://tfxb1gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178327030024458&wsIPSercert=eb54aeaaffdab8d632e7eacb7cbdfb21&wsBindIP=2&wsserid=1177063474757376778"
                         }
                       ]
                     }
