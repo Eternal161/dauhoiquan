@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:01 06/07/2026",
+  "last_updated": "06:11 06/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-f4e1e11324c5",
-          "name": "⚽ Union Espanola vs O'Higgins | H2 - 71' 1 - 2 04:30 06/07/2026",
+          "name": "⚽ Union Espanola vs O'Higgins | H2 - 81' 1 - 2 04:30 06/07/2026",
           "tournament": "Copa Chile",
           "logo_nha": "https://media.api-sports.io/football/teams/2321.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2320.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-62058246b2",
+                          "id": "lnk-55c3517453",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxb0gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=14c06b90294daa39133930cf-178329248194424&wsIPSercert=713a2da23c74404252ae5127e37d37c8&wsBindIP=2&wsserid=1168176346313714739"
+                          "url": "https://tfxb1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0fecc200ad94635c875c47ce-178329307773592&wsIPSercert=3e914234f701fabfac97579ddd42017a&wsBindIP=2&wsserid=1168282035663924028"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-bc5a5aa3d8f1",
-          "name": "⚽ Nautico Recife vs Juventude | Sắp diễn ra vs 06:30 06/07/2026",
+          "name": "⚽ Nautico Recife vs Juventude | Sắp bắt đầu - null' 0 - 0 06:30 06/07/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/755.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/ro/thumb/c/cd/Juventude_logo.svg/1280px-Juventude_logo.svg.png",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,15 @@
                     {
                       "id": "kaytee-bc5a5aa3d8f1",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-0db561fa74",
+                          "name": "BLV PHAN ANH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
