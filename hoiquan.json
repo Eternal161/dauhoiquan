@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:31 05/07/2026",
+  "last_updated": "22:40 05/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e2ed985761b9",
-          "name": "⚽ Aktobe vs Zhetysu | Live 0 - 0 21:00 05/07/2026",
+          "name": "⚽ Aktobe vs Zhetysu | H2 - 80' 1 - 0 21:00 05/07/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/4563.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4560.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1997a1b14d",
+                          "id": "lnk-db52257108",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxb0gr4uqmtt8y41hcjsgyzdnpbufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f447814a1fff598df910f9f5-178326547314164&wsIPSercert=c644b44d1ca02b034e1706dfab7f8da5&wsBindIP=2&wsserid=1168231589572867007"
+                          "url": "https://tfxb1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178326606211533&wsIPSercert=bb85761d65e8da93e1f14e9eca6cc47c&wsBindIP=2&wsserid=1168283323221983365"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-5593aca6afd6",
-          "name": "⚽ Belshina vs Baranovichi | Live 0 - 0 22:00 05/07/2026",
+          "name": "⚽ Belshina vs Baranovichi | H1 - 40' 1 - 0 22:00 05/07/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/3384.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3383.png",
@@ -99,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b23a37380a",
+                          "id": "lnk-4d85cc51c1",
                           "name": "BLV PHAN ANH",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxb0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=888d29275c171651bfd71aa6-178326548225750&wsIPSercert=c644b44d1ca02b034e1706dfab7f8da5&wsBindIP=2&wsserid=1168231785641135723"
+                          "url": "https://tfxb0gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=888d29275c171651bfd71aa6-178326607097592&wsIPSercert=bb85761d65e8da93e1f14e9eca6cc47c&wsBindIP=2&wsserid=1168231785641135723"
                         }
                       ]
                     }
@@ -115,7 +115,7 @@
         },
         {
           "id": "kaytee-8fcbb0271442",
-          "name": "⚽ Tammeka vs Laagri | Sắp diễn ra vs 23:00 05/07/2026",
+          "name": "⚽ Tammeka vs Laagri | Sắp bắt đầu - null' 0 - 0 23:00 05/07/2026",
           "tournament": "Meistriliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/3530.png",
           "logo_khach": "https://media.api-sports.io/football/teams/18657.png",
@@ -132,10 +132,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -150,7 +150,15 @@
                     {
                       "id": "kaytee-8fcbb0271442",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-f828de69ed",
+                          "name": "BLV PHAN CA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxb0gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd74cd9ba0c14603d7073e4b-178326607963856&wsIPSercert=bb85761d65e8da93e1f14e9eca6cc47c&wsBindIP=2&wsserid=1168231589574964209"
+                        }
+                      ]
                     }
                   ]
                 }
