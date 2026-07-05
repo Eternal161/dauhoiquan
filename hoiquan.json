@@ -1,18 +1,18 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:00 06/07/2026",
+  "last_updated": "01:10 06/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-cc5f71e21052",
-          "name": "⚽ Macara vs Ldu De Quito | Sắp bắt đầu - null' 0 - 0 01:00 06/07/2026",
-          "tournament": "Liga Pro",
-          "logo_nha": "https://media.api-sports.io/football/teams/1155.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/e/e8/LDUQuitologo2.png",
+          "id": "kaytee-2d9b57cb2836",
+          "name": "⚽ Torpedo Zhodino vs Fc Isloch Minsk R. | H1 - 16' 0 - 0 00:55 06/07/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/385.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/391.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -20,7 +20,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1155.png",
+            "url": "https://media.api-sports.io/football/teams/385.png",
             "width": 1600,
             "height": 1200
           },
@@ -34,23 +34,23 @@
           ],
           "sources": [
             {
-              "id": "kaytee-cc5f71e21052",
+              "id": "kaytee-2d9b57cb2836",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-cc5f71e21052",
-                  "name": "Macara vs Ldu De Quito",
+                  "id": "kaytee-2d9b57cb2836",
+                  "name": "Torpedo Zhodino vs Fc Isloch Minsk R.",
                   "streams": [
                     {
-                      "id": "kaytee-cc5f71e21052",
+                      "id": "kaytee-2d9b57cb2836",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d4a41ecabb",
+                          "id": "lnk-3f30c46233",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxb1gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=dd65a829423b7a9bfc19eadf-178327446360290&wsIPSercert=f68ad78facc8391e5d29d798dd24b161&wsBindIP=2&wsserid=1168243256623223254"
+                          "url": "https://tfxb4gchnhcjo8rzdrpjtfa3147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=269e7cfbbd459e2e0bf3bfd4-178327506460455&wsIPSercert=c1aff15e6c578b17da7937662b4cd8c8&wsBindIP=2&wsserid=1168235283031012122"
                         }
                       ]
                     }
