@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:01 05/07/2026",
+  "last_updated": "09:10 05/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e84d9b777e17",
-          "name": "⚽ Las Vegas Lights vs El Paso Locomotive | Sắp diễn ra vs 09:30 05/07/2026",
+          "name": "⚽ Las Vegas Lights vs El Paso Locomotive | Sắp bắt đầu - null' 0 - 0 09:30 05/07/2026",
           "tournament": "USL Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/3998.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3993.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "kaytee-e84d9b777e17",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-c243ce0d6b",
+                          "name": "BLV PHAN ANH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxb0gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=888d29275c171651bfd71aa6-178321746041687&wsIPSercert=3d2ccc2effa960c7eb023072f10d6511&wsBindIP=2&wsserid=1168231785641135723"
+                        }
+                      ]
                     }
                   ]
                 }
