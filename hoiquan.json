@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:01 06/07/2026",
+  "last_updated": "05:10 06/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1736c67b99c4",
-          "name": "⚽ Brazil vs Norway | H2 - 90+9' 0 - 2 03:00 06/07/2026",
+          "name": "⚽ Brazil vs Norway | H2 - 90+12' 1 - 2 03:00 06/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
@@ -46,18 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3d489724de",
+                          "id": "lnk-f8c7e8c746",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxb0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=888d29275c171651bfd71aa6-178328888449081&wsIPSercert=0876f1671e51a0d910ef2d878fd4a0d0&wsBindIP=2&wsserid=1168231785641135723"
+                          "url": "https://tfxb1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f5f570a3bb9d14f558978d9a-178328946486744&wsIPSercert=d78f80920f27ca8e9f64e44e4819d8c0&wsBindIP=2&wsserid=1168282037991221552"
                         },
                         {
-                          "id": "lnk-135f3c0a12",
+                          "id": "lnk-059e71e537",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxb0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0bb9974e18223129e2110e8c-178328889335435&wsIPSercert=0876f1671e51a0d910ef2d878fd4a0d0&wsBindIP=2&wsserid=1168283529569158070"
+                          "url": "https://tfxb1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178328947373900&wsIPSercert=d78f80920f27ca8e9f64e44e4819d8c0&wsBindIP=2&wsserid=1168278313570948617"
                         }
                       ]
                     }
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-f4e1e11324c5",
-          "name": "⚽ Union Espanola vs O'Higgins | H1 - 32' 1 - 2 04:30 06/07/2026",
+          "name": "⚽ Union Espanola vs O'Higgins | H1 - 41' 1 - 2 04:30 06/07/2026",
           "tournament": "Copa Chile",
           "logo_nha": "https://media.api-sports.io/football/teams/2321.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2320.png",
@@ -106,11 +106,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-42faaee735",
+                          "id": "lnk-cea2b6c89b",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxb0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178328890190473&wsIPSercert=0876f1671e51a0d910ef2d878fd4a0d0&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfxb1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0fecc200ad94635c875c47ce-178328948223422&wsIPSercert=d78f80920f27ca8e9f64e44e4819d8c0&wsBindIP=2&wsserid=1168282035663924028"
                         }
                       ]
                     }
