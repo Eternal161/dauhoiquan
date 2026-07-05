@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "14:31 05/07/2026",
+  "last_updated": "14:40 05/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-24f012f4ec93",
-          "name": "⚽ Xi'An Ronghai vs Shanghai Second | Sắp diễn ra vs 15:00 05/07/2026",
+          "name": "⚽ Xi'An Ronghai vs Shanghai Second | Sắp bắt đầu - null' 0 - 0 15:00 05/07/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/20674.png",
           "logo_khach": "https://media.api-sports.io/football/teams/27619.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "kaytee-24f012f4ec93",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-2b0ab2bc1f",
+                          "name": "BLV TÁO GIÀ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxb0gr4uqmtt8y41hcjsgyzdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178323725770553&wsIPSercert=593ecba5850072aedee25985e07828fa&wsBindIP=2&wsserid=1168283323221983365"
+                        }
+                      ]
                     }
                   ]
                 }
