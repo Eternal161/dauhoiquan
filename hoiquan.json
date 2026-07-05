@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:30 05/07/2026",
+  "last_updated": "17:40 05/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-fc13654fbb98",
-          "name": "⚽ Qingdao Jonoon vs Chengdu Better City | Sắp diễn ra vs 18:00 05/07/2026",
+          "name": "⚽ Qingdao Jonoon vs Chengdu Better City | Sắp bắt đầu - null' 0 - 0 18:00 05/07/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/1431.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5648.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "kaytee-fc13654fbb98",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-1565102a57",
+                          "name": "BLV LƯƠNG BỔNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxb0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178324806354924&wsIPSercert=6d802c8aa9ebb226e2fb14b900cdf05b&wsBindIP=2&wsserid=1168283323406534424"
+                        }
+                      ]
                     }
                   ]
                 }
