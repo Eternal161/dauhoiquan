@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:51 05/07/2026",
+  "last_updated": "00:01 06/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-5593aca6afd6",
-          "name": "⚽ Belshina vs Baranovichi | H2 - 90+5' 1 - 1 22:00 05/07/2026",
-          "tournament": "Premier League",
-          "logo_nha": "https://media.api-sports.io/football/teams/3384.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/3383.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/3384.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-5593aca6afd6",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-5593aca6afd6",
-                  "name": "Belshina vs Baranovichi",
-                  "streams": [
-                    {
-                      "id": "kaytee-5593aca6afd6",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2269418825",
-                          "name": "BLV PHAN ANH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-8fcbb0271442",
           "name": "⚽ Tammeka vs Laagri | Giữa Hiệp - 45+3' 2 - 1 23:00 05/07/2026",
@@ -99,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9c7e0de837",
+                          "id": "lnk-91d2f8202c",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxb1gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178327030024458&wsIPSercert=eb54aeaaffdab8d632e7eacb7cbdfb21&wsBindIP=2&wsserid=1177063474757376778"
+                          "url": "https://tfxb1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=349560c79a44166872039751-178327087858203&wsIPSercert=31591376c0f841fe7c850ae9910dbb01&wsBindIP=2&wsserid=1168282035622980969"
                         }
                       ]
                     }
@@ -464,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-a9c602ebde4f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-bc029de54b17",
+          "name": "⚽ Cracovia Krakow vs Başakşehir | Sắp diễn ra vs 19:00 06/07/2026",
+          "tournament": "Friendlies Clubs",
+          "logo_nha": "https://media.api-sports.io/football/teams/350.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/564.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/350.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bc029de54b17",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bc029de54b17",
+                  "name": "Cracovia Krakow vs Başakşehir",
+                  "streams": [
+                    {
+                      "id": "kaytee-bc029de54b17",
                       "name": "F",
                       "stream_links": []
                     }
