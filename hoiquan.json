@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:50 05/07/2026",
+  "last_updated": "08:01 05/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-57415dee83af",
-          "name": "⚽ Goias vs Ceara | H2 - 90+1' 2 - 0 06:00 05/07/2026",
-          "tournament": "Serie B",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdA4dVwq19DxdhyjbUAo3wM3GSIMHaPl3tLg&s",
-          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpEq0ZDxhCpCOUtgbmrKrxUfha1DH3ajU-Q&s",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdA4dVwq19DxdhyjbUAo3wM3GSIMHaPl3tLg&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-57415dee83af",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-57415dee83af",
-                  "name": "Goias vs Ceara",
-                  "streams": [
-                    {
-                      "id": "kaytee-57415dee83af",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b5834db89d",
-                          "name": "BLV PHAN ANH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxb0gr4uqmtt8y41hcjsgyzdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=4f5605f94f7e28b0acf59620-178321265778216&wsIPSercert=1dfb78bbf10d299810d84134b7b26060&wsBindIP=2&wsserid=1168283477179400067"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-e84d9b777e17",
           "name": "⚽ Las Vegas Lights vs El Paso Locomotive | Sắp diễn ra vs 09:30 05/07/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-8fcbb0271442",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-cc5f71e21052",
+          "name": "⚽ Macara vs Ldu De Quito | Sắp diễn ra vs 01:00 06/07/2026",
+          "tournament": "Liga Pro",
+          "logo_nha": "https://media.api-sports.io/football/teams/1155.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/e/e8/LDUQuitologo2.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1155.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-cc5f71e21052",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-cc5f71e21052",
+                  "name": "Macara vs Ldu De Quito",
+                  "streams": [
+                    {
+                      "id": "kaytee-cc5f71e21052",
                       "name": "F",
                       "stream_links": []
                     }
