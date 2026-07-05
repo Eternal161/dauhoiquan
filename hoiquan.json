@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:20 06/07/2026",
+  "last_updated": "00:30 06/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8fcbb0271442",
-          "name": "⚽ Tammeka vs Laagri | H2 - 63' 2 - 1 23:00 05/07/2026",
+          "name": "⚽ Tammeka vs Laagri | H2 - 72' 2 - 1 23:00 05/07/2026",
           "tournament": "Meistriliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/3530.png",
           "logo_khach": "https://media.api-sports.io/football/teams/18657.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a433543f9f",
+                          "id": "lnk-fe3d81024b",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxb1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=349560c79a44166872039751-178327206762774&wsIPSercert=06f634b072cbb1b6f8840d37eaa195d2&wsBindIP=2&wsserid=1168282035622980969"
+                          "url": "https://tfxb0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd74cd9ba0c14603d7073e4b-178327266500105&wsIPSercert=7eb47018c6c17d1f00ec12aba5607a07&wsBindIP=2&wsserid=1168231589574964209"
                         }
                       ]
                     }
