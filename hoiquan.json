@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:10 06/07/2026",
+  "last_updated": "05:20 06/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-1736c67b99c4",
-          "name": "⚽ Brazil vs Norway | H2 - 90+12' 1 - 2 03:00 06/07/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-1736c67b99c4",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-1736c67b99c4",
-                  "name": "Brazil vs Norway",
-                  "streams": [
-                    {
-                      "id": "kaytee-1736c67b99c4",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f8c7e8c746",
-                          "name": "BLV LƯƠNG BỔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxb1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f5f570a3bb9d14f558978d9a-178328946486744&wsIPSercert=d78f80920f27ca8e9f64e44e4819d8c0&wsBindIP=2&wsserid=1168282037991221552"
-                        },
-                        {
-                          "id": "lnk-059e71e537",
-                          "name": "BLV THẦN THÔNG",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfxb1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178328947373900&wsIPSercert=d78f80920f27ca8e9f64e44e4819d8c0&wsBindIP=2&wsserid=1168278313570948617"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-f4e1e11324c5",
-          "name": "⚽ Union Espanola vs O'Higgins | H1 - 41' 1 - 2 04:30 06/07/2026",
+          "name": "⚽ Union Espanola vs O'Higgins | Giữa Hiệp - 45+5' 1 - 2 04:30 06/07/2026",
           "tournament": "Copa Chile",
           "logo_nha": "https://media.api-sports.io/football/teams/2321.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2320.png",
@@ -106,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-cea2b6c89b",
+                          "id": "lnk-2b7f61cbe9",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxb1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0fecc200ad94635c875c47ce-178328948223422&wsIPSercert=d78f80920f27ca8e9f64e44e4819d8c0&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfxb1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178329006880753&wsIPSercert=0d74459bbd255745201ed3295ef213aa&wsBindIP=2&wsserid=1168283323221983365"
                         }
                       ]
                     }
@@ -471,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-c94b9e03fa4e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-46bd5d3625ef",
+          "name": "⚽ Portugal vs Spain | Sắp diễn ra vs 02:00 07/07/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/27.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/9.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/27.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-46bd5d3625ef",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-46bd5d3625ef",
+                  "name": "Portugal vs Spain",
+                  "streams": [
+                    {
+                      "id": "kaytee-46bd5d3625ef",
                       "name": "F",
                       "stream_links": []
                     }
