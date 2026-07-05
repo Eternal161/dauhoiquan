@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:31 06/07/2026",
+  "last_updated": "04:41 06/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1736c67b99c4",
-          "name": "⚽ Brazil vs Norway | H2 - 69' 0 - 0 03:00 06/07/2026",
+          "name": "⚽ Brazil vs Norway | H2 - 78' 0 - 0 03:00 06/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
@@ -46,18 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-61ee92ca77",
+                          "id": "lnk-397aa241b6",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxb4gchnhcjo8rzdrpjtfa4144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2405a2a24215f54d1eb1e38c-178328708548356&wsIPSercert=765d19b6535a8ac01427c57569e8e9e1&wsBindIP=2&wsserid=1168168154453604765"
+                          "url": "https://tfxb1gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f73680e835be441f61e15bd8-178328767614027&wsIPSercert=f543bb828624963730441bf19c10db83&wsBindIP=2&wsserid=1168176350583194799"
                         },
                         {
-                          "id": "lnk-0ca614a01a",
+                          "id": "lnk-879ad24852",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxb4gchnhcjo8rzdrpjtfa3147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=269e7cfbbd459e2e0bf3bfd4-178328709423876&wsIPSercert=765d19b6535a8ac01427c57569e8e9e1&wsBindIP=2&wsserid=1168235283031012122"
+                          "url": "https://tfxb1gr4uqmtt8y41hcjz8rzd1pbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f73680e835be441f61e15bd8-178328768475400&wsIPSercert=f543bb828624963730441bf19c10db83&wsBindIP=2&wsserid=1168176350583194799"
                         }
                       ]
                     }
@@ -69,7 +69,7 @@
         },
         {
           "id": "kaytee-f4e1e11324c5",
-          "name": "⚽ Union Espanola vs O'Higgins | H1 - 2' 0 - 0 04:30 06/07/2026",
+          "name": "⚽ Union Espanola vs O'Higgins | H1 - 11' 0 - 1 04:30 06/07/2026",
           "tournament": "Copa Chile",
           "logo_nha": "https://media.api-sports.io/football/teams/2321.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2320.png",
@@ -106,11 +106,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-baf145970b",
+                          "id": "lnk-4f4be9e696",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxb4gchnhcjo8rzdrpjtfa3147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=269e7cfbbd459e2e0bf3bfd4-178328710242987&wsIPSercert=765d19b6535a8ac01427c57569e8e9e1&wsBindIP=2&wsserid=1168235283031012122"
+                          "url": "https://tfxb1gr4uqmtt8y41hcjz8rzd1pbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=14c06b90294daa39133930cf-178328769317130&wsIPSercert=f543bb828624963730441bf19c10db83&wsBindIP=2&wsserid=1168176346313714739"
                         }
                       ]
                     }
