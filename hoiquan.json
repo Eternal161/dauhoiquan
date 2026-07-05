@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "12:50 05/07/2026",
+  "last_updated": "13:00 05/07/2026",
   "groups": [
     {
       "id": "live",
@@ -43,51 +43,6 @@
                   "streams": [
                     {
                       "id": "kaytee-24f012f4ec93",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-1e55655d0c12",
-          "name": "⚽ Gwangju Fc vs Ulsan Hyundai Fc | Sắp diễn ra vs 17:30 05/07/2026",
-          "tournament": "K League 1",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/6/65/Gwangju_FC.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/2767.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/6/65/Gwangju_FC.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-1e55655d0c12",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-1e55655d0c12",
-                  "name": "Gwangju Fc vs Ulsan Hyundai Fc",
-                  "streams": [
-                    {
-                      "id": "kaytee-1e55655d0c12",
                       "name": "F",
                       "stream_links": []
                     }
@@ -448,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-f4e1e11324c5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-bc5a5aa3d8f1",
+          "name": "⚽ Nautico Recife vs Juventude | Sắp diễn ra vs 06:30 06/07/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/755.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/ro/thumb/c/cd/Juventude_logo.svg/1280px-Juventude_logo.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/755.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bc5a5aa3d8f1",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bc5a5aa3d8f1",
+                  "name": "Nautico Recife vs Juventude",
+                  "streams": [
+                    {
+                      "id": "kaytee-bc5a5aa3d8f1",
                       "name": "F",
                       "stream_links": []
                     }
