@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:30 06/07/2026",
+  "last_updated": "00:40 06/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-8fcbb0271442",
-          "name": "⚽ Tammeka vs Laagri | H2 - 72' 2 - 1 23:00 05/07/2026",
+          "name": "⚽ Tammeka vs Laagri | H2 - 82' 2 - 1 23:00 05/07/2026",
           "tournament": "Meistriliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/3530.png",
           "logo_khach": "https://media.api-sports.io/football/teams/18657.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fe3d81024b",
+                          "id": "lnk-96e7cbefa2",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxb0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd74cd9ba0c14603d7073e4b-178327266500105&wsIPSercert=7eb47018c6c17d1f00ec12aba5607a07&wsBindIP=2&wsserid=1168231589574964209"
+                          "url": "https://tfxb1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178327326466968&wsIPSercert=62b7c503b6497d49d083699adcdc7621&wsBindIP=2&wsserid=1168283323302724409"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-cc5f71e21052",
-          "name": "⚽ Macara vs Ldu De Quito | Sắp diễn ra vs 01:00 06/07/2026",
+          "name": "⚽ Macara vs Ldu De Quito | Sắp bắt đầu - null' 0 - 0 01:00 06/07/2026",
           "tournament": "Liga Pro",
           "logo_nha": "https://media.api-sports.io/football/teams/1155.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/e/e8/LDUQuitologo2.png",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,15 @@
                     {
                       "id": "kaytee-cc5f71e21052",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-76214eece5",
+                          "name": "BLV TÁO GIÀ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxb0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178327327342598&wsIPSercert=62b7c503b6497d49d083699adcdc7621&wsBindIP=2&wsserid=1168283323221983365"
+                        }
+                      ]
                     }
                   ]
                 }
