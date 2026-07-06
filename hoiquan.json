@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "10:00 06/07/2026",
+  "last_updated": "10:10 06/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-7df2c0af6509",
-          "name": "⚽ Mexico vs England | H2 - 90+9' 2 - 3 08:00 06/07/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/10.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-7df2c0af6509",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-7df2c0af6509",
-                  "name": "Mexico vs England",
-                  "streams": [
-                    {
-                      "id": "kaytee-7df2c0af6509",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dcad6eb21e",
-                          "name": "BLV LƯƠNG BỔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxc0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=571d2a4afe500643949a1324-178330686599185&wsIPSercert=3f36839fcc252f59315a2afc41d52bcf&wsBindIP=2&wsserid=1168283323250295406"
-                        },
-                        {
-                          "id": "lnk-4a1ceca2a7",
-                          "name": "BLV THẦN THÔNG",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfxc0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=fa48122a9729ac641f488d8a-178330687461689&wsIPSercert=3f36839fcc252f59315a2afc41d52bcf&wsBindIP=2&wsserid=1168283477165768522"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-d6e32b5e3987",
-          "name": "⚽ Alta vs Charlotte Independence | Sắp bắt đầu - null' 0 - 0 10:00 06/07/2026",
+          "name": "⚽ Alta vs Charlotte Independence | H1 - 4' 0 - 0 10:00 06/07/2026",
           "tournament": "USL League One",
           "logo_nha": "https://media.api-sports.io/football/teams/25838.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3991.png",
@@ -106,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e4c5d0e3f0",
+                          "id": "lnk-0cb4179b10",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxc0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178330688324221&wsIPSercert=3f36839fcc252f59315a2afc41d52bcf&wsBindIP=2&wsserid=1168283323302724409"
+                          "url": "https://tfxc0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=3ccefa48e510df8195afcf92-178330746621165&wsIPSercert=615711095cd8b6c5458d188793e3e116&wsBindIP=2&wsserid=1168202333418134578"
                         }
                       ]
                     }
@@ -471,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-cec94b0638a1",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-363ff47e6b0d",
+          "name": "⚽ Stars Fc vs Tucson | Sắp diễn ra vs 09:30 07/07/2026",
+          "tournament": "USL League Two",
+          "logo_nha": "https://media.api-sports.io/football/teams/25951.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4109.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/25951.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-363ff47e6b0d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-363ff47e6b0d",
+                  "name": "Stars Fc vs Tucson",
+                  "streams": [
+                    {
+                      "id": "kaytee-363ff47e6b0d",
                       "name": "F",
                       "stream_links": []
                     }
