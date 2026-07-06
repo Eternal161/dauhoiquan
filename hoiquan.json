@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:50 06/07/2026",
+  "last_updated": "21:01 06/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-b1c563379b74",
-          "name": "⚽ Nữ Kairat Almaty vs Nữ Zhetysu | Live 0 - 0 19:00 06/07/2026",
-          "tournament": "Ngoại hạng Kazakhstan",
-          "logo_nha": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh1n0jmd7o/image/small",
-          "logo_khach": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh1p1vmoep/image/small",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh1n0jmd7o/image/small",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b1c563379b74",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b1c563379b74",
-                  "name": "Nữ Kairat Almaty vs Nữ Zhetysu",
-                  "streams": [
-                    {
-                      "id": "kaytee-b1c563379b74",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-01d0b4137e",
-                          "name": "BLV PHAN ANH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxc1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=f191522ea6ad00e485395737-178334586074104&wsIPSercert=79c1c23d9578ede14406e2f1803a0a43&wsBindIP=2&wsserid=1168243256629514822"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-62cb6b55dbdc",
           "name": "⚽ Super Nova vs Ogre United | Sắp diễn ra vs 23:00 06/07/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-05bd9ab2004a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-4f14936234d1",
+          "name": "⚽ Spain U19 W vs Sweden U19 W | Sắp diễn ra vs 21:00 07/07/2026",
+          "tournament": "UEFA U19 Championship - Women",
+          "logo_nha": "https://media.api-sports.io/football/teams/19066.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/19067.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/19066.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4f14936234d1",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4f14936234d1",
+                  "name": "Spain U19 W vs Sweden U19 W",
+                  "streams": [
+                    {
+                      "id": "kaytee-4f14936234d1",
                       "name": "F",
                       "stream_links": []
                     }
