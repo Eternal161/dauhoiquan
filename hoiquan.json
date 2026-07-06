@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:31 07/07/2026",
+  "last_updated": "01:40 07/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c94b9e03fa4e",
-          "name": "⚽ Bk Hacken vs Djurgardens If | H2 - 73' 1 - 2 00:00 07/07/2026",
+          "name": "⚽ Bk Hacken vs Djurgardens If | H2 - 82' 1 - 3 00:00 07/07/2026",
           "tournament": "Allsvenskan",
           "logo_nha": "https://media.api-sports.io/football/teams/367.png",
           "logo_khach": "https://media.api-sports.io/football/teams/364.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b82feb13cb",
+                          "id": "lnk-604b533c14",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxc0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178336268308734&wsIPSercert=a4233e52b26fb262bea8129a1ee4f7fd&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfxc0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178336326353701&wsIPSercert=da50fe17cdcf479e69f2366743bdfa4e&wsBindIP=2&wsserid=1168283323221983365"
                         }
                       ]
                     }
@@ -99,18 +99,32 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-891ddbe69f",
+                          "id": "lnk-342c76a16b",
                           "name": "BLV PHAN MÃ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxc0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178336269184393&wsIPSercert=a4233e52b26fb262bea8129a1ee4f7fd&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfxc1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178336327201975&wsIPSercert=da50fe17cdcf479e69f2366743bdfa4e&wsBindIP=2&wsserid=1168283323406534424"
                         },
                         {
-                          "id": "lnk-cf0cc96d1b",
+                          "id": "lnk-4689440a0d",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxc0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=22dc27e5affbb6b58c947890-178336270059451&wsIPSercert=a4233e52b26fb262bea8129a1ee4f7fd&wsBindIP=2&wsserid=1168283323207303220"
+                          "url": "https://tfxc1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=22dc27e5affbb6b58c947890-178336328052958&wsIPSercert=da50fe17cdcf479e69f2366743bdfa4e&wsBindIP=2&wsserid=1168283323207303220"
+                        },
+                        {
+                          "id": "lnk-5937bf7a51",
+                          "name": "BLV LƯƠNG BỔNG",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfxc1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178336328882865&wsIPSercert=da50fe17cdcf479e69f2366743bdfa4e&wsBindIP=2&wsserid=1168283323406534424"
+                        },
+                        {
+                          "id": "lnk-373144c5c2",
+                          "name": "BLV PHAN CA",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfxc1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178336329813165&wsIPSercert=da50fe17cdcf479e69f2366743bdfa4e&wsBindIP=2&wsserid=1168283323302724409"
                         }
                       ]
                     }
