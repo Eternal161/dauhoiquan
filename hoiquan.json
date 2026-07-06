@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:11 07/07/2026",
+  "last_updated": "04:21 07/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-268445848737",
-          "name": "⚽ Portugal vs Spain | H2 - 90+9' 0 - 1 02:00 07/07/2026",
-          "tournament": "World CupW ( ĐẦU CẦU TRUNG LẬP )",
-          "logo_nha": "https://media.api-sports.io/football/teams/27.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/9.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/27.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-268445848737",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-268445848737",
-                  "name": "Portugal vs Spain",
-                  "streams": [
-                    {
-                      "id": "kaytee-268445848737",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f53af00060",
-                          "name": "BLV PHAN MÃ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-564025d351",
-                          "name": "BLV PHAN QUẨY",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfxc1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2405a2a24215f54d1eb1e38c-178337228368783&wsIPSercert=88b79c7bc61797e83d0b2c50250d143a&wsBindIP=2&wsserid=1168168154453604765"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-5a85a4b6f759",
           "name": "⚽ Botafogo Sp vs Avai | Sắp diễn ra vs 05:00 07/07/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-62efdb58ff97",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-34d99551b779",
+          "name": "⚽ Borac Banja Luka vs Levski Sofia | Sắp diễn ra vs 01:30 08/07/2026",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/3364.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/PFC_Levski_Sofia.svg/1200px-PFC_Levski_Sofia.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3364.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-34d99551b779",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-34d99551b779",
+                  "name": "Borac Banja Luka vs Levski Sofia",
+                  "streams": [
+                    {
+                      "id": "kaytee-34d99551b779",
                       "name": "F",
                       "stream_links": []
                     }
