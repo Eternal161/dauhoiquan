@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:51 06/07/2026",
+  "last_updated": "12:01 06/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-d6e32b5e3987",
-          "name": "⚽ Alta vs Charlotte Independence | H2 - 88' 0 - 1 10:00 06/07/2026",
-          "tournament": "USL League One",
-          "logo_nha": "https://media.api-sports.io/football/teams/25838.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/3991.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/25838.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-d6e32b5e3987",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-d6e32b5e3987",
-                  "name": "Alta vs Charlotte Independence",
-                  "streams": [
-                    {
-                      "id": "kaytee-d6e32b5e3987",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-aa4fda10a3",
-                          "name": "BLV PHAN CA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxc0gr4uqmtt8y41hcjsgyzdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178331346947296&wsIPSercert=4b9c8d45c26736f903463aef96108c18&wsBindIP=2&wsserid=1168283323302724409"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-c8e85c77498e",
           "name": "⚽ Ulaanbaatar vs Deren | Giữa Hiệp - 45+2' 0 - 2 11:00 06/07/2026",
@@ -99,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a3fe283360",
+                          "id": "lnk-88da6b8916",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxc0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178331347791699&wsIPSercert=4b9c8d45c26736f903463aef96108c18&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfxc1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0fecc200ad94635c875c47ce-178331408377089&wsIPSercert=1d077dfa217c1423129711530b3b639d&wsBindIP=2&wsserid=1168282035663924028"
                         }
                       ]
                     }
@@ -464,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-363ff47e6b0d",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-16a65ebb30d8",
+          "name": "⚽ Gold Coast Knights vs Lions | Sắp diễn ra vs 16:30 07/07/2026",
+          "tournament": "Queensland NPL",
+          "logo_nha": "https://media.api-sports.io/football/teams/10215.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10217.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/10215.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-16a65ebb30d8",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-16a65ebb30d8",
+                  "name": "Gold Coast Knights vs Lions",
+                  "streams": [
+                    {
+                      "id": "kaytee-16a65ebb30d8",
                       "name": "F",
                       "stream_links": []
                     }
