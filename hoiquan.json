@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:01 07/07/2026",
+  "last_updated": "03:10 07/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-268445848737",
-          "name": "⚽ Portugal vs Spain | Giữa Hiệp - 45+7' 0 - 0 02:00 07/07/2026",
+          "name": "⚽ Portugal vs Spain | H2 - 48' 0 - 0 02:00 07/07/2026",
           "tournament": "World CupW ( ĐẦU CẦU TRUNG LẬP )",
           "logo_nha": "https://media.api-sports.io/football/teams/27.png",
           "logo_khach": "https://media.api-sports.io/football/teams/9.png",
@@ -46,32 +46,32 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bdc37a85a6",
+                          "id": "lnk-638939a599",
                           "name": "BLV PHAN MÃ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxc1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=214abf917bf2df58627cf314-178336807447504&wsIPSercert=f69a8bb31e5e3f6152d39a797a4b906d&wsBindIP=2&wsserid=1168283323432748950"
+                          "url": "https://tfxc0gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c202e8eb0a9576b5eb413b38-178336866179064&wsIPSercert=d230536469a0ed7a44f1b7c75c27f1d5&wsBindIP=2&wsserid=1168231589578109987"
                         },
                         {
-                          "id": "lnk-b571438fd4",
+                          "id": "lnk-fd87bbfe8a",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxc1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=214abf917bf2df58627cf314-178336808305334&wsIPSercert=f69a8bb31e5e3f6152d39a797a4b906d&wsBindIP=2&wsserid=1168283323432748950"
+                          "url": "https://tfxc0gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=c202e8eb0a9576b5eb413b38-178336867040043&wsIPSercert=d230536469a0ed7a44f1b7c75c27f1d5&wsBindIP=2&wsserid=1168231589578109987"
                         },
                         {
-                          "id": "lnk-5c53716fab",
+                          "id": "lnk-e20bafb141",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxc1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178336809179806&wsIPSercert=f69a8bb31e5e3f6152d39a797a4b906d&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfxc0gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c202e8eb0a9576b5eb413b38-178336867894827&wsIPSercert=d230536469a0ed7a44f1b7c75c27f1d5&wsBindIP=2&wsserid=1168231589578109987"
                         },
                         {
-                          "id": "lnk-3a2fcf8644",
+                          "id": "lnk-043e5d3fa0",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxc1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178336810003199&wsIPSercert=f69a8bb31e5e3f6152d39a797a4b906d&wsBindIP=2&wsserid=1168283323302724409"
+                          "url": "https://tfxc0gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=fd74cd9ba0c14603d7073e4b-178336868723085&wsIPSercert=d230536469a0ed7a44f1b7c75c27f1d5&wsBindIP=2&wsserid=1168231589574964209"
                         }
                       ]
                     }
