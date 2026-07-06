@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:30 06/07/2026",
+  "last_updated": "07:40 06/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-bc5a5aa3d8f1",
-          "name": "⚽ Nautico Recife vs Juventude | Giữa Hiệp - 45+5' 0 - 0 06:30 06/07/2026",
+          "name": "⚽ Nautico Recife vs Juventude | H2 - 48' 0 - 0 06:30 06/07/2026",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/755.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/ro/thumb/c/cd/Juventude_logo.svg/1280px-Juventude_logo.svg.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fe094dbef0",
+                          "id": "lnk-c9a152765c",
                           "name": "BLV PHAN ANH",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxc1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=163da5e11d1fcb3ff420b66f-178329786715241&wsIPSercert=33a5ae09833e61ab8218edc7d332baea&wsBindIP=2&wsserid=1168243344275968966"
+                          "url": "https://tfxc1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=163da5e11d1fcb3ff420b66f-178329845773241&wsIPSercert=599d2ad4ccfbab0b7bb6a2dbd1283fec&wsBindIP=2&wsserid=1168243344275968966"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-7df2c0af6509",
-          "name": "⚽ Mexico vs England | Sắp diễn ra vs 08:00 06/07/2026",
+          "name": "⚽ Mexico vs England | Sắp bắt đầu - null' 0 - 0 08:00 06/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10.png",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,22 @@
                     {
                       "id": "kaytee-7df2c0af6509",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-42f392ad48",
+                          "name": "BLV LƯƠNG BỔNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxc1gr3uomttgr31hcj18yzd1p3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=9d62b33910220ef0e93c95c7-178329846615766&wsIPSercert=599d2ad4ccfbab0b7bb6a2dbd1283fec&wsBindIP=2&wsserid=1168243256654681122"
+                        },
+                        {
+                          "id": "lnk-711a15d85d",
+                          "name": "BLV THẦN THÔNG",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfxc1gr3uomttgr31hcj18yzd1p3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=163da5e11d1fcb3ff420b66f-178329847503484&wsIPSercert=599d2ad4ccfbab0b7bb6a2dbd1283fec&wsBindIP=2&wsserid=1168243344275968966"
+                        }
+                      ]
                     }
                   ]
                 }
