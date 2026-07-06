@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:31 06/07/2026",
+  "last_updated": "18:40 06/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b1c563379b74",
-          "name": "⚽ Nữ Kairat Almaty vs Nữ Zhetysu | Sắp diễn ra vs 19:00 06/07/2026",
+          "name": "⚽ Nữ Kairat Almaty vs Nữ Zhetysu | Live 0 - 0 19:00 06/07/2026",
           "tournament": "Ngoại hạng Kazakhstan",
           "logo_nha": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh1n0jmd7o/image/small",
           "logo_khach": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh1p1vmoep/image/small",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "kaytee-b1c563379b74",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-4af66d23d1",
+                          "name": "BLV PHAN ANH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
