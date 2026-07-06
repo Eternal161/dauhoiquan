@@ -1,18 +1,18 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:00 06/07/2026",
+  "last_updated": "18:11 06/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-bc029de54b17",
-          "name": "⚽ Cracovia Krakow vs Başakşehir | Sắp diễn ra vs 19:00 06/07/2026",
-          "tournament": "Friendlies Clubs",
-          "logo_nha": "https://media.api-sports.io/football/teams/350.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/564.png",
+          "id": "kaytee-b1c563379b74",
+          "name": "⚽ Nữ Kairat Almaty vs Nữ Zhetysu | Sắp diễn ra vs 19:00 06/07/2026",
+          "tournament": "Ngoại hạng Kazakhstan",
+          "logo_nha": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh1n0jmd7o/image/small",
+          "logo_khach": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh1p1vmoep/image/small",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -20,7 +20,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/350.png",
+            "url": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh1n0jmd7o/image/small",
             "width": 1600,
             "height": 1200
           },
@@ -34,15 +34,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-bc029de54b17",
+              "id": "kaytee-b1c563379b74",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-bc029de54b17",
-                  "name": "Cracovia Krakow vs Başakşehir",
+                  "id": "kaytee-b1c563379b74",
+                  "name": "Nữ Kairat Almaty vs Nữ Zhetysu",
                   "streams": [
                     {
-                      "id": "kaytee-bc029de54b17",
+                      "id": "kaytee-b1c563379b74",
                       "name": "F",
                       "stream_links": []
                     }
@@ -143,9 +143,9 @@
           ]
         },
         {
-          "id": "kaytee-3aa7cc1f610f",
+          "id": "kaytee-268445848737",
           "name": "⚽ Portugal vs Spain | Sắp diễn ra vs 02:00 07/07/2026",
-          "tournament": "World Cup",
+          "tournament": "World CupW ( ĐẦU CẦU TRUNG LẬP )",
           "logo_nha": "https://media.api-sports.io/football/teams/27.png",
           "logo_khach": "https://media.api-sports.io/football/teams/9.png",
           "type": "single",
@@ -169,15 +169,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-3aa7cc1f610f",
+              "id": "kaytee-268445848737",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-3aa7cc1f610f",
+                  "id": "kaytee-268445848737",
                   "name": "Portugal vs Spain",
                   "streams": [
                     {
-                      "id": "kaytee-3aa7cc1f610f",
+                      "id": "kaytee-268445848737",
                       "name": "F",
                       "stream_links": []
                     }
