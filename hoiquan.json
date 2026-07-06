@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:01 06/07/2026",
+  "last_updated": "16:11 06/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-a9c602ebde4f",
-          "name": "⚽ Khangarid vs Central Stallions | H2 - 90+6' 0 - 1 14:00 06/07/2026",
-          "tournament": "Premier League",
-          "logo_nha": "https://media.api-sports.io/football/teams/16187.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/22067.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/16187.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a9c602ebde4f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a9c602ebde4f",
-                  "name": "Khangarid vs Central Stallions",
-                  "streams": [
-                    {
-                      "id": "kaytee-a9c602ebde4f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-af758ec72c",
-                          "name": "BLV PHAN CA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-bc029de54b17",
           "name": "⚽ Cracovia Krakow vs Başakşehir | Sắp diễn ra vs 19:00 06/07/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-a56684c33a0c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-05bd9ab2004a",
+          "name": "⚽ Drukpa vs Thimphu | Sắp diễn ra vs 19:00 07/07/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/27725.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/5591.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/27725.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-05bd9ab2004a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-05bd9ab2004a",
+                  "name": "Drukpa vs Thimphu",
+                  "streams": [
+                    {
+                      "id": "kaytee-05bd9ab2004a",
                       "name": "F",
                       "stream_links": []
                     }
