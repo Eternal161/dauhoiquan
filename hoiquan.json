@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "13:31 06/07/2026",
+  "last_updated": "13:40 06/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-a9c602ebde4f",
-          "name": "⚽ Khangarid vs Central Stallions | Sắp diễn ra vs 14:00 06/07/2026",
+          "name": "⚽ Khangarid vs Central Stallions | Sắp bắt đầu - null' 0 - 0 14:00 06/07/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/16187.png",
           "logo_khach": "https://media.api-sports.io/football/teams/22067.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "kaytee-a9c602ebde4f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-2362207d03",
+                          "name": "BLV PHAN CA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxc0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178332005786094&wsIPSercert=fc9681e1d570b4d4468dee4194328989&wsBindIP=2&wsserid=1168283323302724409"
+                        }
+                      ]
                     }
                   ]
                 }
