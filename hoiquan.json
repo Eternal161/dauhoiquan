@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:50 07/07/2026",
+  "last_updated": "00:01 08/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1829523783ca",
-          "name": "⚽ Argentina vs Egypt | H1 - 45+4' 0 - 1 23:00 07/07/2026",
+          "name": "⚽ Argentina vs Egypt | Giữa Hiệp - 45' 0 - 1 23:00 07/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
@@ -46,32 +46,32 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-421772b12a",
+                          "id": "lnk-d7f0c5fc02",
                           "name": "BLV PHAN MÃ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxd1gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178344306494952&wsIPSercert=13c7981c59c9e6a96fd334b17410f3d6&wsBindIP=2&wsserid=1177063474757376778"
+                          "url": "https://tfxd4gchnhcjo8rzdrpjtfa3144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2f799863f55cde7f365f1337-178344368121828&wsIPSercert=d7360253ffba114fa09816b2376617d0&wsBindIP=2&wsserid=1168168154460945005"
                         },
                         {
-                          "id": "lnk-a46497765a",
+                          "id": "lnk-e30c4863f2",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxd1gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178344307350816&wsIPSercert=13c7981c59c9e6a96fd334b17410f3d6&wsBindIP=2&wsserid=1177063474757376778"
+                          "url": "https://tfxd4gchnhcjo8rzdrpjtfa3144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2f799863f55cde7f365f1337-178344368949384&wsIPSercert=d7360253ffba114fa09816b2376617d0&wsBindIP=2&wsserid=1168168154460945005"
                         },
                         {
-                          "id": "lnk-bdb88350cc",
+                          "id": "lnk-18a7cf0405",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxd1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=349560c79a44166872039751-178344308223421&wsIPSercert=13c7981c59c9e6a96fd334b17410f3d6&wsBindIP=2&wsserid=1168282035622980969"
+                          "url": "https://tfxd1gr3uomttgr31hcj3fa3dkcbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=269e7cfbbd459e2e0bf3bfd4-178344369851085&wsIPSercert=d7360253ffba114fa09816b2376617d0&wsBindIP=2&wsserid=1168235283031012122"
                         },
                         {
-                          "id": "lnk-32340b26e8",
+                          "id": "lnk-fa149921d7",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxd1gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178344309037709&wsIPSercert=13c7981c59c9e6a96fd334b17410f3d6&wsBindIP=2&wsserid=1177063474757376778"
+                          "url": "https://tfxd4gchnhcjo8rzdrpjtfa3144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2f799863f55cde7f365f1337-178344370654852&wsIPSercert=d7360253ffba114fa09816b2376617d0&wsBindIP=2&wsserid=1168168154460945005"
                         }
                       ]
                     }
@@ -120,64 +120,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-50130f58fd",
+                          "id": "lnk-5447dc7353",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxd1gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178344309913583&wsIPSercert=13c7981c59c9e6a96fd334b17410f3d6&wsBindIP=2&wsserid=1177063474757376778"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-47341b63c55f",
-          "name": "⚽ Indonesia vs Indonesia | Live 0 - 0 00:00 08/07/2026",
-          "tournament": "Hạng 2 Trung Quốc",
-          "logo_nha": "https://i.imgur.com/P4sNAMH.png",
-          "logo_khach": "https://i.imgur.com/P4sNAMH.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://i.imgur.com/P4sNAMH.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-47341b63c55f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-47341b63c55f",
-                  "name": "Indonesia vs Indonesia",
-                  "streams": [
-                    {
-                      "id": "kaytee-47341b63c55f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-187f987943",
-                          "name": "BLV PHAN TỪ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8"
+                          "url": "https://tfxd4gchnhcjo8rzdrpjtfa3144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=2f799863f55cde7f365f1337-178344371533344&wsIPSercert=d7360253ffba114fa09816b2376617d0&wsBindIP=2&wsserid=1168168154460945005"
                         }
                       ]
                     }
@@ -493,6 +440,51 @@
                   "streams": [
                     {
                       "id": "kaytee-e07abadaef36",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-bef22e035e6f",
+          "name": "⚽ Alay vs Toktogul | Sắp diễn ra vs 21:00 08/07/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/8022.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/27550.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/8022.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bef22e035e6f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bef22e035e6f",
+                  "name": "Alay vs Toktogul",
+                  "streams": [
+                    {
+                      "id": "kaytee-bef22e035e6f",
                       "name": "F",
                       "stream_links": []
                     }
