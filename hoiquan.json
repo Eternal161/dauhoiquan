@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:20 07/07/2026",
+  "last_updated": "08:30 07/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-cec94b0638a1",
-          "name": "⚽ Usa vs Belgium | H2 - 57' 1 - 3 07:00 07/07/2026",
+          "name": "⚽ Usa vs Belgium | H2 - 67' 1 - 3 07:00 07/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1.png",
@@ -46,18 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ad5c49f5ab",
+                          "id": "lnk-7a2939b1d4",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxd1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f5f570a3bb9d14f558978d9a-178338726527169&wsIPSercert=85d18910c0ddce295b87c25b98332af3&wsBindIP=2&wsserid=1168282037991221552"
+                          "url": "https://tfxd0gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=888d29275c171651bfd71aa6-178338786826674&wsIPSercert=a3f386ddff448dd4aa31ddd0bab15d8f&wsBindIP=2&wsserid=1168231785641135723"
                         },
                         {
-                          "id": "lnk-10680756e5",
+                          "id": "lnk-460977f3e5",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxd1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=f5f570a3bb9d14f558978d9a-178338727373260&wsIPSercert=85d18910c0ddce295b87c25b98332af3&wsBindIP=2&wsserid=1168282037991221552"
+                          "url": "https://tfxd0gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=888d29275c171651bfd71aa6-178338787699233&wsIPSercert=a3f386ddff448dd4aa31ddd0bab15d8f&wsBindIP=2&wsserid=1168231785641135723"
                         }
                       ]
                     }
