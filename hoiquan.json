@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "16:40 07/07/2026",
+  "last_updated": "16:50 07/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-16a65ebb30d8",
-          "name": "⚽ Gold Coast Knights vs Lions | H1 - 10' 0 - 1 16:30 07/07/2026",
+          "name": "⚽ Gold Coast Knights vs Lions | H1 - 21' 0 - 1 16:30 07/07/2026",
           "tournament": "Queensland NPL",
           "logo_nha": "https://media.api-sports.io/football/teams/10215.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10217.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ac20384861",
+                          "id": "lnk-142f55b399",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxd1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0fecc200ad94635c875c47ce-178341726309714&wsIPSercert=32cf0396295f572a494cdcd08a22e776&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfxd0gr4uqmtt8y41hcjsgyzdnpbufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f447814a1fff598df910f9f5-178341786104362&wsIPSercert=dcfd3fd364373b800ae50a829b7802b8&wsBindIP=2&wsserid=1168231589572867007"
                         }
                       ]
                     }
@@ -99,7 +99,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3be864e9a3",
+                          "id": "lnk-c4fe18776c",
                           "name": "BLV PHAN ANH",
                           "type": "hls",
                           "default": true,
