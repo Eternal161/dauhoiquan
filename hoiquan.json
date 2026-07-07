@@ -1,75 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:01 07/07/2026",
+  "last_updated": "09:11 07/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-cec94b0638a1",
-          "name": "⚽ Usa vs Belgium | H2 - 90+5' 1 - 4 07:00 07/07/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/2384.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2384.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-cec94b0638a1",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-cec94b0638a1",
-                  "name": "Usa vs Belgium",
-                  "streams": [
-                    {
-                      "id": "kaytee-cec94b0638a1",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cbc1b82cb1",
-                          "name": "BLV LƯƠNG BỔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxd1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f5f570a3bb9d14f558978d9a-178338967117191&wsIPSercert=ec46e2656826424017c2ee8d6b3a8eaf&wsBindIP=2&wsserid=1168282037991221552"
-                        },
-                        {
-                          "id": "lnk-23fe394654",
-                          "name": "BLV PHAN QUẨY",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-363ff47e6b0d",
-          "name": "⚽ Stars Fc vs Tucson | Sắp diễn ra vs 09:30 07/07/2026",
+          "name": "⚽ Stars Fc vs Tucson | Sắp bắt đầu - null' 0 - 0 09:30 07/07/2026",
           "tournament": "USL League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/25951.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4109.png",
@@ -86,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -104,7 +44,15 @@
                     {
                       "id": "kaytee-363ff47e6b0d",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-bb2c821474",
+                          "name": "BLV PHAN CA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxd4gchnhcjo8rzdrpjtfa4144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=2405a2a24215f54d1eb1e38c-178339028709719&wsIPSercert=0cc4072fe4f2b3b36ae0db82d91d4d62&wsBindIP=2&wsserid=1168168154453604765"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -463,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-00ca326c1828",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f66c437a4cfa",
+          "name": "⚽ Athletic Club vs Operario-Pr | Sắp diễn ra vs 06:00 08/07/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/1223.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f66c437a4cfa",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f66c437a4cfa",
+                  "name": "Athletic Club vs Operario-Pr",
+                  "streams": [
+                    {
+                      "id": "kaytee-f66c437a4cfa",
                       "name": "F",
                       "stream_links": []
                     }
