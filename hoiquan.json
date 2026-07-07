@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:20 07/07/2026",
+  "last_updated": "18:31 07/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-16a65ebb30d8",
-          "name": "⚽ Gold Coast Knights vs Lions | H2 - 90+5' 2 - 1 16:30 07/07/2026",
-          "tournament": "Queensland NPL",
-          "logo_nha": "https://media.api-sports.io/football/teams/10215.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/10217.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10215.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-16a65ebb30d8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-16a65ebb30d8",
-                  "name": "Gold Coast Knights vs Lions",
-                  "streams": [
-                    {
-                      "id": "kaytee-16a65ebb30d8",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6b52ff079a",
-                          "name": "BLV TÁO GIÀ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxd1gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f7c12a09cf3db87c15168f56-178342326267113&wsIPSercert=2fb5f2313db6d4cfbf3edd0d29de0573&wsBindIP=2&wsserid=1168243343857585137"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-a56684c33a0c",
-          "name": "⚽ Hwacheon Kspo W vs Suwon Fmc | H2 - 56' 0 - 1 17:00 07/07/2026",
+          "name": "⚽ Hwacheon Kspo W vs Suwon Fmc | H2 - 67' 0 - 2 17:00 07/07/2026",
           "tournament": "WK-League",
           "logo_nha": "https://media.api-sports.io/football/teams/14376.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Suwon_FC_2016.svg/1280px-Suwon_FC_2016.svg.png",
@@ -99,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e0f8fc3304",
+                          "id": "lnk-ad79743cc3",
                           "name": "BLV PHAN ANH",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxd1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=f191522ea6ad00e485395737-178342327086227&wsIPSercert=2fb5f2313db6d4cfbf3edd0d29de0573&wsBindIP=2&wsserid=1168243256629514822"
+                          "url": "https://tfxd1gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=7d7d8c99c06f93d847c9d109-178342388563837&wsIPSercert=bbd8324e092a944588c75cd0d8a0ddc7&wsBindIP=2&wsserid=1177063474750036592"
                         }
                       ]
                     }
@@ -464,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-fa1cab66f1ea",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-fe0abae107f2",
+          "name": "⚽ Xi'An Ronghai vs Dalian Kewei | Sắp diễn ra vs 15:00 08/07/2026",
+          "tournament": "League Two",
+          "logo_nha": "https://media.api-sports.io/football/teams/20674.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/27620.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/20674.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-fe0abae107f2",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-fe0abae107f2",
+                  "name": "Xi'An Ronghai vs Dalian Kewei",
+                  "streams": [
+                    {
+                      "id": "kaytee-fe0abae107f2",
                       "name": "F",
                       "stream_links": []
                     }
