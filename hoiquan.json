@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:11 08/07/2026",
+  "last_updated": "02:20 08/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-34d99551b779",
-          "name": "⚽ Borac Banja Luka vs Levski Sofia | H1 - 40' 1 - 0 01:30 08/07/2026",
+          "name": "⚽ Borac Banja Luka vs Levski Sofia | Giữa Hiệp - 45+3' 1 - 0 01:30 08/07/2026",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://media.api-sports.io/football/teams/3364.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDaDL_2F2OigD_eXT85xFeJ0dleFUh8_E22fGsz9Yj6g&s",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-79fe62ced4",
+                          "id": "lnk-1110194622",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxd0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178345147094455&wsIPSercert=47774326447591c9e1fea3b5c6aaeb22&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfxd1gr3uomttgr31hcj18yzd1c3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=dd65a829423b7a9bfc19eadf-178345206486548&wsIPSercert=b21196a17458b641392ddc86d2053742&wsBindIP=2&wsserid=1168243256623223254"
                         }
                       ]
                     }
@@ -99,18 +99,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5ea4ee3f43",
+                          "id": "lnk-c187f16acb",
                           "name": "BLV PHAN MÃ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxd1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178345147978449&wsIPSercert=47774326447591c9e1fea3b5c6aaeb22&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfxd4gchnhcjo8rzdrpjtfahn44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2f799863f55cde7f365f1337-178345207362457&wsIPSercert=b21196a17458b641392ddc86d2053742&wsBindIP=2&wsserid=1168168154460945005"
                         },
                         {
-                          "id": "lnk-c1b0e46926",
+                          "id": "lnk-e6a830b765",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxd1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178345149643141&wsIPSercert=47774326447591c9e1fea3b5c6aaeb22&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfxd4gchnhcjo8rzdrpjtfahn44dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=269e7cfbbd459e2e0bf3bfd4-178345209030204&wsIPSercert=b21196a17458b641392ddc86d2053742&wsBindIP=2&wsserid=1168235283031012122"
                         }
                       ]
                     }
