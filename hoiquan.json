@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:01 08/07/2026",
+  "last_updated": "03:10 08/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-34d99551b779",
-          "name": "⚽ Borac Banja Luka vs Levski Sofia | H2 - 71' 1 - 1 01:30 08/07/2026",
+          "name": "⚽ Borac Banja Luka vs Levski Sofia | H2 - 81' 1 - 1 01:30 08/07/2026",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://media.api-sports.io/football/teams/3364.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDaDL_2F2OigD_eXT85xFeJ0dleFUh8_E22fGsz9Yj6g&s",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4b2d858fc7",
+                          "id": "lnk-39490f213d",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxd1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0fecc200ad94635c875c47ce-178345447230721&wsIPSercert=b23c076a7fb0f455a782618f28d96ff7&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfxd4gchnhcjo8rzdrpjtfa3147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=269e7cfbbd459e2e0bf3bfd4-178345506495471&wsIPSercert=7fdf7dd149e7cc7de21b4a21ba3c3fac&wsBindIP=2&wsserid=1168235283031012122"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-00ca326c1828",
-          "name": "⚽ Switzerland vs Colombia | H1 - 1' 0 - 0 03:00 08/07/2026",
+          "name": "⚽ Switzerland vs Colombia | H1 - 10' 0 - 0 03:00 08/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
@@ -99,32 +99,32 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-dd91c3084b",
+                          "id": "lnk-9ca89bddd8",
                           "name": "BLV PHAN MÃ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxd1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0fecc200ad94635c875c47ce-178345448107742&wsIPSercert=b23c076a7fb0f455a782618f28d96ff7&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfxd1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2405a2a24215f54d1eb1e38c-178345507377275&wsIPSercert=7fdf7dd149e7cc7de21b4a21ba3c3fac&wsBindIP=2&wsserid=1168168154453604765"
                         },
                         {
-                          "id": "lnk-ab63990b3b",
+                          "id": "lnk-17ecc3619a",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxd1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178345448967886&wsIPSercert=b23c076a7fb0f455a782618f28d96ff7&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfxd4gchnhcjo8rzdrpjtfa3147drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=57088f3cd5f87cc826484c92-178345508216661&wsIPSercert=7fdf7dd149e7cc7de21b4a21ba3c3fac&wsBindIP=2&wsserid=1168168154459896377"
                         },
                         {
-                          "id": "lnk-41a32227a0",
+                          "id": "lnk-5ee2ceaf22",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxd1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178345449780235&wsIPSercert=b23c076a7fb0f455a782618f28d96ff7&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfxd1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2405a2a24215f54d1eb1e38c-178345509047415&wsIPSercert=7fdf7dd149e7cc7de21b4a21ba3c3fac&wsBindIP=2&wsserid=1168168154453604765"
                         },
                         {
-                          "id": "lnk-8b44ce6094",
+                          "id": "lnk-632796f4a2",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxd1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178345450646324&wsIPSercert=b23c076a7fb0f455a782618f28d96ff7&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfxd1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2405a2a24215f54d1eb1e38c-178345509930719&wsIPSercert=7fdf7dd149e7cc7de21b4a21ba3c3fac&wsBindIP=2&wsserid=1168168154453604765"
                         }
                       ]
                     }
