@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:50 08/07/2026",
+  "last_updated": "02:01 08/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-62efdb58ff97",
-          "name": "⚽ Vardar Skopje vs Kups | H2 - 90' 0 - 2 00:00 08/07/2026",
-          "tournament": "UEFA Champions League",
-          "logo_nha": "https://media.api-sports.io/football/teams/574.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/574.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-62efdb58ff97",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-62efdb58ff97",
-                  "name": "Vardar Skopje vs Kups",
-                  "streams": [
-                    {
-                      "id": "kaytee-62efdb58ff97",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-81c0f53d77",
-                          "name": "BLV PHAN CA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxd0gr4uqmtt8y41hcjsgyzdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178345026419692&wsIPSercert=53d007772cc1b823341a05cc0cdc5d30&wsBindIP=2&wsserid=1168283323302724409"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-34d99551b779",
-          "name": "⚽ Borac Banja Luka vs Levski Sofia | H1 - 20' 1 - 0 01:30 08/07/2026",
+          "name": "⚽ Borac Banja Luka vs Levski Sofia | H1 - 31' 1 - 0 01:30 08/07/2026",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://media.api-sports.io/football/teams/3364.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDaDL_2F2OigD_eXT85xFeJ0dleFUh8_E22fGsz9Yj6g&s",
@@ -99,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ae4970a911",
+                          "id": "lnk-8f18a99f63",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxd0gr4uqmtt8y41hcjsgyzdnpbufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f447814a1fff598df910f9f5-178345027284399&wsIPSercert=53d007772cc1b823341a05cc0cdc5d30&wsBindIP=2&wsserid=1168231589572867007"
+                          "url": "https://tfxd0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178345087808425&wsIPSercert=1df5ce7638f8ea4e48bf8591453f1e1e&wsBindIP=2&wsserid=1168283323221983365"
                         }
                       ]
                     }
@@ -464,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-a61ab72da0bd",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d9e8f951e2c9",
+          "name": "⚽ Flora Tallinn vs Saburtalo | Sắp diễn ra vs 23:00 08/07/2026",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/FC_Flora_logo.svg/250px-FC_Flora_logo.svg.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3502.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/FC_Flora_logo.svg/250px-FC_Flora_logo.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d9e8f951e2c9",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d9e8f951e2c9",
+                  "name": "Flora Tallinn vs Saburtalo",
+                  "streams": [
+                    {
+                      "id": "kaytee-d9e8f951e2c9",
                       "name": "F",
                       "stream_links": []
                     }
