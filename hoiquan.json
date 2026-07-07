@@ -1,82 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:20 08/07/2026",
+  "last_updated": "01:31 08/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-82e5c1e64131",
-          "name": "⚽ Argentina vs Egypt | H2 - 90+11' 3 - 2 23:00 07/07/2026",
-          "tournament": "World CupW ( FAN A SI )",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
-          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-82e5c1e64131",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-82e5c1e64131",
-                  "name": "Argentina vs Egypt",
-                  "streams": [
-                    {
-                      "id": "kaytee-82e5c1e64131",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e58ceafb89",
-                          "name": "BLV LƯƠNG BỔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxd1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178344846040125&wsIPSercert=7f6db75d7bf57b07094e805591b3c1b1&wsBindIP=2&wsserid=1168283323406534424"
-                        },
-                        {
-                          "id": "lnk-c056e386a1",
-                          "name": "BLV THẦN THÔNG",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfxd0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178344846907735&wsIPSercert=7f6db75d7bf57b07094e805591b3c1b1&wsBindIP=2&wsserid=1168283323406534424"
-                        },
-                        {
-                          "id": "lnk-1c0683713d",
-                          "name": "BLV PHAN QUẨY",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-62efdb58ff97",
-          "name": "⚽ Vardar Skopje vs Kups | H2 - 60' 0 - 2 00:00 08/07/2026",
+          "name": "⚽ Vardar Skopje vs Kups | H2 - 70' 0 - 2 00:00 08/07/2026",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://media.api-sports.io/football/teams/574.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
@@ -113,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9bea87b9d2",
+                          "id": "lnk-d3004d7937",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxd1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178344848595095&wsIPSercert=7f6db75d7bf57b07094e805591b3c1b1&wsBindIP=2&wsserid=1168283323302724409"
+                          "url": "https://tfxd1gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=2f799863f55cde7f365f1337-178344908024469&wsIPSercert=a60b30209b6e7f92c16f35e308d1950c&wsBindIP=2&wsserid=1168168154460945005"
                         }
                       ]
                     }
@@ -166,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7213ab102a",
+                          "id": "lnk-d6293ea25c",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxd0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178344849476831&wsIPSercert=7f6db75d7bf57b07094e805591b3c1b1&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfxd1gr3uomttgr31hctsfaau1ptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f8297f23ac177a648779645f-178344908884405&wsIPSercert=a60b30209b6e7f92c16f35e308d1950c&wsBindIP=2&wsserid=1168056276211756464"
                         }
                       ]
                     }
@@ -486,6 +419,51 @@
                   "streams": [
                     {
                       "id": "kaytee-bef22e035e6f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-a61ab72da0bd",
+          "name": "⚽ Kairat Almaty vs Sutjeska | Sắp diễn ra vs 22:00 08/07/2026",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FCKairat_logo.png/250px-FCKairat_logo.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/673.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FCKairat_logo.png/250px-FCKairat_logo.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a61ab72da0bd",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a61ab72da0bd",
+                  "name": "Kairat Almaty vs Sutjeska",
+                  "streams": [
+                    {
+                      "id": "kaytee-a61ab72da0bd",
                       "name": "F",
                       "stream_links": []
                     }
