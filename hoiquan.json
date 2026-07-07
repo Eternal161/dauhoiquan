@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:40 08/07/2026",
+  "last_updated": "00:50 08/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1829523783ca",
-          "name": "⚽ Argentina vs Egypt | H2 - 77' 0 - 2 23:00 07/07/2026",
+          "name": "⚽ Argentina vs Egypt | H2 - 87' 2 - 2 23:00 07/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
@@ -46,32 +46,32 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c7a2c0a40e",
+                          "id": "lnk-0bf1f81c4b",
                           "name": "BLV PHAN MÃ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxd4gchnhcjo8rzdrpjtfa3144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2f799863f55cde7f365f1337-178344606291228&wsIPSercert=5094ff0735bececba24bf2a074bb16cc&wsBindIP=2&wsserid=1168168154460945005"
+                          "url": "https://tfxd0gr4uqmtt8y41hcjsgyzdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=571d2a4afe500643949a1324-178344666327644&wsIPSercert=f6f77bff2ce1e60e973163eb70a11731&wsBindIP=2&wsserid=1168283323250295406"
                         },
                         {
-                          "id": "lnk-85b417bbf1",
+                          "id": "lnk-9cdba277bd",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxd4gchnhcjo8rzdrpjtfa3144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2f799863f55cde7f365f1337-178344607149682&wsIPSercert=5094ff0735bececba24bf2a074bb16cc&wsBindIP=2&wsserid=1168168154460945005"
+                          "url": "https://tfxd0gr4uqmtt8y41hcjsgyzdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=571d2a4afe500643949a1324-178344667185766&wsIPSercert=f6f77bff2ce1e60e973163eb70a11731&wsBindIP=2&wsserid=1168283323250295406"
                         },
                         {
-                          "id": "lnk-1d22fe1756",
+                          "id": "lnk-fcfb161114",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxd4gchnhcjo8rzdrpjtfahn47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=57088f3cd5f87cc826484c92-178344608029241&wsIPSercert=5094ff0735bececba24bf2a074bb16cc&wsBindIP=2&wsserid=1168168154459896377"
+                          "url": "https://tfxd0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f447814a1fff598df910f9f5-178344668068635&wsIPSercert=f6f77bff2ce1e60e973163eb70a11731&wsBindIP=2&wsserid=1168231589572867007"
                         },
                         {
-                          "id": "lnk-59d2b01e50",
+                          "id": "lnk-90ac5abf89",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxd4gchnhcjo8rzdrpjtfa3144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2f799863f55cde7f365f1337-178344608845706&wsIPSercert=5094ff0735bececba24bf2a074bb16cc&wsBindIP=2&wsserid=1168168154460945005"
+                          "url": "https://tfxd0gr4uqmtt8y41hcjsgyzdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=571d2a4afe500643949a1324-178344668878039&wsIPSercert=f6f77bff2ce1e60e973163eb70a11731&wsBindIP=2&wsserid=1168283323250295406"
                         }
                       ]
                     }
@@ -83,7 +83,7 @@
         },
         {
           "id": "kaytee-62efdb58ff97",
-          "name": "⚽ Vardar Skopje vs Kups | H1 - 41' 0 - 0 00:00 08/07/2026",
+          "name": "⚽ Vardar Skopje vs Kups | H1 - 45+5' 0 - 1 00:00 08/07/2026",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://media.api-sports.io/football/teams/574.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
@@ -120,11 +120,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ab70aa4439",
+                          "id": "lnk-4ce7687600",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxd4gchnhcjo8rzdrpjtfa3144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=2f799863f55cde7f365f1337-178344609728280&wsIPSercert=5094ff0735bececba24bf2a074bb16cc&wsBindIP=2&wsserid=1168168154460945005"
+                          "url": "https://tfxd0gr4uqmtt8y41hcjsgyzdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178344669769578&wsIPSercert=f6f77bff2ce1e60e973163eb70a11731&wsBindIP=2&wsserid=1168283323302724409"
                         }
                       ]
                     }
