@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:50 08/07/2026",
+  "last_updated": "21:01 08/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-ca3e79446692",
-          "name": "⚽ Alay vs Toktogul | Sắp bắt đầu - null' 0 - 0 21:00 08/07/2026",
-          "tournament": "VĐQG Kyrgyzstan",
-          "logo_nha": "https://media.api-sports.io/football/teams/8022.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/27550.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/8022.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ca3e79446692",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ca3e79446692",
-                  "name": "Alay vs Toktogul",
-                  "streams": [
-                    {
-                      "id": "kaytee-ca3e79446692",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6aa1f0373b",
-                          "name": "BLV LƯƠNG BỔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxe0gr4uqmtt8y41hcjsgyzdnpbafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2b146be960692448c3ec925f-178351866101357&wsIPSercert=3a7b29c47f71270b15f95fa174ed3798&wsBindIP=2&wsserid=1168231785609677651"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-a61ab72da0bd",
           "name": "⚽ Kairat Almaty vs Sutjeska | Sắp diễn ra vs 22:00 08/07/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-fdaa694c600a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-fe923bc18ff6",
+          "name": "⚽ Alashkert vs Yelimay Semey | Sắp diễn ra vs 23:00 09/07/2026",
+          "tournament": "UEFA Europa Conference League",
+          "logo_nha": "https://media.api-sports.io/football/teams/582.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/21011.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/582.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-fe923bc18ff6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-fe923bc18ff6",
+                  "name": "Alashkert vs Yelimay Semey",
+                  "streams": [
+                    {
+                      "id": "kaytee-fe923bc18ff6",
                       "name": "F",
                       "stream_links": []
                     }
