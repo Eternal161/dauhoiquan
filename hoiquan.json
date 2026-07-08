@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:51 09/07/2026",
+  "last_updated": "01:01 09/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-d9e8f951e2c9",
-          "name": "⚽ Flora Tallinn vs Saburtalo | H2 - 90+2' 2 - 3 23:00 08/07/2026",
-          "tournament": "UEFA Champions League",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/FC_Flora_logo.svg/250px-FC_Flora_logo.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/3502.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/FC_Flora_logo.svg/250px-FC_Flora_logo.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-d9e8f951e2c9",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-d9e8f951e2c9",
-                  "name": "Flora Tallinn vs Saburtalo",
-                  "streams": [
-                    {
-                      "id": "kaytee-d9e8f951e2c9",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b9f1dfea82",
-                          "name": "BLV LƯƠNG BỔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxe3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178353308259080&wsIPSercert=6f75157d3ab8812fe8c0773421ac80ba&wsBindIP=2&wsserid=1177063474761571144"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-60edb5fcb3fd",
-          "name": "⚽ Gap Connah S Quay Fc vs Ballkani | H1 - 21' 0 - 0 00:30 09/07/2026",
+          "name": "⚽ Gap Connah S Quay Fc vs Ballkani | H1 - 30' 0 - 0 00:30 09/07/2026",
           "tournament": "UEFA Europa Conference League",
           "logo_nha": "https://media.api-sports.io/football/teams/357.png",
           "logo_khach": "https://media.api-sports.io/football/teams/12733.png",
@@ -99,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a66d9e5f4b",
+                          "id": "lnk-eb98b6e117",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxe3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=3deccf1ae3c21780f71b9075-178353309117605&wsIPSercert=6f75157d3ab8812fe8c0773421ac80ba&wsBindIP=2&wsserid=1168158473487963106"
+                          "url": "https://tfxe1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178353367215201&wsIPSercert=72a790caa588be2039c584dbe13c1563&wsBindIP=2&wsserid=1168283323406534424"
                         }
                       ]
                     }
@@ -115,7 +62,7 @@
         },
         {
           "id": "kaytee-bb9f55b9d2ee",
-          "name": "⚽ Ukraine U19 vs Germany U19 | Sắp bắt đầu - null' 0 - 0 01:00 09/07/2026",
+          "name": "⚽ Ukraine U19 vs Germany U19 | H1 - 1' 0 - 0 01:00 09/07/2026",
           "tournament": "UEFA U19 Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/10352.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10336.png",
@@ -152,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-67a0e6c75f",
+                          "id": "lnk-836cbb081a",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxe3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=3deccf1ae3c21780f71b9075-178353309989088&wsIPSercert=6f75157d3ab8812fe8c0773421ac80ba&wsBindIP=2&wsserid=1168158473487963106"
+                          "url": "https://tfxe0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178353368098939&wsIPSercert=72a790caa588be2039c584dbe13c1563&wsBindIP=2&wsserid=1168283323302724409"
                         }
                       ]
                     }
@@ -472,6 +419,51 @@
                   "streams": [
                     {
                       "id": "kaytee-c9f87286ec08",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-cb86b8fb2d60",
+          "name": "⚽ Cska Sofia vs Derry City | Sắp diễn ra vs 01:00 10/07/2026",
+          "tournament": "UEFA Europa League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/5/52/CSKA_1948_new_logo.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/670.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/5/52/CSKA_1948_new_logo.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-cb86b8fb2d60",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-cb86b8fb2d60",
+                  "name": "Cska Sofia vs Derry City",
+                  "streams": [
+                    {
+                      "id": "kaytee-cb86b8fb2d60",
                       "name": "F",
                       "stream_links": []
                     }
