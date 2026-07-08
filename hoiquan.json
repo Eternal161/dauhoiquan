@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:01 09/07/2026",
+  "last_updated": "03:11 09/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-bb9f55b9d2ee",
-          "name": "⚽ Ukraine U19 vs Germany U19 | H2 - 90+4' 1 - 2 01:00 09/07/2026",
-          "tournament": "UEFA U19 Championship",
-          "logo_nha": "https://media.api-sports.io/football/teams/10352.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/10336.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10352.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-bb9f55b9d2ee",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-bb9f55b9d2ee",
-                  "name": "Ukraine U19 vs Germany U19",
-                  "streams": [
-                    {
-                      "id": "kaytee-bb9f55b9d2ee",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e98a38f317",
-                          "name": "BLV PHAN CA",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-28104f98704f",
           "name": "⚽ Ponte Preta vs Criciuma | Sắp diễn ra vs 06:00 09/07/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-0001efd53a46",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8c6b86b4371f",
+          "name": "⚽ Nacional Potosí vs Aurora | Sắp diễn ra vs 07:00 10/07/2026",
+          "tournament": "Primera División",
+          "logo_nha": "https://media.api-sports.io/football/teams/3706.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/2/27/Club_Aurora.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3706.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8c6b86b4371f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8c6b86b4371f",
+                  "name": "Nacional Potosí vs Aurora",
+                  "streams": [
+                    {
+                      "id": "kaytee-8c6b86b4371f",
                       "name": "F",
                       "stream_links": []
                     }
