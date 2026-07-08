@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:20 08/07/2026",
+  "last_updated": "20:31 08/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-f495eff2b9dc",
-          "name": "⚽ Langfang Glory City vs Jiangxi Liansheng | Live 0 - 0 18:30 08/07/2026",
-          "tournament": "League Two",
-          "logo_nha": "https://media.api-sports.io/football/teams/23270.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/5665.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/23270.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f495eff2b9dc",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f495eff2b9dc",
-                  "name": "Langfang Glory City vs Jiangxi Liansheng",
-                  "streams": [
-                    {
-                      "id": "kaytee-f495eff2b9dc",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1ec5c63fd0",
-                          "name": "BLV THẦN THÔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxe1gr4uqmtt8y41hcjz8rzdrctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ef9bd117c3dab2470bf1f7e6-178351686089252&wsIPSercert=f8bb240c866e92774961606fb09a1eef&wsBindIP=2&wsserid=1168041136565896200"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-bef22e035e6f",
-          "name": "⚽ Alay vs Toktogul | Sắp diễn ra vs 21:00 08/07/2026",
+          "name": "⚽ Alay vs Toktogul | Sắp bắt đầu - null' 0 - 0 21:00 08/07/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/8022.png",
           "logo_khach": "https://media.api-sports.io/football/teams/27550.png",
@@ -79,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +44,15 @@
                     {
                       "id": "kaytee-bef22e035e6f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-e507b2dbae",
+                          "name": "BLV PHAN CA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -456,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-7301e6ac5858",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-fdaa694c600a",
+          "name": "⚽ Aktobe Jas vs Khan Tengri | Sắp diễn ra vs 20:00 09/07/2026",
+          "tournament": "1. Division",
+          "logo_nha": "https://media.api-sports.io/football/teams/4546.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/18805.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4546.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-fdaa694c600a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-fdaa694c600a",
+                  "name": "Aktobe Jas vs Khan Tengri",
+                  "streams": [
+                    {
+                      "id": "kaytee-fdaa694c600a",
                       "name": "F",
                       "stream_links": []
                     }
