@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:55 08/07/2026",
+  "last_updated": "00:01 09/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-a61ab72da0bd",
-          "name": "⚽ Kairat Almaty vs Sutjeska | H2 - 90+7' 2 - 1 22:00 08/07/2026",
-          "tournament": "UEFA Champions League",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FCKairat_logo.png/250px-FCKairat_logo.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/673.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FCKairat_logo.png/250px-FCKairat_logo.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a61ab72da0bd",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a61ab72da0bd",
-                  "name": "Kairat Almaty vs Sutjeska",
-                  "streams": [
-                    {
-                      "id": "kaytee-a61ab72da0bd",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8ac1151d19",
-                          "name": "BLV THẦN THÔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxe1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178352975563335&wsIPSercert=afed2b8d5b58716c86c07f886f90d777&wsBindIP=2&wsserid=1168278313570948617"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-d9e8f951e2c9",
           "name": "⚽ Flora Tallinn vs Saburtalo | Giữa Hiệp - 45+2' 1 - 2 23:00 08/07/2026",
@@ -99,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-45838c449a",
+                          "id": "lnk-41a34adcd0",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxe1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178352976417889&wsIPSercert=afed2b8d5b58716c86c07f886f90d777&wsBindIP=2&wsserid=1168278313570948617"
+                          "url": "https://tfxe0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178353008197060&wsIPSercert=43e354f0a8dbc1a0da25f8cfa3f07ceb&wsBindIP=2&wsserid=1168283323406534424"
                         }
                       ]
                     }
@@ -115,7 +62,7 @@
         },
         {
           "id": "kaytee-60edb5fcb3fd",
-          "name": "⚽ Gap Connah S Quay Fc vs Ballkani | Sắp diễn ra vs 00:30 09/07/2026",
+          "name": "⚽ Gap Connah S Quay Fc vs Ballkani | Sắp bắt đầu - null' 0 - 0 00:30 09/07/2026",
           "tournament": "UEFA Europa Conference League",
           "logo_nha": "https://media.api-sports.io/football/teams/357.png",
           "logo_khach": "https://media.api-sports.io/football/teams/12733.png",
@@ -132,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -150,7 +97,15 @@
                     {
                       "id": "kaytee-60edb5fcb3fd",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-07aa146e0e",
+                          "name": "BLV THẦN THÔNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxe0gr4uqmtt8y41hcjsgyzdnpbafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=a1d4d903403a5b6681a5aad7-178353009075039&wsIPSercert=43e354f0a8dbc1a0da25f8cfa3f07ceb&wsBindIP=2&wsserid=1168231589600130483"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -464,6 +419,51 @@
                   "streams": [
                     {
                       "id": "kaytee-fe923bc18ff6",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c9f87286ec08",
+          "name": "⚽ Dinamo Minsk vs Sileks | Sắp diễn ra vs 00:00 10/07/2026",
+          "tournament": "UEFA Europa Conference League",
+          "logo_nha": "https://media.api-sports.io/football/teams/394.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4331.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/394.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c9f87286ec08",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c9f87286ec08",
+                  "name": "Dinamo Minsk vs Sileks",
+                  "streams": [
+                    {
+                      "id": "kaytee-c9f87286ec08",
                       "name": "F",
                       "stream_links": []
                     }
