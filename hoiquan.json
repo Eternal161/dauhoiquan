@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:10 08/07/2026",
+  "last_updated": "18:21 08/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-21300d3ca807",
-          "name": "⚽ Paro vs Tensung | Live 0 - 0 17:00 08/07/2026",
+          "name": "⚽ Paro vs Tensung | H2 - 65' 2 - 0 17:00 08/07/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/9426.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5590.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-861aaecef8",
+                          "id": "lnk-c1b6585d16",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxe3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178350906562589&wsIPSercert=cbc13a3ae534a68a4af401f8b00709e2&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfxe3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178350967946038&wsIPSercert=a418a1527fdd915ba4e12a12a4d74e86&wsBindIP=2&wsserid=1177063474761571144"
                         }
                       ]
                     }
@@ -61,8 +61,8 @@
           ]
         },
         {
-          "id": "kaytee-e07abadaef36",
-          "name": "⚽ Langfang Glory City vs Jiangxi Liansheng | Sắp diễn ra vs 18:30 08/07/2026",
+          "id": "kaytee-f495eff2b9dc",
+          "name": "⚽ Langfang Glory City vs Jiangxi Liansheng | Sắp bắt đầu - null' 0 - 0 18:30 08/07/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/23270.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5665.png",
@@ -79,25 +79,33 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
             {
-              "id": "kaytee-e07abadaef36",
+              "id": "kaytee-f495eff2b9dc",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-e07abadaef36",
+                  "id": "kaytee-f495eff2b9dc",
                   "name": "Langfang Glory City vs Jiangxi Liansheng",
                   "streams": [
                     {
-                      "id": "kaytee-e07abadaef36",
+                      "id": "kaytee-f495eff2b9dc",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-e1872d5c5e",
+                          "name": "BLV THẦN THÔNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
