@@ -1,16 +1,16 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:31 08/07/2026",
+  "last_updated": "20:40 08/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-bef22e035e6f",
+          "id": "kaytee-ca3e79446692",
           "name": "⚽ Alay vs Toktogul | Sắp bắt đầu - null' 0 - 0 21:00 08/07/2026",
-          "tournament": "Premier League",
+          "tournament": "VĐQG Kyrgyzstan",
           "logo_nha": "https://media.api-sports.io/football/teams/8022.png",
           "logo_khach": "https://media.api-sports.io/football/teams/27550.png",
           "type": "single",
@@ -34,23 +34,23 @@
           ],
           "sources": [
             {
-              "id": "kaytee-bef22e035e6f",
+              "id": "kaytee-ca3e79446692",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-bef22e035e6f",
+                  "id": "kaytee-ca3e79446692",
                   "name": "Alay vs Toktogul",
                   "streams": [
                     {
-                      "id": "kaytee-bef22e035e6f",
+                      "id": "kaytee-ca3e79446692",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e507b2dbae",
-                          "name": "BLV PHAN CA",
+                          "id": "lnk-89fce7ca6a",
+                          "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                          "url": "https://tfxe0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178351806385924&wsIPSercert=627cc2e88fa7e8135a61a070cacddbcf&wsBindIP=2&wsserid=1168283323406534424"
                         }
                       ]
                     }
