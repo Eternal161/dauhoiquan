@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:01 08/07/2026",
+  "last_updated": "19:10 08/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-21300d3ca807",
-          "name": "⚽ Paro vs Tensung | H2 - 90+4' 4 - 0 17:00 08/07/2026",
-          "tournament": "Premier League",
-          "logo_nha": "https://media.api-sports.io/football/teams/9426.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/5590.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/9426.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-21300d3ca807",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-21300d3ca807",
-                  "name": "Paro vs Tensung",
-                  "streams": [
-                    {
-                      "id": "kaytee-21300d3ca807",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4eaeca362b",
-                          "name": "BLV TÁO GIÀ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-f495eff2b9dc",
-          "name": "⚽ Langfang Glory City vs Jiangxi Liansheng | H1 - 31' 0 - 0 18:30 08/07/2026",
+          "name": "⚽ Langfang Glory City vs Jiangxi Liansheng | H1 - 41' 0 - 0 18:30 08/07/2026",
           "tournament": "League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/23270.png",
           "logo_khach": "https://media.api-sports.io/football/teams/5665.png",
@@ -99,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-99db44fdbf",
+                          "id": "lnk-6825e5e1d7",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxe3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=3deccf1ae3c21780f71b9075-178351209813292&wsIPSercert=e662009f67ca48f2c5c05511332a3d7d&wsBindIP=2&wsserid=1168158473487963106"
+                          "url": "https://tfxe0gr4uqmtt8y41hcjsgyzdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178351266433097&wsIPSercert=802fa1a7602fe152c15470433197444b&wsBindIP=2&wsserid=1168283323406534424"
                         }
                       ]
                     }
@@ -464,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-0a88d3fbe9b7",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-7301e6ac5858",
+          "name": "⚽ Akademiya Ontustik vs Arys | Sắp diễn ra vs 19:00 09/07/2026",
+          "tournament": "1. Division",
+          "logo_nha": "https://media.api-sports.io/football/teams/4545.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10414.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4545.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-7301e6ac5858",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-7301e6ac5858",
+                  "name": "Akademiya Ontustik vs Arys",
+                  "streams": [
+                    {
+                      "id": "kaytee-7301e6ac5858",
                       "name": "F",
                       "stream_links": []
                     }
