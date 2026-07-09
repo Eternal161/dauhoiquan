@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:31 10/07/2026",
+  "last_updated": "00:41 10/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-fe923bc18ff6",
-          "name": "⚽ Alashkert vs Yelimay Semey | H2 - 70' 0 - 1 23:00 09/07/2026",
+          "name": "⚽ Alashkert vs Yelimay Semey | H2 - 80' 0 - 1 23:00 09/07/2026",
           "tournament": "UEFA Europa Conference League",
           "logo_nha": "https://media.api-sports.io/football/teams/582.png",
           "logo_khach": "https://media.api-sports.io/football/teams/21011.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a7ab174b1a",
+                          "id": "lnk-1493de7259",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxf0gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=70418a798d1db99935744f9e-178361827421976&wsIPSercert=76553a629e701e797befdae94f7e8989&wsBindIP=2&wsserid=1168231589586498745"
+                          "url": "https://tfxf0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=22dc27e5affbb6b58c947890-178361891739703&wsIPSercert=907e00be57042b46f510de4b956136c3&wsBindIP=2&wsserid=1168283323207303220"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-c9f87286ec08",
-          "name": "⚽ Dinamo Minsk vs Sileks | H1 - 31' 0 - 0 00:00 10/07/2026",
+          "name": "⚽ Dinamo Minsk vs Sileks | H1 - 42' 0 - 0 00:00 10/07/2026",
           "tournament": "UEFA Europa Conference League",
           "logo_nha": "https://media.api-sports.io/football/teams/394.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4331.png",
@@ -99,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2ed5335010",
+                          "id": "lnk-14c9c2c89f",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxf0gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=4eebb5598527ca969d49331d-178361828251062&wsIPSercert=76553a629e701e797befdae94f7e8989&wsBindIP=2&wsserid=1168231589594887503"
+                          "url": "https://tfxf0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178361892572497&wsIPSercert=907e00be57042b46f510de4b956136c3&wsBindIP=2&wsserid=1168283323302724409"
                         }
                       ]
                     }
@@ -115,7 +115,7 @@
         },
         {
           "id": "kaytee-cb86b8fb2d60",
-          "name": "⚽ Cska Sofia vs Derry City | Sắp diễn ra vs 01:00 10/07/2026",
+          "name": "⚽ Cska Sofia vs Derry City | Sắp bắt đầu - null' 0 - 0 01:00 10/07/2026",
           "tournament": "UEFA Europa League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/5/52/CSKA_1948_new_logo.png",
           "logo_khach": "https://media.api-sports.io/football/teams/670.png",
@@ -132,10 +132,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -150,7 +150,15 @@
                     {
                       "id": "kaytee-cb86b8fb2d60",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-3ec27f233b",
+                          "name": "BLV TÁO GIÀ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
