@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:31 09/07/2026",
+  "last_updated": "22:41 09/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-fe923bc18ff6",
-          "name": "⚽ Alashkert vs Yelimay Semey | Sắp diễn ra vs 23:00 09/07/2026",
+          "name": "⚽ Alashkert vs Yelimay Semey | Sắp bắt đầu - null' 0 - 0 23:00 09/07/2026",
           "tournament": "UEFA Europa Conference League",
           "logo_nha": "https://media.api-sports.io/football/teams/582.png",
           "logo_khach": "https://media.api-sports.io/football/teams/21011.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "kaytee-fe923bc18ff6",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc918c5466",
+                          "name": "BLV PHAN QUẨY",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxf0gr4uqmtt8y41hcjz8rzdrcjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=0253429d97b0276b8c6bce78-178361167958135&wsIPSercert=673c675a2aacfff0ec2aab3021a10e5d&wsBindIP=2&wsserid=1168214357021015793"
+                        }
+                      ]
                     }
                   ]
                 }
