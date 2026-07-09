@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:40 10/07/2026",
+  "last_updated": "04:50 10/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-0001efd53a46",
-          "name": "⚽ France vs Morocco | H2 - 76' 2 - 0 03:00 10/07/2026",
+          "name": "⚽ France vs Morocco | H2 - 87' 2 - 0 03:00 10/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/2.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
@@ -46,25 +46,25 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d991af30ae",
+                          "id": "lnk-8deb322d6d",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxf0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=30b1aee6d195528f042a6f87-178363326655100&wsIPSercert=0d198d081e93a9db8f728ef52c19def9&wsBindIP=2&wsserid=1168176337061519089"
+                          "url": "https://tfxf0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=43280c1c975363fe81a8d8d5-178363386069041&wsIPSercert=b5c233c107122e2d7a6b3b23447e1d0b&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-f12985135e",
+                          "id": "lnk-1e36dc6643",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxf0gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=30b1aee6d195528f042a6f87-178363327461297&wsIPSercert=0d198d081e93a9db8f728ef52c19def9&wsBindIP=2&wsserid=1168176337061519089"
+                          "url": "https://tfxf1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=fe98348b1e299f1542a9c7d2-178363386905880&wsIPSercert=b5c233c107122e2d7a6b3b23447e1d0b&wsBindIP=2&wsserid=1168176581104105640"
                         },
                         {
-                          "id": "lnk-fa944b83f0",
+                          "id": "lnk-5f832d83f2",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxf0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=6dc55f48a79b9811d37124c0-178363328341552&wsIPSercert=0d198d081e93a9db8f728ef52c19def9&wsBindIP=2&wsserid=1168176337057324681"
+                          "url": "https://tfxf0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=43280c1c975363fe81a8d8d5-178363387772784&wsIPSercert=b5c233c107122e2d7a6b3b23447e1d0b&wsBindIP=2&wsserid=1168202392933970899"
                         }
                       ]
                     }
