@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:31 10/07/2026",
+  "last_updated": "01:40 10/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c9f87286ec08",
-          "name": "⚽ Dinamo Minsk vs Sileks | H2 - 71' 0 - 1 00:00 10/07/2026",
+          "name": "⚽ Dinamo Minsk vs Sileks | H2 - 82' 0 - 1 00:00 10/07/2026",
           "tournament": "UEFA Europa Conference League",
           "logo_nha": "https://media.api-sports.io/football/teams/394.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4331.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-912f79320c",
+                          "id": "lnk-26af19ea9f",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxf3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=3deccf1ae3c21780f71b9075-178362187288407&wsIPSercert=e77748b40cc1798af83d970d8caa83a7&wsBindIP=2&wsserid=1168158473487963106"
+                          "url": "https://tfxf0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178362247172040&wsIPSercert=6c52b99cb6f323b24a3fe46b77fc898d&wsBindIP=2&wsserid=1168283323302724409"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-cb86b8fb2d60",
-          "name": "⚽ Cska Sofia vs Derry City | H1 - 30' 1 - 0 01:00 10/07/2026",
+          "name": "⚽ Cska Sofia vs Derry City | H1 - 41' 1 - 1 01:00 10/07/2026",
           "tournament": "UEFA Europa League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/5/52/CSKA_1948_new_logo.png",
           "logo_khach": "https://media.api-sports.io/football/teams/670.png",
@@ -99,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f87a7128c0",
+                          "id": "lnk-b939591060",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxf3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178362188146296&wsIPSercert=e77748b40cc1798af83d970d8caa83a7&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfxf0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178362248074304&wsIPSercert=6c52b99cb6f323b24a3fe46b77fc898d&wsBindIP=2&wsserid=1168283323221983365"
                         }
                       ]
                     }
@@ -329,6 +329,141 @@
                   "streams": [
                     {
                       "id": "kaytee-eea869fd6aee",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-01eebf978265",
+          "name": "⚽ Spain vs Belgium | Sắp diễn ra vs 02:00 11/07/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/9.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/9.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-01eebf978265",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-01eebf978265",
+                  "name": "Spain vs Belgium",
+                  "streams": [
+                    {
+                      "id": "kaytee-01eebf978265",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1d902419a90e",
+          "name": "⚽ Sport Recife vs Botafogo Sp | Sắp diễn ra vs 06:00 11/07/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VAnv52Bj5vR_eOaVQiyM-aJo5PyseuSEbQ&s",
+          "logo_khach": "https://media.api-sports.io/football/teams/2618.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VAnv52Bj5vR_eOaVQiyM-aJo5PyseuSEbQ&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1d902419a90e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1d902419a90e",
+                  "name": "Sport Recife vs Botafogo Sp",
+                  "streams": [
+                    {
+                      "id": "kaytee-1d902419a90e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3e59f8e7d158",
+          "name": "⚽ Ulsan Hyundai Fc vs Jeonbuk Motors | Sắp diễn ra vs 17:30 11/07/2026",
+          "tournament": "K League 1",
+          "logo_nha": "https://media.api-sports.io/football/teams/2767.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2762.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2767.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3e59f8e7d158",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3e59f8e7d158",
+                  "name": "Ulsan Hyundai Fc vs Jeonbuk Motors",
+                  "streams": [
+                    {
+                      "id": "kaytee-3e59f8e7d158",
                       "name": "F",
                       "stream_links": []
                     }
