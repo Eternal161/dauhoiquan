@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:30 09/07/2026",
+  "last_updated": "23:40 09/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-fe923bc18ff6",
-          "name": "⚽ Alashkert vs Yelimay Semey | H1 - 30' 0 - 0 23:00 09/07/2026",
+          "name": "⚽ Alashkert vs Yelimay Semey | H1 - 40' 0 - 0 23:00 09/07/2026",
           "tournament": "UEFA Europa Conference League",
           "logo_nha": "https://media.api-sports.io/football/teams/582.png",
           "logo_khach": "https://media.api-sports.io/football/teams/21011.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-427798ec2d",
+                          "id": "lnk-f60d1f1764",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxf0gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=90dc6457e54a303646757f4a-178361466338243&wsIPSercert=8158e8b721a66094a1fc8bb6ee9429cd&wsBindIP=2&wsserid=1168041062946239395"
+                          "url": "https://tfxf0gr4uqmtt8y41hcjsgyzdnpbafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=70418a798d1db99935744f9e-178361526163332&wsIPSercert=95948ebc253c6763e79c8d250110419f&wsBindIP=2&wsserid=1168231589586498745"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-c9f87286ec08",
-          "name": "⚽ Dinamo Minsk vs Sileks | Sắp diễn ra vs 00:00 10/07/2026",
+          "name": "⚽ Dinamo Minsk vs Sileks | Sắp bắt đầu - null' 0 - 0 00:00 10/07/2026",
           "tournament": "UEFA Europa Conference League",
           "logo_nha": "https://media.api-sports.io/football/teams/394.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4331.png",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,15 @@
                     {
                       "id": "kaytee-c9f87286ec08",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-e728740e7d",
+                          "name": "BLV PHAN CA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxf0gr4uqmtt8y41hcjsgyzdnpbafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=4eebb5598527ca969d49331d-178361527029704&wsIPSercert=95948ebc253c6763e79c8d250110419f&wsBindIP=2&wsserid=1168231589594887503"
+                        }
+                      ]
                     }
                   ]
                 }
