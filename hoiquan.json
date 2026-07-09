@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:20 09/07/2026",
+  "last_updated": "19:45 09/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-7301e6ac5858",
-          "name": "⚽ Akademiya Ontustik vs Arys | H1 - 20' 0 - 0 19:00 09/07/2026",
+          "name": "⚽ Akademiya Ontustik vs Arys | H1 - 45' 1 - 0 19:00 09/07/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/4545.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10414.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-60efe01269",
+                          "id": "lnk-771ce66297",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxf0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=14c06b90294daa39133930cf-178359966613953&wsIPSercert=78569c00dd7f81f18f057643f4d26589&wsBindIP=2&wsserid=1168176346313714739"
+                          "url": "https://tfxf0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178360112496387&wsIPSercert=179af5434f1697dec20f6326d6ef102a&wsBindIP=2&wsserid=1168283323302724409"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-fdaa694c600a",
-          "name": "⚽ Aktobe Jas vs Khan Tengri | Sắp diễn ra vs 20:00 09/07/2026",
+          "name": "⚽ Aktobe Jas vs Khan Tengri | Sắp bắt đầu - null' 0 - 0 20:00 09/07/2026",
           "tournament": "1. Division",
           "logo_nha": "https://media.api-sports.io/football/teams/4546.png",
           "logo_khach": "https://media.api-sports.io/football/teams/18805.png",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,15 @@
                     {
                       "id": "kaytee-fdaa694c600a",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-e3a62d5e9c",
+                          "name": "BLV TÁO GIÀ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxf0gr4uqmtt8y41hcjsgyzdnpbafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2b146be960692448c3ec925f-178360113358874&wsIPSercert=179af5434f1697dec20f6326d6ef102a&wsBindIP=2&wsserid=1168231785609677651"
+                        }
+                      ]
                     }
                   ]
                 }
