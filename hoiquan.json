@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:01 11/07/2026",
+  "last_updated": "00:11 11/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-bdb8a425a172",
-          "name": "⚽ Fc Dnepr Mogilev vs Fc Minsk | H2 - 74' 1 - 0 22:30 10/07/2026",
+          "name": "⚽ Fc Dnepr Mogilev vs Fc Minsk | Live 0 - 0 22:30 10/07/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/384.png",
           "logo_khach": "https://media.api-sports.io/football/teams/380.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ef545b90d8",
+                          "id": "lnk-111f1cf4c8",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxg0gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=4eebb5598527ca969d49331d-178370287432392&wsIPSercert=4ba17a99c409d7bcdd30d157e198887b&wsBindIP=2&wsserid=1168231589594887503"
+                          "url": "https://tfxg3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=3deccf1ae3c21780f71b9075-178370347742305&wsIPSercert=5fb82107cd937e4dc09e6af381d6b523&wsBindIP=2&wsserid=1168158473487963106"
                         }
                       ]
                     }
