@@ -1,15 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:11 11/07/2026",
+  "last_updated": "02:20 11/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-01eebf978265",
-          "name": "⚽ Spain vs Belgium | H1 - 11' 0 - 0 02:00 11/07/2026",
+          "id": "kaytee-c1b68eb6dee3",
+          "name": "⚽ Spain vs Belgium | H1 - 20' 0 - 0 02:00 11/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/9.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1.png",
@@ -34,37 +34,30 @@
           ],
           "sources": [
             {
-              "id": "kaytee-01eebf978265",
+              "id": "kaytee-c1b68eb6dee3",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-01eebf978265",
+                  "id": "kaytee-c1b68eb6dee3",
                   "name": "Spain vs Belgium",
                   "streams": [
                     {
-                      "id": "kaytee-01eebf978265",
+                      "id": "kaytee-c1b68eb6dee3",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8a5dd22a9b",
-                          "name": "BLV THẦN THÔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxg3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=3deccf1ae3c21780f71b9075-178371068659514&wsIPSercert=792bd26451da47d2890e0fbb3944a796&wsBindIP=2&wsserid=1168158473487963106"
-                        },
-                        {
-                          "id": "lnk-0e0ca1a0c1",
+                          "id": "lnk-10f002bcd5",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
-                          "default": false,
-                          "url": "https://tfxg3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=3deccf1ae3c21780f71b9075-178371069485237&wsIPSercert=792bd26451da47d2890e0fbb3944a796&wsBindIP=2&wsserid=1168158473487963106"
+                          "default": true,
+                          "url": "https://tfxg0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b63905ce6134993711b4763b-178371126441938&wsIPSercert=86895d073970ff5458e4a0d8918f60ae&wsBindIP=2&wsserid=1168283477152136350"
                         },
                         {
-                          "id": "lnk-a4d49a4c3b",
+                          "id": "lnk-d5b2252aef",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxg3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=3deccf1ae3c21780f71b9075-178371070323321&wsIPSercert=792bd26451da47d2890e0fbb3944a796&wsBindIP=2&wsserid=1168158473487963106"
+                          "url": "https://tfxg1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=4f5605f94f7e28b0acf59620-178371127302053&wsIPSercert=86895d073970ff5458e4a0d8918f60ae&wsBindIP=2&wsserid=1168283477179400067"
                         }
                       ]
                     }
