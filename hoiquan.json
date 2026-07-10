@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:20 11/07/2026",
+  "last_updated": "02:31 11/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-c1b68eb6dee3",
-          "name": "⚽ Spain vs Belgium | H1 - 20' 0 - 0 02:00 11/07/2026",
+          "name": "⚽ Spain vs Belgium | H1 - 30' 1 - 0 02:00 11/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/9.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1.png",
@@ -46,18 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-10f002bcd5",
+                          "id": "lnk-8d826eec68",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxg0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b63905ce6134993711b4763b-178371126441938&wsIPSercert=86895d073970ff5458e4a0d8918f60ae&wsBindIP=2&wsserid=1168283477152136350"
+                          "url": "https://tfxg0gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=ce1e98a8c25e146685d78e62-178371186987108&wsIPSercert=4b2cc135e5c05e99ca86af5a03f4e196&wsBindIP=2&wsserid=1168231589596984705"
                         },
                         {
-                          "id": "lnk-d5b2252aef",
+                          "id": "lnk-e988f86a26",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxg1gr4uqmtt8y41hcjsgyzdkcjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=4f5605f94f7e28b0acf59620-178371127302053&wsIPSercert=86895d073970ff5458e4a0d8918f60ae&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfxg0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178371187848695&wsIPSercert=4b2cc135e5c05e99ca86af5a03f4e196&wsBindIP=2&wsserid=1168283323406534424"
                         }
                       ]
                     }
