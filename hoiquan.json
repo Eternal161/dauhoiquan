@@ -1,12 +1,65 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:31 10/07/2026",
+  "last_updated": "19:40 10/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
+        {
+          "id": "kaytee-0f08e827fcdf",
+          "name": "⚽ Shakhter Karagandy vs Turan Turkistan | Sắp bắt đầu - null' 0 - 0 20:00 10/07/2026",
+          "tournament": "1. Division",
+          "logo_nha": "https://media.api-sports.io/football/teams/4566.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/21502.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4566.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0f08e827fcdf",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0f08e827fcdf",
+                  "name": "Shakhter Karagandy vs Turan Turkistan",
+                  "streams": [
+                    {
+                      "id": "kaytee-0f08e827fcdf",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1b0bcb45c0",
+                          "name": "BLV THẦN THÔNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
         {
           "id": "kaytee-bdb8a425a172",
           "name": "⚽ Fc Dnepr Mogilev vs Fc Minsk | Sắp diễn ra vs 22:30 10/07/2026",
@@ -403,51 +456,6 @@
                   "streams": [
                     {
                       "id": "kaytee-7a426a764fe7",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-c279e34fd5b8",
-          "name": "⚽ Spain U19 vs Germany U19 | Sắp diễn ra vs 01:00 12/07/2026",
-          "tournament": "UEFA U19 Championship",
-          "logo_nha": "https://media.api-sports.io/football/teams/10349.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/10336.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10349.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c279e34fd5b8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c279e34fd5b8",
-                  "name": "Spain U19 vs Germany U19",
-                  "streams": [
-                    {
-                      "id": "kaytee-c279e34fd5b8",
                       "name": "F",
                       "stream_links": []
                     }
