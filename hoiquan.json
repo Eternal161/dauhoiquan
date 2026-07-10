@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:01 11/07/2026",
+  "last_updated": "04:11 11/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,18 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2b584bfb63",
+                          "id": "lnk-026bc4f42c",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxg0gr4uqmtt8y41hcjsgyzdnpbafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=4eebb5598527ca969d49331d-178371727240316&wsIPSercert=461a4f759eedbaad17f618906a92471f&wsBindIP=2&wsserid=1168231589594887503"
+                          "url": "https://tfxg3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178371786935359&wsIPSercert=340a13c513dd01929b66055076c9f441&wsBindIP=2&wsserid=1177063474761571144"
                         },
                         {
-                          "id": "lnk-73eee9b1f9",
+                          "id": "lnk-433270952e",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxg0gr4uqmtt8y41hcjsgyzdnpbufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=5b53f9dab67ae6e0f12f2a80-178371728103571&wsIPSercert=461a4f759eedbaad17f618906a92471f&wsBindIP=2&wsserid=1168231785641135723"
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
                         }
                       ]
                     }
