@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:01 11/07/2026",
+  "last_updated": "20:20 11/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-04e7aafe6bf6",
-          "name": "⚽ Shanghai Shenhua vs Beijing Guoan | Sắp bắt đầu - null' 0 - 0 18:35 11/07/2026",
-          "tournament": "Super League",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-04e7aafe6bf6",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-04e7aafe6bf6",
-                  "name": "Shanghai Shenhua vs Beijing Guoan",
-                  "streams": [
-                    {
-                      "id": "kaytee-04e7aafe6bf6",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cd30e4e13d",
-                          "name": "BLV PHAN QUẨY",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-31960bde6dbb",
-          "name": "⚽ Lahti vs Hjk Helsinki | Giữa Hiệp - 45+2' 1 - 0 19:00 11/07/2026",
+          "name": "⚽ Lahti vs Hjk Helsinki | H2 - 58' 1 - 0 19:00 11/07/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/1166.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/pt/e/ec/HJK_Helsinki_Logo.png",
@@ -99,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-52ec08b2a5",
+                          "id": "lnk-199c2f99dc",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh0gr4uqmtt8y41hcjsgyzdnpbafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2b146be960692448c3ec925f-178377488058724&wsIPSercert=9c43274275238d224b23077f2010f2b0&wsBindIP=2&wsserid=1168231785609677651"
+                          "url": "https://tfxh0gr4uqmtt8y41hcjsgyzdnpbafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2b146be960692448c3ec925f-178377606202458&wsIPSercert=a86fa50f8288e59a2ddc7d19d53b3bea&wsBindIP=2&wsserid=1168231785609677651"
                         }
                       ]
                     }
@@ -464,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-82b631e65070",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b530a05da5a0",
+          "name": "⚽ Operario-Pr vs Novorizontino | Sắp diễn ra vs 21:00 12/07/2026",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/1223.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/7834.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1223.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b530a05da5a0",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b530a05da5a0",
+                  "name": "Operario-Pr vs Novorizontino",
+                  "streams": [
+                    {
+                      "id": "kaytee-b530a05da5a0",
                       "name": "F",
                       "stream_links": []
                     }
