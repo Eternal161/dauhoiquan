@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:50 11/07/2026",
+  "last_updated": "20:01 11/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-3e59f8e7d158",
-          "name": "⚽ Ulsan Hyundai Fc vs Jeonbuk Motors | H2 - 90+7' 1 - 3 17:30 11/07/2026",
-          "tournament": "K League 1",
-          "logo_nha": "https://media.api-sports.io/football/teams/2767.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2762.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2767.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-3e59f8e7d158",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-3e59f8e7d158",
-                  "name": "Ulsan Hyundai Fc vs Jeonbuk Motors",
-                  "streams": [
-                    {
-                      "id": "kaytee-3e59f8e7d158",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-acbd736c32",
-                          "name": "BLV THẦN THÔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-04e7aafe6bf6",
           "name": "⚽ Shanghai Shenhua vs Beijing Guoan | Sắp bắt đầu - null' 0 - 0 18:35 11/07/2026",
@@ -99,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b62631c7cd",
+                          "id": "lnk-cd30e4e13d",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": true,
@@ -152,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-315356bcc5",
+                          "id": "lnk-52ec08b2a5",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178377428408065&wsIPSercert=d727966c75c43b2f5b6dacbe8af30f9b&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfxh0gr4uqmtt8y41hcjsgyzdnpbafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2b146be960692448c3ec925f-178377488058724&wsIPSercert=9c43274275238d224b23077f2010f2b0&wsBindIP=2&wsserid=1168231785609677651"
                         }
                       ]
                     }
@@ -472,6 +419,51 @@
                   "streams": [
                     {
                       "id": "kaytee-062cf5551ea0",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-82b631e65070",
+          "name": "⚽ Shanghai Sipg vs Dalian Zhixing | Sắp diễn ra vs 18:35 12/07/2026",
+          "tournament": "Super League",
+          "logo_nha": "https://media.api-sports.io/football/teams/836.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/21263.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/836.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-82b631e65070",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-82b631e65070",
+                  "name": "Shanghai Sipg vs Dalian Zhixing",
+                  "streams": [
+                    {
+                      "id": "kaytee-82b631e65070",
                       "name": "F",
                       "stream_links": []
                     }
