@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "05:40 12/07/2026",
+  "last_updated": "05:51 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-4c6189f1d38a",
-          "name": "⚽ Norway vs England | H2 - 78' 1 - 1 04:00 12/07/2026",
+          "name": "⚽ Norway vs England | H2 - 89' 1 - 1 04:00 12/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10.png",
@@ -46,25 +46,25 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3ffd510af1",
+                          "id": "lnk-41425e9f0a",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=214abf917bf2df58627cf314-178380966555746&wsIPSercert=369bb9c703fdc0df35dc433ac90d4513&wsBindIP=2&wsserid=1168283323432748950"
+                          "url": "https://tfxh1gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=30b1aee6d195528f042a6f87-178381027396524&wsIPSercert=5d8c594ec59e48137fd693c7d7cf44b6&wsBindIP=2&wsserid=1168176337061519089"
                         },
                         {
-                          "id": "lnk-29eb167b0b",
+                          "id": "lnk-062847cccc",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxh0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=214abf917bf2df58627cf314-178380967403941&wsIPSercert=369bb9c703fdc0df35dc433ac90d4513&wsBindIP=2&wsserid=1168283323432748950"
+                          "url": "https://tfxh1gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=30b1aee6d195528f042a6f87-178381028258911&wsIPSercert=5d8c594ec59e48137fd693c7d7cf44b6&wsBindIP=2&wsserid=1168176337061519089"
                         },
                         {
-                          "id": "lnk-b72ee5c731",
+                          "id": "lnk-78aa1567c2",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxh0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178380968287086&wsIPSercert=369bb9c703fdc0df35dc433ac90d4513&wsBindIP=2&wsserid=1168283323302724409"
+                          "url": "https://tfxh0gr4uqmtt8y41hcjzgazdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0e4b1b37549e237ae7f7db1e-178381029108980&wsIPSercert=5d8c594ec59e48137fd693c7d7cf44b6&wsBindIP=2&wsserid=1168176346318957775"
                         }
                       ]
                     }
