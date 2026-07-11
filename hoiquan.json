@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "19:21 11/07/2026",
+  "last_updated": "19:31 11/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-3e59f8e7d158",
-          "name": "⚽ Ulsan Hyundai Fc vs Jeonbuk Motors | H2 - 89' 0 - 3 17:30 11/07/2026",
+          "name": "⚽ Ulsan Hyundai Fc vs Jeonbuk Motors | H2 - 90+7' 1 - 3 17:30 11/07/2026",
           "tournament": "K League 1",
           "logo_nha": "https://media.api-sports.io/football/teams/2767.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2762.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1db37634eb",
+                          "id": "lnk-bab4ff794a",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh1gr4uqmtt8y41hcjz8rzdrctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ef9bd117c3dab2470bf1f7e6-178377246967450&wsIPSercert=5f3ee6097584f7dc881127d5f02f2381&wsBindIP=2&wsserid=1168041136565896200"
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
                         }
                       ]
                     }
@@ -99,7 +99,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5cbbfca46c",
+                          "id": "lnk-60c2200e38",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": true,
@@ -115,7 +115,7 @@
         },
         {
           "id": "kaytee-31960bde6dbb",
-          "name": "⚽ Lahti vs Hjk Helsinki | H1 - 19' 0 - 0 19:00 11/07/2026",
+          "name": "⚽ Lahti vs Hjk Helsinki | H1 - 29' 0 - 0 19:00 11/07/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/1166.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/pt/e/ec/HJK_Helsinki_Logo.png",
@@ -152,11 +152,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-041653cc3e",
+                          "id": "lnk-1c057ccca0",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=44b615ebde68479962db17db-178377248694636&wsIPSercert=5f3ee6097584f7dc881127d5f02f2381&wsBindIP=2&wsserid=1168214263213094505"
+                          "url": "https://tfxh0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178377309179110&wsIPSercert=36d06804069ceb76892ce521abdb5f9b&wsBindIP=2&wsserid=1168283323406534424"
                         }
                       ]
                     }
