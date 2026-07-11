@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "23:01 11/07/2026",
+  "last_updated": "23:10 11/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-43004310a74a",
-          "name": "⚽ Turku Ps vs Ac Oulu | Live 0 - 0 21:00 11/07/2026",
+          "name": "⚽ Turku Ps vs Ac Oulu | H2 - 90+3' 3 - 0 21:00 11/07/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/1168.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2077.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-06270a841c",
+                          "id": "lnk-c196705d5f",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0fecc200ad94635c875c47ce-178378567064333&wsIPSercert=ff8dc1d22a434959a634ef4c3ae33b48&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfxh1gr3uomttgr31hctsfaau1ptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f8297f23ac177a648779645f-178378626521735&wsIPSercert=d8346fb90d705fedb224c07279ca4f39&wsBindIP=2&wsserid=1168056276211756464"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-343de8775db9",
-          "name": "⚽ Dinamo Brest vs Slavia Mozyr | Live 0 - 0 22:45 11/07/2026",
+          "name": "⚽ Dinamo Brest vs Slavia Mozyr | H1 - 24' 0 - 0 22:45 11/07/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/386.png",
           "logo_khach": "https://media.api-sports.io/football/teams/751.png",
@@ -99,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-87aec7ceea",
+                          "id": "lnk-0b7b746742",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=349560c79a44166872039751-178378567901545&wsIPSercert=ff8dc1d22a434959a634ef4c3ae33b48&wsBindIP=2&wsserid=1168282035622980969"
+                          "url": "https://tfxh1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=349560c79a44166872039751-178378627382269&wsIPSercert=d8346fb90d705fedb224c07279ca4f39&wsBindIP=2&wsserid=1168282035622980969"
                         }
                       ]
                     }
