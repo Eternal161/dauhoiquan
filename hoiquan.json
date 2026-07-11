@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:01 11/07/2026",
+  "last_updated": "08:10 11/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-1d902419a90e",
-          "name": "⚽ Sport Recife vs Botafogo Sp | H2 - 90+6' 3 - 3 06:00 11/07/2026",
+          "name": "⚽ Sport Recife vs Botafogo Sp | Live 0 - 0 06:00 11/07/2026",
           "tournament": "Serie B",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VAnv52Bj5vR_eOaVQiyM-aJo5PyseuSEbQ&s",
           "logo_khach": "https://media.api-sports.io/football/teams/2618.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-12d7f22e58",
+                          "id": "lnk-2c17e347e7",
                           "name": "BLV PHAN ANH",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh0gr3uomttgr31hcj18yzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=aaae0abd345b5c2fc903a945-178373167747951&wsIPSercert=2b7720dc105c08d906cc5b7ccefdd448&wsBindIP=2&wsserid=1168243256660972706"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         }
                       ]
                     }
