@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:31 11/07/2026",
+  "last_updated": "20:40 11/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-31960bde6dbb",
-          "name": "⚽ Lahti vs Hjk Helsinki | H2 - 69' 1 - 0 19:00 11/07/2026",
-          "tournament": "Veikkausliiga",
-          "logo_nha": "https://media.api-sports.io/football/teams/1166.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/pt/e/ec/HJK_Helsinki_Logo.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1166.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-31960bde6dbb",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-31960bde6dbb",
-                  "name": "Lahti vs Hjk Helsinki",
-                  "streams": [
-                    {
-                      "id": "kaytee-31960bde6dbb",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-696ddb069f",
-                          "name": "BLV LƯƠNG BỔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxh1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178377667298115&wsIPSercert=b9b9cc188f435af2be99860c8661d8ad&wsBindIP=2&wsserid=1168278313570948617"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-cac0f04efbc7",
-          "name": "⚽ Turku Ps vs Ac Oulu | Sắp diễn ra vs 21:00 11/07/2026",
+          "id": "kaytee-43004310a74a",
+          "name": "⚽ Turku Ps vs Ac Oulu | Sắp bắt đầu - null' 0 - 0 21:00 11/07/2026",
           "tournament": "Veikkausliiga",
           "logo_nha": "https://media.api-sports.io/football/teams/1168.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2077.png",
@@ -79,25 +26,33 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
             {
-              "id": "kaytee-cac0f04efbc7",
+              "id": "kaytee-43004310a74a",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-cac0f04efbc7",
+                  "id": "kaytee-43004310a74a",
                   "name": "Turku Ps vs Ac Oulu",
                   "streams": [
                     {
-                      "id": "kaytee-cac0f04efbc7",
+                      "id": "kaytee-43004310a74a",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-39d7b0ce9a",
+                          "name": "BLV TÁO GIÀ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -106,7 +61,7 @@
           ]
         },
         {
-          "id": "kaytee-7a426a764fe7",
+          "id": "kaytee-343de8775db9",
           "name": "⚽ Dinamo Brest vs Slavia Mozyr | Sắp diễn ra vs 22:45 11/07/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/386.png",
@@ -132,15 +87,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-7a426a764fe7",
+              "id": "kaytee-343de8775db9",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-7a426a764fe7",
+                  "id": "kaytee-343de8775db9",
                   "name": "Dinamo Brest vs Slavia Mozyr",
                   "streams": [
                     {
-                      "id": "kaytee-7a426a764fe7",
+                      "id": "kaytee-343de8775db9",
                       "name": "F",
                       "stream_links": []
                     }
@@ -456,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-b530a05da5a0",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-06be0f17465f",
+          "name": "⚽ Cobreloa vs D. La Serena | Sắp diễn ra vs 23:30 12/07/2026",
+          "tournament": "Copa Chile",
+          "logo_nha": "https://media.api-sports.io/football/teams/2332.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2341.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2332.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-06be0f17465f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-06be0f17465f",
+                  "name": "Cobreloa vs D. La Serena",
+                  "streams": [
+                    {
+                      "id": "kaytee-06be0f17465f",
                       "name": "F",
                       "stream_links": []
                     }
