@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:31 12/07/2026",
+  "last_updated": "00:41 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-343de8775db9",
-          "name": "⚽ Dinamo Brest vs Slavia Mozyr | Live 0 - 0 22:45 11/07/2026",
+          "name": "⚽ Dinamo Brest vs Slavia Mozyr | H2 - 90+6' 4 - 1 22:45 11/07/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/386.png",
           "logo_khach": "https://media.api-sports.io/football/teams/751.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-463aefd2ec",
+                          "id": "lnk-ce151dab1f",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=349560c79a44166872039751-178379107576933&wsIPSercert=8ae183ac13ef4970b02320c6e4f6bfb5&wsBindIP=2&wsserid=1168282035622980969"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-c279e34fd5b8",
-          "name": "⚽ Spain U19 vs Germany U19 | Sắp diễn ra vs 01:00 12/07/2026",
+          "name": "⚽ Spain U19 vs Germany U19 | Sắp bắt đầu - null' 0 - 0 01:00 12/07/2026",
           "tournament": "UEFA U19 Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/10349.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10336.png",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,15 @@
                     {
                       "id": "kaytee-c279e34fd5b8",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-2b0bd23de7",
+                          "name": "BLV TÁO GIÀ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxh1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0fecc200ad94635c875c47ce-178379168328622&wsIPSercert=c41d05642ae1552833693aaa317c2b18&wsBindIP=2&wsserid=1168282035663924028"
+                        }
+                      ]
                     }
                   ]
                 }
