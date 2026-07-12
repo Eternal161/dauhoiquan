@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:50 12/07/2026",
+  "last_updated": "12:01 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-f7a0cdb7d5d3",
-          "name": "⚽ Argentina vs Switzerland | Kết thúc - 124' 3 - 1 08:00 12/07/2026",
+          "name": "⚽ Argentina vs Switzerland | Live 0 - 0 08:00 12/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
@@ -46,21 +46,21 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-34366e5c61",
+                          "id": "lnk-f09251a139",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": true,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-b40487aec8",
+                          "id": "lnk-3b08235caa",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-d771733be7",
+                          "id": "lnk-be2b30ecdb",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
