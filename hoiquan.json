@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:11 13/07/2026",
+  "last_updated": "02:21 13/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-07001ce38c0e",
-          "name": "⚽ Sarpsborg 08 Ff vs Viking | H2 - 90+6' 1 - 0 00:15 13/07/2026",
-          "tournament": "Eliteserien",
-          "logo_nha": "https://media.api-sports.io/football/teams/333.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/759.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/333.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-07001ce38c0e",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-07001ce38c0e",
-                  "name": "Sarpsborg 08 Ff vs Viking",
-                  "streams": [
-                    {
-                      "id": "kaytee-07001ce38c0e",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dde5e92500",
-                          "name": "BLV PHAN QUẨY",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-6dce44482665",
           "name": "⚽ Cf Montreal vs Vancouver Fc | Sắp diễn ra vs 06:30 13/07/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-09428757c322",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-79c7b992fb2a",
+          "name": "⚽ Apia Leichhardt Tigers vs Peninsula Power | Sắp diễn ra vs 16:30 14/07/2026",
+          "tournament": "Australia Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/3764.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10221.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3764.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-79c7b992fb2a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-79c7b992fb2a",
+                  "name": "Apia Leichhardt Tigers vs Peninsula Power",
+                  "streams": [
+                    {
+                      "id": "kaytee-79c7b992fb2a",
                       "name": "F",
                       "stream_links": []
                     }
