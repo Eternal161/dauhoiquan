@@ -1,79 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "06:50 12/07/2026",
+  "last_updated": "07:01 12/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-4c6189f1d38a",
-          "name": "⚽ Norway vs England | Kết thúc - 122' 1 - 2 04:00 12/07/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/10.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-4c6189f1d38a",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-4c6189f1d38a",
-                  "name": "Norway vs England",
-                  "streams": [
-                    {
-                      "id": "kaytee-4c6189f1d38a",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dd2b5d3d7c",
-                          "name": "BLV LƯƠNG BỔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxh0gr4uqmtt8y41hcjsgyzdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=528174f76dff844af8e13215-178381386202600&wsIPSercert=6073760d8c66e6b2c097f77b77ed4cab&wsBindIP=2&wsserid=1168283323420165962"
-                        },
-                        {
-                          "id": "lnk-6c06442f49",
-                          "name": "BLV PHAN QUẨY",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfxh0gr4uqmtt8y41hcjsgyzdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=528174f76dff844af8e13215-178381387035975&wsIPSercert=6073760d8c66e6b2c097f77b77ed4cab&wsBindIP=2&wsserid=1168283323420165962"
-                        },
-                        {
-                          "id": "lnk-bdbf2dc32f",
-                          "name": "BLV THẦN THÔNG",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-f7a0cdb7d5d3",
           "name": "⚽ Argentina vs Switzerland | Sắp diễn ra vs 08:00 12/07/2026",
