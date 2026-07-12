@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:01 12/07/2026",
+  "last_updated": "18:10 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-0538bebd5a19",
-          "name": "⚽ Fc Seoul vs Gangwon Fc | H1 - 31' 0 - 0 17:30 12/07/2026",
+          "name": "⚽ Fc Seoul vs Gangwon Fc | H1 - 40' 0 - 0 17:30 12/07/2026",
           "tournament": "K League 1",
           "logo_nha": "https://media.api-sports.io/football/teams/2766.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/f/fe/Gangwon_FC.svg",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-945ece3d28",
+                          "id": "lnk-4287f1f198",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxi0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178385408779370&wsIPSercert=1d9dcc0593c8c7115bb0d3d0c9222b86&wsBindIP=2&wsserid=1168283323302724409"
+                          "url": "https://tfxi1gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=14c06b90294daa39133930cf-178385466244871&wsIPSercert=d4e4387a4111ec94a15a862b1e11b8ff&wsBindIP=2&wsserid=1168176346313714739"
                         }
                       ]
                     }
@@ -99,7 +99,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c5850d444f",
+                          "id": "lnk-cbfacc6857",
                           "name": "BLV PHAN ANH",
                           "type": "hls",
                           "default": true,
@@ -115,7 +115,7 @@
         },
         {
           "id": "kaytee-82b631e65070",
-          "name": "⚽ Shanghai Sipg vs Dalian Zhixing | Sắp diễn ra vs 18:35 12/07/2026",
+          "name": "⚽ Shanghai Sipg vs Dalian Zhixing | Sắp bắt đầu - null' 0 - 0 18:35 12/07/2026",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/836.png",
           "logo_khach": "https://media.api-sports.io/football/teams/21263.png",
@@ -132,10 +132,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -150,7 +150,15 @@
                     {
                       "id": "kaytee-82b631e65070",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-d03141adba",
+                          "name": "BLV TÁO GIÀ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxi0gr4uqmtt8y41hcjz8rzdncbofi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=14c06b90294daa39133930cf-178385467998931&wsIPSercert=d4e4387a4111ec94a15a862b1e11b8ff&wsBindIP=2&wsserid=1168176346313714739"
+                        }
+                      ]
                     }
                   ]
                 }
