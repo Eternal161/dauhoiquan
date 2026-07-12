@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "11:10 12/07/2026",
+  "last_updated": "11:20 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,21 +46,21 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-13aeb1d83b",
+                          "id": "lnk-a9d3ee43e4",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": true,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-120566b9d8",
+                          "id": "lnk-b7d2ddbf35",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-c4cb2ded55",
+                          "id": "lnk-a7122b1749",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
