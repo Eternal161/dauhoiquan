@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:01 12/07/2026",
+  "last_updated": "17:11 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-0538bebd5a19",
-          "name": "⚽ Fc Seoul vs Gangwon Fc | Sắp diễn ra vs 17:30 12/07/2026",
+          "name": "⚽ Fc Seoul vs Gangwon Fc | Sắp bắt đầu - null' 0 - 0 17:30 12/07/2026",
           "tournament": "K League 1",
           "logo_nha": "https://media.api-sports.io/football/teams/2766.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/f/fe/Gangwon_FC.svg",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "kaytee-0538bebd5a19",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-3286d0fea9",
+                          "name": "BLV PHAN CA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxi0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178385107830552&wsIPSercert=c27a4353176442d1698f13543bfe5443&wsBindIP=2&wsserid=1168283323302724409"
+                        }
+                      ]
                     }
                   ]
                 }
