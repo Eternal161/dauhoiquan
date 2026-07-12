@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "07:31 12/07/2026",
+  "last_updated": "07:41 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,25 +46,25 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-219b92dd5e",
+                          "id": "lnk-17ee31a4f0",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                          "url": "https://tfxi1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178381686899472&wsIPSercert=0c2195ebc41df372b8df71bc895bd77e&wsBindIP=2&wsserid=1168278313570948617"
                         },
                         {
-                          "id": "lnk-029102cf99",
+                          "id": "lnk-37b5f792ad",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxi0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b2a439e2d523219d38158b30-178381628704323&wsIPSercert=ba5a7c3bde1e97707c92c239dfe663b6&wsBindIP=2&wsserid=1168176337059421885"
+                          "url": "https://tfxi1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178381687763040&wsIPSercert=0c2195ebc41df372b8df71bc895bd77e&wsBindIP=2&wsserid=1168278313570948617"
                         },
                         {
-                          "id": "lnk-d73cabe08d",
+                          "id": "lnk-bf5936e383",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxi0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=6dc55f48a79b9811d37124c0-178381629535379&wsIPSercert=ba5a7c3bde1e97707c92c239dfe663b6&wsBindIP=2&wsserid=1168176337057324681"
+                          "url": "https://tfxi1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178381688608166&wsIPSercert=0c2195ebc41df372b8df71bc895bd77e&wsBindIP=2&wsserid=1168278313570948617"
                         }
                       ]
                     }
