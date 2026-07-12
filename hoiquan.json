@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:31 12/07/2026",
+  "last_updated": "18:40 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-0538bebd5a19",
-          "name": "⚽ Fc Seoul vs Gangwon Fc | Giữa Hiệp - 45+4' 0 - 0 17:30 12/07/2026",
+          "name": "⚽ Fc Seoul vs Gangwon Fc | H2 - 50' 0 - 0 17:30 12/07/2026",
           "tournament": "K League 1",
           "logo_nha": "https://media.api-sports.io/football/teams/2766.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/f/fe/Gangwon_FC.svg",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-49c2c4ec9c",
+                          "id": "lnk-002462d6ea",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxi1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178385586931353&wsIPSercert=2f7864b8a759827dc8dee911b6a7efda&wsBindIP=2&wsserid=1168283323302724409"
+                          "url": "https://tfxi0gr4uqmtt8y41hcjsgyzdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=527c539ebed211438b0a1787-178385646129846&wsIPSercert=3e707bde952244ba17d229661acb7d9b&wsBindIP=2&wsserid=1168283323302724409"
                         }
                       ]
                     }
@@ -99,7 +99,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fb2bdb9d22",
+                          "id": "lnk-ef935e1323",
                           "name": "BLV PHAN ANH",
                           "type": "hls",
                           "default": true,
@@ -152,11 +152,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-189c82b4f0",
+                          "id": "lnk-3e7f1b9aa2",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxi0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178385588669514&wsIPSercert=2f7864b8a759827dc8dee911b6a7efda&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfxi0gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178385647872328&wsIPSercert=3e707bde952244ba17d229661acb7d9b&wsBindIP=2&wsserid=1168283323221983365"
                         }
                       ]
                     }
@@ -347,6 +347,51 @@
           ]
         },
         {
+          "id": "kaytee-b68b06c3ad2d",
+          "name": "⚽ Vietnam vs Gangwon Fc | Sắp diễn ra vs 15:00 13/07/2026",
+          "tournament": "Friendlies",
+          "logo_nha": "https://media.api-sports.io/football/teams/1542.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/f/fe/Gangwon_FC.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1542.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b68b06c3ad2d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b68b06c3ad2d",
+                  "name": "Vietnam vs Gangwon Fc",
+                  "streams": [
+                    {
+                      "id": "kaytee-b68b06c3ad2d",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-04c869c851a5",
           "name": "⚽ Ningbo Professional vs Dongguan United | Sắp diễn ra vs 18:00 13/07/2026",
           "tournament": "League One",
@@ -427,51 +472,6 @@
                   "streams": [
                     {
                       "id": "kaytee-bd185a24ebab",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-d66f373a165e",
-          "name": "⚽ Chelyabinsk vs Ska-Khabarovsk | Sắp diễn ra vs 21:00 13/07/2026",
-          "tournament": "First League",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CoA_of_Chelyabinsk_%282000%29.svg/250px-CoA_of_Chelyabinsk_%282000%29.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1087.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CoA_of_Chelyabinsk_%282000%29.svg/250px-CoA_of_Chelyabinsk_%282000%29.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-d66f373a165e",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-d66f373a165e",
-                  "name": "Chelyabinsk vs Ska-Khabarovsk",
-                  "streams": [
-                    {
-                      "id": "kaytee-d66f373a165e",
                       "name": "F",
                       "stream_links": []
                     }
