@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:11 12/07/2026",
+  "last_updated": "08:21 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-f7a0cdb7d5d3",
-          "name": "⚽ Argentina vs Switzerland | H1 - 11' 1 - 0 08:00 12/07/2026",
+          "name": "⚽ Argentina vs Switzerland | H1 - 20' 1 - 0 08:00 12/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",
@@ -46,25 +46,25 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2fb3b22898",
+                          "id": "lnk-1d07899a16",
                           "name": "BLV THẦN THÔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxi1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0fecc200ad94635c875c47ce-178381867893292&wsIPSercert=9887846f7bcf48cb3848f14f375ab91b&wsBindIP=2&wsserid=1168282035663924028"
+                          "url": "https://tfxi1gr3uomttgr31hcj3fa3dkcbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=57088f3cd5f87cc826484c92-178381927224380&wsIPSercert=be4fd6b770ae69e6a7c059da03fca5c0&wsBindIP=2&wsserid=1168168154459896377"
                         },
                         {
-                          "id": "lnk-e75dbc6302",
+                          "id": "lnk-eb5327462d",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxi3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178381868761775&wsIPSercert=9887846f7bcf48cb3848f14f375ab91b&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfxi1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e0d50cd290570128e5e6f664-178381928044140&wsIPSercert=be4fd6b770ae69e6a7c059da03fca5c0&wsBindIP=2&wsserid=1168278404686366719"
                         },
                         {
-                          "id": "lnk-51bc0eabc8",
+                          "id": "lnk-3b3d6061cd",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxi3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178381869597342&wsIPSercert=9887846f7bcf48cb3848f14f375ab91b&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfxi1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=e0d50cd290570128e5e6f664-178381928918108&wsIPSercert=be4fd6b770ae69e6a7c059da03fca5c0&wsBindIP=2&wsserid=1168278404686366719"
                         }
                       ]
                     }
