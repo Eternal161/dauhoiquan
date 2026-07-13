@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:01 13/07/2026",
+  "last_updated": "20:10 13/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-04c869c851a5",
-          "name": "⚽ Ningbo Professional vs Dongguan United | H2 - 90+4' 1 - 0 18:00 13/07/2026",
-          "tournament": "League One",
-          "logo_nha": "https://media.api-sports.io/football/teams/27556.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/17263.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/27556.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-04c869c851a5",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-04c869c851a5",
-                  "name": "Ningbo Professional vs Dongguan United",
-                  "streams": [
-                    {
-                      "id": "kaytee-04c869c851a5",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0796eee92d",
-                          "name": "BLV THẦN THÔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-bd185a24ebab",
           "name": "⚽ Ugyen Academy vs Transport United | H2 - 90+6' 0 - 1 19:00 13/07/2026",
@@ -99,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8bb1e11402",
+                          "id": "lnk-db23584404",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxj0gr3uomttgr31hcj18yzdnct1fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=128e4e2e1189c7ae165e181d-178394771757740&wsIPSercert=696986c7103184bf98b7039bcfc01d3f&wsBindIP=2&wsserid=1168243343857585137"
+                          "url": "https://tfxj4gchnhcjo8rzdrpjtfahn47drptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=269e7cfbbd459e2e0bf3bfd4-178394826598860&wsIPSercert=f8ed36c42aef1f1b7b6450a077c23803&wsBindIP=2&wsserid=1168235283031012122"
                         }
                       ]
                     }
@@ -464,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-d4fa4a8d81a8",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-ffdb380f08c5",
+          "name": "⚽ Kups vs Vardar Skopje | Sắp diễn ra vs 22:00 14/07/2026",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/574.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-ffdb380f08c5",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-ffdb380f08c5",
+                  "name": "Kups vs Vardar Skopje",
+                  "streams": [
+                    {
+                      "id": "kaytee-ffdb380f08c5",
                       "name": "F",
                       "stream_links": []
                     }
