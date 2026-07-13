@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:51 13/07/2026",
+  "last_updated": "21:01 13/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-bd185a24ebab",
-          "name": "⚽ Ugyen Academy vs Transport United | H2 - 90+6' 0 - 1 19:00 13/07/2026",
-          "tournament": "Premier League",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Ugyen_Academy_FC.png/250px-Ugyen_Academy_FC.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/5593.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Ugyen_Academy_FC.png/250px-Ugyen_Academy_FC.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-bd185a24ebab",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-bd185a24ebab",
-                  "name": "Ugyen Academy vs Transport United",
-                  "streams": [
-                    {
-                      "id": "kaytee-bd185a24ebab",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3f8571b6ce",
-                          "name": "BLV TÁO GIÀ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxj0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178395066911604&wsIPSercert=c1043f2d4ff4c027f8c5571c530c8186&wsBindIP=2&wsserid=1168283323221983365"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-d66f373a165e",
-          "name": "⚽ Chelyabinsk vs Ska-Khabarovsk | Sắp bắt đầu - null' 0 - 0 21:00 13/07/2026",
+          "name": "⚽ Chelyabinsk vs Ska-Khabarovsk | H1 - 1' 0 - 0 21:00 13/07/2026",
           "tournament": "First League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CoA_of_Chelyabinsk_%282000%29.svg/250px-CoA_of_Chelyabinsk_%282000%29.svg.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1087.png",
@@ -99,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c2e5ba7f03",
+                          "id": "lnk-e7d5c1a795",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxj0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f75f6470af28a14acee233bd-178395067756047&wsIPSercert=c1043f2d4ff4c027f8c5571c530c8186&wsBindIP=2&wsserid=1168283323406534424"
+                          "url": "https://tfxj3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178395128163031&wsIPSercert=b57da115afbaec2054a4c44829f4ad35&wsBindIP=2&wsserid=1177063474761571144"
                         }
                       ]
                     }
@@ -464,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-ffdb380f08c5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-81dad2b2d9a1",
+          "name": "⚽ Saburtalo vs Flora Tallinn | Sắp diễn ra vs 23:00 14/07/2026",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/3502.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/FC_Flora_logo.svg/250px-FC_Flora_logo.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3502.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-81dad2b2d9a1",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-81dad2b2d9a1",
+                  "name": "Saburtalo vs Flora Tallinn",
+                  "streams": [
+                    {
+                      "id": "kaytee-81dad2b2d9a1",
                       "name": "F",
                       "stream_links": []
                     }
