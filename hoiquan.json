@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:11 14/07/2026",
+  "last_updated": "02:21 14/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-36caa52078ed",
-          "name": "⚽ Djurgardens If vs Halmstad | H2 - 90+4' 3 - 0 00:00 14/07/2026",
-          "tournament": "Allsvenskan",
-          "logo_nha": "https://media.api-sports.io/football/teams/364.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/766.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/364.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-36caa52078ed",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-36caa52078ed",
-                  "name": "Djurgardens If vs Halmstad",
-                  "streams": [
-                    {
-                      "id": "kaytee-36caa52078ed",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3a9c0292a4",
-                          "name": "BLV LƯƠNG BỔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-80d59edd976b",
           "name": "⚽ Ceara vs Athletic Club | Sắp diễn ra vs 06:30 14/07/2026",
