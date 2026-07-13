@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:31 13/07/2026",
+  "last_updated": "08:41 13/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-6dce44482665",
-          "name": "⚽ Cf Montreal vs Vancouver Fc | H2 - 90+5' 2 - 1 06:30 13/07/2026",
-          "tournament": "Canadian Championship",
-          "logo_nha": "https://media.api-sports.io/football/teams/1614.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/20881.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1614.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-6dce44482665",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-6dce44482665",
-                  "name": "Cf Montreal vs Vancouver Fc",
-                  "streams": [
-                    {
-                      "id": "kaytee-6dce44482665",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3b79860ecd",
-                          "name": "BLV PHAN ANH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxj0gr4uqmtt8y41hcjzgazdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=14c06b90294daa39133930cf-178390629226496&wsIPSercert=d5ddf773d8ffdb4eb2a950955c87197b&wsBindIP=2&wsserid=1168176346313714739"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-b68b06c3ad2d",
           "name": "⚽ Vietnam vs Gangwon Fc | Sắp diễn ra vs 15:00 13/07/2026",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-79c7b992fb2a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1856f20214c6",
+          "name": "⚽ Hangzhou Greentown vs Qingdao Jonoon | Sắp diễn ra vs 18:35 14/07/2026",
+          "tournament": "Super League",
+          "logo_nha": "https://media.api-sports.io/football/teams/848.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1431.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/848.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1856f20214c6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1856f20214c6",
+                  "name": "Hangzhou Greentown vs Qingdao Jonoon",
+                  "streams": [
+                    {
+                      "id": "kaytee-1856f20214c6",
                       "name": "F",
                       "stream_links": []
                     }
