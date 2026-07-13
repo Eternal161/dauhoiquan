@@ -1,57 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "13:50 13/07/2026",
+  "last_updated": "14:01 13/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-b68b06c3ad2d",
-          "name": "⚽ Vietnam vs Gangwon Fc | Sắp diễn ra vs 15:00 13/07/2026",
-          "tournament": "Friendlies",
-          "logo_nha": "https://media.api-sports.io/football/teams/1542.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/f/fe/Gangwon_FC.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1542.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b68b06c3ad2d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b68b06c3ad2d",
-                  "name": "Vietnam vs Gangwon Fc",
-                  "streams": [
-                    {
-                      "id": "kaytee-b68b06c3ad2d",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-04c869c851a5",
           "name": "⚽ Ningbo Professional vs Dongguan United | Sắp diễn ra vs 18:00 13/07/2026",
@@ -448,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-1856f20214c6",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d4fa4a8d81a8",
+          "name": "⚽ Bhutan U19 vs Drukpa | Sắp diễn ra vs 19:00 14/07/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/5433.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/27725.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5433.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d4fa4a8d81a8",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d4fa4a8d81a8",
+                  "name": "Bhutan U19 vs Drukpa",
+                  "streams": [
+                    {
+                      "id": "kaytee-d4fa4a8d81a8",
                       "name": "F",
                       "stream_links": []
                     }
