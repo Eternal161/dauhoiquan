@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "22:51 13/07/2026",
+  "last_updated": "23:01 13/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-d66f373a165e",
-          "name": "⚽ Chelyabinsk vs Ska-Khabarovsk | H2 - 90' 3 - 1 21:00 13/07/2026",
-          "tournament": "First League",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CoA_of_Chelyabinsk_%282000%29.svg/250px-CoA_of_Chelyabinsk_%282000%29.svg.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1087.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CoA_of_Chelyabinsk_%282000%29.svg/250px-CoA_of_Chelyabinsk_%282000%29.svg.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-d66f373a165e",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-d66f373a165e",
-                  "name": "Chelyabinsk vs Ska-Khabarovsk",
-                  "streams": [
-                    {
-                      "id": "kaytee-d66f373a165e",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7737d80ddf",
-                          "name": "BLV LƯƠNG BỔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxj0gr4uqmtt8y41hcjz8rzdncbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b2a439e2d523219d38158b30-178395787480722&wsIPSercert=733184c4b0d916fcdc7f9901f7a02b61&wsBindIP=2&wsserid=1168176337059421885"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-d88b6eee9b74",
           "name": "⚽ Arsenal Tula vs Tekstilshchik | Sắp diễn ra vs 23:30 13/07/2026",
