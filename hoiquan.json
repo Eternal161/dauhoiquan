@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:41 14/07/2026",
+  "last_updated": "01:51 14/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-d88b6eee9b74",
-          "name": "⚽ Arsenal Tula vs Tekstilshchik | H2 - 90+5' 2 - 1 23:30 13/07/2026",
-          "tournament": "First League",
-          "logo_nha": "https://media.api-sports.io/football/teams/1077.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/3984.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1077.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-d88b6eee9b74",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-d88b6eee9b74",
-                  "name": "Arsenal Tula vs Tekstilshchik",
-                  "streams": [
-                    {
-                      "id": "kaytee-d88b6eee9b74",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c65c93ceed",
-                          "name": "BLV THẦN THÔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-36caa52078ed",
-          "name": "⚽ Djurgardens If vs Halmstad | H2 - 82' 3 - 0 00:00 14/07/2026",
+          "name": "⚽ Djurgardens If vs Halmstad | H2 - 90+2' 3 - 0 00:00 14/07/2026",
           "tournament": "Allsvenskan",
           "logo_nha": "https://media.api-sports.io/football/teams/364.png",
           "logo_khach": "https://media.api-sports.io/football/teams/766.png",
@@ -99,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c867595ed1",
+                          "id": "lnk-dfcaac8831",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxj0gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2b146be960692448c3ec925f-178396808361568&wsIPSercert=b6dc194ea34e710ad35cc7a418f1d588&wsBindIP=2&wsserid=1168231785609677651"
+                          "url": "https://tfxj1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178396867583072&wsIPSercert=71fa242e6f20eec1749f9654f6552fa3&wsBindIP=2&wsserid=1168278313570948617"
                         }
                       ]
                     }
