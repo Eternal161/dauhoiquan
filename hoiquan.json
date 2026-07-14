@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "17:41 14/07/2026",
+  "last_updated": "17:51 14/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-79c7b992fb2a",
-          "name": "⚽ Apia Leichhardt Tigers vs Peninsula Power | H2 - 55' 1 - 0 16:30 14/07/2026",
+          "name": "⚽ Apia Leichhardt Tigers vs Peninsula Power | H2 - 65' 1 - 0 16:30 14/07/2026",
           "tournament": "Australia Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/3764.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10221.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-99a6a4b455",
+                          "id": "lnk-e67a8f878c",
                           "name": "BLV PHAN CA",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxk0gr3uomttgr31hcj18yzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=887324b07c076b8f047bf4b3-178402567746595&wsIPSercert=08d765d098898f88d609e441e5622605&wsBindIP=2&wsserid=1168243439525013454"
+                          "url": "https://tfxk1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=349560c79a44166872039751-178402627681177&wsIPSercert=d8bc134845c697217f5601e713dc3724&wsBindIP=2&wsserid=1168282035622980969"
                         }
                       ]
                     }
@@ -186,6 +186,51 @@
                   "streams": [
                     {
                       "id": "kaytee-ffdb380f08c5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-cbc5380f6093",
+          "name": "⚽ Saburtalo vs Flora Tallinn | Sắp diễn ra vs 23:00 14/07/2026",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/3502.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/FC_Flora_logo.svg/250px-FC_Flora_logo.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3502.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-cbc5380f6093",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-cbc5380f6093",
+                  "name": "Saburtalo vs Flora Tallinn",
+                  "streams": [
+                    {
+                      "id": "kaytee-cbc5380f6093",
                       "name": "F",
                       "stream_links": []
                     }
@@ -411,51 +456,6 @@
                   "streams": [
                     {
                       "id": "kaytee-508eb679ce82",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-1adada6ad525",
-          "name": "⚽ Ajax vs Vfl Bochum | Sắp diễn ra vs 22:00 15/07/2026",
-          "tournament": "Friendlies Clubs",
-          "logo_nha": "https://media.api-sports.io/football/teams/194.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/7/72/VfL_Bochum_logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/194.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-1adada6ad525",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-1adada6ad525",
-                  "name": "Ajax vs Vfl Bochum",
-                  "streams": [
-                    {
-                      "id": "kaytee-1adada6ad525",
                       "name": "F",
                       "stream_links": []
                     }
