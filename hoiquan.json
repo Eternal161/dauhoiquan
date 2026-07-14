@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:01 15/07/2026",
+  "last_updated": "00:11 15/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-ffdb380f08c5",
-          "name": "⚽ Kups vs Vardar Skopje | H2 - 90+10' 0 - 2 22:00 14/07/2026",
+          "name": "⚽ Kups vs Vardar Skopje | Kết thúc - 94' 0 - 2 22:00 14/07/2026",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/574.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e95d7b318f",
+                          "id": "lnk-e9887d2e58",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxk3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178404852077974&wsIPSercert=aebcf7eb0eb1aafd66f72ad05a720a26&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfxk1gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178404911143251&wsIPSercert=9c1e19e6ffdfdb4fe41e52cad3e3b406&wsBindIP=2&wsserid=1177063474757376778"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-cbc5380f6093",
-          "name": "⚽ Saburtalo vs Flora Tallinn | Giữa Hiệp - 45+1' 2 - 0 23:00 14/07/2026",
+          "name": "⚽ Saburtalo vs Flora Tallinn | H2 - 54' 2 - 0 23:00 14/07/2026",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://media.api-sports.io/football/teams/3502.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/FC_Flora_logo.svg/250px-FC_Flora_logo.svg.png",
@@ -99,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a8f4ee615f",
+                          "id": "lnk-87017dff27",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxk3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178404852892621&wsIPSercert=aebcf7eb0eb1aafd66f72ad05a720a26&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfxk1gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178404911985127&wsIPSercert=9c1e19e6ffdfdb4fe41e52cad3e3b406&wsBindIP=2&wsserid=1177063474757376778"
                         }
                       ]
                     }
@@ -115,7 +115,7 @@
         },
         {
           "id": "kaytee-b5dacc1577ec",
-          "name": "⚽ The New Saints vs Sabah Fa | Sắp diễn ra vs 00:30 15/07/2026",
+          "name": "⚽ The New Saints vs Sabah Fa | Sắp bắt đầu - null' 0 - 0 00:30 15/07/2026",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://media.api-sports.io/football/teams/354.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2505.png",
@@ -132,10 +132,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -150,7 +150,15 @@
                     {
                       "id": "kaytee-b5dacc1577ec",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-a5c8858d38",
+                          "name": "BLV TÁO GIÀ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxk1gr3uomttgr31hctsfaau1ptpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f8297f23ac177a648779645f-178404912870794&wsIPSercert=9c1e19e6ffdfdb4fe41e52cad3e3b406&wsBindIP=2&wsserid=1168056276211756464"
+                        }
+                      ]
                     }
                   ]
                 }
