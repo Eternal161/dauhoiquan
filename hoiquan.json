@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "20:31 14/07/2026",
+  "last_updated": "20:41 14/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-1856f20214c6",
-          "name": "⚽ Hangzhou Greentown vs Qingdao Jonoon | H2 - 90+5' 2 - 2 18:35 14/07/2026",
-          "tournament": "Super League",
-          "logo_nha": "https://media.api-sports.io/football/teams/848.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1431.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/848.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-1856f20214c6",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-1856f20214c6",
-                  "name": "Hangzhou Greentown vs Qingdao Jonoon",
-                  "streams": [
-                    {
-                      "id": "kaytee-1856f20214c6",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6b17890cd4",
-                          "name": "BLV PHAN QUẨY",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxk1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=22dc27e5affbb6b58c947890-178403587554977&wsIPSercert=b3eb533a5379e7c2d124eed2201c241b&wsBindIP=2&wsserid=1168283323207303220"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-e3d6b2bb3519",
-          "name": "⚽ Muras United vs Bars | Sắp diễn ra vs 21:00 14/07/2026",
+          "name": "⚽ Muras United vs Bars | Sắp bắt đầu - null' 0 - 0 21:00 14/07/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/21167.png",
           "logo_khach": "https://media.api-sports.io/football/teams/25765.png",
@@ -79,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +44,15 @@
                     {
                       "id": "kaytee-e3d6b2bb3519",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-9ec9cbb7d0",
+                          "name": "BLV TÁO GIÀ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxk1gr3uomttgr31hcj3fa3dkcbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=269e7cfbbd459e2e0bf3bfd4-178403647199906&wsIPSercert=1601091645f4badef28965a739de6aae&wsBindIP=2&wsserid=1168235283031012122"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -456,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-1adada6ad525",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-9f4d17153ba6",
+          "name": "⚽ Jippo vs Mp | Sắp diễn ra vs 22:30 15/07/2026",
+          "tournament": "Ykkösliiga",
+          "logo_nha": "https://media.api-sports.io/football/teams/9172.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/9175.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/9172.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-9f4d17153ba6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-9f4d17153ba6",
+                  "name": "Jippo vs Mp",
+                  "streams": [
+                    {
+                      "id": "kaytee-9f4d17153ba6",
                       "name": "F",
                       "stream_links": []
                     }
