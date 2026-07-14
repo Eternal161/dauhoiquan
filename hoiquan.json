@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "03:11 15/07/2026",
+  "last_updated": "03:21 15/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-bd3d4bb576ae",
-          "name": "⚽ France vs Spain | H2 - 50' 0 - 1 02:00 15/07/2026",
+          "name": "⚽ France vs Spain | H2 - 59' 0 - 2 02:00 15/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/2.png",
           "logo_khach": "https://media.api-sports.io/football/teams/9.png",
@@ -46,18 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4c9de1c3bd",
+                          "id": "lnk-5a501e3706",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxk1gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=57088f3cd5f87cc826484c92-178405991513349&wsIPSercert=0cd052017b25511cd011f041342ccb57&wsBindIP=2&wsserid=1168168154459896377"
+                          "url": "https://tfxk1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=1c87452874080fa18e91db9d-178406046897288&wsIPSercert=9ab2d6ef558db8a28e024ef25dc6e020&wsBindIP=2&wsserid=1168282035650244061"
                         },
                         {
-                          "id": "lnk-d6ea713c2b",
+                          "id": "lnk-e132161668",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxk1gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=57088f3cd5f87cc826484c92-178405992331667&wsIPSercert=0cd052017b25511cd011f041342ccb57&wsBindIP=2&wsserid=1168168154459896377"
+                          "url": "https://tfxk1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=1c87452874080fa18e91db9d-178406047736948&wsIPSercert=9ab2d6ef558db8a28e024ef25dc6e020&wsBindIP=2&wsserid=1168282035650244061"
                         }
                       ]
                     }
