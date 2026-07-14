@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:11 15/07/2026",
+  "last_updated": "04:21 15/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-bd3d4bb576ae",
-          "name": "⚽ France vs Spain | H2 - 90+8' 0 - 2 02:00 15/07/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/2.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/9.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-bd3d4bb576ae",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-bd3d4bb576ae",
-                  "name": "France vs Spain",
-                  "streams": [
-                    {
-                      "id": "kaytee-bd3d4bb576ae",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-25ab31f22b",
-                          "name": "BLV LƯƠNG BỔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxk4gchnhcjo8rzdrpjtfa4144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=00a62cc6094de4f7b329cc7e-178406349182598&wsIPSercert=a1a948406da533a0cde57fe60c5ac389&wsBindIP=2&wsserid=1168168154451507561"
-                        },
-                        {
-                          "id": "lnk-1ec40c8603",
-                          "name": "BLV PHAN QUẨY",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfxk4gchnhcjo8rzdrpjtfa4144dtptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2405a2a24215f54d1eb1e38c-178406350051218&wsIPSercert=a1a948406da533a0cde57fe60c5ac389&wsBindIP=2&wsserid=1168168154453604765"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-1a65d6a72284",
           "name": "⚽ Blooming vs Gualberto Villarroel Sj | Sắp diễn ra vs 07:30 15/07/2026",
