@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "00:40 15/07/2026",
+  "last_updated": "00:51 15/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-ffdb380f08c5",
-          "name": "⚽ Kups vs Vardar Skopje | Kết thúc - 115' 2 - 3 22:00 14/07/2026",
-          "tournament": "UEFA Champions League",
-          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
-          "logo_khach": "https://media.api-sports.io/football/teams/574.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ffdb380f08c5",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ffdb380f08c5",
-                  "name": "Kups vs Vardar Skopje",
-                  "streams": [
-                    {
-                      "id": "kaytee-ffdb380f08c5",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e7c7d89a30",
-                          "name": "BLV PHAN QUẨY",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxk0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=6dc55f48a79b9811d37124c0-178405086890039&wsIPSercert=e4a244b404edecc3fe6054316eb8c750&wsBindIP=2&wsserid=1168176337057324681"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-cbc5380f6093",
-          "name": "⚽ Saburtalo vs Flora Tallinn | H2 - 83' 2 - 1 23:00 14/07/2026",
+          "name": "⚽ Saburtalo vs Flora Tallinn | H2 - 90+4' 2 - 2 23:00 14/07/2026",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://media.api-sports.io/football/teams/3502.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/FC_Flora_logo.svg/250px-FC_Flora_logo.svg.png",
@@ -99,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9d1f8e8a3e",
+                          "id": "lnk-3d115dc528",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxk0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b2a439e2d523219d38158b30-178405087737957&wsIPSercert=e4a244b404edecc3fe6054316eb8c750&wsBindIP=2&wsserid=1168176337059421885"
+                          "url": "https://tfxk0gr4uqmtt8y41hcjz8rzdrcjafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b2a439e2d523219d38158b30-178405148013775&wsIPSercert=44caa6f9407ab7b4fe9e1e7c37cafdab&wsBindIP=2&wsserid=1168176337059421885"
                         }
                       ]
                     }
@@ -115,7 +62,7 @@
         },
         {
           "id": "kaytee-b5dacc1577ec",
-          "name": "⚽ The New Saints vs Sabah Fa | H1 - 11' 0 - 0 00:30 15/07/2026",
+          "name": "⚽ The New Saints vs Sabah Fa | H1 - 21' 0 - 0 00:30 15/07/2026",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://media.api-sports.io/football/teams/354.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2505.png",
@@ -152,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e2ad5e62fe",
+                          "id": "lnk-3164d50ad4",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxk0gr4uqmtt8y41hcjz8rzdrcjafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=14c06b90294daa39133930cf-178405088610228&wsIPSercert=e4a244b404edecc3fe6054316eb8c750&wsBindIP=2&wsserid=1168176346313714739"
+                          "url": "https://tfxk0gr3uomttgr31hcj18yzdnct1fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=128e4e2e1189c7ae165e181d-178405148831207&wsIPSercert=44caa6f9407ab7b4fe9e1e7c37cafdab&wsBindIP=2&wsserid=1168243343857585137"
                         }
                       ]
                     }
