@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:11 15/07/2026",
+  "last_updated": "02:20 15/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-b5dacc1577ec",
-          "name": "⚽ The New Saints vs Sabah Fa | H2 - 85' 0 - 2 00:30 15/07/2026",
+          "name": "⚽ The New Saints vs Sabah Fa | H2 - 90+3' 1 - 2 00:30 15/07/2026",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://media.api-sports.io/football/teams/354.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2505.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-56395981bb",
+                          "id": "lnk-f920d91fc6",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxk0gr4uqmtt8y41hcjsgyzdnpbufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2b146be960692448c3ec925f-178405627289198&wsIPSercert=ca624d9f1ca66a176671331f1fb6b691&wsBindIP=2&wsserid=1168231785609677651"
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-bd3d4bb576ae",
-          "name": "⚽ France vs Spain | H1 - 11' 0 - 0 02:00 15/07/2026",
+          "name": "⚽ France vs Spain | H1 - 21' 0 - 0 02:00 15/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/2.png",
           "logo_khach": "https://media.api-sports.io/football/teams/9.png",
@@ -99,18 +99,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-108818c9aa",
+                          "id": "lnk-c103924f95",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxk0gr4uqmtt8y41hcjsgyzdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2da5aa785b400d749e5c0d1c-178405628145777&wsIPSercert=ca624d9f1ca66a176671331f1fb6b691&wsBindIP=2&wsserid=1168283323355153405"
+                          "url": "https://tfxk0gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=90dc6457e54a303646757f4a-178405687737237&wsIPSercert=902225875e510f2e6cf0af8b054b31e6&wsBindIP=2&wsserid=1168041062946239395"
                         },
                         {
-                          "id": "lnk-6a21d57720",
+                          "id": "lnk-dbfcf61d12",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxk0gr4uqmtt8y41hcjsgyzdnpbwfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2da5aa785b400d749e5c0d1c-178405629023868&wsIPSercert=ca624d9f1ca66a176671331f1fb6b691&wsBindIP=2&wsserid=1168283323355153405"
+                          "url": "https://tfxk0gr4uqmtt8y41hcjzgazdnc3ofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=90dc6457e54a303646757f4a-178405688612663&wsIPSercert=902225875e510f2e6cf0af8b054b31e6&wsBindIP=2&wsserid=1168041062946239395"
                         }
                       ]
                     }
