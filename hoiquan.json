@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:31 14/07/2026",
+  "last_updated": "21:41 14/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-e3d6b2bb3519",
-          "name": "⚽ Muras United vs Bars | Sắp bắt đầu - null' 0 - 0 21:00 14/07/2026",
+          "name": "⚽ Muras United vs Bars | H1 - 11' 0 - 0 21:00 14/07/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/21167.png",
           "logo_khach": "https://media.api-sports.io/football/teams/25765.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-dbf7c1f8ce",
+                          "id": "lnk-af41ed6d3b",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxk0gr3uomttgr31hcj18yzdnctwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=128e4e2e1189c7ae165e181d-178403948106038&wsIPSercert=a7b56276d397b75a5bf279a20284d02b&wsBindIP=2&wsserid=1168243343857585137"
+                          "url": "https://tfxk0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178404007291979&wsIPSercert=12771068b83a841366984c212eb438be&wsBindIP=2&wsserid=1168283323221983365"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-ffdb380f08c5",
-          "name": "⚽ Kups vs Vardar Skopje | Sắp diễn ra vs 22:00 14/07/2026",
+          "name": "⚽ Kups vs Vardar Skopje | Sắp bắt đầu - null' 0 - 0 22:00 14/07/2026",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
           "logo_khach": "https://media.api-sports.io/football/teams/574.png",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,15 @@
                     {
                       "id": "kaytee-ffdb380f08c5",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-a7da1f5e8e",
+                          "name": "BLV PHAN QUẨY",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxk0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=22dc27e5affbb6b58c947890-178404008151382&wsIPSercert=12771068b83a841366984c212eb438be&wsBindIP=2&wsserid=1168283323207303220"
+                        }
+                      ]
                     }
                   ]
                 }
