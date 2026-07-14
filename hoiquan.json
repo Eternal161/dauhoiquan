@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:21 15/07/2026",
+  "last_updated": "01:31 15/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-cbc5380f6093",
-          "name": "⚽ Saburtalo vs Flora Tallinn | H2 - 90+6' 2 - 2 23:00 14/07/2026",
-          "tournament": "UEFA Champions League",
-          "logo_nha": "https://media.api-sports.io/football/teams/3502.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/FC_Flora_logo.svg/250px-FC_Flora_logo.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/3502.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-cbc5380f6093",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-cbc5380f6093",
-                  "name": "Saburtalo vs Flora Tallinn",
-                  "streams": [
-                    {
-                      "id": "kaytee-cbc5380f6093",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8c55cce84d",
-                          "name": "BLV LƯƠNG BỔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxk1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178405327698281&wsIPSercert=a60b30209b6e7f92c16f35e308d1950c&wsBindIP=2&wsserid=1168278313570948617"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-b5dacc1577ec",
-          "name": "⚽ The New Saints vs Sabah Fa | Live 0 - 0 00:30 15/07/2026",
+          "name": "⚽ The New Saints vs Sabah Fa | Giữa Hiệp - 45' 0 - 2 00:30 15/07/2026",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://media.api-sports.io/football/teams/354.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2505.png",
@@ -99,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5ff1246aed",
+                          "id": "lnk-7a70f4117e",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxk3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178405328537678&wsIPSercert=a60b30209b6e7f92c16f35e308d1950c&wsBindIP=2&wsserid=1177063474761571144"
+                          "url": "https://tfxk1gr4dymttgwanhc3sfaauccbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0fecc200ad94635c875c47ce-178405388181278&wsIPSercert=67dc589d86ffc2c702763461725a1440&wsBindIP=2&wsserid=1168282035663924028"
                         }
                       ]
                     }
@@ -115,7 +62,7 @@
         },
         {
           "id": "kaytee-bd3d4bb576ae",
-          "name": "⚽ France vs Spain | Sắp diễn ra vs 02:00 15/07/2026",
+          "name": "⚽ France vs Spain | Sắp bắt đầu - null' 0 - 0 02:00 15/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/2.png",
           "logo_khach": "https://media.api-sports.io/football/teams/9.png",
@@ -132,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -150,7 +97,22 @@
                     {
                       "id": "kaytee-bd3d4bb576ae",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-f9e8561ee6",
+                          "name": "BLV LƯƠNG BỔNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxk1gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178405389003815&wsIPSercert=67dc589d86ffc2c702763461725a1440&wsBindIP=2&wsserid=1177063474757376778"
+                        },
+                        {
+                          "id": "lnk-f24974ca4a",
+                          "name": "BLV PHAN QUẨY",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfxk1gr3uomttgr31hctsfaau1ptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178405389855512&wsIPSercert=67dc589d86ffc2c702763461725a1440&wsBindIP=2&wsserid=1177063474757376778"
+                        }
+                      ]
                     }
                   ]
                 }
