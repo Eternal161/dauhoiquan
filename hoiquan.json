@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "08:01 14/07/2026",
+  "last_updated": "08:11 14/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-80d59edd976b",
-          "name": "⚽ Ceara vs Athletic Club | H2 - 71' 0 - 0 06:30 14/07/2026",
-          "tournament": "Serie B",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpEq0ZDxhCpCOUtgbmrKrxUfha1DH3ajU-Q&s",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpEq0ZDxhCpCOUtgbmrKrxUfha1DH3ajU-Q&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-80d59edd976b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-80d59edd976b",
-                  "name": "Ceara vs Athletic Club",
-                  "streams": [
-                    {
-                      "id": "kaytee-80d59edd976b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-54ecdf2ee9",
-                          "name": "BLV PHAN ANH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxk0gr4uqmtt8y41hcjsgyzdnpbafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=5b53f9dab67ae6e0f12f2a80-178399088262934&wsIPSercert=f556a05465df03b746a0bbaf5a100ae5&wsBindIP=2&wsserid=1168231785641135723"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-09428757c322",
-          "name": "⚽ Cavalry Fc vs Vancouver Whitecaps | Sắp diễn ra vs 08:30 14/07/2026",
+          "name": "⚽ Cavalry Fc vs Vancouver Whitecaps | Sắp bắt đầu - null' 0 - 0 08:30 14/07/2026",
           "tournament": "Canadian Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/2619.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Vancouver_Whitecaps_logo.svg",
@@ -79,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +44,15 @@
                     {
                       "id": "kaytee-09428757c322",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-b5a7f200e1",
+                          "name": "BLV PHAN ANH",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxk1gr3uomttgr31hcj3fa3deqbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=00a62cc6094de4f7b329cc7e-178399147194156&wsIPSercert=a2ab6486a1955ab85a494e75a8b30fc5&wsBindIP=2&wsserid=1168168154451507561"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -456,6 +411,51 @@
                   "streams": [
                     {
                       "id": "kaytee-1a65d6a72284",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e748d42019b2",
+          "name": "⚽ Marlin Coast vs Brunswick Juventus Fc | Sắp diễn ra vs 16:30 15/07/2026",
+          "tournament": "Australia Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/27884.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/27510.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/27884.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e748d42019b2",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e748d42019b2",
+                  "name": "Marlin Coast vs Brunswick Juventus Fc",
+                  "streams": [
+                    {
+                      "id": "kaytee-e748d42019b2",
                       "name": "F",
                       "stream_links": []
                     }
