@@ -1,12 +1,463 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "13:31 14/07/2026",
+  "last_updated": "13:40 14/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
-      "channels": []
+      "channels": [
+        {
+          "id": "kaytee-79c7b992fb2a",
+          "name": "⚽ Apia Leichhardt Tigers vs Peninsula Power | Sắp diễn ra vs 16:30 14/07/2026",
+          "tournament": "Australia Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/3764.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10221.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3764.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-79c7b992fb2a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-79c7b992fb2a",
+                  "name": "Apia Leichhardt Tigers vs Peninsula Power",
+                  "streams": [
+                    {
+                      "id": "kaytee-79c7b992fb2a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1856f20214c6",
+          "name": "⚽ Hangzhou Greentown vs Qingdao Jonoon | Sắp diễn ra vs 18:35 14/07/2026",
+          "tournament": "Super League",
+          "logo_nha": "https://media.api-sports.io/football/teams/848.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1431.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/848.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1856f20214c6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1856f20214c6",
+                  "name": "Hangzhou Greentown vs Qingdao Jonoon",
+                  "streams": [
+                    {
+                      "id": "kaytee-1856f20214c6",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d4fa4a8d81a8",
+          "name": "⚽ Bhutan U19 vs Drukpa | Sắp diễn ra vs 19:00 14/07/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/5433.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/27725.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5433.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d4fa4a8d81a8",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d4fa4a8d81a8",
+                  "name": "Bhutan U19 vs Drukpa",
+                  "streams": [
+                    {
+                      "id": "kaytee-d4fa4a8d81a8",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e3d6b2bb3519",
+          "name": "⚽ Muras United vs Bars | Sắp diễn ra vs 21:00 14/07/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/21167.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/25765.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/21167.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e3d6b2bb3519",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e3d6b2bb3519",
+                  "name": "Muras United vs Bars",
+                  "streams": [
+                    {
+                      "id": "kaytee-e3d6b2bb3519",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-ffdb380f08c5",
+          "name": "⚽ Kups vs Vardar Skopje | Sắp diễn ra vs 22:00 14/07/2026",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/574.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-ffdb380f08c5",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-ffdb380f08c5",
+                  "name": "Kups vs Vardar Skopje",
+                  "streams": [
+                    {
+                      "id": "kaytee-ffdb380f08c5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-81dad2b2d9a1",
+          "name": "⚽ Saburtalo vs Flora Tallinn | Sắp diễn ra vs 23:00 14/07/2026",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/3502.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/FC_Flora_logo.svg/250px-FC_Flora_logo.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3502.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-81dad2b2d9a1",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-81dad2b2d9a1",
+                  "name": "Saburtalo vs Flora Tallinn",
+                  "streams": [
+                    {
+                      "id": "kaytee-81dad2b2d9a1",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b5dacc1577ec",
+          "name": "⚽ The New Saints vs Sabah Fa | Sắp diễn ra vs 00:30 15/07/2026",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/354.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2505.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/354.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b5dacc1577ec",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b5dacc1577ec",
+                  "name": "The New Saints vs Sabah Fa",
+                  "streams": [
+                    {
+                      "id": "kaytee-b5dacc1577ec",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1a65d6a72284",
+          "name": "⚽ Blooming vs Gualberto Villarroel Sj | Sắp diễn ra vs 07:30 15/07/2026",
+          "tournament": "Primera División",
+          "logo_nha": "https://media.api-sports.io/football/teams/3701.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/22266.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3701.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1a65d6a72284",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1a65d6a72284",
+                  "name": "Blooming vs Gualberto Villarroel Sj",
+                  "streams": [
+                    {
+                      "id": "kaytee-1a65d6a72284",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e748d42019b2",
+          "name": "⚽ Marlin Coast vs Brunswick Juventus Fc | Sắp diễn ra vs 16:30 15/07/2026",
+          "tournament": "Australia Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/27884.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/27510.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/27884.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e748d42019b2",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e748d42019b2",
+                  "name": "Marlin Coast vs Brunswick Juventus Fc",
+                  "streams": [
+                    {
+                      "id": "kaytee-e748d42019b2",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c9e4fbf940cc",
+          "name": "⚽ Suwon City Fc vs Pyeongchang United | Sắp diễn ra vs 17:00 15/07/2026",
+          "tournament": "FA Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/2756.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/18656.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2756.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c9e4fbf940cc",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c9e4fbf940cc",
+                  "name": "Suwon City Fc vs Pyeongchang United",
+                  "streams": [
+                    {
+                      "id": "kaytee-c9e4fbf940cc",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
