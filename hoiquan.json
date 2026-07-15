@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "18:51 15/07/2026",
+  "last_updated": "19:01 15/07/2026",
   "groups": [
     {
       "id": "live",
@@ -143,11 +143,11 @@
           ]
         },
         {
-          "id": "kaytee-1c6e9ad43406",
-          "name": "⚽ Riga Fc Ii vs Super Nova 2 | Sắp diễn ra vs 17:00 19/07/2026",
-          "tournament": "1. Liga",
-          "logo_nha": "https://media.api-sports.io/football/teams/18835.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/27565.png",
+          "id": "kaytee-f0acd7852b60",
+          "name": "⚽ Universitatea Craiova vs Ml Vitebsk | Sắp diễn ra vs 00:30 16/07/2026",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/632.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/7808.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -155,7 +155,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/18835.png",
+            "url": "https://media.api-sports.io/football/teams/632.png",
             "width": 1600,
             "height": 1200
           },
@@ -169,15 +169,285 @@
           ],
           "sources": [
             {
-              "id": "kaytee-1c6e9ad43406",
+              "id": "kaytee-f0acd7852b60",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-1c6e9ad43406",
-                  "name": "Riga Fc Ii vs Super Nova 2",
+                  "id": "kaytee-f0acd7852b60",
+                  "name": "Universitatea Craiova vs Ml Vitebsk",
                   "streams": [
                     {
-                      "id": "kaytee-1c6e9ad43406",
+                      "id": "kaytee-f0acd7852b60",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d204bd323063",
+          "name": "⚽ England vs Argentina | Sắp diễn ra vs 02:00 16/07/2026",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/10.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/10.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d204bd323063",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d204bd323063",
+                  "name": "England vs Argentina",
+                  "streams": [
+                    {
+                      "id": "kaytee-d204bd323063",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-9fd180da5c67",
+          "name": "⚽ Universidad Catolica vs Ldu De Quito | Sắp diễn ra vs 05:00 16/07/2026",
+          "tournament": "Liga Pro",
+          "logo_nha": "https://media.api-sports.io/football/teams/1157.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/e/e8/LDUQuitologo2.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1157.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-9fd180da5c67",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-9fd180da5c67",
+                  "name": "Universidad Catolica vs Ldu De Quito",
+                  "streams": [
+                    {
+                      "id": "kaytee-9fd180da5c67",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-fc7af636312e",
+          "name": "⚽ Barcelona Sc vs Guayaquil City Fc | Sắp diễn ra vs 07:30 16/07/2026",
+          "tournament": "Liga Pro",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6hNPeVCelmVhF22CQYOiEe215iOTJF3Lm7A&s",
+          "logo_khach": "https://media.api-sports.io/football/teams/1159.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6hNPeVCelmVhF22CQYOiEe215iOTJF3Lm7A&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-fc7af636312e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-fc7af636312e",
+                  "name": "Barcelona Sc vs Guayaquil City Fc",
+                  "streams": [
+                    {
+                      "id": "kaytee-fc7af636312e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-92632fe8cbca",
+          "name": "⚽ Thimphu vs Paro | Sắp diễn ra vs 19:00 16/07/2026",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/5591.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/9426.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5591.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-92632fe8cbca",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-92632fe8cbca",
+                  "name": "Thimphu vs Paro",
+                  "streams": [
+                    {
+                      "id": "kaytee-92632fe8cbca",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-37ce8b62f784",
+          "name": "⚽ Khan Tengri vs Yelimay Semey 2 | Sắp diễn ra vs 21:00 16/07/2026",
+          "tournament": "1. Division",
+          "logo_nha": "https://media.api-sports.io/football/teams/18805.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/27635.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/18805.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-37ce8b62f784",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-37ce8b62f784",
+                  "name": "Khan Tengri vs Yelimay Semey 2",
+                  "streams": [
+                    {
+                      "id": "kaytee-37ce8b62f784",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-90ebfe7381b9",
+          "name": "⚽ Inter Turku vs Fk Sarajevo | Sắp diễn ra vs 22:00 16/07/2026",
+          "tournament": "UEFA Europa Conference League",
+          "logo_nha": "https://media.api-sports.io/football/teams/1164.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/FK_Sarajevo_logo.svg/909px-FK_Sarajevo_logo.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1164.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-90ebfe7381b9",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-90ebfe7381b9",
+                  "name": "Inter Turku vs Fk Sarajevo",
+                  "streams": [
+                    {
+                      "id": "kaytee-90ebfe7381b9",
                       "name": "F",
                       "stream_links": []
                     }
