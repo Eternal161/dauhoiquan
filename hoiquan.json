@@ -1,65 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "09:01 15/07/2026",
+  "last_updated": "09:11 15/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-1a65d6a72284",
-          "name": "⚽ Blooming vs Gualberto Villarroel Sj | H2 - 90+6' 1 - 1 07:30 15/07/2026",
-          "tournament": "Primera División",
-          "logo_nha": "https://media.api-sports.io/football/teams/3701.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/22266.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/3701.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-1a65d6a72284",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-1a65d6a72284",
-                  "name": "Blooming vs Gualberto Villarroel Sj",
-                  "streams": [
-                    {
-                      "id": "kaytee-1a65d6a72284",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4cb72d943d",
-                          "name": "BLV PHAN ANH",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-e748d42019b2",
           "name": "⚽ Marlin Coast vs Brunswick Juventus Fc | Sắp diễn ra vs 16:30 15/07/2026",
