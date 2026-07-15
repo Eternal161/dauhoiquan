@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:10 16/07/2026",
+  "last_updated": "02:21 16/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-f0acd7852b60",
-          "name": "⚽ Universitatea Craiova vs Ml Vitebsk | H2 - 82' 0 - 0 00:30 16/07/2026",
+          "name": "⚽ Universitatea Craiova vs Ml Vitebsk | H2 - 90+2' 1 - 0 00:30 16/07/2026",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://media.api-sports.io/football/teams/632.png",
           "logo_khach": "https://media.api-sports.io/football/teams/7808.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-822409ab0b",
+                          "id": "lnk-f0808a50d6",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxl1gr4uqmtt8y41hcjzgyzdrcbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e55ec2ef446f994b8f4716a0-178414266165615&wsIPSercert=c18bd727726c5f3177fcec4e777479f9&wsBindIP=2&wsserid=1168162712924058667"
+                          "url": "https://tfxl1gr3domtzgwzdrpjufa3dnp3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=27245cc462840e68ab7110ab-178414328942968&wsIPSercert=b847b99e1ff9a8f65d9b5a786b22741b&wsBindIP=2&wsserid=1168261015863523075"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-d204bd323063",
-          "name": "⚽ England vs Argentina | H1 - 11' 0 - 0 02:00 16/07/2026",
+          "name": "⚽ England vs Argentina | H1 - 20' 0 - 0 02:00 16/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/10.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
@@ -99,18 +99,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5720fe4b98",
+                          "id": "lnk-8019a29678",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxl0gr4uqmtt8y41hcjsgczdnpj3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=bbb74d12399523b3fae21714-178414267079578&wsIPSercert=c18bd727726c5f3177fcec4e777479f9&wsBindIP=2&wsserid=1172660967355683904"
+                          "url": "https://tfxl1gr3domtzgwzdrpjufa3dnp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=3ea4c31d71c5f3367867e9d2-178414329876267&wsIPSercert=b847b99e1ff9a8f65d9b5a786b22741b&wsBindIP=2&wsserid=1168261015854085723"
                         },
                         {
-                          "id": "lnk-b7db50f379",
+                          "id": "lnk-0a125089ff",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxl0gr4uqmtt8y41hcjsgczdnpj3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=bbb74d12399523b3fae21714-178414267872701&wsIPSercert=c18bd727726c5f3177fcec4e777479f9&wsBindIP=2&wsserid=1172660967355683904"
+                          "url": "https://tfxl1gr3domtzgwzdrpjufa3dnp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=3ea4c31d71c5f3367867e9d2-178414330351377&wsIPSercert=b847b99e1ff9a8f65d9b5a786b22741b&wsBindIP=2&wsserid=1168261015854085723"
                         }
                       ]
                     }
