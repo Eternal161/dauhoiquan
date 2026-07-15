@@ -1,68 +1,15 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "02:21 16/07/2026",
+  "last_updated": "02:31 16/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-f0acd7852b60",
-          "name": "⚽ Universitatea Craiova vs Ml Vitebsk | H2 - 90+2' 1 - 0 00:30 16/07/2026",
-          "tournament": "UEFA Champions League",
-          "logo_nha": "https://media.api-sports.io/football/teams/632.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/7808.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/632.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f0acd7852b60",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f0acd7852b60",
-                  "name": "Universitatea Craiova vs Ml Vitebsk",
-                  "streams": [
-                    {
-                      "id": "kaytee-f0acd7852b60",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f0808a50d6",
-                          "name": "BLV TÁO GIÀ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxl1gr3domtzgwzdrpjufa3dnp3pqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=27245cc462840e68ab7110ab-178414328942968&wsIPSercert=b847b99e1ff9a8f65d9b5a786b22741b&wsBindIP=2&wsserid=1168261015863523075"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-d204bd323063",
-          "name": "⚽ England vs Argentina | H1 - 20' 0 - 0 02:00 16/07/2026",
+          "name": "⚽ England vs Argentina | H1 - 31' 0 - 0 02:00 16/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/10.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
@@ -99,18 +46,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8019a29678",
+                          "id": "lnk-e403b7ddf9",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxl1gr3domtzgwzdrpjufa3dnp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=3ea4c31d71c5f3367867e9d2-178414329876267&wsIPSercert=b847b99e1ff9a8f65d9b5a786b22741b&wsBindIP=2&wsserid=1168261015854085723"
+                          "url": "https://tfxl1gr3uomttgr31hctwfa3dyctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=cdf90121a2c6159e2513305a-178414387792652&wsIPSercert=ba8946aff3dd26d07d86f09b7929555f&wsBindIP=2&wsserid=1177055146895522364"
                         },
                         {
-                          "id": "lnk-0a125089ff",
+                          "id": "lnk-f15cc7e6ba",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxl1gr3domtzgwzdrpjufa3dnp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=3ea4c31d71c5f3367867e9d2-178414330351377&wsIPSercert=b847b99e1ff9a8f65d9b5a786b22741b&wsBindIP=2&wsserid=1168261015854085723"
+                          "url": "https://tfxl1gr3uomttgr31hctwfa3dyctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=cdf90121a2c6159e2513305a-178414388616164&wsIPSercert=ba8946aff3dd26d07d86f09b7929555f&wsBindIP=2&wsserid=1177055146895522364"
                         }
                       ]
                     }
@@ -471,6 +418,51 @@
                   "streams": [
                     {
                       "id": "kaytee-f9f76b7afb74",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1ecc4a8fd9c0",
+          "name": "⚽ Vestri vs Qarabag | Sắp diễn ra vs 03:00 17/07/2026",
+          "tournament": "UEFA Europa League",
+          "logo_nha": "https://media.api-sports.io/football/teams/4165.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/en/f/fe/Qaraba%C4%9F_FK_logo.svg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4165.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1ecc4a8fd9c0",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1ecc4a8fd9c0",
+                  "name": "Vestri vs Qarabag",
+                  "streams": [
+                    {
+                      "id": "kaytee-1ecc4a8fd9c0",
                       "name": "F",
                       "stream_links": []
                     }
