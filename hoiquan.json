@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "01:31 16/07/2026",
+  "last_updated": "01:41 16/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-f0acd7852b60",
-          "name": "⚽ Universitatea Craiova vs Ml Vitebsk | Giữa Hiệp - 45+2' 0 - 0 00:30 16/07/2026",
+          "name": "⚽ Universitatea Craiova vs Ml Vitebsk | H2 - 52' 0 - 0 00:30 16/07/2026",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://media.api-sports.io/football/teams/632.png",
           "logo_khach": "https://media.api-sports.io/football/teams/7808.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-047a43cb14",
+                          "id": "lnk-e6ec7111a3",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxl1gr3uomttgr31hctwfa3dycbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c5921000f0642845178ac5b7-178414027778137&wsIPSercert=62161579724265881b8ccff6faab79a7&wsBindIP=2&wsserid=1177055146896570971"
+                          "url": "https://tfxl0gr3uomttgr31hcjugazdnct3fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=68548117bd7ad9fd22a51257-178414087053629&wsIPSercert=2fffafa13c0b12331d829206db36baf1&wsBindIP=2&wsserid=1168296017883148150"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-d204bd323063",
-          "name": "⚽ England vs Argentina | Sắp diễn ra vs 02:00 16/07/2026",
+          "name": "⚽ England vs Argentina | Sắp bắt đầu - null' 0 - 0 02:00 16/07/2026",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/10.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,22 @@
                     {
                       "id": "kaytee-d204bd323063",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-f70ae25cb3",
+                          "name": "BLV LƯƠNG BỔNG",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxl0gr3uomttgr31hcjugazdnct3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=1a83b93c11abc376be86ffa9-178414087911935&wsIPSercert=2fffafa13c0b12331d829206db36baf1&wsBindIP=2&wsserid=1168296017929286348"
+                        },
+                        {
+                          "id": "lnk-143ea10235",
+                          "name": "BLV PHAN QUẨY",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfxl0gr3uomttgr31hcjugazdnct3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2b39d23138a34ebd22f39ecb-178414088736825&wsIPSercert=2fffafa13c0b12331d829206db36baf1&wsBindIP=2&wsserid=1168296017919849102"
+                        }
+                      ]
                     }
                   ]
                 }
