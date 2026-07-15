@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "21:50 15/07/2026",
+  "last_updated": "22:01 15/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "kaytee-508eb679ce82",
-          "name": "⚽ Ordabasy vs Altay | Sắp bắt đầu - null' 0 - 0 22:00 15/07/2026",
+          "name": "⚽ Ordabasy vs Altay | Live 0 - 0 22:00 15/07/2026",
           "tournament": "Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/692.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4544.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5685da54fe",
+                          "id": "lnk-bc782419b7",
                           "name": "BLV PHAN ANH",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxl0gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=5b53f9dab67ae6e0f12f2a80-178412706244447&wsIPSercert=5561d8ea2f9373f8dc89da092bb5fc56&wsBindIP=2&wsserid=1168231785641135723"
+                          "url": "https://tfxl0gr3uomttgr31hcj18yzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=aaae0abd345b5c2fc903a945-178412767417856&wsIPSercert=ee7b4f05376ff27617d7bb6dae0af021&wsBindIP=2&wsserid=1168243256660972706"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "kaytee-1adada6ad525",
-          "name": "⚽ Ajax vs Vfl Bochum | Sắp bắt đầu - null' 0 - 0 22:00 15/07/2026",
+          "name": "⚽ Ajax vs Vfl Bochum | Live 0 - 0 22:00 15/07/2026",
           "tournament": "Friendlies Clubs",
           "logo_nha": "https://media.api-sports.io/football/teams/194.png",
           "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/7/72/VfL_Bochum_logo.svg",
@@ -99,58 +99,13 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-48dbec8fca",
+                          "id": "lnk-8d9553a7c1",
                           "name": "BLV TÁO GIÀ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxl0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0c4ee7bcd744bd8c1c1ad777-178412707100883&wsIPSercert=5561d8ea2f9373f8dc89da092bb5fc56&wsBindIP=2&wsserid=1168283323221983365"
+                          "url": "https://tfxl1gr4uqmtt8y41hcjz8rzdeqjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0ab5b71b14aba07355916d00-178412768260627&wsIPSercert=ee7b4f05376ff27617d7bb6dae0af021&wsBindIP=2&wsserid=1168176346315811943"
                         }
                       ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-9f4d17153ba6",
-          "name": "⚽ Jippo vs Mp | Sắp diễn ra vs 22:30 15/07/2026",
-          "tournament": "Ykkösliiga",
-          "logo_nha": "https://media.api-sports.io/football/teams/9172.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/9175.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/9172.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-9f4d17153ba6",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-9f4d17153ba6",
-                  "name": "Jippo vs Mp",
-                  "streams": [
-                    {
-                      "id": "kaytee-9f4d17153ba6",
-                      "name": "F",
-                      "stream_links": []
                     }
                   ]
                 }
@@ -464,6 +419,51 @@
                   "streams": [
                     {
                       "id": "kaytee-90ebfe7381b9",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-558ff1327955",
+          "name": "⚽ Ilves vs Fc Differdange 03 | Sắp diễn ra vs 23:00 16/07/2026",
+          "tournament": "UEFA Europa Conference League",
+          "logo_nha": "https://media.api-sports.io/football/teams/1163.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/684.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1163.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-558ff1327955",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-558ff1327955",
+                  "name": "Ilves vs Fc Differdange 03",
+                  "streams": [
+                    {
+                      "id": "kaytee-558ff1327955",
                       "name": "F",
                       "stream_links": []
                     }
