@@ -1,7 +1,7 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:11 16/07/2026",
+  "last_updated": "04:21 16/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,110 +46,20 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f408bb4277",
+                          "id": "lnk-e37c61b310",
                           "name": "BLV LƯƠNG BỔNG",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxl0gr3uomttgr31hcjugazdnct3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=67bc7ef081689fd0aaa85653-178414990017924&wsIPSercert=0c6407038a37b34989ab4afa78306ec3&wsBindIP=2&wsserid=1168296017892585396"
+                          "url": "https://tfxl0gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=4eebb5598527ca969d49331d-178415047964950&wsIPSercert=9e22bc4363c2caaf682965891ae7c3ce&wsBindIP=2&wsserid=1168231589594887503"
                         },
                         {
-                          "id": "lnk-e79fbffaf6",
+                          "id": "lnk-1a416a02a7",
                           "name": "BLV PHAN QUẨY",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxl0gr3uomttgr31hcjugazdnct3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=67bc7ef081689fd0aaa85653-178414990802219&wsIPSercert=0c6407038a37b34989ab4afa78306ec3&wsBindIP=2&wsserid=1168296017892585396"
+                          "url": "https://tfxl0gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=4eebb5598527ca969d49331d-178415048777159&wsIPSercert=9e22bc4363c2caaf682965891ae7c3ce&wsBindIP=2&wsserid=1168231589594887503"
                         }
                       ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-9fd180da5c67",
-          "name": "⚽ Universidad Catolica vs Ldu De Quito | Sắp diễn ra vs 05:00 16/07/2026",
-          "tournament": "Liga Pro",
-          "logo_nha": "https://media.api-sports.io/football/teams/1157.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/e/e8/LDUQuitologo2.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1157.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-9fd180da5c67",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-9fd180da5c67",
-                  "name": "Universidad Catolica vs Ldu De Quito",
-                  "streams": [
-                    {
-                      "id": "kaytee-9fd180da5c67",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-fc7af636312e",
-          "name": "⚽ Barcelona Sc vs Guayaquil City Fc | Sắp diễn ra vs 07:30 16/07/2026",
-          "tournament": "Liga Pro",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6hNPeVCelmVhF22CQYOiEe215iOTJF3Lm7A&s",
-          "logo_khach": "https://media.api-sports.io/football/teams/1159.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6hNPeVCelmVhF22CQYOiEe215iOTJF3Lm7A&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-fc7af636312e",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-fc7af636312e",
-                  "name": "Barcelona Sc vs Guayaquil City Fc",
-                  "streams": [
-                    {
-                      "id": "kaytee-fc7af636312e",
-                      "name": "F",
-                      "stream_links": []
                     }
                   ]
                 }
@@ -463,6 +373,96 @@
                   "streams": [
                     {
                       "id": "kaytee-1ecc4a8fd9c0",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-46f0145ec88a",
+          "name": "⚽ Necaxa vs Atlante Fc | Sắp diễn ra vs 08:00 17/07/2026",
+          "tournament": "Liga MX",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Club_Necaxa_Logo.svg",
+          "logo_khach": "https://media.api-sports.io/football/teams/2312.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Club_Necaxa_Logo.svg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-46f0145ec88a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-46f0145ec88a",
+                  "name": "Necaxa vs Atlante Fc",
+                  "streams": [
+                    {
+                      "id": "kaytee-46f0145ec88a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-eaa4f39b484b",
+          "name": "⚽ Club Tijuana vs Tigres Uanl | Sắp diễn ra vs 10:10 17/07/2026",
+          "tournament": "Liga MX",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Club_Tijuana_logo.svg/250px-Club_Tijuana_logo.svg.png",
+          "logo_khach": "https://i.pinimg.com/736x/25/76/86/257686e35e7375f804611f90b6d65e68.jpg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Club_Tijuana_logo.svg/250px-Club_Tijuana_logo.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-eaa4f39b484b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-eaa4f39b484b",
+                  "name": "Club Tijuana vs Tigres Uanl",
+                  "streams": [
+                    {
+                      "id": "kaytee-eaa4f39b484b",
                       "name": "F",
                       "stream_links": []
                     }
