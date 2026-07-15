@@ -1,72 +1,12 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "04:21 16/07/2026",
+  "last_updated": "04:31 16/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
-        {
-          "id": "kaytee-d204bd323063",
-          "name": "⚽ England vs Argentina | H2 - 90+12' 1 - 2 02:00 16/07/2026",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/10.png",
-          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-d204bd323063",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-d204bd323063",
-                  "name": "England vs Argentina",
-                  "streams": [
-                    {
-                      "id": "kaytee-d204bd323063",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e37c61b310",
-                          "name": "BLV LƯƠNG BỔNG",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxl0gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=4eebb5598527ca969d49331d-178415047964950&wsIPSercert=9e22bc4363c2caaf682965891ae7c3ce&wsBindIP=2&wsserid=1168231589594887503"
-                        },
-                        {
-                          "id": "lnk-1a416a02a7",
-                          "name": "BLV PHAN QUẨY",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfxl0gr4uqmtt8y41hcjsgyzdnpbufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=4eebb5598527ca969d49331d-178415048777159&wsIPSercert=9e22bc4363c2caaf682965891ae7c3ce&wsBindIP=2&wsserid=1168231589594887503"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "kaytee-92632fe8cbca",
           "name": "⚽ Thimphu vs Paro | Sắp diễn ra vs 19:00 16/07/2026",
@@ -463,6 +403,51 @@
                   "streams": [
                     {
                       "id": "kaytee-eaa4f39b484b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-006261b77e8d",
+          "name": "⚽ Sydney Fc U20 vs Manly Utd U20 | Sắp diễn ra vs 14:30 17/07/2026",
+          "tournament": "Npl Nsw U20",
+          "logo_nha": "https://media.api-sports.io/football/teams/27811.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/27803.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/27811.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-006261b77e8d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-006261b77e8d",
+                  "name": "Sydney Fc U20 vs Manly Utd U20",
+                  "streams": [
+                    {
+                      "id": "kaytee-006261b77e8d",
                       "name": "F",
                       "stream_links": []
                     }
