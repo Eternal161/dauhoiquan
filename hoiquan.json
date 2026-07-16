@@ -1,14 +1,59 @@
 {
   "id": "hoiquan",
   "name": "Hội Quán TV",
-  "last_updated": "13:30 16/07/2026",
+  "last_updated": "13:40 16/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá",
       "channels": [
         {
-          "id": "kaytee-92632fe8cbca",
+          "id": "kaytee-2b333abbe4cd",
+          "name": "⚽ Indonesia W vs Cambodia W | Sắp diễn ra vs 15:45 16/07/2026",
+          "tournament": "Asean Championship Women",
+          "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/500px-Flag_of_Indonesia.svg.png",
+          "logo_khach": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/500px-Flag_of_Cambodia.svg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/500px-Flag_of_Indonesia.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-2b333abbe4cd",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-2b333abbe4cd",
+                  "name": "Indonesia W vs Cambodia W",
+                  "streams": [
+                    {
+                      "id": "kaytee-2b333abbe4cd",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-afc659f42b4f",
           "name": "⚽ Thimphu vs Paro | Sắp diễn ra vs 19:00 16/07/2026",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/5591.png",
@@ -34,15 +79,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-92632fe8cbca",
+              "id": "kaytee-afc659f42b4f",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-92632fe8cbca",
+                  "id": "kaytee-afc659f42b4f",
                   "name": "Thimphu vs Paro",
                   "streams": [
                     {
-                      "id": "kaytee-92632fe8cbca",
+                      "id": "kaytee-afc659f42b4f",
                       "name": "F",
                       "stream_links": []
                     }
@@ -98,7 +143,7 @@
           ]
         },
         {
-          "id": "kaytee-90ebfe7381b9",
+          "id": "kaytee-7d3cfc128a1e",
           "name": "⚽ Inter Turku vs Fk Sarajevo | Sắp diễn ra vs 22:00 16/07/2026",
           "tournament": "UEFA Europa Conference League",
           "logo_nha": "https://media.api-sports.io/football/teams/1164.png",
@@ -124,15 +169,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-90ebfe7381b9",
+              "id": "kaytee-7d3cfc128a1e",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-90ebfe7381b9",
+                  "id": "kaytee-7d3cfc128a1e",
                   "name": "Inter Turku vs Fk Sarajevo",
                   "streams": [
                     {
-                      "id": "kaytee-90ebfe7381b9",
+                      "id": "kaytee-7d3cfc128a1e",
                       "name": "F",
                       "stream_links": []
                     }
@@ -403,51 +448,6 @@
                   "streams": [
                     {
                       "id": "kaytee-eaa4f39b484b",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-006261b77e8d",
-          "name": "⚽ Sydney Fc U20 vs Manly Utd U20 | Sắp diễn ra vs 14:30 17/07/2026",
-          "tournament": "Npl Nsw U20",
-          "logo_nha": "https://media.api-sports.io/football/teams/27811.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/27803.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/27811.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-006261b77e8d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-006261b77e8d",
-                  "name": "Sydney Fc U20 vs Manly Utd U20",
-                  "streams": [
-                    {
-                      "id": "kaytee-006261b77e8d",
                       "name": "F",
                       "stream_links": []
                     }
